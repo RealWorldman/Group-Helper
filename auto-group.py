@@ -1,3 +1,5 @@
+import os
+
 import discord
 from discord.ext import commands
 
@@ -9,8 +11,7 @@ intents.messages = True
 
 # Initialize the bot
 bot = commands.Bot(command_prefix='!', intents=intents)
-token = ''  # Replace with your actual bot token
-
+token = os.getenv("DISCORD_TOKEN")  # Replace with your actual bot token
 
 @bot.event
 async def on_ready():
@@ -59,26 +60,32 @@ async def on_guild_channel_delete(channel):
 
 async def define_channel_pos(category):
     channel_lst = []
-    for channel in channel_lst:
+    for channel in category.channels:
         if channel.name.startswith("│ Group"):
             channel_lst.append(channel)
     print(channel_lst)
 
 
-async def order_channels():
+async def order_channels(category):
     # Get a list of channels.
     guild = next(iter(bot.guilds), None)  # Assuming the bot is in only one guild for simplicity
     if not guild:
         return
 
     channel_lst = []
-    for channel in guild.channels:
-        if channel.type == discord.ChannelType.voice:
+    for channel in category.channels:
+        if channel.type == discord.ChannelType.voice and channel.name.startswith("│ Group"):
             channel_lst.append(channel)
 
 
     # Sort channels by their current position.
     channels_ordered = channel_lst.sort(key=lambda x: x.position)
+    channel_count = len(channels_ordered)
+    channel_numbers = list(range(1, channel_count + 1))
+    channel_extracted_nums = [channel.name.split("│ Group")[1] for channel in channels_ordered]
+
+
+
 
     # Re-sort channels to support auto-grouping and maximum voice quality.
     current_position = 100
