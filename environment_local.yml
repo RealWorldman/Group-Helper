@@ -1,6 +1,8 @@
+name: discord
 channels:
   - conda-forge
 dependencies:
   - python=3.11
   - discord.py==2.3.2
   - google-cloud-secret-manager==2.23.0
+prefix: D:\Programs\miniconda3\envs\discord
