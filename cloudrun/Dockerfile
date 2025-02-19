@@ -1,14 +1,14 @@
-# Use the official Conda base image
-FROM continuumio/miniconda3
+# Use the official Python base image
+FROM python:3.11-slim
 
 # Set the working directory
 WORKDIR /app
 
-# Copy the environment.yml file into the Docker image
-COPY environment.yml .
+# Copy the requirements.txt file into the Docker image
+COPY requirements.txt .
 
-# Install the Conda environment
-RUN conda env update -f environment.yml
+# Install the Python dependencies
+RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy the application code into the Docker image
 COPY . .
