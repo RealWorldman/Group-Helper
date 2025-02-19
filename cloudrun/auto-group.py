@@ -1,7 +1,7 @@
 import os
 import discord
 from discord.ext import commands
-from utils.secrets import access_secret_version
+from utils.secrets import access_secret_version, GCP_PROJECT
 
 # Define intents
 intents = discord.Intents.default()
@@ -10,7 +10,7 @@ intents.guilds = True
 intents.messages = True
 
 # Fetch the token from the secret manager
-GCP_PROJECT = "wow-api-441714"
+GCP_PROJECT = os.getenv(GCP_PROJECT)
 token = access_secret_version(GCP_PROJECT, "discord-token")
 
 # Initialize the bot
