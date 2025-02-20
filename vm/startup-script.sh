@@ -25,5 +25,7 @@ conda env create -f environment.yml
 # Activate the environment
 conda activate discord
 
+export GCP_PROJECT=${PROJECT_ID}
+
 # Run the application
 python3 auto-group.py
