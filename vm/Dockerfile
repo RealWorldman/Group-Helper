@@ -13,8 +13,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the application code into the Docker image
 COPY . .
 
-# Expose the port the app runs on
-EXPOSE 8080
-
-# Set the entry point for the application
+# Since your bot doesn't need to bind to a port, use CMD to run the bot
 CMD ["python", "auto-group.py"]
