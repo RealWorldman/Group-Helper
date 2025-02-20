@@ -17,10 +17,10 @@ source $HOME/miniconda/etc/profile.d/conda.sh
 git clone https://github.com/RealWorldman/Group-Helper.git /home/$USER/Group-Helper
 
 # Navigate to the project directory
-cd /home/$USER/Group-Helper
+cd /home/$USER/Group-Helper/vm
 
 # Create the conda environment
-conda env create -f vm/environment.yml
+conda env create -f environment.yml
 
 # Activate the environment
 conda activate discord
