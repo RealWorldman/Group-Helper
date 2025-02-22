@@ -12,7 +12,8 @@ intents.messages = True
 # Fetch the token from the secret manager
 GCP_PROJECT = os.getenv("GCP_PROJECT")
 print(GCP_PROJECT)
-token = access_secret_version(GCP_PROJECT, "discord-token")
+token = access_secret_version(project_id=GCP_PROJECT, secret_id="discord-token")
+
 
 # Initialize the bot
 bot = commands.Bot(command_prefix='!', intents=intents)
