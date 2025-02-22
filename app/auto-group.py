@@ -1,7 +1,13 @@
 import os
 import discord
+import logging
 from discord.ext import commands
 from utils.secrets import access_secret_version
+
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
 
 # Define intents
 intents = discord.Intents.default()
@@ -11,7 +17,7 @@ intents.messages = True
 
 # Fetch the token from the secret manager
 GCP_PROJECT = os.getenv("GCP_PROJECT")
-print(GCP_PROJECT)
+logging.info(f'GCP Project: {GCP_PROJECT}')
 token = access_secret_version(project_id=GCP_PROJECT, secret_id="discord-token")
 
 
@@ -21,7 +27,7 @@ trigger_sign = '🎧'
 
 @bot.event
 async def on_ready():
-    print(f'[{discord.utils.utcnow()}] Connected!')
+    logging.info(f'[{discord.utils.utcnow()}] Connected!')
     await bot.change_presence(status=discord.Status.online)
 
 
@@ -34,12 +40,12 @@ async def on_voice_state_update(member, before, after):
             created_channel = await after.channel.clone(name=f'│ Gruppe {num_str}', reason="Auto-grouping")
             await created_channel.edit(position=new_pos, reason="Auto-grouping")
             await member.move_to(created_channel, reason="Auto-grouping")
-            print(f'[{discord.utils.utcnow()}] Moved user "{member.name}" ({member.id}) to voice channel "{created_channel.name}" ({created_channel.id}) at position {created_channel.position}')
+            logging.info(f'[{discord.utils.utcnow()}] Moved user "{member.name}" ({member.id}) to voice channel "{created_channel.name}" ({created_channel.id}) at position {created_channel.position}')
 
     if before.channel:
         if before.channel.name.startswith('│ Gruppe') and not before.channel.members:
             await before.channel.delete(reason="Empty group channel")
-            print(f'[{discord.utils.utcnow()}] Deleted voice channel "{before.channel.name}" ({before.channel.id})')
+            logging.info(f'[{discord.utils.utcnow()}] Deleted voice channel "{before.channel.name}" ({before.channel.id})')
 
 
 async def get_grp_channels(category):
