@@ -1,6 +1,6 @@
 runtime: python311
 
-entrypoint: python3 auto_group.py  # Replace with your bot's entry point script
+entrypoint: python3 auto-group.py  # Replace with your bot's entry point script
 
 env_variables:
   GCP_PROJECT: '${_PROJECT_ID}'
