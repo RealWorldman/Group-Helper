@@ -1,0 +1,12 @@
+steps:
+  - name: 'gcr.io/cloud-builders/gcloud'
+    env:
+      - 'PROJECT_ID=${PROJECT_ID}'
+    args: [
+      'compute', 'instances', 'create', 'group-helper-vm',
+      '--zone', 'europe-west6-b',
+      '--machine-type', 'n1-standard-1',
+      '--metadata-from-file', 'startup-script=startup-script_vm.sh',
+      '--tags', 'http-server,https-server',
+      '--scopes', 'https://www.googleapis.com/auth/cloud-platform'
+    ]
