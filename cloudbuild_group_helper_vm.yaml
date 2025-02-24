@@ -3,7 +3,7 @@ steps:
     args: [
       'compute', 'instances', 'create', 'group-helper-app-vm',
       '--zone', 'europe-west6-b',
-      '--machine-type', 'n1-standard-1',
+      '--machine-type', 'e2-micro',
       '--metadata-from-file', 'startup-script=startup-script_vm.sh',
       '--tags', 'http-server,https-server',
       '--scopes', 'https://www.googleapis.com/auth/cloud-platform'
