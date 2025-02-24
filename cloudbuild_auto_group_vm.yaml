@@ -6,7 +6,7 @@ steps:
       'compute', 'instances', 'create', 'auto-group-app-vm',
       '--zone', 'europe-west6-b',
       '--machine-type', 'e2-micro',
-      '--metadata-from-file', 'startup-script=startup-script_vm.sh',
+      '--metadata-from-file', 'startup-script=startup-script_vm_pip.sh',
       '--tags', 'http-server,https-server',
       '--scopes', 'https://www.googleapis.com/auth/cloud-platform'
     ]
