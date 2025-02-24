@@ -20,9 +20,6 @@ intents.messages = True
 GCP_PROJECT = os.getenv("GCP_PROJECT")
 logging.info(f'GCP Project: {GCP_PROJECT}')
 token = access_secret_version(project_id=GCP_PROJECT, secret_id="discord-group-helper-app-token")
-# TOKEN = os.getenv("DISCORD_TOKEN")
-GUILD_ID = os.getenv("GUILD_ID")
-guild_id = discord.Object(id=GUILD_ID)
 utc_plus_one = timezone(timedelta(hours=1))
 delete_delay = 24
 
@@ -67,7 +64,7 @@ async def delete_channel(base_channel: TextChannel, new_channel: TextChannel, cr
     await base_channel.send(f"The channel {new_channel.name} has been deleted.")
 
 
-@bot.tree.command(name="group-event", guild=guild_id) # guild=guild_id
+@bot.tree.command(name="group-event") # guild=guild_id
 async def group_event(interaction: Interaction, date: str, time: str, title: str, desc: str):
     channel = interaction.channel
     user_id = str(interaction.user.id)
@@ -92,11 +89,13 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
 async def on_ready():
     logging.info(f'[{discord.utils.utcnow()}] Connected!')
 
-    try:
-        synced = await bot.tree.sync(guild=guild_id) # guild=guild_id
-        logging.info(f'Synced {len(synced)} commands to guild {guild_id.id}')
-    except Exception as e:
-        logging.warning(f'Error syncing commands: {e}')
+    # GUILD_ID = os.getenv("GUILD_ID")
+    # guild_id = discord.Object(id=GUILD_ID)
+    # try:
+    #     synced = await bot.tree.sync() # guild=guild_id
+    #     logging.info(f'Synced {len(synced)} commands to guild {guild_id.id}')
+    # except Exception as e:
+    #     logging.warning(f'Error syncing commands: {e}')
 
     await bot.change_presence(status=discord.Status.online)
 
