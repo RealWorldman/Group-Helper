@@ -1,7 +1,5 @@
 steps:
   - name: 'gcr.io/cloud-builders/gcloud'
-    env:
-      - 'PROJECT_ID=${PROJECT_ID}'
     args: [
       'compute', 'instances', 'create', 'auto-group-app-vm',
       '--zone', 'europe-west6-b',
