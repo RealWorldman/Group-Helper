@@ -5,8 +5,10 @@
 sudo apt-get update
 sudo apt-get install -y wget git python3-pip python3-venv
 
+git clone https://github.com/RealWorldman/Group-Helper.git /home/$USER/Group-Helper
+
 # Navigate to the project directory
-cd /home/$USER/Group-Helper/auto-group-app
+cd auto-group-app
 
 # Create a virtual environment
 python3 -m venv venv
