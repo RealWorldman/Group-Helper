@@ -26,6 +26,7 @@ raid_helper_api_key = access_secret_version(project_id=GCP_PROJECT, secret_id="r
 TOKEN = os.getenv("DISCORD_TOKEN")
 GUILD_ID = os.getenv("GUILD_ID")
 guild_id = discord.Object(id=GUILD_ID)
+utc_plus_one = timezone(timedelta(hours=1))
 
 # Initialize the bot
 bot = commands.Bot(command_prefix='!', intents=intents)
@@ -82,7 +83,8 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
     channel = interaction.channel
     user_id = str(interaction.user.id)
     date_time = datetime.strptime(f'{date} {time}', '%Y-%m-%d %H:%M')
-    if (date_time - datetime.now(timezone(timedelta(hours=1)))).total_seconds() >= 0:
+    date_time = date_time.replace(tzinfo=utc_plus_one)
+    if (date_time - datetime.now(utc_plus_one)).total_seconds() >= 0:
         await interaction.response.send_message("Gruppen Event liegt in der Vergangenheit!")
     date_time_short = datetime.strftime(date_time, '%d-%m-%y')
     new_channel = await channel.clone(name=f"{date_time_short}-{title}", reason="Group-Event")
