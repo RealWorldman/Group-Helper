@@ -33,7 +33,7 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 trigger_sign = '🎧'
 
 
-async def create_group_event(channel: TextChannel, user_id: str, date: str, time: str, title: str):
+async def create_group_event(channel: TextChannel, user_id: str, date: str, time: str, title: str, desc: str):
     server_id = channel.guild.id
     channel_id = channel.id
     url = f'https://raid-helper.dev/api/v2/servers/{server_id}/channels/{channel_id}/event'
@@ -46,7 +46,8 @@ async def create_group_event(channel: TextChannel, user_id: str, date: str, time
         'templateId': 2,
         'date': date,
         'time': time,
-        'title': title
+        'title': title,
+        'description': desc
     }
     async with aiohttp.ClientSession() as session:
         try:
@@ -66,6 +67,7 @@ async def delete_channel(base_channel: TextChannel, new_channel: TextChannel, cr
     await new_channel.delete()
     await base_channel.send(f"The channel {new_channel.name} has been deleted.")
 
+
 @bot.event
 async def on_ready():
     logging.info(f'[{discord.utils.utcnow()}] Connected!')
@@ -78,22 +80,24 @@ async def on_ready():
 
     await bot.change_presence(status=discord.Status.online)
 
+
 @bot.tree.command(name="group-event", guild=guild_id)
-async def group_event(interaction: Interaction, date: str, time: str, title: str):
+async def group_event(interaction: Interaction, date: str, time: str, title: str, desc: str):
     channel = interaction.channel
     user_id = str(interaction.user.id)
     date_time = datetime.strptime(f'{date} {time}', '%Y-%m-%d %H:%M')
     date_time = date_time.replace(tzinfo=utc_plus_one)
-    if (date_time - datetime.now(utc_plus_one)).total_seconds() >= 0:
+    if (datetime.now(utc_plus_one) - date_time).total_seconds() >= 0:
         await interaction.response.send_message("Gruppen Event liegt in der Vergangenheit!")
-    date_time_short = datetime.strftime(date_time, '%d-%m-%y')
-    new_channel = await channel.clone(name=f"{date_time_short}-{title}", reason="Group-Event")
-    response = await create_group_event(new_channel, user_id, date, time, title)
-    if response.status == 200:
-        await interaction.response.send_message("Gruppen Event erstellt!")
     else:
-        await interaction.response.send_message("Gruppen Event konnte nicht erstellt werden!")
-    await delete_channel(channel, new_channel, date_time)
+        date_time_short = datetime.strftime(date_time, '%d-%m-%Y')
+        new_channel = await channel.clone(name=f"{title}-{date_time_short}", reason="Group-Event")
+        response = await create_group_event(new_channel, user_id, date, time, title, desc)
+        if response.status == 200:
+            await interaction.response.send_message("Gruppen Event erstellt!")
+        else:
+            await interaction.response.send_message("Gruppen Event konnte nicht erstellt werden!")
+        await delete_channel(channel, new_channel, date_time)
 
 # Run the bot with your token
 bot.run(TOKEN)
