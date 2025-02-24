@@ -3,7 +3,7 @@
 
 # Update and install necessary packages
 sudo apt-get update
-sudo apt-get install -y wget git
+sudo apt-get install -y wget git python3-pip
 
 # Clone the repository
 git clone https://github.com/RealWorldman/Group-Helper.git /home/$USER/Group-Helper
