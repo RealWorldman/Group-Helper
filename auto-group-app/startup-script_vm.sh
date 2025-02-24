@@ -17,7 +17,7 @@ source $HOME/miniconda/etc/profile.d/conda.sh
 git clone https://github.com/RealWorldman/Group-Helper.git /home/$USER/Group-Helper
 
 # Navigate to the project directory
-cd /home/$USER/Group-Helper/app
+cd /home/$USER/Group-Helper/auto-group-app
 
 # Create the conda environment
 conda env create -f environment.yml

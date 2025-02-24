@@ -1,5 +1,3 @@
-import json
-import requests
 from google.cloud import secretmanager
 
 def access_secret_version(project_id, secret_id, version_id="latest"):
