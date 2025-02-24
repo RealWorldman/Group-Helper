@@ -1,15 +1,17 @@
-import discord
-
+import requests
+import json
 import os
 import discord
+from discord import TextChannel, Interaction
 import logging
+import asyncio
+import aiohttp
 from discord.ext import commands
-from discord import app_commands
 from utils.secrets import access_secret_version
+from datetime import datetime, timedelta, timezone
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
 
 # Define intents
 intents = discord.Intents.default()
@@ -19,7 +21,8 @@ intents.messages = True
 # Fetch the token from the secret manager
 GCP_PROJECT = os.getenv("GCP_PROJECT")
 logging.info(f'GCP Project: {GCP_PROJECT}')
-# token = access_secret_version(project_id=GCP_PROJECT, secret_id="discord-token")
+token = access_secret_version(project_id=GCP_PROJECT, secret_id="discord-token")
+raid_helper_api_key = access_secret_version(project_id=GCP_PROJECT, secret_id="raid-helper-api-key-stressless")
 TOKEN = os.getenv("DISCORD_TOKEN")
 GUILD_ID = os.getenv("GUILD_ID")
 guild_id = discord.Object(id=GUILD_ID)
@@ -28,22 +31,39 @@ guild_id = discord.Object(id=GUILD_ID)
 bot = commands.Bot(command_prefix='!', intents=intents)
 trigger_sign = '🎧'
 
-async def get_raid_helper_api_key():
-    api_key = os.getenv("RAID_HELPER_API_KEY")
-    return api_key
 
-
-async def create_group_event(channel):
+async def create_group_event(channel: TextChannel, user_id: str, date: str, time: str, title: str):
     server_id = channel.guild.id
     channel_id = channel.id
-    api_key = await get_raid_helper_api_key()
     url = f'https://raid-helper.dev/api/v2/servers/{server_id}/channels/{channel_id}/event'
     headers = {
-        'Authorization': f'Bearer {api_key}'
+        'Authorization': raid_helper_api_key,
+        'Content-Type': 'application/json;charset=utf-8'
     }
-    #
-    # response = requests.get(url, headers=headers)
+    details_event = {
+        'leaderId': user_id,
+        'templateId': 2,
+        'date': date,
+        'time': time,
+        'title': title
+    }
+    async with aiohttp.ClientSession() as session:
+        try:
+            async with session.post(url, headers=headers, json=details_event) as response:
+                response.raise_for_status()  # Will raise an HTTPError for bad responses
+                return response
+        except aiohttp.ClientError as e:
+            logging.error(f"Error during API request: {e}")
+            await channel.send("There was an error while creating the event.")
 
+
+async def delete_channel(base_channel: TextChannel, new_channel: TextChannel, created_time):
+    delete_time = created_time + timedelta(days=1)
+    delay = (delete_time - created_time).total_seconds()
+    await base_channel.send(f"The channel {new_channel.name} will be deleted at {delete_time.strftime('%Y-%m-%d %H:%M')}.")
+    await asyncio.sleep(delay)
+    await new_channel.delete()
+    await base_channel.send(f"The channel {new_channel.name} has been deleted.")
 
 @bot.event
 async def on_ready():
@@ -57,16 +77,21 @@ async def on_ready():
 
     await bot.change_presence(status=discord.Status.online)
 
-# Slash Command: /ping
-@bot.tree.command(name="ping", guild=guild_id)
-async def ping(interaction: discord.Interaction):
-    await interaction.response.send_message('Pong!')
-
-# Slash Command: /hello
-@bot.tree.command(name="hello", guild=guild_id)
-async def hello(interaction: discord.Interaction):
-    await interaction.response.send_message(f"Hello {interaction.user.name}, how's it going?")
-
+@bot.tree.command(name="group-event", guild=guild_id)
+async def group_event(interaction: Interaction, date: str, time: str, title: str):
+    channel = interaction.channel
+    user_id = str(interaction.user.id)
+    date_time = datetime.strptime(f'{date} {time}', '%Y-%m-%d %H:%M')
+    if (date_time - datetime.now(timezone(timedelta(hours=1)))).total_seconds() >= 0:
+        await interaction.response.send_message("Gruppen Event liegt in der Vergangenheit!")
+    date_time_short = datetime.strftime(date_time, '%d-%m-%y')
+    new_channel = await channel.clone(name=f"{date_time_short}-{title}", reason="Group-Event")
+    response = await create_group_event(new_channel, user_id, date, time, title)
+    if response.status == 200:
+        await interaction.response.send_message("Gruppen Event erstellt!")
+    else:
+        await interaction.response.send_message("Gruppen Event konnte nicht erstellt werden!")
+    await delete_channel(channel, new_channel, date_time)
 
 # Run the bot with your token
 bot.run(TOKEN)
