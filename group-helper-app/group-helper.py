@@ -27,10 +27,10 @@ try:
     GCP_PROJECT = os.getenv("GCP_PROJECT", False)
     if GCP_PROJECT:
         logging.info(f'GCP Project: {GCP_PROJECT}')
-        token = access_secret_version(project_id=GCP_PROJECT, secret_id="discord-auto-group-app-token")
+        token = access_secret_version(project_id=GCP_PROJECT, secret_id="discord-group-helper-app-token")
     else:
         logging.info("LOCAL")
-        token = os.getenv("DISCORD_TOKEN", False)
+        token = os.getenv("DISCORD_TOKEN_RGH", False)
         if not token:
             logging.error("NO TOKEN")
             raise ValueError()
