@@ -24,9 +24,16 @@ trigger_sign = '🎧'
 
 # Fetch the token from the secret manager
 try:
-    GCP_PROJECT = os.getenv("GCP_PROJECT")
-    logging.info(f'GCP Project: {GCP_PROJECT}')
-    token = access_secret_version(project_id=GCP_PROJECT, secret_id="discord-group-helper-app-token")
+    GCP_PROJECT = os.getenv("GCP_PROJECT", False)
+    if GCP_PROJECT:
+        logging.info(f'GCP Project: {GCP_PROJECT}')
+        token = access_secret_version(project_id=GCP_PROJECT, secret_id="discord-auto-group-app-token")
+    else:
+        logging.info("LOCAL")
+        token = os.getenv("TOKEN_DISCORD_AUTO_GROUP", False)
+        if not token:
+            logging.error("NO TOKEN")
+            raise ValueError()
 except Exception as e:
     logging.error(f"Failed to fetch the token: {e}")
     raise
