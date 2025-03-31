@@ -42,7 +42,14 @@ async def create_group_event(channel: TextChannel, user_id: str, date: str, time
     try:
         server_id = channel.guild.id
         channel_id = channel.id
-        raid_helper_api_key = access_secret_version(project_id=GCP_PROJECT, secret_id=f"rhak-{server_id}")
+        if GCP_PROJECT:
+            raid_helper_api_key = access_secret_version(project_id=GCP_PROJECT, secret_id=f"rhak-{server_id}")
+        else:
+            try:
+                raid_helper_api_key = os.getenv("RAID_HELPER_API_KEY")
+            except ValueError as e:
+                logging.error(f"Failed to fetch the token: {e}")
+                raise e
         url = f'https://raid-helper.dev/api/v2/servers/{server_id}/channels/{channel_id}/event'
         headers = {
             'Authorization': raid_helper_api_key,
