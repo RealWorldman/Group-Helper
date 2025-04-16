@@ -5,7 +5,8 @@ import logging
 import asyncio
 import aiohttp
 from discord.ext import commands
-from utils.secrets import access_secret_version
+
+from utils.secrets import get_raid_helper_api_key, get_discord_token
 from datetime import datetime, timedelta, timezone
 
 # Configure logging
@@ -21,35 +22,18 @@ delete_delay = 24
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 trigger_sign = '🎧'
+GCP_PROJECT = os.getenv("GCP_PROJECT", False)
+secrets_path = os.getenv("SECRETS_PATH", False)
 
-# Fetch the token from the secret manager
-try:
-    GCP_PROJECT = os.getenv("GCP_PROJECT", False)
-    if GCP_PROJECT:
-        logging.info(f'GCP Project: {GCP_PROJECT}')
-        token = access_secret_version(project_id=GCP_PROJECT, secret_id="discord-group-helper-app-token")
-    else:
-        logging.info("LOCAL")
-        token = os.getenv("DISCORD_TOKEN_RGH", False)
-        if not token:
-            logging.error("NO TOKEN")
-            raise ValueError()
-except Exception as e:
-    logging.error(f"Failed to fetch the token: {e}")
-    raise
+token = get_discord_token(GCP_PROJECT, "discord-group-helper-app-token", secrets_path)
 
 async def create_group_event(channel: TextChannel, user_id: str, date: str, time: str, title: str, desc: str):
     try:
         server_id = channel.guild.id
         channel_id = channel.id
-        if GCP_PROJECT:
-            raid_helper_api_key = access_secret_version(project_id=GCP_PROJECT, secret_id=f"rhak-{server_id}")
-        else:
-            try:
-                raid_helper_api_key = os.getenv("RAID_HELPER_API_KEY")
-            except ValueError as e:
-                logging.error(f"Failed to fetch the token: {e}")
-                raise e
+        raid_helper_api_key = get_raid_helper_api_key(project_id=GCP_PROJECT,
+                                                      secret_id=f"rhak-{server_id}",
+                                                      json_path=secrets_path)
         url = f'https://raid-helper.dev/api/v2/servers/{server_id}/channels/{channel_id}/event'
         headers = {
             'Authorization': raid_helper_api_key,
