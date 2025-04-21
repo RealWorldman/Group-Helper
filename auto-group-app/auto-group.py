@@ -12,7 +12,6 @@ intents = discord.Intents.default()
 intents.voice_states = True
 intents.guilds = True
 intents.messages = True
-intents.message_content = True
 
 # Initialize the bot
 bot = commands.Bot(command_prefix='!', intents=intents)
@@ -20,7 +19,7 @@ trigger_sign = '🎧'
 GCP_PROJECT = os.getenv("GCP_PROJECT", False)
 secrets_path = os.getenv("SECRETS_PATH", False)
 
-token = get_discord_token(GCP_PROJECT, "discord-group-helper-app-token", secrets_path)
+token = get_discord_token(GCP_PROJECT, "discord-auto-group-app-token", secrets_path)
 
 @bot.event
 async def on_ready():
