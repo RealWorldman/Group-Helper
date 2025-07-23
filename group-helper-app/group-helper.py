@@ -24,13 +24,13 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 trigger_sign = '🎧'
 GCP_PROJECT = os.getenv("GCP_PROJECT", False)
 secrets_path = os.getenv("SECRETS_PATH", False)
-DEBUG = True
+DEBUG = False
 if DEBUG:
     guild_id = 1307336750661632121 #721276314065305662 Epilog: 1307336750661632121
     guild_obj = discord.Object(id=guild_id)
 else:
     guild_id = None
-    guild_obj = discord.Object(id=guild_id)
+    guild_obj = None
 
 token = get_discord_token(GCP_PROJECT, "discord-group-helper-app-token", secrets_path)
 
