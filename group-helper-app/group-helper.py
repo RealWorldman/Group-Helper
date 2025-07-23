@@ -24,11 +24,13 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 trigger_sign = '🎧'
 GCP_PROJECT = os.getenv("GCP_PROJECT", False)
 secrets_path = os.getenv("SECRETS_PATH", False)
-DEBUG = False
+DEBUG = True
 if DEBUG:
-    guild_id = discord.Object(id=721276314065305662)
+    guild_id = 1307336750661632121 #721276314065305662 Epilog: 1307336750661632121
+    guild_obj = discord.Object(id=guild_id)
 else:
     guild_id = None
+    guild_obj = discord.Object(id=guild_id)
 
 token = get_discord_token(GCP_PROJECT, "discord-group-helper-app-token", secrets_path)
 
@@ -76,7 +78,7 @@ async def delete_channel(base_channel: TextChannel, new_channel: TextChannel, cr
         logging.error(f"Failed to delete channel: {e}")
         await base_channel.send(f"Failed to delete the channel {new_channel.name}.")
 
-@bot.tree.command(name="group-event", guild=guild_id) # guild=guild_id
+@bot.tree.command(name="group-event", guild=guild_obj) # guild=guild_id
 async def group_event(interaction: Interaction, date: str, time: str, title: str, desc: str):
     try:
         channel = interaction.channel
@@ -109,7 +111,7 @@ async def on_ready():
     # Synchronisiere die Befehle nur für deine spezifische Guild
     guild = bot.get_guild(guild_id)
     if guild:
-        await bot.tree.sync(guild=guild.id)
+        await bot.tree.sync(guild=guild)
         logging.info(f"Slash commands synced for guild: {guild.name} ({guild.id})")
     else:
         logging.warning(f"Guild with ID {guild_id} not found.")
