@@ -69,12 +69,13 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
         # Nur Fehler filtern
         error_messages = [f"**{field}:** {error}" for field, error in validation_errors.items() if error]
 
-        # Falls Fehler vorhanden
+        # Falls Fehler vorhanden (nur für User sichtbar)
         if error_messages:
             await interaction.followup.send(
-                "❌ **Fehlerhafte Eingaben:**\n" + "\n".join(error_messages)
+                "❌ **Fehlerhafte Eingaben:**\n" + "\n".join(error_messages),
+                ephemeral=True
             )
-            logging.warning(f"Validierungsfehler: {', '.join(error_messages)}")
+            logging.warning(f"Validierungsfehler von User {interaction.user.name}: {', '.join(error_messages)}")
             return
 
         # DateTime-Objekt aus validierten Werten erstellen
@@ -83,7 +84,10 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
 
         # Prüfen ob Event in der Zukunft liegt
         if datetime.now(UTC_PLUS_ONE) >= event_datetime:
-            await interaction.followup.send("❌ Das Gruppen-Event liegt in der Vergangenheit!")
+            await interaction.followup.send(
+                "❌ Das Gruppen-Event liegt in der Vergangenheit!",
+                ephemeral=True
+            )
             logging.warning(f"Event-Erstellung abgelehnt: Event liegt in Vergangenheit ({event_datetime})")
             return
 
@@ -92,7 +96,10 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
             new_channel = await clone_channel_for_event(channel, title, event_datetime)
         except discord.Forbidden:
             logging.error("Bot hat keine Berechtigung, den Channel zu klonen")
-            await interaction.followup.send("❌ Ich habe keine Berechtigung, Channels zu erstellen!")
+            await interaction.followup.send(
+                "❌ Ich habe keine Berechtigung, Channels zu erstellen!",
+                ephemeral=True
+            )
             return
 
         # Raid Helper Event erstellen
@@ -107,7 +114,7 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
             secrets_path=secrets_path
         )
 
-        # Erfolgsmeldung
+        # Erfolgsmeldung (öffentlich, damit alle den neuen Channel sehen)
         if response and response.status == 200:
             await interaction.followup.send(
                 f"✅ **Gruppen-Event erstellt!**\n"
@@ -119,7 +126,8 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
             await interaction.followup.send(
                 f"⚠️ **Channel erstellt, aber Raid-Helper Event fehlgeschlagen!**\n"
                 f"📍 **Channel:** {new_channel.mention}\n"
-                f"Bitte erstelle das Event manuell oder überprüfe die API-Konfiguration."
+                f"Bitte erstelle das Event manuell oder überprüfe die API-Konfiguration.",
+                ephemeral=True
             )
             logging.warning(f"Raid Helper Event konnte nicht erstellt werden für: {title}")
 
@@ -138,9 +146,15 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
         logging.error(f"Unerwarteter Fehler bei Event-Erstellung: {e}", exc_info=True)
         try:
             if not interaction.response.is_done():
-                await interaction.response.send_message("❌ Es ist ein Fehler aufgetreten beim Ausführen des Befehls.")
+                await interaction.response.send_message(
+                    "❌ Es ist ein Fehler aufgetreten beim Ausführen des Befehls.",
+                    ephemeral=True
+                )
             else:
-                await interaction.followup.send("❌ Es ist ein Fehler aufgetreten beim Ausführen des Befehls.")
+                await interaction.followup.send(
+                    "❌ Es ist ein Fehler aufgetreten beim Ausführen des Befehls.",
+                    ephemeral=True
+                )
         except:
             logging.error("Konnte Fehlermeldung nicht senden")
 
