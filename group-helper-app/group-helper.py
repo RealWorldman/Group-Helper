@@ -1,32 +1,32 @@
 import os
 import discord
-from discord import TextChannel, Interaction
+from discord import Interaction, app_commands
 import logging
 import asyncio
-import aiohttp
 from discord.ext import commands
 
-from utils.secrets import get_raid_helper_api_key, get_discord_token
-from datetime import datetime, timedelta, timezone
+from utils.secrets import get_discord_token
+from utils.logger import setup_logging
+from datetime import datetime
+from config import UTC_PLUS_ONE, DELETE_DELAY_HOURS, RAID_HELPER_TEMPLATE_ID, DEBUG, DEBUG_GUILD_ID
+from validators import validate_and_parse_date, validate_and_parse_time, validate_title, validate_description
+from services.raid_helper import create_event
+from services.channel_manager import clone_channel_for_event, delete_channel_after_event
 
-# Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+# Logging initialisieren
+setup_logging()
 
 # Define intents
 intents = discord.Intents.default()
 intents.message_content = True
 intents.messages = True
 
-utc_plus_one = timezone(timedelta(hours=1))
-delete_delay = 24
-
 bot = commands.Bot(command_prefix='!', intents=intents)
-trigger_sign = '🎧'
 GCP_PROJECT = os.getenv("GCP_PROJECT", False)
 secrets_path = os.getenv("SECRETS_PATH", False)
-DEBUG = False
+
 if DEBUG:
-    guild_id = 1307336750661632121 #721276314065305662 Epilog: 1307336750661632121
+    guild_id = DEBUG_GUILD_ID
     guild_obj = discord.Object(id=guild_id)
 else:
     guild_id = None
@@ -34,86 +34,142 @@ else:
 
 token = get_discord_token(GCP_PROJECT, "discord-group-helper-app-token", secrets_path)
 
-async def create_group_event(channel: TextChannel, user_id: str, date: str, time: str, title: str, desc: str):
-    try:
-        server_id = channel.guild.id
-        channel_id = channel.id
-        raid_helper_api_key = get_raid_helper_api_key(project_id=GCP_PROJECT,
-                                                      secret_id=f"rhak-{server_id}",
-                                                      json_path=secrets_path)
-        url = f'https://raid-helper.dev/api/v2/servers/{server_id}/channels/{channel_id}/event'
-        headers = {
-            'Authorization': raid_helper_api_key,
-            'Content-Type': 'application/json;charset=utf-8'
-        }
-        details_event = {
-            'leaderId': user_id,
-            'templateId': 2,
-            'date': date,
-            'time': time,
-            'title': title,
-            'description': desc
-        }
-        async with aiohttp.ClientSession() as session:
-            try:
-                async with session.post(url, headers=headers, json=details_event) as response:
-                    response.raise_for_status()  # Will raise an HTTPError for bad responses
-                    return response
-            except aiohttp.ClientError as e:
-                logging.error(f"Error during API request: {e}")
-                await channel.send("There was an error while creating the event.")
-    except Exception as e:
-        logging.error(f"Failed to create group event: {e}")
-        await channel.send("There was an error while creating the event.")
 
-async def delete_channel(base_channel: TextChannel, new_channel: TextChannel, created_time):
-    try:
-        delete_time = created_time + timedelta(hours=delete_delay)
-        delay = (delete_time - created_time).total_seconds()
-        await base_channel.send(f"The channel {new_channel.name} will be deleted at {delete_time.strftime('%Y-%m-%d %H:%M')}.")
-        await asyncio.sleep(delay)
-        await new_channel.delete()
-        await base_channel.send(f"The channel {new_channel.name} has been deleted.")
-    except Exception as e:
-        logging.error(f"Failed to delete channel: {e}")
-        await base_channel.send(f"Failed to delete the channel {new_channel.name}.")
-
-@bot.tree.command(name="group-event", guild=guild_obj) # guild=guild_id
+@bot.tree.command(name="group-event", guild=guild_obj)
+@app_commands.describe(
+    date="Datum (Formate: YYYY-MM-DD, DD.MM.YYYY, DD/MM/YYYY)",
+    time="Uhrzeit (Formate: HH:MM, HH.MM, HHMM)",
+    title="Titel des Gruppen-Events",
+    desc="Beschreibung des Events"
+)
 async def group_event(interaction: Interaction, date: str, time: str, title: str, desc: str):
+    """
+    Erstellt ein neues Gruppen-Event mit eigenem Channel und Raid Helper Integration.
+    """
     try:
+        # Sofort bestätigen, um Timeout zu vermeiden
+        await interaction.response.defer()
+
         channel = interaction.channel
         user_id = str(interaction.user.id)
-        date_time = datetime.strptime(f'{date} {time}', '%Y-%m-%d %H:%M')
-        date_time = date_time.replace(tzinfo=utc_plus_one)
 
-        if (datetime.now(utc_plus_one) - date_time).total_seconds() >= 0:
-            await interaction.response.send_message("Gruppen Event liegt in der Vergangenheit!")
+        # Validierung der Eingaben
+        parsed_date, date_error = validate_and_parse_date(date)
+        parsed_time, time_error = validate_and_parse_time(time)
+        title_valid, title_error = validate_title(title)
+        desc_valid, desc_error = validate_description(desc)
+
+        # Fehlerbehandlung
+        if date_error or time_error or not title_valid or not desc_valid:
+            error_messages = []
+            if date_error:
+                error_messages.append(f"**Datum:** {date_error}")
+            if time_error:
+                error_messages.append(f"**Zeit:** {time_error}")
+            if not title_valid:
+                error_messages.append(f"**Titel:** {title_error}")
+            if not desc_valid:
+                error_messages.append(f"**Beschreibung:** {desc_error}")
+
+            await interaction.followup.send(
+                "❌ **Fehlerhafte Eingaben:**\n" + "\n".join(error_messages)
+            )
+            logging.warning(f"Validierungsfehler bei Event-Erstellung: {error_messages}")
+            return
+
+        # DateTime-Objekt aus validierten Werten erstellen
+        hour, minute = parsed_time
+        event_datetime = parsed_date.replace(hour=hour, minute=minute, second=0, microsecond=0, tzinfo=UTC_PLUS_ONE)
+
+        # Prüfen ob Event in der Zukunft liegt
+        if datetime.now(UTC_PLUS_ONE) >= event_datetime:
+            await interaction.followup.send("❌ Das Gruppen-Event liegt in der Vergangenheit!")
+            logging.warning(f"Event-Erstellung abgelehnt: Event liegt in Vergangenheit ({event_datetime})")
+            return
+
+        # Channel klonen
+        try:
+            new_channel = await clone_channel_for_event(channel, title, event_datetime)
+        except discord.Forbidden:
+            logging.error("Bot hat keine Berechtigung, den Channel zu klonen")
+            await interaction.followup.send("❌ Ich habe keine Berechtigung, Channels zu erstellen!")
+            return
+
+        # Raid Helper Event erstellen
+        response = await create_event(
+            channel=new_channel,
+            user_id=user_id,
+            date=date,
+            time=time,
+            title=title,
+            desc=desc,
+            template_id=RAID_HELPER_TEMPLATE_ID,
+            gcp_project=GCP_PROJECT,
+            secrets_path=secrets_path
+        )
+
+        # Erfolgsmeldung
+        if response and response.status == 200:
+            await interaction.followup.send(
+                f"✅ **Gruppen-Event erstellt!**\n"
+                f"📅 **Datum:** {event_datetime.strftime('%d.%m.%Y um %H:%M Uhr')}\n"
+                f"📍 **Channel:** {new_channel.mention}"
+            )
+            logging.info(f"Event erfolgreich erstellt: {title} am {event_datetime}")
         else:
-            date_time_short = datetime.strftime(date_time, '%d-%m-%Y')
-            new_channel = await channel.clone(name=f"{title}-{date_time_short}", reason="Group-Event")
-            response = await create_group_event(new_channel, user_id, date, time, title, desc)
+            await interaction.followup.send(
+                f"⚠️ **Channel erstellt, aber Raid-Helper Event fehlgeschlagen!**\n"
+                f"📍 **Channel:** {new_channel.mention}\n"
+                f"Bitte erstelle das Event manuell oder überprüfe die API-Konfiguration."
+            )
+            logging.warning(f"Raid Helper Event konnte nicht erstellt werden für: {title}")
 
-            if response.status == 200:
-                await interaction.response.send_message("Gruppen Event erstellt!")
-            else:
-                await interaction.response.send_message("Gruppen Event konnte nicht erstellt werden!")
-            await delete_channel(channel, new_channel, date_time)
+        # Channel-Löschung im Hintergrund starten
+        asyncio.create_task(
+            delete_channel_after_event(
+                base_channel=channel,
+                new_channel=new_channel,
+                event_time=event_datetime,
+                delete_delay_hours=DELETE_DELAY_HOURS,
+                timezone=UTC_PLUS_ONE
+            )
+        )
+
     except Exception as e:
-        logging.error(f"Failed to execute group_event command: {e}")
-        await interaction.response.send_message("There was an error while executing the command.")
+        logging.error(f"Unerwarteter Fehler bei Event-Erstellung: {e}", exc_info=True)
+        try:
+            if not interaction.response.is_done():
+                await interaction.response.send_message("❌ Es ist ein Fehler aufgetreten beim Ausführen des Befehls.")
+            else:
+                await interaction.followup.send("❌ Es ist ein Fehler aufgetreten beim Ausführen des Befehls.")
+        except:
+            logging.error("Konnte Fehlermeldung nicht senden")
+
 
 @bot.event
 async def on_ready():
-    logging.info(f'[{discord.utils.utcnow()}] Connected!')
+    """
+    Event-Handler für Bot-Start.
+    """
+    logging.info(f'Bot verbunden als {bot.user.name} ({bot.user.id})')
+    logging.info(f'Discord.py Version: {discord.__version__}')
 
     await bot.change_presence(status=discord.Status.online)
 
-    # Synchronisiere die Befehle nur für deine spezifische Guild
-    guild = bot.get_guild(guild_id)
-    if guild:
-        await bot.tree.sync(guild=guild)
-        logging.info(f"Slash commands synced for guild: {guild.name} ({guild.id})")
+    # Synchronisiere die Befehle
+    if guild_id:
+        guild = bot.get_guild(guild_id)
+        if guild:
+            await bot.tree.sync(guild=guild)
+            logging.info(f"Slash commands synchronisiert für Guild: {guild.name} ({guild.id})")
+        else:
+            logging.warning(f"Guild mit ID {guild_id} nicht gefunden.")
     else:
-        logging.warning(f"Guild with ID {guild_id} not found.")
+        # Global sync (falls DEBUG=False)
+        await bot.tree.sync()
+        logging.info("Slash commands global synchronisiert")
 
-bot.run(token)
+
+if __name__ == "__main__":
+    logging.info("Starte Group Helper Bot...")
+    bot.run(token)
