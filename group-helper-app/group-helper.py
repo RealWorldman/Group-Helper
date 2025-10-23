@@ -47,7 +47,7 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
     """
     try:
         # Sofort bestätigen, um Timeout zu vermeiden
-        await interaction.response.defer()
+        await interaction.response.defer(ephemeral=True)
 
         channel = interaction.channel
         user_id = str(interaction.user.id)
@@ -72,8 +72,7 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
         # Falls Fehler vorhanden (nur für User sichtbar)
         if error_messages:
             await interaction.followup.send(
-                "❌ **Fehlerhafte Eingaben:**\n" + "\n".join(error_messages),
-                ephemeral=True
+                "❌ **Fehlerhafte Eingaben:**\n" + "\n".join(error_messages)
             )
             logging.warning(f"Validierungsfehler von User {interaction.user.name}: {', '.join(error_messages)}")
             return
@@ -85,8 +84,7 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
         # Prüfen ob Event in der Zukunft liegt
         if datetime.now(UTC_PLUS_ONE) >= event_datetime:
             await interaction.followup.send(
-                "❌ Das Gruppen-Event liegt in der Vergangenheit!",
-                ephemeral=True
+                "❌ Das Gruppen-Event liegt in der Vergangenheit!"
             )
             logging.warning(f"Event-Erstellung abgelehnt: Event liegt in Vergangenheit ({event_datetime})")
             return
@@ -97,8 +95,7 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
         except discord.Forbidden:
             logging.error("Bot hat keine Berechtigung, den Channel zu klonen")
             await interaction.followup.send(
-                "❌ Ich habe keine Berechtigung, Channels zu erstellen!",
-                ephemeral=True
+                "❌ Ich habe keine Berechtigung, Channels zu erstellen!"
             )
             return
 
@@ -116,7 +113,7 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
 
         # Erfolgsmeldung (öffentlich, damit alle den neuen Channel sehen)
         if response and response.status == 200:
-            await interaction.followup.send(
+            await channel.send(
                 f"✅ **Gruppen-Event erstellt!**\n"
                 f"📅 **Datum:** {event_datetime.strftime('%d.%m.%Y um %H:%M Uhr')}\n"
                 f"📍 **Channel:** {new_channel.mention}"
@@ -126,8 +123,7 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
             await interaction.followup.send(
                 f"⚠️ **Channel erstellt, aber Raid-Helper Event fehlgeschlagen!**\n"
                 f"📍 **Channel:** {new_channel.mention}\n"
-                f"Bitte erstelle das Event manuell oder überprüfe die API-Konfiguration.",
-                ephemeral=True
+                f"Bitte erstelle das Event manuell oder überprüfe die API-Konfiguration."
             )
             logging.warning(f"Raid Helper Event konnte nicht erstellt werden für: {title}")
 
@@ -147,13 +143,11 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
         try:
             if not interaction.response.is_done():
                 await interaction.response.send_message(
-                    "❌ Es ist ein Fehler aufgetreten beim Ausführen des Befehls.",
-                    ephemeral=True
+                    "❌ Es ist ein Fehler aufgetreten beim Ausführen des Befehls."
                 )
             else:
                 await interaction.followup.send(
-                    "❌ Es ist ein Fehler aufgetreten beim Ausführen des Befehls.",
-                    ephemeral=True
+                    "❌ Es ist ein Fehler aufgetreten beim Ausführen des Befehls."
                 )
         except:
             logging.error("Konnte Fehlermeldung nicht senden")
