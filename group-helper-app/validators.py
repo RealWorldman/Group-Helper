@@ -71,7 +71,7 @@ def validate_and_parse_time(time_str: str) -> tuple[tuple[int, int] | None, str 
         if match:
             hour, minute = int(match.group(1)), int(match.group(2))
         else:
-            return None, f"Ungültiges Zeitformat: `{time_str}` (erwarte HH:MM)"
+            return None, f"Ungültiges Zeitformat: `{time_str}` (erwarte **HH:MM**)"
 
     # Format: HH.MM
     elif '.' in time_str:
@@ -79,7 +79,7 @@ def validate_and_parse_time(time_str: str) -> tuple[tuple[int, int] | None, str 
         if match:
             hour, minute = int(match.group(1)), int(match.group(2))
         else:
-            return None, f"Ungültiges Zeitformat: `{time_str}` (erwarte HH.MM)"
+            return None, f"Ungültiges Zeitformat: `{time_str}` (erwarte **HH.MM**)"
 
     # Format: HHMM
     elif len(time_str) in [3, 4] and time_str.isdigit():

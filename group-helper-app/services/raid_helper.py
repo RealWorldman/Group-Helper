@@ -16,8 +16,7 @@ async def create_event(
     title: str,
     desc: str,
     template_id: int,
-    gcp_project: str | bool = False,
-    secrets_path: str | bool = False
+    secrets_path: str = "secrets.json"
 ) -> aiohttp.ClientResponse | None:
     """
     Erstellt ein Raid Helper Event im angegebenen Channel.
@@ -30,8 +29,7 @@ async def create_event(
         title: Event-Titel
         desc: Event-Beschreibung
         template_id: Raid Helper Template ID
-        gcp_project: GCP Projekt für Secrets (optional)
-        secrets_path: Pfad zu lokalen Secrets (optional)
+        secrets_path: Pfad zu lokalen Secrets
 
     Returns:
         ClientResponse bei Erfolg, None bei Fehler
@@ -42,7 +40,6 @@ async def create_event(
 
         # API Key abrufen
         raid_helper_api_key = get_raid_helper_api_key(
-            project_id=gcp_project,
             secret_id=f"rhak-{server_id}",
             json_path=secrets_path
         )
@@ -76,4 +73,3 @@ async def create_event(
     except Exception as e:
         logging.error(f"Fehler beim Erstellen des Raid Helper Events: {e}")
         return None
-

@@ -22,8 +22,7 @@ intents.message_content = True
 intents.messages = True
 
 bot = commands.Bot(command_prefix='!', intents=intents)
-GCP_PROJECT = os.getenv("GCP_PROJECT", False)
-secrets_path = os.getenv("SECRETS_PATH", False)
+secrets_path = os.getenv("SECRETS_PATH", "secrets.json")
 
 if DEBUG:
     guild_id = DEBUG_GUILD_ID
@@ -32,7 +31,7 @@ else:
     guild_id = None
     guild_obj = None
 
-token = get_discord_token(GCP_PROJECT, "discord-group-helper-app-token", secrets_path)
+token = get_discord_token("discord-group-helper-app-token", secrets_path)
 
 
 @bot.tree.command(name="group-event", guild=guild_obj)
@@ -59,22 +58,23 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
         title_valid, title_error = validate_title(title)
         desc_valid, desc_error = validate_description(desc)
 
-        # Fehlerbehandlung
-        if date_error or time_error or not title_valid or not desc_valid:
-            error_messages = []
-            if date_error:
-                error_messages.append(f"**Datum:** {date_error}")
-            if time_error:
-                error_messages.append(f"**Zeit:** {time_error}")
-            if not title_valid:
-                error_messages.append(f"**Titel:** {title_error}")
-            if not desc_valid:
-                error_messages.append(f"**Beschreibung:** {desc_error}")
+        # Validierung sammeln
+        validation_errors = {
+            "Datum": date_error,
+            "Zeit": time_error,
+            "Titel": title_error if not title_valid else None,
+            "Beschreibung": desc_error if not desc_valid else None
+        }
 
+        # Nur Fehler filtern
+        error_messages = [f"**{field}:** {error}" for field, error in validation_errors.items() if error]
+
+        # Falls Fehler vorhanden
+        if error_messages:
             await interaction.followup.send(
                 "❌ **Fehlerhafte Eingaben:**\n" + "\n".join(error_messages)
             )
-            logging.warning(f"Validierungsfehler bei Event-Erstellung: {error_messages}")
+            logging.warning(f"Validierungsfehler: {', '.join(error_messages)}")
             return
 
         # DateTime-Objekt aus validierten Werten erstellen
@@ -104,7 +104,6 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
             title=title,
             desc=desc,
             template_id=RAID_HELPER_TEMPLATE_ID,
-            gcp_project=GCP_PROJECT,
             secrets_path=secrets_path
         )
 
