@@ -3,74 +3,53 @@ Channel-Verwaltung für Group Helper Bot
 """
 import logging
 import asyncio
+from typing import Tuple
+
 import discord
 from discord import TextChannel
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
+from services.scheduler import schedule_deletion, remove_deletion
 
 
-async def delete_channel_after_event(
-    base_channel: TextChannel,
-    new_channel: TextChannel,
-    event_time: datetime,
-    delete_delay_hours: int,
-    timezone
-) -> None:
+async def delete_channel_after_event(base_channel: TextChannel,
+                                     new_channel: TextChannel,
+                                     event_time: datetime,
+                                     delete_time: datetime,
+                                     restore_mode: bool = False):
     """
     Löscht den Channel nach dem Event (nach delete_delay_hours).
-
-    Args:
-        base_channel: Original-Channel für Benachrichtigungen
-        new_channel: Zu löschender Event-Channel
-        event_time: Zeitpunkt des Events
-        delete_delay_hours: Stunden nach Event bis zur Löschung
-        timezone: Zeitzone für datetime-Berechnungen
     """
     try:
-        delete_time = event_time + timedelta(hours=delete_delay_hours)
-        now = datetime.now(timezone)
-        delay = (delete_time - now).total_seconds()
-
-        if delay > 0:
-            await base_channel.send(
-                f"Der Channel {new_channel.mention} wird am {delete_time.strftime('%d.%m.%Y um %H:%M')} Uhr "
-                f"({delete_delay_hours} Stunden nach Event-Ende) gelöscht."
+        wait_time = (delete_time - datetime.now(timezone.utc)).total_seconds()
+        if not restore_mode:
+            schedule_deletion(
+                channel_id=new_channel.id,
+                base_channel_id=base_channel.id,
+                event_time=event_time,
+                delete_at=delete_time,
+                event_title=new_channel.name
             )
-            logging.info(f"Channel {new_channel.name} wird in {delay/3600:.1f} Stunden gelöscht")
-            await asyncio.sleep(delay)
 
-            # Prüfen ob Channel noch existiert
-            if new_channel.guild.get_channel(new_channel.id):
-                await new_channel.delete()
-                await base_channel.send(f"✅ Der Channel **{new_channel.name}** wurde gelöscht.")
-                logging.info(f"Channel {new_channel.name} erfolgreich gelöscht")
-            else:
-                logging.info(f"Channel {new_channel.name} wurde bereits manuell gelöscht.")
+        if wait_time > 0:
+            logging.info(f"Warte {wait_time / 3600:.1f} Stunden vor Löschung von {new_channel.name}")
+            await asyncio.sleep(wait_time)
+
+        # Prüfen ob Channel noch existiert
+        if new_channel.guild.get_channel(new_channel.id):
+            await new_channel.delete(reason="Event-Channel nach Zeitablauf gelöscht")
+            remove_deletion(new_channel.id)
+            logging.info(f"Channel {new_channel.name} erfolgreich gelöscht")
         else:
-            # Event liegt in der Vergangenheit
-            logging.warning(f"Event liegt bereits {abs(delay)/3600:.1f} Stunden in der Vergangenheit")
-            await base_channel.send(
-                f"⚠️ Event-Zeit liegt in der Vergangenheit. Channel {new_channel.mention} wird in Kürze gelöscht."
-            )
-            # Kurze Verzögerung, damit die Nachricht noch gelesen werden kann
-            await asyncio.sleep(10)
-            if new_channel.guild.get_channel(new_channel.id):
-                await new_channel.delete()
-                logging.info(f"Channel {new_channel.name} gelöscht (Event lag in Vergangenheit)")
+            logging.warning(f"Channel {new_channel.name} wurde bereits manuell gelöscht")
+            remove_deletion(new_channel.id)
 
     except discord.NotFound:
-        logging.info(f"Channel {new_channel.name} wurde bereits gelöscht.")
+        logging.info(f"Channel {new_channel.name} wurde bereits gelöscht")
+        remove_deletion(new_channel.id)
     except discord.Forbidden:
         logging.error(f"Keine Berechtigung zum Löschen von Channel {new_channel.name}")
-        try:
-            await base_channel.send(f"❌ Keine Berechtigung zum Löschen des Channels **{new_channel.name}**.")
-        except:
-            pass
     except Exception as e:
         logging.error(f"Fehler beim Löschen des Channels {new_channel.name}: {e}")
-        try:
-            await base_channel.send(f"❌ Fehler beim Löschen des Channels **{new_channel.name}**.")
-        except:
-            pass
 
 
 async def clone_channel_for_event(

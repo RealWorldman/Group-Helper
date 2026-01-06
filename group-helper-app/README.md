@@ -94,7 +94,7 @@ Dein Bot benötigt folgende Berechtigungen auf dem Discord Server:
 
 **Invite-Link generieren:**
 ```
-https://discord.com/api/oauth2/authorize?client_id=DEINE_CLIENT_ID&permissions=16&scope=bot%20applications.commands
+https://discord.com/api/oauth2/authorize?client_id=1343174971978940457&permissions=16&scope=bot%20applications.commands
 ```
 
 ### 6. Bot starten

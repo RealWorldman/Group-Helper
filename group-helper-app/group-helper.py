@@ -12,6 +12,8 @@ from config import UTC_PLUS_ONE, DELETE_DELAY_HOURS, RAID_HELPER_TEMPLATE_ID, DE
 from validators import validate_and_parse_date, validate_and_parse_time, validate_title, validate_description
 from services.raid_helper import create_event
 from services.channel_manager import clone_channel_for_event, delete_channel_after_event
+from services.scheduler import get_pending_deletions
+from services.database import init_db
 
 # Logging initialisieren
 setup_logging()
@@ -39,8 +41,7 @@ token = get_discord_token("discord-group-helper-app-token", secrets_path)
     date="Datum (Formate: YYYY-MM-DD, DD.MM.YYYY, DD/MM/YYYY)",
     time="Uhrzeit (Formate: HH:MM, HH.MM, HHMM)",
     title="Titel des Gruppen-Events",
-    desc="Beschreibung des Events"
-)
+    desc="Beschreibung des Events")
 async def group_event(interaction: Interaction, date: str, time: str, title: str, desc: str):
     """
     Erstellt ein neues Gruppen-Event mit eigenem Channel und Raid Helper Integration.
@@ -113,30 +114,35 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
 
         # Erfolgsmeldung (öffentlich, damit alle den neuen Channel sehen)
         if response and response.status == 200:
-            await channel.send(
+            await interaction.followup.send(
                 f"✅ **Gruppen-Event erstellt!**\n"
                 f"📅 **Datum:** {event_datetime.strftime('%d.%m.%Y um %H:%M Uhr')}\n"
-                f"📍 **Channel:** {new_channel.mention}"
+                f"📍 **Channel:** {new_channel.mention}\n"
+                f"🗑️ **Löschung geplant:** {DELETE_DELAY_HOURS}h nach Event-Ende",
+                ephemeral=True
             )
             logging.info(f"Event erfolgreich erstellt: {title} am {event_datetime}")
+
+            # Channel-Löschung im Hintergrund starten
+            asyncio.create_task(
+                delete_channel_after_event(
+                    base_channel=channel,
+                    new_channel=new_channel,
+                    event_time=event_datetime,
+                    delete_delay_hours=DELETE_DELAY_HOURS,
+                    timezone=UTC_PLUS_ONE,
+                    restore_mode=False
+                )
+            )
+
         else:
             await interaction.followup.send(
                 f"⚠️ **Channel erstellt, aber Raid-Helper Event fehlgeschlagen!**\n"
                 f"📍 **Channel:** {new_channel.mention}\n"
-                f"Bitte erstelle das Event manuell oder überprüfe die API-Konfiguration."
+                f"Bitte erstelle das Event manuell oder überprüfe die API-Konfiguration.",
+                ephemeral=True
             )
-            logging.warning(f"Raid Helper Event konnte nicht erstellt werden für: {title}")
-
-        # Channel-Löschung im Hintergrund starten
-        asyncio.create_task(
-            delete_channel_after_event(
-                base_channel=channel,
-                new_channel=new_channel,
-                event_time=event_datetime,
-                delete_delay_hours=DELETE_DELAY_HOURS,
-                timezone=UTC_PLUS_ONE
-            )
-        )
+            logging.error(f"Raid Helper Event konnte nicht erstellt werden für: {title}")
 
     except Exception as e:
         logging.error(f"Unerwarteter Fehler bei Event-Erstellung: {e}", exc_info=True)
@@ -160,6 +166,17 @@ async def on_ready():
     """
     logging.info(f'Bot verbunden als {bot.user.name} ({bot.user.id})')
     logging.info(f'Discord.py Version: {discord.__version__}')
+
+    init_db()
+    deletions = get_pending_deletions()
+    logging.info(f'Wiederherstellen von {len(deletions)} Pending Deletions')
+    for deletion in deletions:
+        await delete_channel_after_event(new_channel=bot.get_channel(deletion.new_channel_id),
+                                         base_channel=bot.get_channel(deletion.base_channel_id),
+                                         event_time=deletion.event_time,
+                                         delete_time=deletion.delete_time,
+                                         restore_mode=True
+                                         )
 
     await bot.change_presence(status=discord.Status.online)
 
