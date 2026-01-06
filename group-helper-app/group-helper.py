@@ -7,7 +7,7 @@ from discord.ext import commands
 
 from utils.secrets import get_discord_token
 from utils.logger import setup_logging
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from config import UTC_PLUS_ONE, DELETE_DELAY_HOURS, RAID_HELPER_TEMPLATE_ID, DEBUG, DEBUG_GUILD_ID
 from validators import validate_and_parse_date, validate_and_parse_time, validate_title, validate_description
 from services.raid_helper import create_event
@@ -123,20 +123,21 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
             )
             logging.info(f"Event erfolgreich erstellt: {title} am {event_datetime}")
 
+            deletion_time = event_datetime + timedelta(hours=DELETE_DELAY_HOURS)
+            deletion_time = deletion_time.replace(tzinfo=timezone.utc)
             # Channel-Löschung im Hintergrund starten
             asyncio.create_task(
                 delete_channel_after_event(
                     base_channel=channel,
                     new_channel=new_channel,
                     event_time=event_datetime,
-                    delete_delay_hours=DELETE_DELAY_HOURS,
-                    timezone=UTC_PLUS_ONE,
+                    delete_time=deletion_time,
                     restore_mode=False
                 )
             )
 
         else:
-            await interaction.followup.send(
+            await interaction.response.send_message(
                 f"⚠️ **Channel erstellt, aber Raid-Helper Event fehlgeschlagen!**\n"
                 f"📍 **Channel:** {new_channel.mention}\n"
                 f"Bitte erstelle das Event manuell oder überprüfe die API-Konfiguration.",
@@ -174,7 +175,7 @@ async def on_ready():
         await delete_channel_after_event(new_channel=bot.get_channel(deletion.new_channel_id),
                                          base_channel=bot.get_channel(deletion.base_channel_id),
                                          event_time=deletion.event_time,
-                                         delete_time=deletion.delete_time,
+                                         delete_time=deletion.delete_time.replace(tzinfo=timezone.utc),
                                          restore_mode=True
                                          )
 

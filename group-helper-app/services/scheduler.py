@@ -10,8 +10,8 @@ from services.database import SessionLocal
 
 def schedule_deletion(channel_id: int,
                       base_channel_id: int,
-                      delete_at: datetime,
                       event_time: datetime,
+                      delete_at: datetime,
                       event_title: str = None):
     """Speichert einen Löschauftrag in der Datenbank."""
     session = SessionLocal()
@@ -23,7 +23,7 @@ def schedule_deletion(channel_id: int,
             delete_time=delete_at,
             event_title=event_title
         )
-        session.merge(deletion)
+        session.add(deletion)
         session.commit()
         logging.info(f"Löschung geplant für Channel {channel_id} um {delete_at}")
     finally:
