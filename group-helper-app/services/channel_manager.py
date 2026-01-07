@@ -71,12 +71,22 @@ async def clone_channel_for_event(
     Raises:
         discord.Forbidden: Wenn keine Berechtigung zum Klonen
     """
+    # Server-weite Bot-Berechtigungen prüfen
     bot_permissions = source_channel.guild.me.guild_permissions
     if not bot_permissions.manage_channels:
         logging.error("Bot hat keine 'Manage Channels' Berechtigung")
         raise discord.Forbidden("Bot hat keine 'Manage Channels' Berechtigung")
-    else:
-        logging.info("Bot hat 'Manage Channels' Berechtigung")
+
+    # Channel-spezifische Bot-Berechtigungen prüfen
+    channel_permissions = source_channel.permissions_for(source_channel.guild.me)
+    if not channel_permissions.view_channel:
+        logging.error(f"Bot kann Channel '{source_channel.name}' nicht sehen")
+        raise discord.Forbidden(f"Bot kann Channel '{source_channel.name}' nicht sehen")
+
+    if not channel_permissions.manage_channels:
+        logging.error(f"Bot kann Channels in Kategorie von '{source_channel.name}' nicht verwalten")
+        raise discord.Forbidden("Bot hat keine Channel-Verwaltungs-Berechtigung für diesen Channel")
+
 
     date_str = event_date.strftime('%d-%m-%Y')
     channel_name = f"{title}-{date_str}"
