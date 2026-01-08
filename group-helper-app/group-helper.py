@@ -163,20 +163,23 @@ async def check_scheduled_deletions():
     logging.info(f'Prüfen von {len(deletions)} Pending Deletions')
 
     for deletion in deletions:
-        if deletion.delete_time <= now:
-            try:
-                channel = bot.get_channel(deletion.new_channel_id)
-                if channel:
-                    await channel.delete(reason="Event-Channel nach Zeitablauf gelöscht")
-                    logging.info(f"Channel {channel.name} erfolgreich gelöscht")
-                else:
-                    logging.warning(f"Channel {deletion.new_channel_id} existiert nicht mehr")
+        try:
+            channel = bot.get_channel(deletion.new_channel_id)
 
+            if not channel:
+                logging.warning(f"Channel {deletion.new_channel_id} existiert nicht mehr")
                 remove_deletion(deletion.new_channel_id)
-            except Exception as e:
-                logging.error(f"Fehler beim Löschen von Channel {deletion.new_channel_id}: {e}")
-        else:
-            logging.info(f"Channel {deletion.event_title} noch nicht löschen.")
+                continue
+
+            if deletion.delete_time <= now:
+                await channel.delete(reason="Event-Channel nach Zeitablauf gelöscht")
+                remove_deletion(deletion.new_channel_id)
+                logging.info(f"Channel {channel.name} erfolgreich gelöscht")
+            else:
+                logging.info(f"Channel {deletion.event_title} noch nicht löschen.")
+
+        except Exception as e:
+            logging.error(f"Fehler beim Löschen von Channel {deletion.new_channel_id}: {e}")
 
     logging.info("Prüfung der ausstehenden Löschungen beendet.")
 
