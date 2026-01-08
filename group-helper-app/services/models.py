@@ -1,9 +1,6 @@
-# models/scheduled_deletion.py
-from sqlalchemy import Column, Integer, String, DateTime, create_engine
-from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import sessionmaker
-from pathlib import Path
+from sqlalchemy import Column, Integer, String, DateTime
 from services.database import Base
+from datetime import timezone
 
 
 class ScheduledDeletion(Base):

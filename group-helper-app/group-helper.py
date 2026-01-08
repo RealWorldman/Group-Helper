@@ -80,10 +80,10 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
 
         # DateTime-Objekt aus validierten Werten erstellen
         hour, minute = parsed_time
-        event_datetime = parsed_date.replace(hour=hour, minute=minute, second=0, microsecond=0, tzinfo=UTC_PLUS_ONE)
+        event_datetime = parsed_date.replace(hour=hour, minute=minute, second=0, microsecond=0)
 
         # Prüfen ob Event in der Zukunft liegt
-        if datetime.now(UTC_PLUS_ONE) >= event_datetime:
+        if datetime.now() >= event_datetime:
             await interaction.followup.send(
                 "❌ Das Gruppen-Event liegt in der Vergangenheit!"
             )
@@ -124,7 +124,6 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
             logging.info(f"Event erfolgreich erstellt: {title} am {event_datetime}")
 
             deletion_time = event_datetime + timedelta(hours=DELETE_DELAY_HOURS)
-            deletion_time = deletion_time.replace(tzinfo=timezone.utc)
             await delete_channel_after_event(
                 base_channel=channel,
                 new_channel=new_channel,
@@ -160,7 +159,7 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
 async def check_scheduled_deletions():
     """Prüft alle 5 Minuten auf fällige Channel-Löschungen."""
     deletions = get_pending_deletions()
-    now = datetime.now(timezone.utc)
+    now = datetime.now()
     logging.info(f'Prüfen von {len(deletions)} Pending Deletions')
 
     for deletion in deletions:
