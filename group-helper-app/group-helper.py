@@ -3,7 +3,7 @@ import discord
 from discord import Interaction, app_commands
 import logging
 import asyncio
-from discord.ext import commands
+from discord.ext import commands, tasks
 
 from utils.secrets import get_discord_token
 from utils.logger import setup_logging
@@ -12,7 +12,7 @@ from config import UTC_PLUS_ONE, DELETE_DELAY_HOURS, RAID_HELPER_TEMPLATE_ID, DE
 from validators import validate_and_parse_date, validate_and_parse_time, validate_title, validate_description
 from services.raid_helper import create_event
 from services.channel_manager import clone_channel_for_event, delete_channel_after_event
-from services.scheduler import get_pending_deletions
+from services.scheduler import get_pending_deletions, remove_deletion
 from services.database import init_db
 
 # Logging initialisieren
@@ -125,16 +125,12 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
 
             deletion_time = event_datetime + timedelta(hours=DELETE_DELAY_HOURS)
             deletion_time = deletion_time.replace(tzinfo=timezone.utc)
-            # Channel-Löschung im Hintergrund starten
-            asyncio.create_task(
-                delete_channel_after_event(
-                    base_channel=channel,
-                    new_channel=new_channel,
-                    event_time=event_datetime,
-                    delete_time=deletion_time,
-                    restore_mode=False
+            await delete_channel_after_event(
+                base_channel=channel,
+                new_channel=new_channel,
+                event_time=event_datetime,
+                delete_time=deletion_time
                 )
-            )
 
         else:
             await interaction.response.send_message(
@@ -160,6 +156,28 @@ async def group_event(interaction: Interaction, date: str, time: str, title: str
             logging.error("Konnte Fehlermeldung nicht senden")
 
 
+@tasks.loop(hours=1)
+async def check_scheduled_deletions():
+    """Prüft alle 5 Minuten auf fällige Channel-Löschungen."""
+    deletions = get_pending_deletions()
+    now = datetime.now(timezone.utc)
+    logging.info(f'Prüfen von {len(deletions)} Pending Deletions')
+
+    for deletion in deletions:
+        if deletion.delete_time <= now:
+            try:
+                channel = bot.get_channel(deletion.new_channel_id)
+                if channel:
+                    await channel.delete(reason="Event-Channel nach Zeitablauf gelöscht")
+                    logging.info(f"Channel {channel.name} erfolgreich gelöscht")
+                else:
+                    logging.warning(f"Channel {deletion.new_channel_id} existiert nicht mehr")
+
+                remove_deletion(deletion.new_channel_id)
+            except Exception as e:
+                logging.error(f"Fehler beim Löschen von Channel {deletion.new_channel_id}: {e}")
+
+
 @bot.event
 async def on_ready():
     """
@@ -169,15 +187,7 @@ async def on_ready():
     logging.info(f'Discord.py Version: {discord.__version__}')
 
     init_db()
-    deletions = get_pending_deletions()
-    logging.info(f'Wiederherstellen von {len(deletions)} Pending Deletions')
-    for deletion in deletions:
-        await delete_channel_after_event(new_channel=bot.get_channel(deletion.new_channel_id),
-                                         base_channel=bot.get_channel(deletion.base_channel_id),
-                                         event_time=deletion.event_time,
-                                         delete_time=deletion.delete_time.replace(tzinfo=timezone.utc),
-                                         restore_mode=True
-                                         )
+    check_scheduled_deletions.start()
 
     await bot.change_presence(status=discord.Status.online)
 
