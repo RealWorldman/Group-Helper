@@ -175,6 +175,10 @@ async def check_scheduled_deletions():
                 remove_deletion(deletion.new_channel_id)
             except Exception as e:
                 logging.error(f"Fehler beim Löschen von Channel {deletion.new_channel_id}: {e}")
+        else:
+            logging.info(f"Channel {deletion.event_title} noch nicht löschen.")
+
+    logging.info("Prüfung der ausstehenden Löschungen beendet.")
 
 
 @bot.event
