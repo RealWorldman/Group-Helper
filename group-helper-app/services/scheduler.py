@@ -33,7 +33,10 @@ def schedule_deletion(channel_id: int,
 def get_pending_deletions() -> List[ScheduledDeletion]:
     """Holt alle ausstehenden Löschaufträge."""
     session = SessionLocal()
-    return session.query(ScheduledDeletion).all()
+    try:
+        return session.query(ScheduledDeletion).all()
+    finally:
+        session.close()
 
 
 def remove_deletion(channel_id: int):
@@ -44,7 +47,11 @@ def remove_deletion(channel_id: int):
         if deletion:
             session.delete(deletion)
             session.commit()
-            logging.info(f"Löschauftrag für Channel {channel_id} entfernt")
+            logging.info(f"Lösch-Eintrag für Channel {channel_id} entfernt")
+    except Exception as e:
+        session.rollback()
+        logging.error(f"Fehler beim Entfernen des Lösch-Eintrags: {e}")
+        raise
     finally:
         session.close()
 
