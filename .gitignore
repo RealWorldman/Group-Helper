@@ -175,3 +175,4 @@ logs/
 *.log
 .idea
 *.db
+group-helper.json
