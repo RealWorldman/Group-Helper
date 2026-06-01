@@ -196,20 +196,16 @@ async def on_ready():
     check_scheduled_deletions.start()
 
     await bot.change_presence(status=discord.Status.online)
+    logging.info(f"Bot Application ID: {bot.application_id}")
 
-    # Synchronisiere die Befehle
     if guild_id:
-        guild = bot.get_guild(guild_id)
-        if guild:
-            await bot.tree.sync(guild=guild)
-            logging.info(f"Slash commands synchronisiert für Guild: {guild.name} ({guild.id})")
-        else:
-            logging.warning(f"Guild mit ID {guild_id} nicht gefunden.")
+        guild = await bot.fetch_guild(guild_id)
+        synced = await bot.tree.sync(guild=guild)
+        logging.info(f"Slash commands synchronisiert für Guild: {guild.name} ({guild.id}) - {len(synced)} Commands")
     else:
-        # Global sync (falls DEBUG=False)
-        await bot.tree.sync()
-        logging.info("Slash commands global synchronisiert")
-
+        # Alle guild-spezifischen Commands löschen
+        synced = await bot.tree.sync()
+        logging.info(f"Slash commands global synchronisiert - {len(synced)} Commands")
 
 if __name__ == "__main__":
     logging.info("Starte Group Helper Bot...")

@@ -40,12 +40,12 @@ async def create_event(
 
         # API Key abrufen
         raid_helper_api_key = get_raid_helper_api_key(
-            secret_id=f"rhak-{server_id}",
+            secret_id=f"{server_id}",
             json_path=secrets_path
         )
 
         # API Request vorbereiten
-        url = f'https://raid-helper.dev/api/v2/servers/{server_id}/channels/{channel_id}/event'
+        url = f'https://raid-helper.xyz/api/v4/servers/{server_id}/channels/{channel_id}/event'
         headers = {
             'Authorization': raid_helper_api_key,
             'Content-Type': 'application/json;charset=utf-8'

@@ -173,3 +173,5 @@ cython_debug/
 # Bot logs
 logs/
 *.log
+.idea
+*.db
