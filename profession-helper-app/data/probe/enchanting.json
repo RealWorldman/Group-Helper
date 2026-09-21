@@ -1,0 +1,9997 @@
+[
+  {
+    "cat": 11,
+    "displayName": "Enchanting",
+    "id": 7411,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Enchanting",
+    "nskillup": 1,
+    "rank": "Apprentice",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 10,
+    "quality": -1,
+    "popularity": 58
+  },
+  {
+    "cat": 11,
+    "displayName": "Enchanting",
+    "id": 7412,
+    "learnedat": 50,
+    "level": 0,
+    "name": "Enchanting",
+    "nskillup": 1,
+    "rank": "Journeyman",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 500,
+    "quality": -1,
+    "popularity": 83
+  },
+  {
+    "cat": 11,
+    "displayName": "Enchanting",
+    "id": 7413,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Enchanting",
+    "nskillup": 1,
+    "rank": "Expert",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5000,
+    "quality": -1,
+    "popularity": 63
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      20,
+      22,
+      25
+    ],
+    "displayName": "Enchant Bracer - Inferior Stamina",
+    "id": 7418,
+    "learnedat": 20,
+    "level": 0,
+    "name": "Enchant Bracer - Inferior Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        247786,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 128
+  },
+  {
+    "cat": 11,
+    "colors": [
+      15,
+      70,
+      90,
+      110
+    ],
+    "displayName": "Enchant Chest - Inferior Stamina",
+    "id": 7420,
+    "learnedat": 15,
+    "level": 0,
+    "name": "Enchant Chest - Inferior Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 50,
+    "quality": -1,
+    "popularity": 63
+  },
+  {
+    "cat": 11,
+    "colors": [
+      1,
+      5,
+      7,
+      10
+    ],
+    "creates": [
+      6218,
+      1,
+      1
+    ],
+    "displayName": "Runed Copper Rod",
+    "id": 7421,
+    "learnedat": 1,
+    "level": 0,
+    "name": "Runed Copper Rod",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        6217,
+        1
+      ],
+      [
+        247786,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 111
+  },
+  {
+    "cat": 11,
+    "colors": [
+      40,
+      90,
+      110,
+      130
+    ],
+    "displayName": "Enchant Chest - Minor Absorption",
+    "id": 7426,
+    "learnedat": 40,
+    "level": 0,
+    "name": "Enchant Chest - Minor Absorption",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 100,
+    "quality": -1,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      80,
+      100,
+      120
+    ],
+    "displayName": "Enchant Bracer - Minor Deflect",
+    "id": 7428,
+    "learnedat": 80,
+    "level": 5,
+    "name": "Enchant Bracer - Minor Deflect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      20,
+      80,
+      100,
+      120
+    ],
+    "displayName": "Enchant Chest - Minor Intellect",
+    "id": 7443,
+    "learnedat": 20,
+    "level": 0,
+    "name": "Enchant Chest - Minor Intellect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      5,
+      21
+    ],
+    "quality": -1,
+    "popularity": 57
+  },
+  {
+    "cat": 11,
+    "colors": [
+      45,
+      95,
+      115,
+      135
+    ],
+    "displayName": "Enchant Cloak - Minor Resistance",
+    "id": 7454,
+    "learnedat": 45,
+    "level": 0,
+    "name": "Enchant Cloak - Minor Resistance",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 100,
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      50,
+      100,
+      120,
+      140
+    ],
+    "displayName": "Enchant Bracer - Minor Stamina",
+    "id": 7457,
+    "learnedat": 50,
+    "level": 0,
+    "name": "Enchant Bracer - Minor Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 250,
+    "quality": -1,
+    "popularity": 32
+  },
+  {
+    "cat": 11,
+    "colors": [
+      100,
+      130,
+      150,
+      170
+    ],
+    "displayName": "Enchant 2H Weapon - Minor Impact",
+    "id": 7745,
+    "learnedat": 100,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Minor Impact",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        10978,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 500,
+    "quality": -1,
+    "popularity": 91
+  },
+  {
+    "cat": 11,
+    "colors": [
+      60,
+      105,
+      125,
+      145
+    ],
+    "displayName": "Enchant Chest - Lesser Stamina",
+    "id": 7748,
+    "learnedat": 60,
+    "level": 0,
+    "name": "Enchant Chest - Lesser Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 250,
+    "quality": -1,
+    "popularity": 50
+  },
+  {
+    "cat": 11,
+    "colors": [
+      60,
+      105,
+      125,
+      145
+    ],
+    "displayName": "Enchant Bracer - Minor Spirit",
+    "id": 7766,
+    "learnedat": 60,
+    "level": 0,
+    "name": "Enchant Bracer - Minor Spirit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      21
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      70,
+      110,
+      130,
+      150
+    ],
+    "displayName": "Enchant Cloak - Minor Protection",
+    "id": 7771,
+    "learnedat": 70,
+    "level": 0,
+    "name": "Enchant Cloak - Minor Protection",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 200,
+    "quality": -1,
+    "popularity": 38
+  },
+  {
+    "cat": 11,
+    "colors": [
+      80,
+      115,
+      135,
+      155
+    ],
+    "displayName": "Enchant Chest - Lesser Intellect",
+    "id": 7776,
+    "learnedat": 80,
+    "level": 0,
+    "name": "Enchant Chest - Lesser Intellect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 56
+  },
+  {
+    "cat": 11,
+    "colors": [
+      80,
+      115,
+      135,
+      155
+    ],
+    "displayName": "Enchant Bracer - Minor Agility",
+    "id": 7779,
+    "learnedat": 80,
+    "level": 0,
+    "name": "Enchant Bracer - Minor Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        10938,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 400,
+    "quality": -1,
+    "popularity": 52
+  },
+  {
+    "cat": 11,
+    "colors": [
+      80,
+      115,
+      135,
+      155
+    ],
+    "displayName": "Enchant Bracer - Minor Strength",
+    "id": 7782,
+    "learnedat": 80,
+    "level": 0,
+    "name": "Enchant Bracer - Minor Strength",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      21
+    ],
+    "quality": -1,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      90,
+      120,
+      140,
+      160
+    ],
+    "displayName": "Enchant Weapon - Minor Beastslayer",
+    "id": 7786,
+    "learnedat": 90,
+    "level": 0,
+    "name": "Enchant Weapon - Minor Beastslayer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        2
+      ],
+      [
+        10939,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16,
+      21
+    ],
+    "quality": -1,
+    "popularity": 55
+  },
+  {
+    "cat": 11,
+    "colors": [
+      90,
+      120,
+      140,
+      160
+    ],
+    "displayName": "Enchant Weapon - Minor Striking",
+    "id": 7788,
+    "learnedat": 90,
+    "level": 0,
+    "name": "Enchant Weapon - Minor Striking",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        10938,
+        1
+      ],
+      [
+        10978,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 500,
+    "quality": -1,
+    "popularity": 52
+  },
+  {
+    "cat": 11,
+    "colors": [
+      100,
+      130,
+      150,
+      170
+    ],
+    "displayName": "Enchant 2H Weapon - Lesser Intellect",
+    "id": 7793,
+    "learnedat": 100,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Lesser Intellect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 73
+  },
+  {
+    "cat": 11,
+    "colors": [
+      100,
+      130,
+      150,
+      170
+    ],
+    "creates": [
+      6339,
+      1,
+      1
+    ],
+    "displayName": "Runed Silver Rod",
+    "id": 7795,
+    "learnedat": 100,
+    "level": 0,
+    "name": "Runed Silver Rod",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        6338,
+        1
+      ],
+      [
+        10940,
+        3
+      ],
+      [
+        10938,
+        4
+      ],
+      [
+        1210,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1000,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      120,
+      145,
+      165,
+      185
+    ],
+    "displayName": "Enchant Chest - Stamina",
+    "id": 7857,
+    "learnedat": 120,
+    "level": 0,
+    "name": "Enchant Chest - Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        2
+      ],
+      [
+        10998,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1000,
+    "quality": -1,
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      120,
+      145,
+      165,
+      185
+    ],
+    "displayName": "Enchant Bracer - Lesser Spirit",
+    "id": 7859,
+    "learnedat": 120,
+    "level": 0,
+    "name": "Enchant Bracer - Lesser Spirit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10998,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      125,
+      150,
+      170,
+      190
+    ],
+    "displayName": "Enchant Cloak - Lesser Fire Resistance",
+    "id": 7861,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Enchant Cloak - Lesser Fire Resistance",
+    "nskillup": 1,
+    "reagents": [
+      [
+        6371,
+        1
+      ],
+      [
+        10998,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1250,
+    "quality": -1,
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "colors": [
+      125,
+      150,
+      170,
+      190
+    ],
+    "displayName": "Enchant Boots - Minor Stamina",
+    "id": 7863,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Enchant Boots - Minor Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1400,
+    "quality": -1,
+    "popularity": 31
+  },
+  {
+    "cat": 11,
+    "colors": [
+      125,
+      150,
+      170,
+      190
+    ],
+    "displayName": "Enchant Boots - Minor Agility",
+    "id": 7867,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Enchant Boots - Minor Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        3
+      ],
+      [
+        10998,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      20,
+      40,
+      60
+    ],
+    "displayName": "Disenchant",
+    "id": 13262,
+    "learnedat": 20,
+    "level": 0,
+    "name": "Disenchant",
+    "nskillup": 1,
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 462
+  },
+  {
+    "cat": 11,
+    "colors": [
+      105,
+      130,
+      150,
+      170
+    ],
+    "displayName": "Enchant Shield - Minor Stamina",
+    "id": 13378,
+    "learnedat": 105,
+    "level": 0,
+    "name": "Enchant Shield - Minor Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10998,
+        1
+      ],
+      [
+        10940,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 600,
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      110,
+      135,
+      155,
+      175
+    ],
+    "displayName": "Enchant 2H Weapon - Lesser Spirit",
+    "id": 13380,
+    "learnedat": 110,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Lesser Spirit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10998,
+        1
+      ],
+      [
+        10940,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      110,
+      135,
+      155,
+      175
+    ],
+    "displayName": "Enchant Cloak - Minor Agility",
+    "id": 13419,
+    "learnedat": 110,
+    "level": 0,
+    "name": "Enchant Cloak - Minor Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10998,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      5
+    ],
+    "quality": -1,
+    "popularity": 73
+  },
+  {
+    "cat": 11,
+    "colors": [
+      115,
+      140,
+      160,
+      180
+    ],
+    "displayName": "Enchant Cloak - Lesser Protection",
+    "id": 13421,
+    "learnedat": 115,
+    "level": 0,
+    "name": "Enchant Cloak - Lesser Protection",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        3
+      ],
+      [
+        10978,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 800,
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      115,
+      140,
+      160,
+      180
+    ],
+    "displayName": "Enchant Shield - Lesser Protection",
+    "id": 13464,
+    "learnedat": 115,
+    "level": 0,
+    "name": "Enchant Shield - Lesser Protection",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        10978,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      130,
+      155,
+      175,
+      195
+    ],
+    "displayName": "Enchant Shield - Lesser Spirit",
+    "id": 13485,
+    "learnedat": 130,
+    "level": 0,
+    "name": "Enchant Shield - Lesser Spirit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10998,
+        1
+      ],
+      [
+        10940,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1500,
+    "quality": -1,
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      130,
+      155,
+      175,
+      195
+    ],
+    "displayName": "Enchant Bracer - Lesser Stamina",
+    "id": 13501,
+    "learnedat": 130,
+    "level": 0,
+    "name": "Enchant Bracer - Lesser Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1500,
+    "quality": -1,
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      140,
+      165,
+      185,
+      205
+    ],
+    "displayName": "Enchant Weapon - Lesser Striking",
+    "id": 13503,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Enchant Weapon - Lesser Striking",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ],
+      [
+        11084,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2000,
+    "quality": -1,
+    "popularity": 45
+  },
+  {
+    "cat": 11,
+    "colors": [
+      135,
+      160,
+      180,
+      200
+    ],
+    "displayName": "Enchant Cloak - Lesser Shadow Resistance",
+    "id": 13522,
+    "learnedat": 135,
+    "level": 0,
+    "name": "Enchant Cloak - Lesser Shadow Resistance",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10998,
+        1
+      ],
+      [
+        6048,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "colors": [
+      145,
+      170,
+      190,
+      210
+    ],
+    "displayName": "Enchant 2H Weapon - Lesser Impact",
+    "id": 13529,
+    "learnedat": 145,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Lesser Impact",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ],
+      [
+        11084,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2400,
+    "quality": -1,
+    "popularity": 71
+  },
+  {
+    "cat": 11,
+    "colors": [
+      140,
+      165,
+      185,
+      205
+    ],
+    "displayName": "Enchant Bracer - Lesser Strength",
+    "id": 13536,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Enchant Bracer - Lesser Strength",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 44
+  },
+  {
+    "cat": 11,
+    "colors": [
+      140,
+      165,
+      185,
+      205
+    ],
+    "displayName": "Enchant Chest - Lesser Absorption",
+    "id": 13538,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Enchant Chest - Lesser Absorption",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        10998,
+        1
+      ],
+      [
+        11084,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2500,
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      145,
+      170,
+      190,
+      210
+    ],
+    "displayName": "Enchant Chest - Intellect",
+    "id": 13607,
+    "learnedat": 145,
+    "level": 0,
+    "name": "Enchant Chest - Intellect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11082,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2400,
+    "quality": -1,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      145,
+      170,
+      190,
+      210
+    ],
+    "displayName": "Enchant Gloves - Mining",
+    "id": 13612,
+    "learnedat": 145,
+    "level": 0,
+    "name": "Enchant Gloves - Mining",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ],
+      [
+        2772,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 15
+  },
+  {
+    "cat": 11,
+    "colors": [
+      145,
+      170,
+      190,
+      210
+    ],
+    "displayName": "Enchant Gloves - Herbalism",
+    "id": 13617,
+    "learnedat": 145,
+    "level": 0,
+    "name": "Enchant Gloves - Herbalism",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ],
+      [
+        3356,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      145,
+      170,
+      190,
+      210
+    ],
+    "displayName": "Enchant Gloves - Fishing",
+    "id": 13620,
+    "learnedat": 145,
+    "level": 0,
+    "name": "Enchant Gloves - Fishing",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ],
+      [
+        6370,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      150,
+      175,
+      195,
+      215
+    ],
+    "displayName": "Enchant Bracer - Lesser Intellect",
+    "id": 13622,
+    "learnedat": 150,
+    "level": 0,
+    "name": "Enchant Bracer - Lesser Intellect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11082,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2500,
+    "quality": -1,
+    "popularity": 30
+  },
+  {
+    "cat": 11,
+    "colors": [
+      150,
+      175,
+      195,
+      215
+    ],
+    "displayName": "Enchant Chest - Minor Stats",
+    "id": 13626,
+    "learnedat": 150,
+    "level": 0,
+    "name": "Enchant Chest - Minor Stats",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10998,
+        1
+      ],
+      [
+        11083,
+        1
+      ],
+      [
+        11084,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2500,
+    "quality": -1,
+    "popularity": 41
+  },
+  {
+    "cat": 11,
+    "colors": [
+      150,
+      175,
+      195,
+      215
+    ],
+    "creates": [
+      11130,
+      1,
+      1
+    ],
+    "displayName": "Runed Golden Rod",
+    "id": 13628,
+    "learnedat": 150,
+    "level": 0,
+    "name": "Runed Golden Rod",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        11128,
+        1
+      ],
+      [
+        5500,
+        1
+      ],
+      [
+        11082,
+        1
+      ],
+      [
+        11083,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2500,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      155,
+      175,
+      195,
+      215
+    ],
+    "displayName": "Enchant Shield - Lesser Stamina",
+    "id": 13631,
+    "learnedat": 155,
+    "level": 0,
+    "name": "Enchant Shield - Lesser Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2600,
+    "quality": -1,
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      155,
+      175,
+      195,
+      215
+    ],
+    "displayName": "Enchant Cloak - Defense",
+    "id": 13635,
+    "learnedat": 155,
+    "level": 0,
+    "name": "Enchant Cloak - Defense",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11138,
+        1
+      ],
+      [
+        11083,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2600,
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      160,
+      180,
+      200,
+      220
+    ],
+    "displayName": "Enchant Boots - Lesser Agility",
+    "id": 13637,
+    "learnedat": 160,
+    "level": 0,
+    "name": "Enchant Boots - Lesser Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2800,
+    "quality": -1,
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      160,
+      180,
+      200,
+      220
+    ],
+    "displayName": "Enchant Chest - Greater Stamina",
+    "id": 13640,
+    "learnedat": 160,
+    "level": 0,
+    "name": "Enchant Chest - Greater Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2700,
+    "quality": -1,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      165,
+      185,
+      205,
+      225
+    ],
+    "displayName": "Enchant Bracer - Spirit",
+    "id": 13642,
+    "learnedat": 165,
+    "level": 0,
+    "name": "Enchant Bracer - Spirit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2800,
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "colors": [
+      170,
+      190,
+      210,
+      230
+    ],
+    "displayName": "Enchant Boots - Lesser Stamina",
+    "id": 13644,
+    "learnedat": 170,
+    "level": 0,
+    "name": "Enchant Boots - Lesser Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2800,
+    "quality": -1,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      170,
+      190,
+      210,
+      230
+    ],
+    "displayName": "Enchant Bracer - Lesser Deflection",
+    "id": 13646,
+    "learnedat": 170,
+    "level": 0,
+    "name": "Enchant Bracer - Lesser Deflection",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        1
+      ],
+      [
+        11083,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      170,
+      190,
+      210,
+      230
+    ],
+    "displayName": "Enchant Bracer - Stamina",
+    "id": 13648,
+    "learnedat": 170,
+    "level": 0,
+    "name": "Enchant Bracer - Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2800,
+    "quality": -1,
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ],
+    "displayName": "Enchant Weapon - Lesser Beastslayer",
+    "id": 13653,
+    "learnedat": 175,
+    "level": 0,
+    "name": "Enchant Weapon - Lesser Beastslayer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        5637,
+        1
+      ],
+      [
+        11138,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ],
+    "displayName": "Enchant Weapon - Lesser Elemental Slayer",
+    "id": 13655,
+    "learnedat": 175,
+    "level": 0,
+    "name": "Enchant Weapon - Lesser Elemental Slayer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        7067,
+        1
+      ],
+      [
+        11138,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ],
+    "displayName": "Enchant Cloak - Fire Resistance",
+    "id": 13657,
+    "learnedat": 175,
+    "level": 0,
+    "name": "Enchant Cloak - Fire Resistance",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        1
+      ],
+      [
+        7068,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 3000,
+    "quality": -1,
+    "popularity": 15
+  },
+  {
+    "cat": 11,
+    "colors": [
+      180,
+      200,
+      220,
+      240
+    ],
+    "displayName": "Enchant Shield - Spirit",
+    "id": 13659,
+    "learnedat": 180,
+    "level": 0,
+    "name": "Enchant Shield - Spirit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        1
+      ],
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 3200,
+    "quality": -1,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      180,
+      200,
+      220,
+      240
+    ],
+    "displayName": "Enchant Bracer - Strength",
+    "id": 13661,
+    "learnedat": 180,
+    "level": 0,
+    "name": "Enchant Bracer - Strength",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 3600,
+    "quality": -1,
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      185,
+      205,
+      225,
+      245
+    ],
+    "displayName": "Enchant Chest - Greater Intellect",
+    "id": 13663,
+    "learnedat": 185,
+    "level": 0,
+    "name": "Enchant Chest - Greater Intellect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 3800,
+    "quality": -1,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      190,
+      210,
+      230,
+      250
+    ],
+    "displayName": "Enchant Boots - Lesser Spirit",
+    "id": 13687,
+    "learnedat": 190,
+    "level": 0,
+    "name": "Enchant Boots - Lesser Spirit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      195,
+      215,
+      235,
+      255
+    ],
+    "displayName": "Enchant Shield - Lesser Block",
+    "id": 13689,
+    "learnedat": 195,
+    "level": 0,
+    "name": "Enchant Shield - Lesser Block",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11135,
+        1
+      ],
+      [
+        11137,
+        1
+      ],
+      [
+        11139,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "colors": [
+      195,
+      215,
+      235,
+      255
+    ],
+    "displayName": "Enchant Weapon - Striking",
+    "id": 13693,
+    "learnedat": 195,
+    "level": 0,
+    "name": "Enchant Weapon - Striking",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11135,
+        1
+      ],
+      [
+        11139,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4000,
+    "quality": -1,
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ],
+    "displayName": "Enchant 2H Weapon - Impact",
+    "id": 13695,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Impact",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        2
+      ],
+      [
+        11139,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4000,
+    "quality": -1,
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ],
+    "displayName": "Enchant Gloves - Skinning",
+    "id": 13698,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Enchant Gloves - Skinning",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        1
+      ],
+      [
+        7392,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ],
+    "displayName": "Enchant Chest - Lesser Stats",
+    "id": 13700,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Enchant Chest - Lesser Stats",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11135,
+        1
+      ],
+      [
+        11137,
+        1
+      ],
+      [
+        11139,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4000,
+    "quality": -1,
+    "popularity": 39
+  },
+  {
+    "cat": 11,
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ],
+    "creates": [
+      11145,
+      1,
+      1
+    ],
+    "displayName": "Runed Truesilver Rod",
+    "id": 13702,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Runed Truesilver Rod",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        11144,
+        1
+      ],
+      [
+        7971,
+        1
+      ],
+      [
+        11135,
+        1
+      ],
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4000,
+    "popularity": 14
+  },
+  {
+    "cat": 11,
+    "colors": [
+      205,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Enchant Cloak - Greater Defense",
+    "id": 13746,
+    "learnedat": 205,
+    "level": 0,
+    "name": "Enchant Cloak - Greater Defense",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4200,
+    "quality": -1,
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      205,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Enchant Cloak - Resistance",
+    "id": 13794,
+    "learnedat": 205,
+    "level": 0,
+    "name": "Enchant Cloak - Resistance",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4200,
+    "quality": -1,
+    "popularity": 16
+  },
+  {
+    "cat": 11,
+    "colors": [
+      210,
+      230,
+      250,
+      270
+    ],
+    "displayName": "Enchant Gloves - Agility",
+    "id": 13815,
+    "learnedat": 210,
+    "level": 0,
+    "name": "Enchant Gloves - Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4400,
+    "quality": -1,
+    "popularity": 40
+  },
+  {
+    "cat": 11,
+    "colors": [
+      210,
+      230,
+      250,
+      270
+    ],
+    "displayName": "Enchant Shield - Stamina",
+    "id": 13817,
+    "learnedat": 210,
+    "level": 0,
+    "name": "Enchant Shield - Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 8
+  },
+  {
+    "cat": 11,
+    "colors": [
+      210,
+      230,
+      250,
+      270
+    ],
+    "displayName": "Enchant Bracer - Intellect",
+    "id": 13822,
+    "learnedat": 210,
+    "level": 0,
+    "name": "Enchant Bracer - Intellect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4400,
+    "quality": -1,
+    "popularity": 16
+  },
+  {
+    "cat": 11,
+    "colors": [
+      215,
+      235,
+      255,
+      275
+    ],
+    "displayName": "Enchant Boots - Stamina",
+    "id": 13836,
+    "learnedat": 215,
+    "level": 0,
+    "name": "Enchant Boots - Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4600,
+    "quality": -1,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      215,
+      235,
+      255,
+      275
+    ],
+    "displayName": "Enchant Gloves - Advanced Mining",
+    "id": 13841,
+    "learnedat": 215,
+    "level": 0,
+    "name": "Enchant Gloves - Advanced Mining",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        2
+      ],
+      [
+        6037,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      220,
+      240,
+      260,
+      280
+    ],
+    "displayName": "Enchant Bracer - Greater Spirit",
+    "id": 13846,
+    "learnedat": 220,
+    "level": 0,
+    "name": "Enchant Bracer - Greater Spirit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        1
+      ],
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      220,
+      240,
+      260,
+      280
+    ],
+    "displayName": "Enchant Chest - Superior Stamina",
+    "id": 13858,
+    "learnedat": 220,
+    "level": 0,
+    "name": "Enchant Chest - Superior Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4800,
+    "quality": -1,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      225,
+      245,
+      265,
+      285
+    ],
+    "displayName": "Enchant Gloves - Advanced Herbalism",
+    "id": 13868,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Enchant Gloves - Advanced Herbalism",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        2
+      ],
+      [
+        8838,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 36
+  },
+  {
+    "cat": 11,
+    "colors": [
+      225,
+      245,
+      265,
+      285
+    ],
+    "displayName": "Enchant Cloak - Lesser Agility",
+    "id": 13882,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Enchant Cloak - Lesser Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 35
+  },
+  {
+    "cat": 11,
+    "colors": [
+      225,
+      245,
+      265,
+      285
+    ],
+    "displayName": "Enchant Gloves - Strength",
+    "id": 13887,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Enchant Gloves - Strength",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        1
+      ],
+      [
+        11137,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5000,
+    "quality": -1,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      225,
+      245,
+      265,
+      285
+    ],
+    "displayName": "Enchant Boots - Minor Speed",
+    "id": 13890,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Enchant Boots - Minor Speed",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11177,
+        1
+      ],
+      [
+        7909,
+        1
+      ],
+      [
+        11174,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5000,
+    "quality": -1,
+    "popularity": 104
+  },
+  {
+    "cat": 11,
+    "colors": [
+      265,
+      285,
+      305,
+      325
+    ],
+    "displayName": "Enchant Weapon - Fiery Weapon",
+    "id": 13898,
+    "learnedat": 265,
+    "level": 0,
+    "name": "Enchant Weapon - Fiery Weapon",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11177,
+        2
+      ],
+      [
+        7078,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 86
+  },
+  {
+    "cat": 11,
+    "colors": [
+      230,
+      250,
+      270,
+      290
+    ],
+    "displayName": "Enchant Shield - Greater Spirit",
+    "id": 13905,
+    "learnedat": 230,
+    "level": 0,
+    "name": "Enchant Shield - Greater Spirit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        2
+      ],
+      [
+        11176,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5400,
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      230,
+      250,
+      270,
+      290
+    ],
+    "displayName": "Enchant Weapon - Demonslaying",
+    "id": 13915,
+    "learnedat": 230,
+    "level": 0,
+    "name": "Enchant Weapon - Demonslaying",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11177,
+        1
+      ],
+      [
+        11176,
+        1
+      ],
+      [
+        9224,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      230,
+      250,
+      270,
+      290
+    ],
+    "displayName": "Enchant Chest - Superior Intellect",
+    "id": 13917,
+    "learnedat": 230,
+    "level": 0,
+    "name": "Enchant Chest - Superior Intellect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11175,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5400,
+    "quality": -1,
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "displayName": "Enchanting",
+    "id": 13920,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Enchanting",
+    "nskillup": 1,
+    "rank": "Artisan",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 50000,
+    "quality": -1,
+    "popularity": 59
+  },
+  {
+    "cat": 11,
+    "colors": [
+      235,
+      255,
+      275,
+      295
+    ],
+    "displayName": "Enchant Bracer - Deflection",
+    "id": 13931,
+    "learnedat": 235,
+    "level": 0,
+    "name": "Enchant Bracer - Deflection",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        2
+      ],
+      [
+        11176,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      235,
+      255,
+      275,
+      295
+    ],
+    "displayName": "Enchant Shield - Frost Resistance",
+    "id": 13933,
+    "learnedat": 235,
+    "level": 0,
+    "name": "Enchant Shield - Frost Resistance",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11178,
+        1
+      ],
+      [
+        3829,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 12
+  },
+  {
+    "cat": 11,
+    "colors": [
+      235,
+      255,
+      275,
+      295
+    ],
+    "displayName": "Enchant Boots - Agility",
+    "id": 13935,
+    "learnedat": 235,
+    "level": 0,
+    "name": "Enchant Boots - Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11175,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5800,
+    "quality": -1,
+    "popularity": 35
+  },
+  {
+    "cat": 11,
+    "colors": [
+      240,
+      260,
+      280,
+      300
+    ],
+    "displayName": "Enchant 2H Weapon - Greater Impact",
+    "id": 13937,
+    "learnedat": 240,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Greater Impact",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11178,
+        1
+      ],
+      [
+        11176,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 6200,
+    "quality": -1,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      240,
+      260,
+      280,
+      300
+    ],
+    "displayName": "Enchant Bracer - Greater Strength",
+    "id": 13939,
+    "learnedat": 240,
+    "level": 0,
+    "name": "Enchant Bracer - Greater Strength",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        1
+      ],
+      [
+        11174,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 6200,
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "colors": [
+      245,
+      265,
+      285,
+      305
+    ],
+    "displayName": "Enchant Chest - Stats",
+    "id": 13941,
+    "learnedat": 245,
+    "level": 0,
+    "name": "Enchant Chest - Stats",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11178,
+        1
+      ],
+      [
+        11176,
+        1
+      ],
+      [
+        11175,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 6200,
+    "quality": -1,
+    "popularity": 33
+  },
+  {
+    "cat": 11,
+    "colors": [
+      245,
+      265,
+      285,
+      305
+    ],
+    "displayName": "Enchant Weapon - Greater Striking",
+    "id": 13943,
+    "learnedat": 245,
+    "level": 0,
+    "name": "Enchant Weapon - Greater Striking",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11178,
+        1
+      ],
+      [
+        11175,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 6200,
+    "quality": -1,
+    "popularity": 46
+  },
+  {
+    "cat": 11,
+    "colors": [
+      245,
+      265,
+      285,
+      305
+    ],
+    "displayName": "Enchant Bracer - Greater Stamina",
+    "id": 13945,
+    "learnedat": 245,
+    "level": 0,
+    "name": "Enchant Bracer - Greater Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      270,
+      290,
+      310
+    ],
+    "displayName": "Enchant Gloves - Riding Skill",
+    "id": 13947,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Enchant Gloves - Riding Skill",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11178,
+        1
+      ],
+      [
+        11176,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      270,
+      290,
+      310
+    ],
+    "displayName": "Enchant Gloves - Minor Haste",
+    "id": 13948,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Enchant Gloves - Minor Haste",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11178,
+        1
+      ],
+      [
+        8153,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 6500,
+    "quality": -1,
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "colors": [
+      10,
+      75,
+      95,
+      115
+    ],
+    "creates": [
+      11287,
+      1,
+      1
+    ],
+    "displayName": "Lesser Magic Wand",
+    "id": 14293,
+    "learnedat": 10,
+    "level": 0,
+    "name": "Lesser Magic Wand",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        4470,
+        1
+      ],
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 50,
+    "popularity": 288
+  },
+  {
+    "cat": 11,
+    "colors": [
+      70,
+      110,
+      130,
+      150
+    ],
+    "creates": [
+      11288,
+      1,
+      1
+    ],
+    "displayName": "Greater Magic Wand",
+    "id": 14807,
+    "learnedat": 70,
+    "level": 0,
+    "name": "Greater Magic Wand",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        4470,
+        1
+      ],
+      [
+        10938,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 200,
+    "popularity": 374
+  },
+  {
+    "cat": 11,
+    "colors": [
+      155,
+      175,
+      195,
+      215
+    ],
+    "creates": [
+      11289,
+      1,
+      1
+    ],
+    "displayName": "Lesser Mystic Wand",
+    "id": 14809,
+    "learnedat": 155,
+    "level": 0,
+    "name": "Lesser Mystic Wand",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        11291,
+        1
+      ],
+      [
+        11134,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2600,
+    "popularity": 66
+  },
+  {
+    "cat": 11,
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ],
+    "creates": [
+      217287,
+      1,
+      1
+    ],
+    "displayName": "Greater Mystic Wand",
+    "id": 14810,
+    "learnedat": 175,
+    "level": 0,
+    "name": "Greater Mystic Wand",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        11291,
+        1
+      ],
+      [
+        11134,
+        1
+      ],
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 3000,
+    "popularity": 25
+  },
+  {
+    "cat": 11,
+    "colors": [
+      265,
+      285,
+      305,
+      325
+    ],
+    "displayName": "Smoking Heart of the Mountain",
+    "id": 15596,
+    "learnedat": 265,
+    "level": 0,
+    "name": "Smoking Heart of the Mountain",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11382,
+        1
+      ],
+      [
+        7078,
+        1
+      ],
+      [
+        14343,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 46
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      250,
+      255,
+      260
+    ],
+    "creates": [
+      12655,
+      1,
+      1
+    ],
+    "displayName": "Enchanted Thorium",
+    "id": 17180,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Enchanted Thorium",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        12359,
+        1
+      ],
+      [
+        11176,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 10000,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      250,
+      255,
+      260
+    ],
+    "creates": [
+      12810,
+      1,
+      1
+    ],
+    "displayName": "Enchanted Leather",
+    "id": 17181,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Enchanted Leather",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8170,
+        1
+      ],
+      [
+        16202,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 10000,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      255,
+      275,
+      295,
+      315
+    ],
+    "displayName": "Enchant Bracer - Greater Intellect",
+    "id": 20008,
+    "learnedat": 255,
+    "level": 0,
+    "name": "Enchant Bracer - Greater Intellect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16202,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      270,
+      290,
+      310,
+      330
+    ],
+    "displayName": "Enchant Bracer - Superior Spirit",
+    "id": 20009,
+    "learnedat": 270,
+    "level": 0,
+    "name": "Enchant Bracer - Superior Spirit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16202,
+        2
+      ],
+      [
+        11176,
+        7
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      295,
+      315,
+      335,
+      355
+    ],
+    "displayName": "Enchant Bracer - Superior Strength",
+    "id": 20010,
+    "learnedat": 295,
+    "level": 0,
+    "name": "Enchant Bracer - Superior Strength",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16204,
+        6
+      ],
+      [
+        16203,
+        6
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Bracer - Superior Stamina",
+    "id": 20011,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Bracer - Superior Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16204,
+        15
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      270,
+      290,
+      310,
+      330
+    ],
+    "displayName": "Enchant Gloves - Greater Agility",
+    "id": 20012,
+    "learnedat": 270,
+    "level": 0,
+    "name": "Enchant Gloves - Greater Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16202,
+        2
+      ],
+      [
+        16204,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 25
+  },
+  {
+    "cat": 11,
+    "colors": [
+      295,
+      315,
+      335,
+      355
+    ],
+    "displayName": "Enchant Gloves - Greater Strength",
+    "id": 20013,
+    "learnedat": 295,
+    "level": 0,
+    "name": "Enchant Gloves - Greater Strength",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        4
+      ],
+      [
+        16204,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "colors": [
+      265,
+      285,
+      305,
+      325
+    ],
+    "displayName": "Enchant Cloak - Greater Resistance",
+    "id": 20014,
+    "learnedat": 265,
+    "level": 0,
+    "name": "Enchant Cloak - Greater Resistance",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16202,
+        1
+      ],
+      [
+        7077,
+        1
+      ],
+      [
+        7075,
+        1
+      ],
+      [
+        7079,
+        1
+      ],
+      [
+        7081,
+        1
+      ],
+      [
+        7972,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "colors": [
+      285,
+      305,
+      325,
+      345
+    ],
+    "displayName": "Enchant Cloak - Superior Defense",
+    "id": 20015,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Enchant Cloak - Superior Defense",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16204,
+        8
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "colors": [
+      280,
+      300,
+      320,
+      340
+    ],
+    "displayName": "Enchant Shield - Superior Spirit",
+    "id": 20016,
+    "learnedat": 280,
+    "level": 0,
+    "name": "Enchant Shield - Superior Spirit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        2
+      ],
+      [
+        16204,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 15
+  },
+  {
+    "cat": 11,
+    "colors": [
+      265,
+      285,
+      305,
+      325
+    ],
+    "displayName": "Enchant Shield - Greater Stamina",
+    "id": 20017,
+    "learnedat": 265,
+    "level": 0,
+    "name": "Enchant Shield - Greater Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        6
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "colors": [
+      260,
+      280,
+      300,
+      320
+    ],
+    "displayName": "Enchant Boots - Greater Stamina",
+    "id": 20020,
+    "learnedat": 260,
+    "level": 0,
+    "name": "Enchant Boots - Greater Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        6
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      295,
+      315,
+      335,
+      355
+    ],
+    "displayName": "Enchant Boots - Greater Agility",
+    "id": 20023,
+    "learnedat": 295,
+    "level": 0,
+    "name": "Enchant Boots - Greater Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        8
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 14
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      295,
+      315,
+      335
+    ],
+    "displayName": "Enchant Boots - Spirit",
+    "id": 20024,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Enchant Boots - Spirit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        2
+      ],
+      [
+        16202,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Chest - Greater Stats",
+    "id": 20025,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Chest - Greater Stats",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        16204,
+        15
+      ],
+      [
+        16203,
+        10
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 44
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      295,
+      315,
+      335
+    ],
+    "displayName": "Enchant Chest - Major Stamina",
+    "id": 20026,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Enchant Chest - Major Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16204,
+        6
+      ],
+      [
+        14343,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 45
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      310,
+      330,
+      350
+    ],
+    "displayName": "Enchant Chest - Major Intellect",
+    "id": 20028,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Enchant Chest - Major Intellect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        3
+      ],
+      [
+        14343,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 39
+  },
+  {
+    "cat": 11,
+    "colors": [
+      285,
+      305,
+      325,
+      345
+    ],
+    "displayName": "Enchant Weapon - Icy Chill",
+    "id": 20029,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Enchant Weapon - Icy Chill",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14343,
+        4
+      ],
+      [
+        7080,
+        1
+      ],
+      [
+        7082,
+        1
+      ],
+      [
+        13467,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      295,
+      315,
+      335,
+      355
+    ],
+    "displayName": "Enchant 2H Weapon - Superior Impact",
+    "id": 20030,
+    "learnedat": 295,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Superior Impact",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        16204,
+        10
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 12
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Weapon - Superior Striking",
+    "id": 20031,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Weapon - Superior Striking",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        2
+      ],
+      [
+        16203,
+        10
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Weapon - Lifestealing",
+    "id": 20032,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Weapon - Lifestealing",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        6
+      ],
+      [
+        12808,
+        6
+      ],
+      [
+        12803,
+        6
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      295,
+      315,
+      335,
+      355
+    ],
+    "displayName": "Enchant Weapon - Unholy Weapon",
+    "id": 20033,
+    "learnedat": 295,
+    "level": 0,
+    "name": "Enchant Weapon - Unholy Weapon",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        12808,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 32
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Weapon - Crusader",
+    "id": 20034,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Weapon - Crusader",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        12811,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 84
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant 2H Weapon - Major Spirit",
+    "id": 20035,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Major Spirit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        12
+      ],
+      [
+        14344,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant 2H Weapon - Major Intellect",
+    "id": 20036,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Major Intellect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        12
+      ],
+      [
+        14344,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      310,
+      330,
+      350
+    ],
+    "creates": [
+      16207,
+      1,
+      1
+    ],
+    "displayName": "Runed Arcanite Rod",
+    "id": 20051,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Runed Arcanite Rod",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        16206,
+        1
+      ],
+      [
+        13926,
+        1
+      ],
+      [
+        16204,
+        10
+      ],
+      [
+        16203,
+        4
+      ],
+      [
+        14343,
+        4
+      ],
+      [
+        14344,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      190,
+      210,
+      230,
+      250
+    ],
+    "displayName": "Enchant Weapon - Winter's Might",
+    "id": 21931,
+    "learnedat": 190,
+    "level": 0,
+    "name": "Enchant Weapon - Winter's Might",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11135,
+        1
+      ],
+      [
+        11137,
+        1
+      ],
+      [
+        11139,
+        1
+      ],
+      [
+        3819,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Weapon - Spell Power",
+    "id": 22749,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Weapon - Spell Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        16203,
+        12
+      ],
+      [
+        7078,
+        4
+      ],
+      [
+        7080,
+        4
+      ],
+      [
+        7082,
+        4
+      ],
+      [
+        13926,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 88
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Weapon - Healing Power",
+    "id": 22750,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Weapon - Healing Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        16203,
+        8
+      ],
+      [
+        12803,
+        6
+      ],
+      [
+        7080,
+        6
+      ],
+      [
+        12811,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      310,
+      330,
+      350
+    ],
+    "displayName": "Enchant Weapon - Strength",
+    "id": 23799,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Enchant Weapon - Strength",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        6
+      ],
+      [
+        16203,
+        6
+      ],
+      [
+        16204,
+        4
+      ],
+      [
+        7076,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      310,
+      330,
+      350
+    ],
+    "displayName": "Enchant Weapon - Agility",
+    "id": 23800,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Enchant Weapon - Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        6
+      ],
+      [
+        16203,
+        6
+      ],
+      [
+        16204,
+        4
+      ],
+      [
+        7082,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 38
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      310,
+      330,
+      350
+    ],
+    "displayName": "Enchant Bracer - Mana Regeneration",
+    "id": 23801,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Enchant Bracer - Mana Regeneration",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16204,
+        16
+      ],
+      [
+        16203,
+        4
+      ],
+      [
+        7080,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 44
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Bracer - Healing Power",
+    "id": 23802,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Bracer - Healing Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        2
+      ],
+      [
+        16204,
+        20
+      ],
+      [
+        16203,
+        4
+      ],
+      [
+        12803,
+        6
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Weapon - Mighty Spirit",
+    "id": 23803,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Weapon - Mighty Spirit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        10
+      ],
+      [
+        16203,
+        8
+      ],
+      [
+        16204,
+        15
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Weapon - Mighty Intellect",
+    "id": 23804,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Weapon - Mighty Intellect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        15
+      ],
+      [
+        16203,
+        12
+      ],
+      [
+        16204,
+        20
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 34
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Gloves - Threat",
+    "id": 25072,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Gloves - Threat",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        4
+      ],
+      [
+        14344,
+        6
+      ],
+      [
+        18512,
+        8
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Gloves - Shadow Power",
+    "id": 25073,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Gloves - Shadow Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        14344,
+        10
+      ],
+      [
+        12808,
+        6
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Gloves - Frost Power",
+    "id": 25074,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Gloves - Frost Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        14344,
+        10
+      ],
+      [
+        7080,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 15
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Gloves - Fire Power",
+    "id": 25078,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Gloves - Fire Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        14344,
+        10
+      ],
+      [
+        7078,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Gloves - Healing Power",
+    "id": 25079,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Gloves - Healing Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        14344,
+        8
+      ],
+      [
+        12811,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Gloves - Superior Agility",
+    "id": 25080,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Gloves - Superior Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        14344,
+        8
+      ],
+      [
+        7082,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Cloak - Greater Fire Resistance",
+    "id": 25081,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Cloak - Greater Fire Resistance",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        14344,
+        8
+      ],
+      [
+        7078,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 11
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Cloak - Greater Nature Resistance",
+    "id": 25082,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Cloak - Greater Nature Resistance",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        14344,
+        8
+      ],
+      [
+        12803,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 13
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Cloak - Stealth",
+    "id": 25083,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Cloak - Stealth",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        14344,
+        8
+      ],
+      [
+        13468,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Cloak - Subtlety",
+    "id": 25084,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Cloak - Subtlety",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        4
+      ],
+      [
+        14344,
+        6
+      ],
+      [
+        11754,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Cloak - Dodge",
+    "id": 25086,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Enchant Cloak - Dodge",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        14344,
+        8
+      ],
+      [
+        12809,
+        8
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      45,
+      47,
+      65
+    ],
+    "creates": [
+      20744,
+      0,
+      0
+    ],
+    "displayName": "Minor Wizard Oil",
+    "id": 25124,
+    "learnedat": 45,
+    "level": 0,
+    "name": "Minor Wizard Oil",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        17034,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 220
+  },
+  {
+    "cat": 11,
+    "colors": [
+      150,
+      160,
+      170,
+      180
+    ],
+    "creates": [
+      20745,
+      0,
+      0
+    ],
+    "displayName": "Minor Mana Oil",
+    "id": 25125,
+    "learnedat": 150,
+    "level": 0,
+    "name": "Minor Mana Oil",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ],
+      [
+        17034,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 38
+  },
+  {
+    "cat": 11,
+    "colors": [
+      200,
+      210,
+      220,
+      230
+    ],
+    "creates": [
+      20746,
+      0,
+      0
+    ],
+    "displayName": "Lesser Wizard Oil",
+    "id": 25126,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Lesser Wizard Oil",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        11137,
+        1
+      ],
+      [
+        17035,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 41
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      260,
+      270,
+      280
+    ],
+    "creates": [
+      20747,
+      0,
+      0
+    ],
+    "displayName": "Lesser Mana Oil",
+    "id": 25127,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Lesser Mana Oil",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        11176,
+        1
+      ],
+      [
+        8831,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 12
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      285,
+      295,
+      305
+    ],
+    "creates": [
+      20750,
+      0,
+      0
+    ],
+    "displayName": "Wizard Oil",
+    "id": 25128,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Wizard Oil",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        16204,
+        3
+      ],
+      [
+        4625,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 52
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      310,
+      320,
+      330
+    ],
+    "creates": [
+      20749,
+      0,
+      0
+    ],
+    "displayName": "Brilliant Wizard Oil",
+    "id": 25129,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Brilliant Wizard Oil",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        14344,
+        2
+      ],
+      [
+        4625,
+        3
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      310,
+      320,
+      330
+    ],
+    "creates": [
+      20748,
+      0,
+      0
+    ],
+    "displayName": "Brilliant Mana Oil",
+    "id": 25130,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Brilliant Mana Oil",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        14344,
+        2
+      ],
+      [
+        8831,
+        3
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      310,
+      330,
+      350
+    ],
+    "displayName": "Enchant 2H Weapon - Agility",
+    "id": 27837,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        10
+      ],
+      [
+        16203,
+        6
+      ],
+      [
+        16204,
+        14
+      ],
+      [
+        7082,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      100,
+      110,
+      120
+    ],
+    "displayName": "Blackfathom Mana Oil",
+    "id": 430409,
+    "learnedat": 100,
+    "level": 1,
+    "name": "Blackfathom Mana Oil",
+    "nskillup": 1,
+    "reagents": [
+      [
+        3372,
+        1
+      ],
+      [
+        10939,
+        1
+      ],
+      [
+        10940,
+        5
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 103
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      200,
+      217,
+      235
+    ],
+    "displayName": "Enchant Weapon - Dismantle",
+    "id": 435481,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Enchant Weapon - Dismantle",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        4
+      ],
+      [
+        5637,
+        2
+      ],
+      [
+        11177,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 36
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      200,
+      220,
+      240
+    ],
+    "displayName": "Enchant Chest - Retricutioner",
+    "id": 435903,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Enchant Chest - Retricutioner",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11177,
+        1
+      ],
+      [
+        11176,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 50
+  },
+  {
+    "cat": 11,
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ],
+    "creates": [
+      217287,
+      1,
+      1
+    ],
+    "displayName": "Greater Mystic Wand",
+    "id": 439134,
+    "learnedat": 175,
+    "level": 0,
+    "name": "Greater Mystic Wand",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        11291,
+        1
+      ],
+      [
+        11135,
+        1
+      ],
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 3000,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      227,
+      230
+    ],
+    "creates": [
+      217308,
+      1,
+      1
+    ],
+    "displayName": "Sigil of Innovation",
+    "id": 439156,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Sigil of Innovation",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        11137,
+        5
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      250,
+      255,
+      260
+    ],
+    "displayName": "Sigil of Living Dreams",
+    "id": 446243,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Sigil of Living Dreams",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        5
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      120,
+      140,
+      160
+    ],
+    "creates": [
+      220792,
+      1,
+      1
+    ],
+    "displayName": "Scroll of Spatial Mending",
+    "id": 448624,
+    "learnedat": 120,
+    "level": 0,
+    "name": "Scroll of Spatial Mending",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        4470,
+        1
+      ],
+      [
+        10940,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 111
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      305,
+      312,
+      320
+    ],
+    "creates": [
+      228978,
+      1,
+      1
+    ],
+    "displayName": "Sigil of Flowing Waters",
+    "id": 463866,
+    "learnedat": 305,
+    "level": 0,
+    "name": "Sigil of Flowing Waters",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        16204,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 59
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      295,
+      305
+    ],
+    "creates": [
+      228980,
+      0,
+      0
+    ],
+    "displayName": "Conductive Shield Coating",
+    "id": 463869,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Conductive Shield Coating",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        16204,
+        2
+      ],
+      [
+        4625,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 28
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Shield - Law of Nature",
+    "id": 463871,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Shield - Law of Nature",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        16203,
+        12
+      ],
+      [
+        7078,
+        4
+      ],
+      [
+        7080,
+        4
+      ],
+      [
+        7076,
+        1
+      ],
+      [
+        12811,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 52
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      310,
+      320,
+      330
+    ],
+    "creates": [
+      232611,
+      0,
+      0
+    ],
+    "displayName": "Magnificent Trollshine",
+    "id": 471400,
+    "learnedat": 310,
+    "level": 0,
+    "name": "Magnificent Trollshine",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8151,
+        3
+      ],
+      [
+        8152,
+        3
+      ],
+      [
+        14344,
+        2
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 35
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Speedstone",
+    "id": 1213593,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Speedstone",
+    "nskillup": 1,
+    "reagents": [
+      [
+        234006,
+        10
+      ],
+      [
+        234010,
+        10
+      ],
+      [
+        20725,
+        6
+      ],
+      [
+        234004,
+        6
+      ],
+      [
+        2452,
+        20
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 57
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Tear of the Dreamer",
+    "id": 1213595,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Tear of the Dreamer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        234006,
+        10
+      ],
+      [
+        234010,
+        10
+      ],
+      [
+        20725,
+        4
+      ],
+      [
+        234003,
+        10
+      ],
+      [
+        234012,
+        10
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 48
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Lodestone of Retaliation",
+    "id": 1213598,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Lodestone of Retaliation",
+    "nskillup": 1,
+    "reagents": [
+      [
+        234007,
+        10
+      ],
+      [
+        234010,
+        5
+      ],
+      [
+        20725,
+        4
+      ],
+      [
+        234003,
+        10
+      ],
+      [
+        234011,
+        10
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 36
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchanted Stopwatch",
+    "id": 1213600,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchanted Stopwatch",
+    "nskillup": 1,
+    "reagents": [
+      [
+        234003,
+        3
+      ],
+      [
+        234005,
+        6
+      ],
+      [
+        14344,
+        4
+      ],
+      [
+        2459,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 51
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Ruby-Encrusted Broach",
+    "id": 1213603,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Ruby-Encrusted Broach",
+    "nskillup": 1,
+    "reagents": [
+      [
+        234007,
+        10
+      ],
+      [
+        234010,
+        5
+      ],
+      [
+        20725,
+        6
+      ],
+      [
+        234003,
+        10
+      ],
+      [
+        234012,
+        10
+      ],
+      [
+        234011,
+        10
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Scroll: Wrath of the Swarm",
+    "id": 1213607,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Scroll: Wrath of the Swarm",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        1
+      ],
+      [
+        14047,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 52
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchanted Repellent",
+    "id": 1213610,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchanted Repellent",
+    "nskillup": 1,
+    "reagents": [
+      [
+        234011,
+        3
+      ],
+      [
+        234012,
+        3
+      ],
+      [
+        16204,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 41
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Chest - Living Stats",
+    "id": 1213616,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Chest - Living Stats",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        16204,
+        8
+      ],
+      [
+        16203,
+        5
+      ],
+      [
+        13458,
+        10
+      ],
+      [
+        234011,
+        2
+      ],
+      [
+        234010,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Gloves - Holy Power",
+    "id": 1213622,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Gloves - Holy Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        14344,
+        5
+      ],
+      [
+        13180,
+        5
+      ],
+      [
+        12735,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Gloves - Arcane Power",
+    "id": 1213626,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Gloves - Arcane Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        14344,
+        5
+      ],
+      [
+        12753,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchanted Prayer Tome",
+    "id": 1213628,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchanted Prayer Tome",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234008,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchanted Totem",
+    "id": 1213633,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchanted Totem",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234012,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 49
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchanted Mushroom",
+    "id": 1213635,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchanted Mushroom",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        234012,
+        20
+      ],
+      [
+        12810,
+        3
+      ],
+      [
+        234011,
+        4
+      ],
+      [
+        234010,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 76
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Libram of Righteousness",
+    "id": 1216005,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Libram of Righteousness",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234008,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Libram of the Exorcist",
+    "id": 1216007,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Libram of the Exorcist",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234008,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 38
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Libram of Sanctity",
+    "id": 1216010,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Libram of Sanctity",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234008,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 33
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Totem of Pyroclastic Thunder",
+    "id": 1216014,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Totem of Pyroclastic Thunder",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234012,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Totem of Thunderous Strikes",
+    "id": 1216016,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Totem of Thunderous Strikes",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234012,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 44
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Totem of Flowing Magma",
+    "id": 1216018,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Totem of Flowing Magma",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234012,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Idol of Sidereal Wrath",
+    "id": 1216020,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Idol of Sidereal Wrath",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        234012,
+        20
+      ],
+      [
+        12810,
+        3
+      ],
+      [
+        234011,
+        4
+      ],
+      [
+        234010,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 39
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Idol of Feline Ferocity",
+    "id": 1216022,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Idol of Feline Ferocity",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        234012,
+        20
+      ],
+      [
+        12810,
+        3
+      ],
+      [
+        234011,
+        4
+      ],
+      [
+        234010,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 51
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Idol of Ursin Power",
+    "id": 1216024,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Idol of Ursin Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        234012,
+        20
+      ],
+      [
+        12810,
+        3
+      ],
+      [
+        234011,
+        4
+      ],
+      [
+        234010,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 44
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Bracer - Spell Power",
+    "id": 1217189,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Bracer - Spell Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        2
+      ],
+      [
+        16204,
+        20
+      ],
+      [
+        16203,
+        4
+      ],
+      [
+        7080,
+        2
+      ],
+      [
+        7078,
+        2
+      ],
+      [
+        7082,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 28
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Bracer - Agility",
+    "id": 1217203,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Bracer - Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        16204,
+        10
+      ],
+      [
+        16203,
+        2
+      ],
+      [
+        7082,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 38
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Off-Hand - Superior Intellect",
+    "id": 1219577,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Off-Hand - Superior Intellect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        16204,
+        18
+      ],
+      [
+        7082,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Off-Hand - Excellent Spirit",
+    "id": 1219578,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Off-Hand - Excellent Spirit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        16204,
+        18
+      ],
+      [
+        7080,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 32
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Off-Hand - Wisdom",
+    "id": 1219579,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Off-Hand - Wisdom",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        6
+      ],
+      [
+        16204,
+        18
+      ],
+      [
+        7082,
+        1
+      ],
+      [
+        7080,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 31
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant 2H Weapon - Spellblasting",
+    "id": 1219580,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Spellblasting",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        16204,
+        24
+      ],
+      [
+        12938,
+        1
+      ],
+      [
+        8831,
+        6
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 94
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Shield - Excellent Stamina",
+    "id": 1219581,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Shield - Excellent Stamina",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        6
+      ],
+      [
+        16204,
+        18
+      ],
+      [
+        7076,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Cloak - Agility",
+    "id": 1219587,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Cloak - Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        3
+      ],
+      [
+        16204,
+        9
+      ],
+      [
+        7078,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 34
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Shield - Critical Strike",
+    "id": 1220623,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Shield - Critical Strike",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        5
+      ],
+      [
+        16204,
+        15
+      ],
+      [
+        12938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Bracer - Greater Spellpower",
+    "id": 1220624,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Bracer - Greater Spellpower",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        3
+      ],
+      [
+        16204,
+        9
+      ],
+      [
+        12808,
+        12
+      ],
+      [
+        8831,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      20,
+      22,
+      25
+    ],
+    "creates": [
+      279976,
+      1,
+      1
+    ],
+    "displayName": "Enchanted Lute",
+    "id": 1230643,
+    "learnedat": 20,
+    "level": 0,
+    "name": "Enchanted Lute",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Tier 1",
+    "reagents": [
+      [
+        4470,
+        1
+      ],
+      [
+        10940,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 308
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      305,
+      307,
+      310
+    ],
+    "displayName": "Enchant Weapon - Grand Crusader",
+    "id": 1231128,
+    "learnedat": 305,
+    "level": 0,
+    "name": "Enchant Weapon - Grand Crusader",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        5
+      ],
+      [
+        12811,
+        2
+      ],
+      [
+        20725,
+        2
+      ],
+      [
+        12938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 77
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      305,
+      307,
+      310
+    ],
+    "displayName": "Enchant 2H Weapon - Grand Arcanist",
+    "id": 1231139,
+    "learnedat": 305,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Grand Arcanist",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        10
+      ],
+      [
+        12811,
+        4
+      ],
+      [
+        20725,
+        4
+      ],
+      [
+        12938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 83
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      305,
+      307,
+      310
+    ],
+    "displayName": "Enchant Weapon - Grand Sorcerer",
+    "id": 1231164,
+    "learnedat": 305,
+    "level": 0,
+    "name": "Enchant Weapon - Grand Sorcerer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        6
+      ],
+      [
+        12811,
+        3
+      ],
+      [
+        20725,
+        2
+      ],
+      [
+        12938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 63
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      305,
+      307,
+      310
+    ],
+    "displayName": "Enchant 2H Weapon - Grand Inquisitor",
+    "id": 1232172,
+    "learnedat": 305,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Grand Inquisitor",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        10
+      ],
+      [
+        12811,
+        6
+      ],
+      [
+        20725,
+        4
+      ],
+      [
+        12938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 99
+  },
+  {
+    "cat": 11,
+    "displayName": "Enchanting",
+    "id": 1240946,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Enchanting",
+    "nskillup": 1,
+    "rank": "Apprentice",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 34
+  },
+  {
+    "cat": 11,
+    "displayName": "Enchanting",
+    "id": 1240957,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Enchanting",
+    "nskillup": 1,
+    "rank": "Journeyman",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "displayName": "Enchanting",
+    "id": 1240968,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Enchanting",
+    "nskillup": 1,
+    "rank": "Expert",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "displayName": "Enchanting",
+    "id": 1240981,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Enchanting",
+    "nskillup": 1,
+    "rank": "Artisan",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 30
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      10,
+      12,
+      15
+    ],
+    "creates": [
+      247786,
+      3,
+      3
+    ],
+    "displayName": "Dust to Motes",
+    "id": 1245320,
+    "learnedat": 10,
+    "level": 0,
+    "name": "Dust to Motes",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 188
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      10,
+      12,
+      15
+    ],
+    "creates": [
+      247789,
+      1,
+      1
+    ],
+    "displayName": "Novice's Practice Wand",
+    "id": 1245321,
+    "learnedat": 10,
+    "level": 0,
+    "name": "Novice's Practice Wand",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        4470,
+        1
+      ],
+      [
+        247786,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 371
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      110,
+      130,
+      150
+    ],
+    "displayName": "Enchant Bracer - Minor Intellect",
+    "id": 1248458,
+    "learnedat": 110,
+    "level": 0,
+    "name": "Enchant Bracer - Minor Intellect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      120,
+      140,
+      160
+    ],
+    "displayName": "Enchant Bracer - Minor Healing Power",
+    "id": 1248459,
+    "learnedat": 120,
+    "level": 0,
+    "name": "Enchant Bracer - Minor Healing Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 58
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      165,
+      185,
+      205
+    ],
+    "displayName": "Enchant Bracer - Lesser Agility",
+    "id": 1248460,
+    "learnedat": 165,
+    "level": 0,
+    "name": "Enchant Bracer - Lesser Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      205,
+      225,
+      245
+    ],
+    "creates": [
+      249144,
+      0,
+      0
+    ],
+    "displayName": "Twisted Nether Wand",
+    "id": 1248461,
+    "learnedat": 205,
+    "level": 0,
+    "name": "Twisted Nether Wand",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        11174,
+        1
+      ],
+      [
+        11176,
+        1
+      ],
+      [
+        11291,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 53
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Enchant Bracer - Agility",
+    "id": 1248497,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Enchant Bracer - Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Enchant Bracer - Lesser Healing Power",
+    "id": 1248498,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Enchant Bracer - Lesser Healing Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      260,
+      280,
+      300
+    ],
+    "displayName": "Enchant Bracer - Greater Agility",
+    "id": 1248500,
+    "learnedat": 260,
+    "level": 0,
+    "name": "Enchant Bracer - Greater Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        3
+      ],
+      [
+        11174,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 51
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      265,
+      285,
+      305
+    ],
+    "creates": [
+      249232,
+      0,
+      0
+    ],
+    "displayName": "Lesser Eternal Wand",
+    "id": 1248505,
+    "learnedat": 265,
+    "level": 0,
+    "name": "Lesser Eternal Wand",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        16202,
+        1
+      ],
+      [
+        11176,
+        1
+      ],
+      [
+        11291,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 34
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      235,
+      255,
+      275
+    ],
+    "creates": [
+      249234,
+      0,
+      0
+    ],
+    "displayName": "Dreambough Wand",
+    "id": 1248509,
+    "learnedat": 235,
+    "level": 0,
+    "name": "Dreambough Wand",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        11174,
+        2
+      ],
+      [
+        11137,
+        1
+      ],
+      [
+        11291,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      230,
+      250,
+      270
+    ],
+    "displayName": "Enchant 2H Weapon - Lesser Agility",
+    "id": 1248510,
+    "learnedat": 230,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Lesser Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        2
+      ],
+      [
+        11139,
+        1
+      ],
+      [
+        11174,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      240,
+      260,
+      280
+    ],
+    "displayName": "Enchant 2H Weapon - Lesser Strength",
+    "id": 1248511,
+    "learnedat": 240,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Lesser Strength",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        1
+      ],
+      [
+        11139,
+        1
+      ],
+      [
+        11174,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 41
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      295,
+      305
+    ],
+    "creates": [
+      249237,
+      0,
+      0
+    ],
+    "displayName": "Greater Eternal Wand",
+    "id": 1248515,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Greater Eternal Wand",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        16203,
+        2
+      ],
+      [
+        16204,
+        1
+      ],
+      [
+        11291,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      270,
+      290,
+      310
+    ],
+    "displayName": "Enchant Gloves - Advanced Skinning",
+    "id": 1248528,
+    "learnedat": 270,
+    "level": 0,
+    "name": "Enchant Gloves - Advanced Skinning",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        2
+      ],
+      [
+        15407,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 33
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      315,
+      335,
+      355
+    ],
+    "displayName": "Enchant Bracer - Superior Agility",
+    "id": 1248599,
+    "learnedat": 315,
+    "level": 0,
+    "name": "Enchant Bracer - Superior Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16204,
+        3
+      ],
+      [
+        16203,
+        3
+      ],
+      [
+        14344,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 51
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant 2H Weapon - Mighty Spell Power",
+    "id": 1248607,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Mighty Spell Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        248819,
+        4
+      ],
+      [
+        16203,
+        6
+      ],
+      [
+        7076,
+        4
+      ],
+      [
+        12808,
+        4
+      ],
+      [
+        20725,
+        4
+      ],
+      [
+        248820,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 69
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant 2H Weapon - Mighty Healing Power",
+    "id": 1248636,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Mighty Healing Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        248819,
+        4
+      ],
+      [
+        16203,
+        6
+      ],
+      [
+        249726,
+        4
+      ],
+      [
+        249274,
+        4
+      ],
+      [
+        20725,
+        4
+      ],
+      [
+        248820,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 93
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Gloves - Superior Strength",
+    "id": 1248640,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Gloves - Superior Strength",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        4
+      ],
+      [
+        16203,
+        8
+      ],
+      [
+        7076,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 39
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Gloves - Natural Power",
+    "id": 1248645,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Gloves - Natural Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        14344,
+        5
+      ],
+      [
+        248822,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 48
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "creates": [
+      249385,
+      0,
+      0
+    ],
+    "displayName": "Brilliant Wand",
+    "id": 1248650,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Brilliant Wand",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        16203,
+        1
+      ],
+      [
+        16204,
+        3
+      ],
+      [
+        14344,
+        2
+      ],
+      [
+        11291,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 86
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Bracer - Superior Intellect",
+    "id": 1248661,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Bracer - Superior Intellect",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        10
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 46
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant Bracer - Superior Deflection",
+    "id": 1248665,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant Bracer - Superior Deflection",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 48
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      290,
+      295,
+      300
+    ],
+    "displayName": "Enchant 2H Weapon - Strength",
+    "id": 1248668,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Strength",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        8
+      ],
+      [
+        16203,
+        10
+      ],
+      [
+        16204,
+        8
+      ],
+      [
+        12363,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 30
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "creates": [
+      249392,
+      0,
+      0
+    ],
+    "displayName": "Glimmering Staff",
+    "id": 1248703,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Glimmering Staff",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11084,
+        4
+      ],
+      [
+        10978,
+        2
+      ],
+      [
+        11291,
+        4
+      ],
+      [
+        11082,
+        1
+      ],
+      [
+        10940,
+        5
+      ],
+      [
+        249391,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 180
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "creates": [
+      249393,
+      0,
+      0
+    ],
+    "displayName": "Soulstaff",
+    "id": 1248739,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Soulstaff",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11084,
+        2
+      ],
+      [
+        10978,
+        1
+      ],
+      [
+        11291,
+        4
+      ],
+      [
+        11082,
+        1
+      ],
+      [
+        11083,
+        6
+      ],
+      [
+        1210,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 101
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "creates": [
+      249394,
+      0,
+      0
+    ],
+    "displayName": "Orb of Mystic Insight",
+    "id": 1248745,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Orb of Mystic Insight",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        10978,
+        2
+      ],
+      [
+        11082,
+        2
+      ],
+      [
+        10940,
+        5
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 85
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "creates": [
+      249395,
+      0,
+      0
+    ],
+    "displayName": "Orb of Souls",
+    "id": 1248748,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Orb of Souls",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        10978,
+        2
+      ],
+      [
+        11082,
+        2
+      ],
+      [
+        11083,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 66
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "creates": [
+      249396,
+      0,
+      0
+    ],
+    "displayName": "Mystic Mushroom",
+    "id": 1248752,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Mystic Mushroom",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        10978,
+        1
+      ],
+      [
+        10939,
+        2
+      ],
+      [
+        10940,
+        5
+      ],
+      [
+        4605,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 105
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "creates": [
+      249397,
+      0,
+      0
+    ],
+    "displayName": "Tenets of the Silver Hand",
+    "id": 1248754,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Tenets of the Silver Hand",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11084,
+        1
+      ],
+      [
+        10939,
+        1
+      ],
+      [
+        10940,
+        2
+      ],
+      [
+        3013,
+        5
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 90
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "creates": [
+      249398,
+      0,
+      0
+    ],
+    "displayName": "Polished Driftwood Icon",
+    "id": 1248755,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Polished Driftwood Icon",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11084,
+        1
+      ],
+      [
+        10939,
+        2
+      ],
+      [
+        10940,
+        3
+      ],
+      [
+        4470,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 157
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "displayName": "Enchant Weapon - Insight",
+    "id": 1248757,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Enchant Weapon - Insight",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        10
+      ],
+      [
+        11084,
+        4
+      ],
+      [
+        11082,
+        4
+      ],
+      [
+        249391,
+        4
+      ],
+      [
+        249399,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 216
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "displayName": "Enchant Weapon - Recovery",
+    "id": 1248760,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Enchant Weapon - Recovery",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        6
+      ],
+      [
+        11084,
+        4
+      ],
+      [
+        11082,
+        6
+      ],
+      [
+        249391,
+        4
+      ],
+      [
+        2775,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 174
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "displayName": "Enchant Weapon - Revelation",
+    "id": 1248805,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Enchant Weapon - Revelation",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        8
+      ],
+      [
+        11084,
+        6
+      ],
+      [
+        11082,
+        2
+      ],
+      [
+        249409,
+        4
+      ],
+      [
+        249410,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 246
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      249441,
+      0,
+      0
+    ],
+    "displayName": "Talons of Wrath",
+    "id": 1248974,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Talons of Wrath",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11178,
+        2
+      ],
+      [
+        11175,
+        4
+      ],
+      [
+        11176,
+        6
+      ],
+      [
+        249430,
+        2
+      ],
+      [
+        249409,
+        1
+      ],
+      [
+        11291,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 50
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      249442,
+      0,
+      0
+    ],
+    "displayName": "Libram of Invocation",
+    "id": 1249006,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Libram of Invocation",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11178,
+        3
+      ],
+      [
+        11175,
+        3
+      ],
+      [
+        11176,
+        4
+      ],
+      [
+        249430,
+        2
+      ],
+      [
+        249409,
+        1
+      ],
+      [
+        2289,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      249443,
+      0,
+      0
+    ],
+    "displayName": "Totem of Ancestral Protection",
+    "id": 1249015,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Totem of Ancestral Protection",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11178,
+        4
+      ],
+      [
+        11175,
+        2
+      ],
+      [
+        11176,
+        2
+      ],
+      [
+        249432,
+        4
+      ],
+      [
+        249410,
+        2
+      ],
+      [
+        11291,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Enchant Necklace - Strength",
+    "id": 1249019,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Enchant Necklace - Strength",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11175,
+        4
+      ],
+      [
+        11178,
+        4
+      ],
+      [
+        11176,
+        10
+      ],
+      [
+        249410,
+        4
+      ],
+      [
+        249425,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Enchant Necklace - Spell Power",
+    "id": 1249057,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Enchant Necklace - Spell Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11175,
+        5
+      ],
+      [
+        11178,
+        3
+      ],
+      [
+        11176,
+        8
+      ],
+      [
+        249409,
+        4
+      ],
+      [
+        249430,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 69
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Enchant Necklace - Healing Power",
+    "id": 1249058,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Enchant Necklace - Healing Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11175,
+        3
+      ],
+      [
+        11178,
+        5
+      ],
+      [
+        11176,
+        4
+      ],
+      [
+        249391,
+        4
+      ],
+      [
+        249424,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 78
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Enchant Necklace - Agility",
+    "id": 1249059,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Enchant Necklace - Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11175,
+        2
+      ],
+      [
+        11178,
+        8
+      ],
+      [
+        11176,
+        6
+      ],
+      [
+        249410,
+        4
+      ],
+      [
+        249430,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 64
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Enchant Necklace - Deflection",
+    "id": 1249060,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Enchant Necklace - Deflection",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11175,
+        8
+      ],
+      [
+        11178,
+        2
+      ],
+      [
+        11176,
+        2
+      ],
+      [
+        249409,
+        4
+      ],
+      [
+        249430,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 46
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      249453,
+      0,
+      0
+    ],
+    "displayName": "Radiant Staff",
+    "id": 1249061,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Radiant Staff",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11178,
+        6
+      ],
+      [
+        11177,
+        2
+      ],
+      [
+        11291,
+        4
+      ],
+      [
+        11175,
+        4
+      ],
+      [
+        11176,
+        6
+      ],
+      [
+        249409,
+        2
+      ],
+      [
+        249430,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 78
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      249454,
+      0,
+      0
+    ],
+    "displayName": "Dreamstaff",
+    "id": 1249064,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Dreamstaff",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11178,
+        4
+      ],
+      [
+        11177,
+        4
+      ],
+      [
+        11291,
+        4
+      ],
+      [
+        11175,
+        6
+      ],
+      [
+        11176,
+        8
+      ],
+      [
+        249409,
+        2
+      ],
+      [
+        249430,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 90
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      249455,
+      0,
+      0
+    ],
+    "displayName": "Truesilver Conduit",
+    "id": 1249069,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Truesilver Conduit",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11178,
+        3
+      ],
+      [
+        11177,
+        1
+      ],
+      [
+        11291,
+        2
+      ],
+      [
+        11175,
+        2
+      ],
+      [
+        11176,
+        3
+      ],
+      [
+        249409,
+        1
+      ],
+      [
+        249430,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      249456,
+      0,
+      0
+    ],
+    "displayName": "Twisting Essence Jar",
+    "id": 1249070,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Twisting Essence Jar",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        6037,
+        4
+      ],
+      [
+        11175,
+        12
+      ],
+      [
+        11135,
+        12
+      ],
+      [
+        249409,
+        1
+      ],
+      [
+        249430,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 57
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Enchant Chest - Absorption",
+    "id": 1249071,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Enchant Chest - Absorption",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        10
+      ],
+      [
+        11175,
+        4
+      ],
+      [
+        11178,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      305,
+      325
+    ],
+    "creates": [
+      249469,
+      1,
+      1
+    ],
+    "displayName": "Frozen Heart of the Mountain",
+    "id": 1249107,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Frozen Heart of the Mountain",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11382,
+        1
+      ],
+      [
+        12808,
+        1
+      ],
+      [
+        14343,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 61
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      305,
+      325
+    ],
+    "creates": [
+      249470,
+      1,
+      1
+    ],
+    "displayName": "Molten Heart of the Mountain",
+    "id": 1249112,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Molten Heart of the Mountain",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11382,
+        1
+      ],
+      [
+        7076,
+        1
+      ],
+      [
+        14343,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 64
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      305,
+      325
+    ],
+    "creates": [
+      249473,
+      1,
+      1
+    ],
+    "displayName": "Dormant Heart of the Mountain",
+    "id": 1249114,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Dormant Heart of the Mountain",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11382,
+        1
+      ],
+      [
+        7080,
+        1
+      ],
+      [
+        14343,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 64
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "creates": [
+      220606,
+      0,
+      0
+    ],
+    "displayName": "Idol of the Dream",
+    "id": 1249128,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Idol of the Dream",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        14344,
+        2
+      ],
+      [
+        16203,
+        4
+      ],
+      [
+        16204,
+        6
+      ],
+      [
+        249431,
+        8
+      ],
+      [
+        249430,
+        4
+      ],
+      [
+        249409,
+        2
+      ],
+      [
+        11291,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 64
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "creates": [
+      228175,
+      0,
+      0
+    ],
+    "displayName": "Libram of Holy Alacrity",
+    "id": 1249152,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Libram of Holy Alacrity",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        16203,
+        3
+      ],
+      [
+        16204,
+        4
+      ],
+      [
+        249431,
+        8
+      ],
+      [
+        249430,
+        4
+      ],
+      [
+        249409,
+        2
+      ],
+      [
+        10308,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "creates": [
+      228176,
+      0,
+      0
+    ],
+    "displayName": "Totem of Thunder",
+    "id": 1249154,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Totem of Thunder",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        14344,
+        1
+      ],
+      [
+        16203,
+        8
+      ],
+      [
+        16204,
+        10
+      ],
+      [
+        249431,
+        8
+      ],
+      [
+        249430,
+        4
+      ],
+      [
+        249409,
+        2
+      ],
+      [
+        11291,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 63
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      142,
+      145
+    ],
+    "creates": [
+      279985,
+      1,
+      1
+    ],
+    "displayName": "Arcane Salvager",
+    "id": 1263056,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Arcane Salvager",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Tier 2",
+    "reagents": [
+      [
+        11137,
+        2
+      ],
+      [
+        11174,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 157
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      300,
+      300,
+      300
+    ],
+    "creates": [
+      279987,
+      1,
+      1
+    ],
+    "displayName": "Arcane Forge",
+    "id": 1263082,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Arcane Forge",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Tier 3",
+    "reagents": [
+      [
+        273128,
+        1
+      ],
+      [
+        14344,
+        2
+      ],
+      [
+        16203,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 129
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      287,
+      290
+    ],
+    "displayName": "Enchant Gloves - Lotus Claw",
+    "id": 1294054,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Enchant Gloves - Lotus Claw",
+    "nskillup": 1,
+    "reagents": [
+      [
+        248822,
+        1
+      ],
+      [
+        14343,
+        2
+      ],
+      [
+        16204,
+        12
+      ],
+      [
+        16202,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 69
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      310,
+      317,
+      325
+    ],
+    "creates": [
+      279246,
+      1,
+      1
+    ],
+    "displayName": "Torch of Light",
+    "id": 1306520,
+    "learnedat": 310,
+    "level": 0,
+    "name": "Torch of Light",
+    "nskillup": 1,
+    "quality": 4,
+    "reagents": [
+      [
+        274030,
+        2
+      ],
+      [
+        20725,
+        1
+      ],
+      [
+        14344,
+        6
+      ],
+      [
+        16202,
+        5
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 113
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      310,
+      317,
+      325
+    ],
+    "creates": [
+      279247,
+      1,
+      1
+    ],
+    "displayName": "Steadfast Libram",
+    "id": 1306521,
+    "learnedat": 310,
+    "level": 0,
+    "name": "Steadfast Libram",
+    "nskillup": 1,
+    "quality": 4,
+    "reagents": [
+      [
+        274030,
+        1
+      ],
+      [
+        20725,
+        1
+      ],
+      [
+        16203,
+        2
+      ],
+      [
+        16204,
+        12
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 75
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      310,
+      317,
+      325
+    ],
+    "creates": [
+      279248,
+      1,
+      1
+    ],
+    "displayName": "Libram of Infusion",
+    "id": 1306522,
+    "learnedat": 310,
+    "level": 0,
+    "name": "Libram of Infusion",
+    "nskillup": 1,
+    "quality": 4,
+    "reagents": [
+      [
+        274030,
+        1
+      ],
+      [
+        20725,
+        1
+      ],
+      [
+        16203,
+        2
+      ],
+      [
+        16204,
+        12
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 69
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      310,
+      317,
+      325
+    ],
+    "creates": [
+      279249,
+      1,
+      1
+    ],
+    "displayName": "Totem of Urgency",
+    "id": 1306523,
+    "learnedat": 310,
+    "level": 0,
+    "name": "Totem of Urgency",
+    "nskillup": 1,
+    "quality": 4,
+    "reagents": [
+      [
+        274030,
+        1
+      ],
+      [
+        20725,
+        1
+      ],
+      [
+        16203,
+        2
+      ],
+      [
+        16204,
+        12
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 61
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      310,
+      317,
+      325
+    ],
+    "creates": [
+      279250,
+      1,
+      1
+    ],
+    "displayName": "Idol of Swiftness",
+    "id": 1306524,
+    "learnedat": 310,
+    "level": 0,
+    "name": "Idol of Swiftness",
+    "nskillup": 1,
+    "quality": 4,
+    "reagents": [
+      [
+        274030,
+        1
+      ],
+      [
+        20725,
+        1
+      ],
+      [
+        16203,
+        2
+      ],
+      [
+        16204,
+        12
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 66
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      310,
+      317,
+      325
+    ],
+    "creates": [
+      279251,
+      1,
+      1
+    ],
+    "displayName": "Idol of the Ursine Twins",
+    "id": 1306525,
+    "learnedat": 310,
+    "level": 0,
+    "name": "Idol of the Ursine Twins",
+    "nskillup": 1,
+    "quality": 4,
+    "reagents": [
+      [
+        274030,
+        1
+      ],
+      [
+        20725,
+        1
+      ],
+      [
+        16203,
+        2
+      ],
+      [
+        16204,
+        12
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 72
+  }
+]

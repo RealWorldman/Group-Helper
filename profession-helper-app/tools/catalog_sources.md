@@ -10,8 +10,10 @@ dokumentiert diese Strukturen nirgends. Jede Aussage trägt deshalb einen Status
 | 🟡 vermutet | plausibel, aber nicht gegengeprüft |
 | ❔ offen | noch nicht untersucht |
 
-**Datenstand:** 21.09.2026, Beruf Schneiderei (`skill=197`), 477 Einträge, Beta-Phase.
-**Rohdaten:** `data/probe/tailoring.json` (EN) und `data/probe/tailoring.de.json` (DE).
+**Datenstand:** 21.09.2026, Beta-Phase. Tiefenanalyse (Abschnitte 2–5) bisher nur für
+Schneiderei (`skill=197`, 477 Einträge); alle sieben Berufe sind geladen (Abschnitt 1a).
+**Rohdaten:** `data/probe/<slug>.json` (EN) und `data/probe/<slug>.de.json` (DE),
+Roh-HTML daneben als `<slug>[.de].html` (gitignored).
 
 ---
 
@@ -43,11 +45,18 @@ und Sprache** — kein Paging, kein Request pro Item.
 
 ```bash
 cd profession-helper-app
-uv run python tools/probe_listing.py --profession tailoring --out data/probe/tailoring.json
+# alle sieben Berufe x EN/DE, 1 req/s, HTML-Cache in data/probe/ (14 Requests beim ersten Lauf)
+uv run python tools/probe_all.py
+# einzelner Beruf, ohne Cache
 uv run python tools/probe_listing.py --profession tailoring --locale de --out data/probe/tailoring.de.json
 ```
 
-Der Join beider Sprachen läuft über `id` (= `spell_id`) und ist verlustfrei: gleiche 477 IDs
+`probe_all.py` holt nur Seiten, deren HTML noch nicht im Cache liegt (`--refetch` erzwingt
+alles neu). Regressionsprobe am 21.09.2026: Die neu geholten Seiten für Schneiderei (EN/DE)
+und Verzauberkunst (DE) ergaben **byteweise identisches JSON** zu den vorher eingecheckten
+Dateien — Parser und Quelle stabil.
+
+Der Join beider Sprachen läuft über `id` (= `spell_id`) und ist für Schneiderei verlustfrei: gleiche 477 IDs
 in beiden Sprachen, keine Waisen in eine Richtung.
 
 ### Rate-Limit und Umgang
@@ -56,6 +65,29 @@ in beiden Sprachen, keine Waisen in eine Richtung.
 - `User-Agent` mit Projektname und Kontaktadresse — keine Browser-Tarnung
 - Roh-HTML lokal cachen, nicht für jeden Testlauf neu ziehen
 - **keine öffentliche Weiterverbreitung des Datensatzes** (siehe Risiko 2 im Plan)
+
+## 1a. Berufe, Slugs, Skill-IDs
+
+Alle sieben Slugs am 21.09.2026 per `probe_all.py` geprüft — kein Fehlschlag. ✅ belegt
+
+| Beruf | Slug | `skill` | Einträge EN | Einträge DE | `source`-Codes |
+|---|---|---:|---:|---:|---|
+| Alchemie | `alchemy` | 171 | 202 | 202 | 1, 2, 4, 5, 6, 16, 21 |
+| Schmiedekunst | `blacksmithing` | 164 | 515 | 515 | 1, 2, 4, 5, 6, 16, 21 |
+| Verzauberkunst | `enchanting` | 333 | 270 | 270 | 2, 5, 6, 16, 21 |
+| Ingenieurskunst | `engineering` | 202 | 284 | 284 | 2, 4, 5, 6, 16, 21 |
+| Lederverarbeitung | `leatherworking` | 165 | 613 | 613 | 2, 4, 5, 6, 16, 21 |
+| Bergbau | `mining` | 186 | 29 | 29 | 6 |
+| Schneiderei | `tailoring` | 197 | 477 | 477 | 2, 4, 5, 6, 16, 21 |
+
+- **EN und DE haben bei jedem Beruf gleich viele Einträge.** Dass der Join über `id` auch
+  überall verlustfrei ist und alles übersetzt ist, ist damit 🟡 vermutet — gemessen
+  (`locale_join.py`) ist es bisher nur für Schneiderei.
+- **Berufsübergreifende Rezepte:** Lederverarbeitung *und* Schneiderei enthalten Einträge mit
+  `skill: [165, 197]`. Ein solcher Zauber steht in **beiden** Listings. → Der Import muss
+  über `spell_id` deduplizieren und `skill` als Liste speichern. Wie viele Einträge das
+  betrifft und ob es weitere Kombinationen gibt: ❔ offen.
+- **Bergbau** hat nur 29 Einträge, alle mit Quelle `6` (Lehrer) — plausibel für Verhütten.
 
 ---
 
@@ -69,8 +101,8 @@ Abdeckung gemessen an den 477 Schneiderei-Einträgen.
 | `name` | string | 100 % | **Name des hergestellten Gegenstands**, lokalisiert |
 | `displayName` | string | 100 % | bisher immer identisch zu `name` |
 | `learnedat` | int | 100 % | benötigter Berufs-Skill (`9999` = Berufsrang, kein Rezept) |
-| `skill` | int[] | 100 % | Skill-Line-ID des Berufs (Schneiderei = `197`) |
-| `cat` | int | 100 % | Berufs-Kategorie (Schneiderei = `11`) |
+| `skill` | int[] | 100 % | Skill-Line-ID(s) des Berufs (Schneiderei = `197`) — **kann mehrere enthalten**, z. B. `[165, 197]`; IDs aller Berufe in Abschnitt 1a |
+| `cat` | int | 100 % | Zauber-Kategorie „Berufe" — **bei allen sieben Berufen `11`**, taugt nicht zur Berufszuordnung ✅ |
 | `quality` | int | 100 % | Item-Qualität; **`-1` = kein verknüpftes Item**, siehe Abschnitt 4 |
 | `nskillup`, `level`, `schools`, `popularity` | int | 100 % | für uns ohne Bedeutung |
 | `reagents` | [[int,int]] | 98,3 % | `[[item_id, menge], ...]` |
@@ -129,8 +161,13 @@ Ein Eintrag kann mehrere Quellen haben: `Rote Leinenrobe` hat `[2, 16, 21]`.
 | `16` | 19 | 0 | **Geangelt** | ✅ belegt |
 | `4` | 6 | 0 | **Quest** | ✅ belegt |
 | `21` | 6 | 0 | **Aus Taschendiebstahl** | ✅ belegt |
+| `1` | ? | ? | **unbekannt** — nur bei Alchemie und Schmiedekunst | ❔ offen |
 
-Die Zuordnung ist vollständig — es gibt in den Schneiderei-Daten keinen weiteren Code.
+Die Anzahlen oben gelten für Schneiderei. Dort ist die Zuordnung vollständig. **Code `1`**
+taucht erst bei Alchemie und Schmiedekunst auf (Lauf vom 21.09.2026) und ist noch nicht
+belegt: Häufigkeit, Korrelation mit `trainingcost` und Gegenprobe im Wowhead-Dropdown
+stehen aus. Bis dahin muss der Import ihn als unbekannt melden.
+
 Dass ausgerechnet *Angeln* und *Taschendiebstahl* als Quellen auftauchen, ist kein Fehler:
 Das Rezept-**Item** wird so erlangt (aus erangelten Behältern bzw. von bestohlenen
 Humanoiden), nicht der Zauber selbst.
@@ -267,8 +304,8 @@ indiziert — siehe *Zweisprachigkeit* im [Plan](../PLAN.md).
 
 | Frage | Warum sie zählt |
 |---|---|
-| Gilt all das auch für die anderen sechs Berufe? | Bisher ist nur Schneiderei untersucht |
+| Gilt die Tiefenanalyse (Abschnitte 2–5) auch für die anderen sechs Berufe? | Daten liegen vor (Abschnitt 1a), ausgewertet ist nur Schneiderei |
+| Was bedeutet `source`-Code `1`? | Alchemie + Schmiedekunst; ohne Klärung ist der Trainer-Filter dort unsicher |
+| Wie viele berufsübergreifende Rezepte (`skill` mit mehreren IDs) gibt es? | Dedup im Import |
 | Liefert der Scrape die **Zauberbeschreibung** mit Zahlenwerten? | Entscheidet über die Fragenklasse „+35 Beweglichkeit" (Risiko 3 im Plan) |
 | Was enthält die Kategorie „Books"? | Falls dort Rezepte primärer Berufe stecken, muss sie in den Scope |
-| Slugs der übrigen Berufe | `tailoring` ist belegt, die anderen sechs sind geraten |
-| Tauchen bei anderen Berufen weitere `source`-Codes auf? | Verfahren siehe Abschnitt 3 |

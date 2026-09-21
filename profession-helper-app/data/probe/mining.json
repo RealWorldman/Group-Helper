@@ -1,0 +1,851 @@
+[
+  {
+    "cat": 11,
+    "displayName": "Mining",
+    "id": 2575,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Mining",
+    "nskillup": 1,
+    "rank": "Apprentice",
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 10,
+    "quality": -1,
+    "popularity": 58
+  },
+  {
+    "cat": 11,
+    "displayName": "Mining",
+    "id": 2576,
+    "learnedat": 50,
+    "level": 0,
+    "name": "Mining",
+    "nskillup": 1,
+    "rank": "Journeyman",
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 500,
+    "quality": -1,
+    "popularity": 41
+  },
+  {
+    "cat": 11,
+    "displayName": "Find Minerals",
+    "id": 2580,
+    "learnedat": 9999,
+    "level": 1,
+    "name": "Find Minerals",
+    "nskillup": 1,
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "quality": -1,
+    "popularity": 242
+  },
+  {
+    "cat": 11,
+    "displayName": "Smelting",
+    "id": 2656,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Smelting",
+    "nskillup": 1,
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "quality": -1,
+    "popularity": 97
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      25,
+      47,
+      70
+    ],
+    "creates": [
+      2840,
+      1,
+      1
+    ],
+    "displayName": "Smelt Copper",
+    "id": 2657,
+    "learnedat": 25,
+    "level": 0,
+    "name": "Smelt Copper",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2770,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "popularity": 126
+  },
+  {
+    "cat": 11,
+    "colors": [
+      75,
+      100,
+      112,
+      125
+    ],
+    "creates": [
+      2842,
+      1,
+      1
+    ],
+    "displayName": "Smelt Silver",
+    "id": 2658,
+    "learnedat": 75,
+    "level": 0,
+    "name": "Smelt Silver",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        2775,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 200,
+    "popularity": 63
+  },
+  {
+    "cat": 11,
+    "colors": [
+      65,
+      65,
+      90,
+      115
+    ],
+    "creates": [
+      2841,
+      2,
+      2
+    ],
+    "displayName": "Smelt Bronze",
+    "id": 2659,
+    "learnedat": 65,
+    "level": 0,
+    "name": "Smelt Bronze",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2840,
+        1
+      ],
+      [
+        3576,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 200,
+    "popularity": 67
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      0,
+      65,
+      75
+    ],
+    "creates": [
+      3576,
+      1,
+      1
+    ],
+    "displayName": "Smelt Tin",
+    "id": 3304,
+    "learnedat": 65,
+    "level": 0,
+    "name": "Smelt Tin",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2771,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 50,
+    "popularity": 60
+  },
+  {
+    "cat": 11,
+    "colors": [
+      125,
+      130,
+      135,
+      140
+    ],
+    "creates": [
+      3575,
+      1,
+      1
+    ],
+    "displayName": "Smelt Iron",
+    "id": 3307,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Smelt Iron",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2772,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 500,
+    "popularity": 38
+  },
+  {
+    "cat": 11,
+    "colors": [
+      155,
+      170,
+      177,
+      185
+    ],
+    "creates": [
+      3577,
+      1,
+      1
+    ],
+    "displayName": "Smelt Gold",
+    "id": 3308,
+    "learnedat": 155,
+    "level": 0,
+    "name": "Smelt Gold",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        2776,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2500,
+    "popularity": 30
+  },
+  {
+    "cat": 11,
+    "displayName": "Mining",
+    "id": 3564,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Mining",
+    "nskillup": 1,
+    "rank": "Expert",
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5000,
+    "quality": -1,
+    "popularity": 61
+  },
+  {
+    "cat": 11,
+    "colors": [
+      165,
+      165,
+      165,
+      165
+    ],
+    "creates": [
+      3859,
+      1,
+      1
+    ],
+    "displayName": "Smelt Steel",
+    "id": 3569,
+    "learnedat": 165,
+    "level": 0,
+    "name": "Smelt Steel",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3575,
+        1
+      ],
+      [
+        3857,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2500,
+    "popularity": 36
+  },
+  {
+    "cat": 11,
+    "colors": [
+      175,
+      175,
+      175,
+      175
+    ],
+    "creates": [
+      3860,
+      1,
+      1
+    ],
+    "displayName": "Smelt Mithril",
+    "id": 10097,
+    "learnedat": 175,
+    "level": 0,
+    "name": "Smelt Mithril",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3858,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5000,
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      230,
+      230,
+      230
+    ],
+    "creates": [
+      6037,
+      1,
+      1
+    ],
+    "displayName": "Smelt Truesilver",
+    "id": 10098,
+    "learnedat": 230,
+    "level": 0,
+    "name": "Smelt Truesilver",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        7911,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "displayName": "Mining",
+    "id": 10248,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Mining",
+    "nskillup": 1,
+    "rank": "Artisan",
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 50000,
+    "quality": -1,
+    "popularity": 75
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      230,
+      230,
+      230
+    ],
+    "creates": [
+      11371,
+      1,
+      1
+    ],
+    "displayName": "Smelt Dark Iron",
+    "id": 14891,
+    "learnedat": 230,
+    "level": 0,
+    "name": "Smelt Dark Iron",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        11370,
+        8
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      250,
+      250,
+      250
+    ],
+    "creates": [
+      12359,
+      1,
+      1
+    ],
+    "displayName": "Smelt Thorium",
+    "id": 16153,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Smelt Thorium",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        10620,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 20000,
+    "popularity": 28
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      310,
+      315,
+      320
+    ],
+    "creates": [
+      17771,
+      1,
+      1
+    ],
+    "displayName": "Smelt Elementium",
+    "id": 22967,
+    "learnedat": 310,
+    "level": 0,
+    "name": "Smelt Elementium",
+    "nskillup": 1,
+    "quality": 5,
+    "reagents": [
+      [
+        18562,
+        1
+      ],
+      [
+        12360,
+        10
+      ],
+      [
+        17010,
+        1
+      ],
+      [
+        18567,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "popularity": 54
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      315,
+      322,
+      330
+    ],
+    "displayName": "Smelt Obsidian-Infused Thorium Bar",
+    "id": 1213638,
+    "learnedat": 315,
+    "level": 0,
+    "name": "Smelt Obsidian-Infused Thorium Bar",
+    "nskillup": 1,
+    "reagents": [
+      [
+        12655,
+        2
+      ],
+      [
+        22203,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "quality": -1,
+    "popularity": 45
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      20,
+      22,
+      25
+    ],
+    "creates": [
+      279960,
+      1,
+      1
+    ],
+    "displayName": "Lodestone",
+    "id": 1230161,
+    "learnedat": 20,
+    "level": 0,
+    "name": "Lodestone",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Tier 1",
+    "reagents": [
+      [
+        2835,
+        1
+      ],
+      [
+        2840,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "popularity": 386
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "displayName": "Mining",
+    "id": 1235230,
+    "learnedat": 1,
+    "level": 0,
+    "name": "Mining",
+    "nskillup": 1,
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "quality": -1,
+    "popularity": 31
+  },
+  {
+    "cat": 11,
+    "displayName": "Mining",
+    "id": 1240951,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Mining",
+    "nskillup": 1,
+    "rank": "Apprentice",
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "quality": -1,
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "displayName": "Mining",
+    "id": 1240962,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Mining",
+    "nskillup": 1,
+    "rank": "Journeyman",
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "displayName": "Mining",
+    "id": 1240973,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Mining",
+    "nskillup": 1,
+    "rank": "Expert",
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "quality": -1,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "displayName": "Mining",
+    "id": 1240986,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Mining",
+    "nskillup": 1,
+    "rank": "Artisan",
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "quality": -1,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      275,
+      275,
+      275
+    ],
+    "creates": [
+      249726,
+      1,
+      1
+    ],
+    "displayName": "Smelt Azerothium",
+    "id": 1249637,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Smelt Azerothium",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        249426,
+        2
+      ],
+      [
+        3857,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "popularity": 100
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      142,
+      145
+    ],
+    "creates": [
+      279948,
+      1,
+      1
+    ],
+    "displayName": "Rock Garden",
+    "id": 1262975,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Rock Garden",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Tier 2",
+    "reagents": [
+      [
+        2838,
+        2
+      ],
+      [
+        2772,
+        1
+      ],
+      [
+        2842,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "popularity": 109
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      300,
+      300,
+      300
+    ],
+    "creates": [
+      279952,
+      1,
+      1
+    ],
+    "displayName": "Molten Foundry",
+    "id": 1263071,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Molten Foundry",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Tier 3",
+    "reagents": [
+      [
+        12359,
+        5
+      ],
+      [
+        12365,
+        2
+      ],
+      [
+        6037,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "popularity": 102
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      300,
+      307,
+      315
+    ],
+    "creates": [
+      251291,
+      1,
+      1
+    ],
+    "displayName": "Smelt Heavy Thorium",
+    "id": 1306126,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Smelt Heavy Thorium",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        248815,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      186
+    ],
+    "popularity": 89
+  }
+]

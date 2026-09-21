@@ -1,0 +1,8116 @@
+[
+  {
+    "cat": 11,
+    "displayName": "Alchemy",
+    "id": 2259,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Alchemy",
+    "nskillup": 1,
+    "rank": "Apprentice",
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 10,
+    "quality": -1,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      1,
+      55,
+      75,
+      95
+    ],
+    "creates": [
+      2454,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Minor Strength",
+    "id": 2329,
+    "learnedat": 1,
+    "level": 0,
+    "name": "Elixir of Minor Strength",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2449,
+        1
+      ],
+      [
+        765,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 68
+  },
+  {
+    "cat": 11,
+    "colors": [
+      25,
+      65,
+      85,
+      105
+    ],
+    "creates": [
+      2455,
+      1,
+      1
+    ],
+    "displayName": "Minor Mana Potion",
+    "id": 2331,
+    "learnedat": 25,
+    "level": 0,
+    "name": "Minor Mana Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        785,
+        1
+      ],
+      [
+        2447,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 100,
+    "popularity": 221
+  },
+  {
+    "cat": 11,
+    "colors": [
+      40,
+      70,
+      90,
+      110
+    ],
+    "creates": [
+      2456,
+      1,
+      1
+    ],
+    "displayName": "Minor Rejuvenation Potion",
+    "id": 2332,
+    "learnedat": 40,
+    "level": 0,
+    "name": "Minor Rejuvenation Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        785,
+        2
+      ],
+      [
+        2447,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 150,
+    "popularity": 38
+  },
+  {
+    "cat": 11,
+    "colors": [
+      140,
+      165,
+      185,
+      205
+    ],
+    "creates": [
+      3390,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Lesser Agility",
+    "id": 2333,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Elixir of Lesser Agility",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3355,
+        1
+      ],
+      [
+        2452,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      50,
+      80,
+      100,
+      120
+    ],
+    "creates": [
+      2458,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Minor Fortitude",
+    "id": 2334,
+    "learnedat": 50,
+    "level": 0,
+    "name": "Elixir of Minor Fortitude",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2449,
+        2
+      ],
+      [
+        2447,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 250,
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "colors": [
+      60,
+      90,
+      110,
+      130
+    ],
+    "creates": [
+      2459,
+      1,
+      1
+    ],
+    "displayName": "Swiftness Potion",
+    "id": 2335,
+    "learnedat": 60,
+    "level": 0,
+    "name": "Swiftness Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2452,
+        1
+      ],
+      [
+        2450,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2,
+      16,
+      21
+    ],
+    "popularity": 75
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      100,
+      120,
+      140
+    ],
+    "displayName": "Draught of Tongues",
+    "id": 2365,
+    "learnedat": 100,
+    "level": 0,
+    "name": "Draught of Tongues",
+    "nskillup": 1,
+    "reagents": [
+      [
+        2449,
+        2
+      ],
+      [
+        785,
+        2
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 151
+  },
+  {
+    "cat": 11,
+    "displayName": "Alchemy",
+    "id": 3101,
+    "learnedat": 50,
+    "level": 0,
+    "name": "Alchemy",
+    "nskillup": 1,
+    "rank": "Journeyman",
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 500,
+    "quality": -1,
+    "popularity": 69
+  },
+  {
+    "cat": 11,
+    "colors": [
+      15,
+      60,
+      80,
+      100
+    ],
+    "creates": [
+      3382,
+      1,
+      1
+    ],
+    "displayName": "Minor Troll's Blood Elixir",
+    "id": 3170,
+    "learnedat": 15,
+    "level": 0,
+    "name": "Minor Troll's Blood Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2447,
+        1
+      ],
+      [
+        2449,
+        2
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 50,
+    "popularity": 78
+  },
+  {
+    "cat": 11,
+    "colors": [
+      90,
+      120,
+      140,
+      160
+    ],
+    "creates": [
+      3383,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Wisdom",
+    "id": 3171,
+    "learnedat": 90,
+    "level": 0,
+    "name": "Elixir of Wisdom",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        785,
+        1
+      ],
+      [
+        2450,
+        2
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 500,
+    "popularity": 51
+  },
+  {
+    "cat": 11,
+    "colors": [
+      110,
+      135,
+      155,
+      175
+    ],
+    "creates": [
+      3384,
+      1,
+      1
+    ],
+    "displayName": "Minor Magic Resistance Potion",
+    "id": 3172,
+    "learnedat": 110,
+    "level": 0,
+    "name": "Minor Magic Resistance Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        785,
+        3
+      ],
+      [
+        3355,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 10
+  },
+  {
+    "cat": 11,
+    "colors": [
+      120,
+      145,
+      165,
+      185
+    ],
+    "creates": [
+      3385,
+      1,
+      1
+    ],
+    "displayName": "Lesser Mana Potion",
+    "id": 3173,
+    "learnedat": 120,
+    "level": 0,
+    "name": "Lesser Mana Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        785,
+        1
+      ],
+      [
+        3820,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1500,
+    "popularity": 55
+  },
+  {
+    "cat": 11,
+    "colors": [
+      120,
+      145,
+      165,
+      185
+    ],
+    "creates": [
+      3386,
+      1,
+      1
+    ],
+    "displayName": "Potion of Poison Cleansing",
+    "id": 3174,
+    "learnedat": 120,
+    "level": 0,
+    "name": "Potion of Poison Cleansing",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        1288,
+        1
+      ],
+      [
+        2453,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 35
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      275,
+      295,
+      315
+    ],
+    "creates": [
+      3387,
+      1,
+      1
+    ],
+    "displayName": "Limited Invulnerability Potion",
+    "id": 3175,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Limited Invulnerability Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8839,
+        2
+      ],
+      [
+        8845,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      125,
+      150,
+      170,
+      190
+    ],
+    "creates": [
+      3388,
+      1,
+      1
+    ],
+    "displayName": "Lesser Troll's Blood Elixir",
+    "id": 3176,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Lesser Troll's Blood Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2453,
+        2
+      ],
+      [
+        2450,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1500,
+    "popularity": 58
+  },
+  {
+    "cat": 11,
+    "colors": [
+      130,
+      155,
+      175,
+      195
+    ],
+    "creates": [
+      3389,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Lesser Defense",
+    "id": 3177,
+    "learnedat": 130,
+    "level": 0,
+    "name": "Elixir of Lesser Defense",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3355,
+        1
+      ],
+      [
+        3820,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2000,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      150,
+      175,
+      195,
+      215
+    ],
+    "creates": [
+      3391,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Ogre Strength",
+    "id": 3188,
+    "learnedat": 150,
+    "level": 0,
+    "name": "Elixir of Ogre Strength",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2449,
+        1
+      ],
+      [
+        3356,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      50,
+      80,
+      100,
+      120
+    ],
+    "creates": [
+      2457,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Minor Agility",
+    "id": 3230,
+    "learnedat": 50,
+    "level": 0,
+    "name": "Elixir of Minor Agility",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2452,
+        1
+      ],
+      [
+        765,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2,
+      16,
+      21
+    ],
+    "popularity": 55
+  },
+  {
+    "cat": 11,
+    "colors": [
+      165,
+      185,
+      205,
+      225
+    ],
+    "creates": [
+      3823,
+      1,
+      1
+    ],
+    "displayName": "Lesser Invisibility Potion",
+    "id": 3448,
+    "learnedat": 165,
+    "level": 0,
+    "name": "Lesser Invisibility Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3818,
+        1
+      ],
+      [
+        3355,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4500,
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "colors": [
+      165,
+      190,
+      210,
+      230
+    ],
+    "creates": [
+      3824,
+      2,
+      2
+    ],
+    "displayName": "Shadow Oil",
+    "id": 3449,
+    "learnedat": 165,
+    "level": 0,
+    "name": "Shadow Oil",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3818,
+        4
+      ],
+      [
+        3369,
+        4
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 58
+  },
+  {
+    "cat": 11,
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ],
+    "creates": [
+      3825,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Lesser Fortitude",
+    "id": 3450,
+    "learnedat": 175,
+    "level": 0,
+    "name": "Elixir of Lesser Fortitude",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3355,
+        1
+      ],
+      [
+        3821,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2,
+      6
+    ],
+    "trainingcost": 5400,
+    "popularity": 31
+  },
+  {
+    "cat": 11,
+    "colors": [
+      180,
+      200,
+      220,
+      240
+    ],
+    "creates": [
+      3826,
+      1,
+      1
+    ],
+    "displayName": "Troll's Blood Elixir",
+    "id": 3451,
+    "learnedat": 180,
+    "level": 0,
+    "name": "Troll's Blood Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3357,
+        1
+      ],
+      [
+        2453,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "colors": [
+      160,
+      180,
+      200,
+      220
+    ],
+    "creates": [
+      3827,
+      1,
+      1
+    ],
+    "displayName": "Mana Potion",
+    "id": 3452,
+    "learnedat": 160,
+    "level": 0,
+    "name": "Mana Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3820,
+        1
+      ],
+      [
+        3356,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5000,
+    "popularity": 50
+  },
+  {
+    "cat": 11,
+    "colors": [
+      195,
+      215,
+      235,
+      255
+    ],
+    "creates": [
+      3828,
+      1,
+      1
+    ],
+    "displayName": "Draught of Detect Lesser Invisibility",
+    "id": 3453,
+    "learnedat": 195,
+    "level": 0,
+    "name": "Draught of Detect Lesser Invisibility",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3358,
+        1
+      ],
+      [
+        3818,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ],
+    "creates": [
+      3829,
+      2,
+      2
+    ],
+    "displayName": "Frost Oil",
+    "id": 3454,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Frost Oil",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3358,
+        4
+      ],
+      [
+        3819,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 25
+  },
+  {
+    "cat": 11,
+    "displayName": "Alchemy",
+    "id": 3464,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Alchemy",
+    "nskillup": 1,
+    "rank": "Expert",
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5000,
+    "quality": -1,
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      50,
+      55,
+      75,
+      95
+    ],
+    "creates": [
+      4596,
+      1,
+      1
+    ],
+    "displayName": "Minor Discolored Healing Potion",
+    "id": 4508,
+    "learnedat": 50,
+    "level": 0,
+    "name": "Minor Discolored Healing Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3371,
+        1
+      ],
+      [
+        2447,
+        1
+      ],
+      [
+        730,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      4
+    ],
+    "popularity": 86
+  },
+  {
+    "cat": 11,
+    "colors": [
+      215,
+      230,
+      250,
+      270
+    ],
+    "creates": [
+      4623,
+      1,
+      1
+    ],
+    "displayName": "Lesser Stoneshield Potion",
+    "id": 4942,
+    "learnedat": 215,
+    "level": 0,
+    "name": "Lesser Stoneshield Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3858,
+        1
+      ],
+      [
+        3821,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      4
+    ],
+    "popularity": 11
+  },
+  {
+    "cat": 11,
+    "colors": [
+      60,
+      90,
+      110,
+      130
+    ],
+    "creates": [
+      5631,
+      1,
+      1
+    ],
+    "displayName": "Rage Potion",
+    "id": 6617,
+    "learnedat": 60,
+    "level": 0,
+    "name": "Rage Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        5635,
+        1
+      ],
+      [
+        2450,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 54
+  },
+  {
+    "cat": 11,
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ],
+    "creates": [
+      5633,
+      1,
+      1
+    ],
+    "displayName": "Great Rage Potion",
+    "id": 6618,
+    "learnedat": 175,
+    "level": 0,
+    "name": "Great Rage Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        5637,
+        1
+      ],
+      [
+        3356,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      150,
+      175,
+      195,
+      215
+    ],
+    "creates": [
+      5634,
+      1,
+      1
+    ],
+    "displayName": "Free Action Potion",
+    "id": 6624,
+    "learnedat": 150,
+    "level": 0,
+    "name": "Free Action Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        6370,
+        2
+      ],
+      [
+        3820,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 80
+  },
+  {
+    "cat": 11,
+    "colors": [
+      90,
+      120,
+      140,
+      160
+    ],
+    "creates": [
+      5996,
+      1,
+      1
+    ],
+    "displayName": "Draught of Water Breathing",
+    "id": 7179,
+    "learnedat": 90,
+    "level": 0,
+    "name": "Draught of Water Breathing",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3820,
+        1
+      ],
+      [
+        6370,
+        2
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 450,
+    "popularity": 109
+  },
+  {
+    "cat": 11,
+    "colors": [
+      1,
+      55,
+      75,
+      95
+    ],
+    "creates": [
+      5997,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Minor Defense",
+    "id": 7183,
+    "learnedat": 1,
+    "level": 0,
+    "name": "Elixir of Minor Defense",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        765,
+        1
+      ],
+      [
+        2447,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 60
+  },
+  {
+    "cat": 11,
+    "colors": [
+      100,
+      130,
+      150,
+      170
+    ],
+    "creates": [
+      6051,
+      1,
+      1
+    ],
+    "displayName": "Holy Protection Potion",
+    "id": 7255,
+    "learnedat": 100,
+    "level": 0,
+    "name": "Holy Protection Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2453,
+        1
+      ],
+      [
+        2452,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "colors": [
+      135,
+      160,
+      180,
+      200
+    ],
+    "creates": [
+      6048,
+      1,
+      1
+    ],
+    "displayName": "Shadow Protection Potion",
+    "id": 7256,
+    "learnedat": 135,
+    "level": 0,
+    "name": "Shadow Protection Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3369,
+        1
+      ],
+      [
+        3356,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 25
+  },
+  {
+    "cat": 11,
+    "colors": [
+      165,
+      210,
+      230,
+      250
+    ],
+    "creates": [
+      6049,
+      1,
+      1
+    ],
+    "displayName": "Fire Protection Potion",
+    "id": 7257,
+    "learnedat": 165,
+    "level": 0,
+    "name": "Fire Protection Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        4402,
+        1
+      ],
+      [
+        6371,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 11
+  },
+  {
+    "cat": 11,
+    "colors": [
+      190,
+      205,
+      225,
+      245
+    ],
+    "creates": [
+      6050,
+      1,
+      1
+    ],
+    "displayName": "Frost Protection Potion",
+    "id": 7258,
+    "learnedat": 190,
+    "level": 0,
+    "name": "Frost Protection Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3819,
+        1
+      ],
+      [
+        3821,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 15
+  },
+  {
+    "cat": 11,
+    "colors": [
+      190,
+      210,
+      230,
+      250
+    ],
+    "creates": [
+      6052,
+      1,
+      1
+    ],
+    "displayName": "Nature Protection Potion",
+    "id": 7259,
+    "learnedat": 190,
+    "level": 0,
+    "name": "Nature Protection Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3357,
+        1
+      ],
+      [
+        3820,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 9
+  },
+  {
+    "cat": 11,
+    "colors": [
+      80,
+      80,
+      90,
+      100
+    ],
+    "creates": [
+      6370,
+      1,
+      1
+    ],
+    "displayName": "Blackmouth Oil",
+    "id": 7836,
+    "learnedat": 80,
+    "level": 0,
+    "name": "Blackmouth Oil",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        6358,
+        2
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 250,
+    "popularity": 135
+  },
+  {
+    "cat": 11,
+    "colors": [
+      130,
+      150,
+      160,
+      170
+    ],
+    "creates": [
+      6371,
+      2,
+      2
+    ],
+    "displayName": "Fire Oil",
+    "id": 7837,
+    "learnedat": 130,
+    "level": 0,
+    "name": "Fire Oil",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        6359,
+        2
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1000,
+    "popularity": 49
+  },
+  {
+    "cat": 11,
+    "colors": [
+      100,
+      130,
+      150,
+      170
+    ],
+    "creates": [
+      6372,
+      1,
+      1
+    ],
+    "displayName": "Swim Speed Potion",
+    "id": 7841,
+    "learnedat": 100,
+    "level": 0,
+    "name": "Swim Speed Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2452,
+        1
+      ],
+      [
+        6370,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1000,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      140,
+      165,
+      185,
+      205
+    ],
+    "creates": [
+      6373,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Fire Power",
+    "id": 7845,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Elixir of Fire Power",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        6371,
+        2
+      ],
+      [
+        3356,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 3000,
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      90,
+      120,
+      140,
+      160
+    ],
+    "creates": [
+      6662,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Giant Growth",
+    "id": 8240,
+    "learnedat": 90,
+    "level": 0,
+    "name": "Elixir of Giant Growth",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        6522,
+        1
+      ],
+      [
+        2449,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 46
+  },
+  {
+    "cat": 11,
+    "colors": [
+      205,
+      220,
+      240,
+      260
+    ],
+    "creates": [
+      6149,
+      1,
+      1
+    ],
+    "displayName": "Greater Mana Potion",
+    "id": 11448,
+    "learnedat": 205,
+    "level": 0,
+    "name": "Greater Mana Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3358,
+        1
+      ],
+      [
+        3821,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 8100,
+    "popularity": 16
+  },
+  {
+    "cat": 11,
+    "colors": [
+      185,
+      205,
+      225,
+      245
+    ],
+    "creates": [
+      8949,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Agility",
+    "id": 11449,
+    "learnedat": 185,
+    "level": 0,
+    "name": "Elixir of Agility",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3820,
+        1
+      ],
+      [
+        3821,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5850,
+    "popularity": 28
+  },
+  {
+    "cat": 11,
+    "colors": [
+      195,
+      215,
+      235,
+      255
+    ],
+    "creates": [
+      8951,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Defense",
+    "id": 11450,
+    "learnedat": 195,
+    "level": 0,
+    "name": "Elixir of Defense",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3355,
+        1
+      ],
+      [
+        3821,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 6750,
+    "popularity": 36
+  },
+  {
+    "cat": 11,
+    "colors": [
+      205,
+      220,
+      240,
+      260
+    ],
+    "creates": [
+      8956,
+      1,
+      1
+    ],
+    "displayName": "Oil of Immolation",
+    "id": 11451,
+    "learnedat": 205,
+    "level": 0,
+    "name": "Oil of Immolation",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        4625,
+        1
+      ],
+      [
+        3821,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 7200,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      215,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      9030,
+      1,
+      1
+    ],
+    "displayName": "Restorative Potion",
+    "id": 11452,
+    "learnedat": 215,
+    "level": 0,
+    "name": "Restorative Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        7067,
+        1
+      ],
+      [
+        3821,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      210,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      9036,
+      1,
+      1
+    ],
+    "displayName": "Magic Resistance Potion",
+    "id": 11453,
+    "learnedat": 210,
+    "level": 0,
+    "name": "Magic Resistance Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3358,
+        1
+      ],
+      [
+        8831,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 15
+  },
+  {
+    "cat": 11,
+    "colors": [
+      210,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      9061,
+      2,
+      2
+    ],
+    "displayName": "Goblin Rocket Fuel",
+    "id": 11456,
+    "learnedat": 210,
+    "level": 0,
+    "name": "Goblin Rocket Fuel",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        4625,
+        1
+      ],
+      [
+        9260,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      1
+    ],
+    "popularity": 32
+  },
+  {
+    "cat": 11,
+    "colors": [
+      225,
+      225,
+      237,
+      250
+    ],
+    "creates": [
+      9144,
+      1,
+      1
+    ],
+    "displayName": "Wildvine Potion",
+    "id": 11458,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Wildvine Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8153,
+        1
+      ],
+      [
+        8831,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 14
+  },
+  {
+    "cat": 11,
+    "colors": [
+      225,
+      240,
+      260,
+      280
+    ],
+    "creates": [
+      9149,
+      1,
+      1
+    ],
+    "displayName": "Philosopher's Stone",
+    "id": 11459,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Philosopher's Stone",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3575,
+        4
+      ],
+      [
+        9262,
+        1
+      ],
+      [
+        8831,
+        4
+      ],
+      [
+        4625,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 153
+  },
+  {
+    "cat": 11,
+    "colors": [
+      230,
+      245,
+      265,
+      285
+    ],
+    "creates": [
+      9154,
+      1,
+      1
+    ],
+    "displayName": "Draught of Detect Undead",
+    "id": 11460,
+    "learnedat": 230,
+    "level": 0,
+    "name": "Draught of Detect Undead",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8836,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4500,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      235,
+      250,
+      270,
+      290
+    ],
+    "creates": [
+      9155,
+      1,
+      1
+    ],
+    "displayName": "Arcane Elixir",
+    "id": 11461,
+    "learnedat": 235,
+    "level": 0,
+    "name": "Arcane Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8839,
+        1
+      ],
+      [
+        3821,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 9000,
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "colors": [
+      235,
+      250,
+      270,
+      290
+    ],
+    "creates": [
+      9172,
+      1,
+      1
+    ],
+    "displayName": "Invisibility Potion",
+    "id": 11464,
+    "learnedat": 235,
+    "level": 0,
+    "name": "Invisibility Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8845,
+        1
+      ],
+      [
+        8838,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "popularity": 15
+  },
+  {
+    "cat": 11,
+    "colors": [
+      235,
+      250,
+      270,
+      290
+    ],
+    "creates": [
+      9179,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Greater Intellect",
+    "id": 11465,
+    "learnedat": 235,
+    "level": 0,
+    "name": "Elixir of Greater Intellect",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8839,
+        1
+      ],
+      [
+        3358,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 10800,
+    "popularity": 15
+  },
+  {
+    "cat": 11,
+    "colors": [
+      240,
+      255,
+      275,
+      295
+    ],
+    "creates": [
+      9088,
+      1,
+      1
+    ],
+    "displayName": "Gift of Arthas",
+    "id": 11466,
+    "learnedat": 240,
+    "level": 0,
+    "name": "Gift of Arthas",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8836,
+        1
+      ],
+      [
+        8839,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 33
+  },
+  {
+    "cat": 11,
+    "colors": [
+      240,
+      255,
+      275,
+      295
+    ],
+    "creates": [
+      9187,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Greater Agility",
+    "id": 11467,
+    "learnedat": 240,
+    "level": 0,
+    "name": "Elixir of Greater Agility",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8838,
+        1
+      ],
+      [
+        3821,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 10800,
+    "popularity": 16
+  },
+  {
+    "cat": 11,
+    "colors": [
+      240,
+      255,
+      275,
+      295
+    ],
+    "creates": [
+      9197,
+      1,
+      1
+    ],
+    "displayName": "Draught of Dream Vision",
+    "id": 11468,
+    "learnedat": 240,
+    "level": 0,
+    "name": "Draught of Dream Vision",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8831,
+        3
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      245,
+      260,
+      280,
+      300
+    ],
+    "creates": [
+      9206,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Greater Strength",
+    "id": 11472,
+    "learnedat": 245,
+    "level": 0,
+    "name": "Elixir of Greater Strength",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8838,
+        1
+      ],
+      [
+        8846,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      245,
+      260,
+      280,
+      300
+    ],
+    "creates": [
+      9210,
+      2,
+      2
+    ],
+    "displayName": "Ghost Dye",
+    "id": 11473,
+    "learnedat": 245,
+    "level": 0,
+    "name": "Ghost Dye",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8845,
+        2
+      ],
+      [
+        4342,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 15
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      265,
+      285,
+      305
+    ],
+    "creates": [
+      9264,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Shadow Power",
+    "id": 11476,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Elixir of Shadow Power",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8845,
+        3
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 74
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      265,
+      285,
+      305
+    ],
+    "creates": [
+      9224,
+      1,
+      1
+    ],
+    "displayName": "Potion of Demonslaying",
+    "id": 11477,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Potion of Demonslaying",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8846,
+        1
+      ],
+      [
+        8845,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      265,
+      285,
+      305
+    ],
+    "creates": [
+      9233,
+      1,
+      1
+    ],
+    "displayName": "Draught of Detect Demon",
+    "id": 11478,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Draught of Detect Demon",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8846,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 12600,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      225,
+      240,
+      260,
+      280
+    ],
+    "creates": [
+      3577,
+      0,
+      0
+    ],
+    "displayName": "Transmute: Iron to Gold",
+    "id": 11479,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Transmute: Iron to Gold",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        3575,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5,
+      6
+    ],
+    "trainingcost": 2500,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      225,
+      240,
+      260,
+      280
+    ],
+    "creates": [
+      6037,
+      0,
+      0
+    ],
+    "displayName": "Transmute: Mithril to Truesilver",
+    "id": 11480,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Transmute: Mithril to Truesilver",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        3860,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5,
+      6
+    ],
+    "trainingcost": 10000,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "displayName": "Alchemy",
+    "id": 11611,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Alchemy",
+    "nskillup": 1,
+    "rank": "Artisan",
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 45000,
+    "quality": -1,
+    "popularity": 32
+  },
+  {
+    "cat": 11,
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ],
+    "creates": [
+      10592,
+      1,
+      1
+    ],
+    "displayName": "Catseye Draught",
+    "id": 12609,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Catseye Draught",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3821,
+        1
+      ],
+      [
+        3818,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 7200,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      230,
+      245,
+      265,
+      285
+    ],
+    "creates": [
+      12190,
+      1,
+      1
+    ],
+    "displayName": "Dreamless Sleep Potion",
+    "id": 15833,
+    "learnedat": 230,
+    "level": 0,
+    "name": "Dreamless Sleep Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8831,
+        3
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 9000,
+    "popularity": 12
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ],
+    "creates": [
+      12360,
+      0,
+      0
+    ],
+    "displayName": "Transmute: Arcanite",
+    "id": 17187,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Transmute: Arcanite",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        12359,
+        1
+      ],
+      [
+        12363,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 106
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      250,
+      255,
+      260
+    ],
+    "creates": [
+      13423,
+      2,
+      2
+    ],
+    "displayName": "Stonescale Oil",
+    "id": 17551,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Stonescale Oil",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13422,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 13500,
+    "popularity": 44
+  },
+  {
+    "cat": 11,
+    "colors": [
+      255,
+      270,
+      290,
+      310
+    ],
+    "creates": [
+      13442,
+      1,
+      1
+    ],
+    "displayName": "Mighty Rage Potion",
+    "id": 17552,
+    "learnedat": 255,
+    "level": 0,
+    "name": "Mighty Rage Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8846,
+        3
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      260,
+      275,
+      295,
+      315
+    ],
+    "creates": [
+      13443,
+      1,
+      1
+    ],
+    "displayName": "Superior Mana Potion",
+    "id": 17553,
+    "learnedat": 260,
+    "level": 0,
+    "name": "Superior Mana Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8838,
+        2
+      ],
+      [
+        8839,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 13
+  },
+  {
+    "cat": 11,
+    "colors": [
+      265,
+      280,
+      300,
+      320
+    ],
+    "creates": [
+      13445,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Greater Defense",
+    "id": 17554,
+    "learnedat": 265,
+    "level": 0,
+    "name": "Elixir of Greater Defense",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13423,
+        2
+      ],
+      [
+        8838,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 31
+  },
+  {
+    "cat": 11,
+    "colors": [
+      270,
+      285,
+      305,
+      325
+    ],
+    "creates": [
+      13447,
+      1,
+      1
+    ],
+    "displayName": "Elixir of the Sages",
+    "id": 17555,
+    "learnedat": 270,
+    "level": 0,
+    "name": "Elixir of the Sages",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13463,
+        1
+      ],
+      [
+        13466,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      290,
+      310,
+      330
+    ],
+    "creates": [
+      13453,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Brute Force",
+    "id": 17557,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Elixir of Brute Force",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8846,
+        2
+      ],
+      [
+        13466,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 12
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ],
+    "creates": [
+      7078,
+      0,
+      0
+    ],
+    "displayName": "Transmute: Air to Fire",
+    "id": 17559,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Transmute: Air to Fire",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        7082,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 34
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ],
+    "creates": [
+      7076,
+      0,
+      0
+    ],
+    "displayName": "Transmute: Fire to Earth",
+    "id": 17560,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Transmute: Fire to Earth",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        7078,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ],
+    "creates": [
+      7080,
+      0,
+      0
+    ],
+    "displayName": "Transmute: Earth to Water",
+    "id": 17561,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Transmute: Earth to Water",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        7076,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 39
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ],
+    "creates": [
+      7082,
+      0,
+      0
+    ],
+    "displayName": "Transmute: Water to Air",
+    "id": 17562,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Transmute: Water to Air",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        7080,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 30
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ],
+    "creates": [
+      7080,
+      0,
+      0
+    ],
+    "displayName": "Transmute: Undeath to Water",
+    "id": 17563,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Transmute: Undeath to Water",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        12808,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 38
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ],
+    "creates": [
+      12808,
+      0,
+      0
+    ],
+    "displayName": "Transmute: Water to Undeath",
+    "id": 17564,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Transmute: Water to Undeath",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        7080,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ],
+    "creates": [
+      7076,
+      0,
+      0
+    ],
+    "displayName": "Transmute: Life to Earth",
+    "id": 17565,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Transmute: Life to Earth",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        12803,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 40
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      275,
+      282,
+      290
+    ],
+    "creates": [
+      12803,
+      0,
+      0
+    ],
+    "displayName": "Transmute: Earth to Life",
+    "id": 17566,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Transmute: Earth to Life",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        7076,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      280,
+      295,
+      315,
+      335
+    ],
+    "creates": [
+      13455,
+      1,
+      1
+    ],
+    "displayName": "Greater Stoneshield Potion",
+    "id": 17570,
+    "learnedat": 280,
+    "level": 0,
+    "name": "Greater Stoneshield Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13423,
+        3
+      ],
+      [
+        10620,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      280,
+      295,
+      315,
+      335
+    ],
+    "creates": [
+      13452,
+      1,
+      1
+    ],
+    "displayName": "Elixir of the Mongoose",
+    "id": 17571,
+    "learnedat": 280,
+    "level": 0,
+    "name": "Elixir of the Mongoose",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13465,
+        2
+      ],
+      [
+        13466,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 33
+  },
+  {
+    "cat": 11,
+    "colors": [
+      285,
+      300,
+      320,
+      340
+    ],
+    "creates": [
+      13462,
+      1,
+      1
+    ],
+    "displayName": "Purification Potion",
+    "id": 17572,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Purification Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13467,
+        2
+      ],
+      [
+        13466,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      285,
+      300,
+      320,
+      340
+    ],
+    "creates": [
+      13454,
+      1,
+      1
+    ],
+    "displayName": "Greater Arcane Elixir",
+    "id": 17573,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Greater Arcane Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13463,
+        3
+      ],
+      [
+        13465,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 32
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      305,
+      325,
+      345
+    ],
+    "creates": [
+      13457,
+      1,
+      1
+    ],
+    "displayName": "Greater Fire Protection Potion",
+    "id": 17574,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Greater Fire Protection Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        7068,
+        1
+      ],
+      [
+        13463,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      305,
+      325,
+      345
+    ],
+    "creates": [
+      13456,
+      1,
+      1
+    ],
+    "displayName": "Greater Frost Protection Potion",
+    "id": 17575,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Greater Frost Protection Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        7070,
+        1
+      ],
+      [
+        13463,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      305,
+      325,
+      345
+    ],
+    "creates": [
+      13458,
+      1,
+      1
+    ],
+    "displayName": "Greater Nature Protection Potion",
+    "id": 17576,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Greater Nature Protection Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        7067,
+        1
+      ],
+      [
+        13463,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 12
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      305,
+      325,
+      345
+    ],
+    "creates": [
+      13461,
+      1,
+      1
+    ],
+    "displayName": "Greater Arcane Protection Potion",
+    "id": 17577,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Greater Arcane Protection Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        11176,
+        1
+      ],
+      [
+        13463,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      305,
+      325,
+      345
+    ],
+    "creates": [
+      13459,
+      1,
+      1
+    ],
+    "displayName": "Greater Shadow Protection Potion",
+    "id": 17578,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Greater Shadow Protection Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3824,
+        1
+      ],
+      [
+        13463,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      295,
+      310,
+      330,
+      350
+    ],
+    "creates": [
+      13444,
+      1,
+      1
+    ],
+    "displayName": "Major Mana Potion",
+    "id": 17580,
+    "learnedat": 295,
+    "level": 0,
+    "name": "Major Mana Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13463,
+        3
+      ],
+      [
+        13467,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2,
+      5
+    ],
+    "popularity": 28
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      315,
+      322,
+      330
+    ],
+    "creates": [
+      13503,
+      1,
+      1
+    ],
+    "displayName": "Alchemist's Stone",
+    "id": 17632,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Alchemist's Stone",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        7078,
+        8
+      ],
+      [
+        7076,
+        8
+      ],
+      [
+        7082,
+        8
+      ],
+      [
+        7080,
+        8
+      ],
+      [
+        12803,
+        8
+      ],
+      [
+        9262,
+        2
+      ],
+      [
+        13468,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 218
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      315,
+      322,
+      330
+    ],
+    "creates": [
+      13506,
+      1,
+      1
+    ],
+    "displayName": "Flask of Petrification",
+    "id": 17634,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Flask of Petrification",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13423,
+        30
+      ],
+      [
+        13465,
+        10
+      ],
+      [
+        13468,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2,
+      5
+    ],
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      315,
+      322,
+      330
+    ],
+    "creates": [
+      13510,
+      1,
+      1
+    ],
+    "displayName": "Flask of the Titans",
+    "id": 17635,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Flask of the Titans",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8846,
+        30
+      ],
+      [
+        13423,
+        10
+      ],
+      [
+        13468,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2,
+      5
+    ],
+    "popularity": 41
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      315,
+      322,
+      330
+    ],
+    "creates": [
+      13511,
+      1,
+      1
+    ],
+    "displayName": "Flask of Distilled Wisdom",
+    "id": 17636,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Flask of Distilled Wisdom",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13463,
+        30
+      ],
+      [
+        13467,
+        10
+      ],
+      [
+        13468,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2,
+      5
+    ],
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      315,
+      322,
+      330
+    ],
+    "creates": [
+      13512,
+      1,
+      1
+    ],
+    "displayName": "Flask of Supreme Power",
+    "id": 17637,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Flask of Supreme Power",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13463,
+        30
+      ],
+      [
+        13465,
+        10
+      ],
+      [
+        13468,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2,
+      5
+    ],
+    "popularity": 46
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      315,
+      322,
+      330
+    ],
+    "creates": [
+      13513,
+      1,
+      1
+    ],
+    "displayName": "Flask of Chromatic Resistance",
+    "id": 17638,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Flask of Chromatic Resistance",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13467,
+        30
+      ],
+      [
+        13465,
+        10
+      ],
+      [
+        13468,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2,
+      5
+    ],
+    "popularity": 25
+  },
+  {
+    "cat": 11,
+    "colors": [
+      190,
+      210,
+      230,
+      250
+    ],
+    "creates": [
+      17708,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Frost Power",
+    "id": 21923,
+    "learnedat": 190,
+    "level": 0,
+    "name": "Elixir of Frost Power",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3819,
+        2
+      ],
+      [
+        3358,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 14
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      310,
+      320,
+      330
+    ],
+    "creates": [
+      18253,
+      1,
+      1
+    ],
+    "displayName": "Major Rejuvenation Potion",
+    "id": 22732,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Major Rejuvenation Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        10286,
+        1
+      ],
+      [
+        13464,
+        4
+      ],
+      [
+        13463,
+        4
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      215,
+      230,
+      250,
+      270
+    ],
+    "creates": [
+      18294,
+      1,
+      1
+    ],
+    "displayName": "Draught of Greater Water Breathing",
+    "id": 22808,
+    "learnedat": 215,
+    "level": 0,
+    "name": "Draught of Greater Water Breathing",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        7972,
+        1
+      ],
+      [
+        8831,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 9000,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      315,
+      322,
+      330
+    ],
+    "creates": [
+      19931,
+      3,
+      3
+    ],
+    "displayName": "Gurubashi Mojo Madness",
+    "id": 24266,
+    "learnedat": 315,
+    "level": 0,
+    "name": "Gurubashi Mojo Madness",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        12938,
+        1
+      ],
+      [
+        19943,
+        1
+      ],
+      [
+        12804,
+        6
+      ],
+      [
+        13468,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 71
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      290,
+      310,
+      330
+    ],
+    "creates": [
+      20007,
+      1,
+      1
+    ],
+    "displayName": "Mageblood Elixir",
+    "id": 24365,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Mageblood Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13463,
+        1
+      ],
+      [
+        13466,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      290,
+      310,
+      330
+    ],
+    "creates": [
+      20002,
+      1,
+      1
+    ],
+    "displayName": "Greater Dreamless Sleep Potion",
+    "id": 24366,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Greater Dreamless Sleep Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13463,
+        2
+      ],
+      [
+        13464,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 30
+  },
+  {
+    "cat": 11,
+    "colors": [
+      285,
+      300,
+      320,
+      340
+    ],
+    "creates": [
+      20008,
+      1,
+      1
+    ],
+    "displayName": "Living Action Potion",
+    "id": 24367,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Living Action Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13467,
+        2
+      ],
+      [
+        13465,
+        2
+      ],
+      [
+        10286,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 46
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      305,
+      325,
+      345
+    ],
+    "creates": [
+      20004,
+      1,
+      1
+    ],
+    "displayName": "Major Troll's Blood Elixir",
+    "id": 24368,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Major Troll's Blood Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8846,
+        1
+      ],
+      [
+        13466,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      301,
+      305,
+      310
+    ],
+    "creates": [
+      7068,
+      3,
+      3
+    ],
+    "displayName": "Transmute: Elemental Fire",
+    "id": 25146,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Transmute: Elemental Fire",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        7077,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      265,
+      285,
+      305
+    ],
+    "creates": [
+      21546,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Holy Power",
+    "id": 26277,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Elixir of Holy Power",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        6371,
+        3
+      ],
+      [
+        4625,
+        3
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 34
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      90,
+      100,
+      110
+    ],
+    "creates": [
+      210708,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Coalesced Regret",
+    "id": 426607,
+    "learnedat": 90,
+    "level": 0,
+    "name": "Elixir of Coalesced Regret",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3820,
+        5
+      ],
+      [
+        3372,
+        1
+      ],
+      [
+        3369,
+        5
+      ],
+      [
+        11083,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 70
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      200,
+      210,
+      220
+    ],
+    "displayName": "Insulating Gniodine",
+    "id": 435969,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Insulating Gniodine",
+    "nskillup": 1,
+    "reagents": [
+      [
+        3372,
+        1
+      ],
+      [
+        213371,
+        5
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 36
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      230,
+      235
+    ],
+    "displayName": "Mildly Irradiated Rejuvenation Potion",
+    "id": 435971,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Mildly Irradiated Rejuvenation Potion",
+    "nskillup": 1,
+    "reagents": [
+      [
+        213371,
+        1
+      ],
+      [
+        2456,
+        1
+      ],
+      [
+        215430,
+        3
+      ],
+      [
+        8925,
+        5
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      210,
+      212,
+      215
+    ],
+    "creates": [
+      217398,
+      1,
+      1
+    ],
+    "displayName": "Lesser Arcane Elixir",
+    "id": 439960,
+    "learnedat": 210,
+    "level": 0,
+    "name": "Lesser Arcane Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3356,
+        1
+      ],
+      [
+        3821,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      250,
+      255,
+      260
+    ],
+    "displayName": "Flask of Everlasting Nightmares",
+    "id": 446226,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Flask of Everlasting Nightmares",
+    "nskillup": 1,
+    "reagents": [
+      [
+        221021,
+        10
+      ],
+      [
+        220688,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      250,
+      255,
+      260
+    ],
+    "displayName": "Jar of Nightmarish Mojo",
+    "id": 446851,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Jar of Nightmarish Mojo",
+    "nskillup": 1,
+    "reagents": [
+      [
+        221021,
+        5
+      ],
+      [
+        8925,
+        1
+      ],
+      [
+        221312,
+        5
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 25
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      250,
+      255,
+      260
+    ],
+    "displayName": "Flask of Restless Dreams",
+    "id": 448085,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Flask of Restless Dreams",
+    "nskillup": 1,
+    "reagents": [
+      [
+        221021,
+        10
+      ],
+      [
+        220688,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      315,
+      322,
+      330
+    ],
+    "displayName": "Flask of Unyielding Sorrow",
+    "id": 1213544,
+    "learnedat": 315,
+    "level": 0,
+    "name": "Flask of Unyielding Sorrow",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        1
+      ],
+      [
+        234012,
+        1
+      ],
+      [
+        13511,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 55
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      315,
+      322,
+      330
+    ],
+    "displayName": "Flask of Ancient Knowledge",
+    "id": 1213546,
+    "learnedat": 315,
+    "level": 0,
+    "name": "Flask of Ancient Knowledge",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        1
+      ],
+      [
+        234011,
+        1
+      ],
+      [
+        13512,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 52
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      315,
+      322,
+      330
+    ],
+    "displayName": "Flask of the Old Gods",
+    "id": 1213548,
+    "learnedat": 315,
+    "level": 0,
+    "name": "Flask of the Old Gods",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        1
+      ],
+      [
+        234006,
+        1
+      ],
+      [
+        13510,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 56
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      315,
+      322,
+      330
+    ],
+    "displayName": "Flask of Madness",
+    "id": 1213552,
+    "learnedat": 315,
+    "level": 0,
+    "name": "Flask of Madness",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        1
+      ],
+      [
+        234010,
+        1
+      ],
+      [
+        13513,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 38
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      315,
+      322,
+      330
+    ],
+    "displayName": "Elixir of the Honey Badger",
+    "id": 1213559,
+    "learnedat": 315,
+    "level": 0,
+    "name": "Elixir of the Honey Badger",
+    "nskillup": 1,
+    "reagents": [
+      [
+        13465,
+        2
+      ],
+      [
+        234012,
+        2
+      ],
+      [
+        234011,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 56
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      315,
+      322,
+      330
+    ],
+    "displayName": "Elixir of the Mage-Lord",
+    "id": 1213563,
+    "learnedat": 315,
+    "level": 0,
+    "name": "Elixir of the Mage-Lord",
+    "nskillup": 1,
+    "reagents": [
+      [
+        13466,
+        2
+      ],
+      [
+        234012,
+        2
+      ],
+      [
+        234011,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 52
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      315,
+      322,
+      330
+    ],
+    "displayName": "Elixir of the Ironside",
+    "id": 1213565,
+    "learnedat": 315,
+    "level": 0,
+    "name": "Elixir of the Ironside",
+    "nskillup": 1,
+    "reagents": [
+      [
+        13467,
+        2
+      ],
+      [
+        234012,
+        2
+      ],
+      [
+        234011,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 45
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      315,
+      322,
+      330
+    ],
+    "displayName": "Elixir of Alacrity",
+    "id": 1213571,
+    "learnedat": 315,
+    "level": 0,
+    "name": "Elixir of Alacrity",
+    "nskillup": 1,
+    "reagents": [
+      [
+        13463,
+        2
+      ],
+      [
+        234012,
+        2
+      ],
+      [
+        234011,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 75
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      20,
+      22,
+      25
+    ],
+    "creates": [
+      279956,
+      1,
+      1
+    ],
+    "displayName": "Mana Well",
+    "id": 1230564,
+    "learnedat": 20,
+    "level": 0,
+    "name": "Mana Well",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Tier 1",
+    "reagents": [
+      [
+        2447,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 628
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      290,
+      310,
+      330
+    ],
+    "creates": [
+      241650,
+      1,
+      1
+    ],
+    "displayName": "Major Discolored Healing Potion",
+    "id": 1231583,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Major Discolored Healing Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8925,
+        1
+      ],
+      [
+        13466,
+        1
+      ],
+      [
+        730,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "source": [
+      4
+    ],
+    "popularity": 34
+  },
+  {
+    "cat": 11,
+    "displayName": "Alchemy",
+    "id": 1240943,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Alchemy",
+    "nskillup": 1,
+    "rank": "Apprentice",
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "displayName": "Alchemy",
+    "id": 1240954,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Alchemy",
+    "nskillup": 1,
+    "rank": "Journeyman",
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "displayName": "Alchemy",
+    "id": 1240965,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Alchemy",
+    "nskillup": 1,
+    "rank": "Expert",
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "displayName": "Alchemy",
+    "id": 1240977,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Alchemy",
+    "nskillup": 1,
+    "rank": "Artisan",
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      260,
+      265,
+      270
+    ],
+    "creates": [
+      246948,
+      1,
+      1
+    ],
+    "displayName": "Distilled Firewater",
+    "id": 1244421,
+    "learnedat": 260,
+    "level": 0,
+    "name": "Distilled Firewater",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3819,
+        4
+      ],
+      [
+        8846,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 49
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      85,
+      105,
+      125
+    ],
+    "creates": [
+      247239,
+      1,
+      1
+    ],
+    "displayName": "Lesser Discolored Healing Potion",
+    "id": 1244645,
+    "learnedat": 85,
+    "level": 0,
+    "name": "Lesser Discolored Healing Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3371,
+        1
+      ],
+      [
+        2450,
+        1
+      ],
+      [
+        730,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 51
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      135,
+      155,
+      175
+    ],
+    "creates": [
+      247240,
+      1,
+      1
+    ],
+    "displayName": "Discolored Healing Potion",
+    "id": 1244646,
+    "learnedat": 135,
+    "level": 0,
+    "name": "Discolored Healing Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3372,
+        1
+      ],
+      [
+        2453,
+        1
+      ],
+      [
+        730,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 54
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      175,
+      195,
+      215
+    ],
+    "creates": [
+      247241,
+      1,
+      1
+    ],
+    "displayName": "Greater Discolored Healing Potion",
+    "id": 1244647,
+    "learnedat": 175,
+    "level": 0,
+    "name": "Greater Discolored Healing Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3372,
+        1
+      ],
+      [
+        3356,
+        1
+      ],
+      [
+        730,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 31
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      230,
+      250,
+      270
+    ],
+    "creates": [
+      247242,
+      1,
+      1
+    ],
+    "displayName": "Superior Discolored Healing Potion",
+    "id": 1244648,
+    "learnedat": 230,
+    "level": 0,
+    "name": "Superior Discolored Healing Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8925,
+        1
+      ],
+      [
+        8838,
+        1
+      ],
+      [
+        730,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 52
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      10,
+      12,
+      15
+    ],
+    "creates": [
+      247754,
+      1,
+      1
+    ],
+    "displayName": "Minor Arcane Elixir",
+    "id": 1245246,
+    "learnedat": 10,
+    "level": 0,
+    "name": "Minor Arcane Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2447,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 114
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      10,
+      12,
+      15
+    ],
+    "creates": [
+      247755,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Minor Force",
+    "id": 1245250,
+    "learnedat": 10,
+    "level": 0,
+    "name": "Elixir of Minor Force",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        765,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 73
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      50,
+      70,
+      90
+    ],
+    "creates": [
+      249409,
+      1,
+      1
+    ],
+    "displayName": "Cerulean Dye",
+    "id": 1249630,
+    "learnedat": 50,
+    "level": 0,
+    "name": "Cerulean Dye",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        249399,
+        2
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 752
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      130,
+      142,
+      155
+    ],
+    "creates": [
+      249430,
+      1,
+      1
+    ],
+    "displayName": "Magenta Dye",
+    "id": 1249631,
+    "learnedat": 130,
+    "level": 0,
+    "name": "Magenta Dye",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        249424,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 145
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      230,
+      250,
+      270
+    ],
+    "creates": [
+      249431,
+      1,
+      1
+    ],
+    "displayName": "Viridian Dye",
+    "id": 1249632,
+    "learnedat": 230,
+    "level": 0,
+    "name": "Viridian Dye",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        249274,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 117
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      50,
+      70,
+      90
+    ],
+    "creates": [
+      249410,
+      1,
+      1
+    ],
+    "displayName": "Sulfuric Acid",
+    "id": 1249633,
+    "learnedat": 50,
+    "level": 0,
+    "name": "Sulfuric Acid",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        249391,
+        2
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 566
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      205,
+      207,
+      210
+    ],
+    "displayName": "Revealing Draught",
+    "id": 1250775,
+    "learnedat": 205,
+    "level": 0,
+    "name": "Revealing Draught",
+    "nskillup": 1,
+    "reagents": [
+      [
+        3818,
+        3
+      ],
+      [
+        3358,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "quality": -1,
+    "popularity": 107
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      200,
+      202,
+      205
+    ],
+    "creates": [
+      250327,
+      1,
+      1
+    ],
+    "displayName": "Draught of Predatory Senses",
+    "id": 1250776,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Draught of Predatory Senses",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3818,
+        2
+      ],
+      [
+        3821,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 81
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      280,
+      282,
+      285
+    ],
+    "creates": [
+      250328,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Cunning",
+    "id": 1250777,
+    "learnedat": 280,
+    "level": 0,
+    "name": "Elixir of Cunning",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13463,
+        3
+      ],
+      [
+        8846,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 46
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      255,
+      257,
+      260
+    ],
+    "creates": [
+      250329,
+      1,
+      1
+    ],
+    "displayName": "Elixir of the Phalanx",
+    "id": 1250778,
+    "learnedat": 255,
+    "level": 0,
+    "name": "Elixir of the Phalanx",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13464,
+        2
+      ],
+      [
+        8838,
+        4
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 63
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      50,
+      52,
+      55
+    ],
+    "creates": [
+      250330,
+      1,
+      1
+    ],
+    "displayName": "Minor Cleric's Elixir",
+    "id": 1250779,
+    "learnedat": 50,
+    "level": 0,
+    "name": "Minor Cleric's Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        785,
+        2
+      ],
+      [
+        2453,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 98
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      100,
+      102,
+      105
+    ],
+    "creates": [
+      250331,
+      1,
+      1
+    ],
+    "displayName": "Lesser Cleric's Elixir",
+    "id": 1250780,
+    "learnedat": 100,
+    "level": 0,
+    "name": "Lesser Cleric's Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3356,
+        2
+      ],
+      [
+        3357,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 73
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      150,
+      152,
+      155
+    ],
+    "creates": [
+      250332,
+      1,
+      1
+    ],
+    "displayName": "Cleric's Elixir",
+    "id": 1250781,
+    "learnedat": 150,
+    "level": 0,
+    "name": "Cleric's Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3819,
+        2
+      ],
+      [
+        4625,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 48
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      200,
+      202,
+      205
+    ],
+    "creates": [
+      250333,
+      1,
+      1
+    ],
+    "displayName": "Greater Cleric's Elixir",
+    "id": 1250782,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Greater Cleric's Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8836,
+        3
+      ],
+      [
+        8831,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 50
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      155,
+      157,
+      160
+    ],
+    "creates": [
+      250334,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Fortitude",
+    "id": 1250783,
+    "learnedat": 155,
+    "level": 0,
+    "name": "Elixir of Fortitude",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3821,
+        4
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 28
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      205,
+      207,
+      210
+    ],
+    "creates": [
+      250335,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Greater Fortitude",
+    "id": 1250784,
+    "learnedat": 205,
+    "level": 0,
+    "name": "Elixir of Greater Fortitude",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8838,
+        4
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 36
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      290,
+      292,
+      295
+    ],
+    "creates": [
+      250336,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Wicked Regeneration",
+    "id": 1250785,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Elixir of Wicked Regeneration",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13464,
+        3
+      ],
+      [
+        13463,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 55
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      287,
+      290
+    ],
+    "creates": [
+      250337,
+      1,
+      1
+    ],
+    "displayName": "Elixir of the Owl",
+    "id": 1250786,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Elixir of the Owl",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13463,
+        4
+      ],
+      [
+        13465,
+        2
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 58
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      280,
+      282,
+      285
+    ],
+    "creates": [
+      250338,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Sages",
+    "id": 1250787,
+    "learnedat": 280,
+    "level": 0,
+    "name": "Elixir of Sages",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13463,
+        4
+      ],
+      [
+        13464,
+        2
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 54
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      30,
+      32,
+      35
+    ],
+    "creates": [
+      250339,
+      1,
+      1
+    ],
+    "displayName": "Minor Mageblood Elixir",
+    "id": 1250788,
+    "learnedat": 30,
+    "level": 0,
+    "name": "Minor Mageblood Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        785,
+        2
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 112
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      80,
+      82,
+      85
+    ],
+    "creates": [
+      250340,
+      1,
+      1
+    ],
+    "displayName": "Lesser Mageblood Elixir",
+    "id": 1250789,
+    "learnedat": 80,
+    "level": 0,
+    "name": "Lesser Mageblood Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3356,
+        3
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 55
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      180,
+      182,
+      185
+    ],
+    "creates": [
+      250341,
+      1,
+      1
+    ],
+    "displayName": "Greater Mageblood Elixir",
+    "id": 1250790,
+    "learnedat": 180,
+    "level": 0,
+    "name": "Greater Mageblood Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8839,
+        3
+      ],
+      [
+        8836,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 33
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      125,
+      127,
+      130
+    ],
+    "creates": [
+      250342,
+      1,
+      1
+    ],
+    "displayName": "Lesser Arcane Elixir",
+    "id": 1250791,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Lesser Arcane Elixir",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3356,
+        4
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 45
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      290,
+      292,
+      295
+    ],
+    "creates": [
+      250343,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Nature Power",
+    "id": 1250792,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Elixir of Nature Power",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13464,
+        4
+      ],
+      [
+        8838,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 49
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      20,
+      22,
+      25
+    ],
+    "creates": [
+      250344,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Minor Spirit",
+    "id": 1250793,
+    "learnedat": 20,
+    "level": 0,
+    "name": "Elixir of Minor Spirit",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2449,
+        2
+      ],
+      [
+        2447,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 91
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      70,
+      72,
+      75
+    ],
+    "creates": [
+      250345,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Lesser Spirit",
+    "id": 1250794,
+    "learnedat": 70,
+    "level": 0,
+    "name": "Elixir of Lesser Spirit",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3355,
+        2
+      ],
+      [
+        785,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      120,
+      122,
+      125
+    ],
+    "creates": [
+      250346,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Spirit",
+    "id": 1250795,
+    "learnedat": 120,
+    "level": 0,
+    "name": "Elixir of Spirit",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3358,
+        3
+      ],
+      [
+        3356,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 50
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      170,
+      172,
+      175
+    ],
+    "creates": [
+      250347,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Greater Spirit",
+    "id": 1250796,
+    "learnedat": 170,
+    "level": 0,
+    "name": "Elixir of Greater Spirit",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8836,
+        3
+      ],
+      [
+        8831,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      280,
+      282,
+      285
+    ],
+    "creates": [
+      250348,
+      1,
+      1
+    ],
+    "displayName": "Elixir of the Whale",
+    "id": 1250797,
+    "learnedat": 280,
+    "level": 0,
+    "name": "Elixir of the Whale",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13463,
+        3
+      ],
+      [
+        8846,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 64
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      155,
+      157,
+      160
+    ],
+    "creates": [
+      250349,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Strength",
+    "id": 1250798,
+    "learnedat": 155,
+    "level": 0,
+    "name": "Elixir of Strength",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3355,
+        3
+      ],
+      [
+        3821,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 40
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      280,
+      282,
+      285
+    ],
+    "creates": [
+      250350,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Ferocity",
+    "id": 1250799,
+    "learnedat": 280,
+    "level": 0,
+    "name": "Elixir of Ferocity",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8846,
+        3
+      ],
+      [
+        8845,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 48
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      305,
+      307,
+      310
+    ],
+    "creates": [
+      250351,
+      1,
+      1
+    ],
+    "displayName": "Elixir of the Grizzly",
+    "id": 1250800,
+    "learnedat": 305,
+    "level": 0,
+    "name": "Elixir of the Grizzly",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8846,
+        3
+      ],
+      [
+        8839,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 106
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      100,
+      102,
+      105
+    ],
+    "creates": [
+      250353,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Lesser Intellect",
+    "id": 1250801,
+    "learnedat": 100,
+    "level": 0,
+    "name": "Elixir of Lesser Intellect",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3356,
+        3
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      142,
+      145
+    ],
+    "creates": [
+      250354,
+      1,
+      1
+    ],
+    "displayName": "Elixir of Intellect",
+    "id": 1250802,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Elixir of Intellect",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3358,
+        3
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 31
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      40,
+      42,
+      45
+    ],
+    "creates": [
+      250932,
+      1,
+      1
+    ],
+    "displayName": "Minor Spellblasting Potion",
+    "id": 1251729,
+    "learnedat": 40,
+    "level": 0,
+    "name": "Minor Spellblasting Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        765,
+        1
+      ],
+      [
+        2447,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 109
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      90,
+      92,
+      95
+    ],
+    "creates": [
+      250933,
+      1,
+      1
+    ],
+    "displayName": "Lesser Spellblasting Potion",
+    "id": 1251730,
+    "learnedat": 90,
+    "level": 0,
+    "name": "Lesser Spellblasting Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        785,
+        1
+      ],
+      [
+        765,
+        2
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 65
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      142,
+      145
+    ],
+    "creates": [
+      250934,
+      1,
+      1
+    ],
+    "displayName": "Spellblasting Potion",
+    "id": 1251731,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Spellblasting Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3355,
+        1
+      ],
+      [
+        3369,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      190,
+      192,
+      195
+    ],
+    "creates": [
+      250935,
+      1,
+      1
+    ],
+    "displayName": "Greater Spellblasting Potion",
+    "id": 1251732,
+    "learnedat": 190,
+    "level": 0,
+    "name": "Greater Spellblasting Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3356,
+        2
+      ],
+      [
+        3818,
+        1
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      240,
+      242,
+      245
+    ],
+    "creates": [
+      250936,
+      1,
+      1
+    ],
+    "displayName": "Superior Spellblasting Potion",
+    "id": 1251733,
+    "learnedat": 240,
+    "level": 0,
+    "name": "Superior Spellblasting Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3819,
+        2
+      ],
+      [
+        3358,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      290,
+      292,
+      295
+    ],
+    "creates": [
+      250937,
+      1,
+      1
+    ],
+    "displayName": "Major Spellblasting Potion",
+    "id": 1251734,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Major Spellblasting Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13463,
+        2
+      ],
+      [
+        13465,
+        1
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 57
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      45,
+      47,
+      50
+    ],
+    "creates": [
+      250938,
+      1,
+      1
+    ],
+    "displayName": "Minor Frenzy Potion",
+    "id": 1251735,
+    "learnedat": 45,
+    "level": 0,
+    "name": "Minor Frenzy Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2449,
+        1
+      ],
+      [
+        765,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 97
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      95,
+      97,
+      100
+    ],
+    "creates": [
+      250939,
+      1,
+      1
+    ],
+    "displayName": "Lesser Frenzy Potion",
+    "id": 1251736,
+    "learnedat": 95,
+    "level": 0,
+    "name": "Lesser Frenzy Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        2450,
+        1
+      ],
+      [
+        2449,
+        2
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 56
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      145,
+      147,
+      150
+    ],
+    "creates": [
+      250940,
+      1,
+      1
+    ],
+    "displayName": "Frenzy Potion",
+    "id": 1251737,
+    "learnedat": 145,
+    "level": 0,
+    "name": "Frenzy Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3818,
+        2
+      ],
+      [
+        2450,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 57
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      195,
+      197,
+      200
+    ],
+    "creates": [
+      250941,
+      1,
+      1
+    ],
+    "displayName": "Greater Frenzy Potion",
+    "id": 1251738,
+    "learnedat": 195,
+    "level": 0,
+    "name": "Greater Frenzy Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        4625,
+        3
+      ],
+      [
+        3818,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      245,
+      247,
+      250
+    ],
+    "creates": [
+      250942,
+      1,
+      1
+    ],
+    "displayName": "Superior Frenzy Potion",
+    "id": 1251739,
+    "learnedat": 245,
+    "level": 0,
+    "name": "Superior Frenzy Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8839,
+        3
+      ],
+      [
+        4625,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 32
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      295,
+      297,
+      300
+    ],
+    "creates": [
+      250943,
+      1,
+      1
+    ],
+    "displayName": "Major Frenzy Potion",
+    "id": 1251740,
+    "learnedat": 295,
+    "level": 0,
+    "name": "Major Frenzy Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13466,
+        3
+      ],
+      [
+        8839,
+        2
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 59
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      35,
+      37,
+      40
+    ],
+    "creates": [
+      250944,
+      1,
+      1
+    ],
+    "displayName": "Minor Mender's Potion",
+    "id": 1251741,
+    "learnedat": 35,
+    "level": 0,
+    "name": "Minor Mender's Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        785,
+        2
+      ],
+      [
+        2453,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 106
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      85,
+      87,
+      90
+    ],
+    "creates": [
+      250945,
+      1,
+      1
+    ],
+    "displayName": "Lesser Mender's Potion",
+    "id": 1251742,
+    "learnedat": 85,
+    "level": 0,
+    "name": "Lesser Mender's Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3356,
+        2
+      ],
+      [
+        3357,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 55
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      135,
+      137,
+      140
+    ],
+    "creates": [
+      250946,
+      1,
+      1
+    ],
+    "displayName": "Mender's Potion",
+    "id": 1251743,
+    "learnedat": 135,
+    "level": 0,
+    "name": "Mender's Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        3819,
+        2
+      ],
+      [
+        4625,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 48
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      185,
+      187,
+      190
+    ],
+    "creates": [
+      250947,
+      1,
+      1
+    ],
+    "displayName": "Greater Mender's Potion",
+    "id": 1251744,
+    "learnedat": 185,
+    "level": 0,
+    "name": "Greater Mender's Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8836,
+        2
+      ],
+      [
+        8831,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 30
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      235,
+      237,
+      240
+    ],
+    "creates": [
+      250948,
+      1,
+      1
+    ],
+    "displayName": "Superior Mender's Potion",
+    "id": 1251745,
+    "learnedat": 235,
+    "level": 0,
+    "name": "Superior Mender's Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8838,
+        2
+      ],
+      [
+        8836,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 30
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      287,
+      290
+    ],
+    "creates": [
+      250949,
+      1,
+      1
+    ],
+    "displayName": "Major Mender's Potion",
+    "id": 1251747,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Major Mender's Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13463,
+        3
+      ],
+      [
+        8838,
+        1
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      280,
+      282,
+      285
+    ],
+    "creates": [
+      250950,
+      1,
+      1
+    ],
+    "displayName": "Potion of Venomous Blood",
+    "id": 1251748,
+    "learnedat": 280,
+    "level": 0,
+    "name": "Potion of Venomous Blood",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8846,
+        3
+      ],
+      [
+        13466,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 59
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      270,
+      272,
+      275
+    ],
+    "creates": [
+      250951,
+      1,
+      1
+    ],
+    "displayName": "Caustic Smog Potion",
+    "id": 1251749,
+    "learnedat": 270,
+    "level": 0,
+    "name": "Caustic Smog Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8845,
+        2
+      ],
+      [
+        3369,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 198
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      185,
+      187,
+      190
+    ],
+    "creates": [
+      250952,
+      1,
+      1
+    ],
+    "displayName": "Disorienting Smog Potion",
+    "id": 1251750,
+    "learnedat": 185,
+    "level": 0,
+    "name": "Disorienting Smog Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8845,
+        3
+      ],
+      [
+        3369,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 60
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      250,
+      252,
+      255
+    ],
+    "creates": [
+      250953,
+      1,
+      1
+    ],
+    "displayName": "Dragonfire Potion",
+    "id": 1251751,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Dragonfire Potion",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        13465,
+        2
+      ],
+      [
+        4625,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 62
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      287,
+      290
+    ],
+    "creates": [
+      250954,
+      1,
+      1
+    ],
+    "displayName": "Potion of Elemental Siphoning",
+    "id": 1251752,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Potion of Elemental Siphoning",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        4625,
+        2
+      ],
+      [
+        3819,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 55
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      287,
+      290
+    ],
+    "creates": [
+      250955,
+      1,
+      1
+    ],
+    "displayName": "Potion of Beast Culling",
+    "id": 1251753,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Potion of Beast Culling",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8846,
+        2
+      ],
+      [
+        13466,
+        2
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      142,
+      145
+    ],
+    "creates": [
+      279970,
+      1,
+      1
+    ],
+    "displayName": "Fermenter",
+    "id": 1263005,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Fermenter",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Tier 2",
+    "reagents": [
+      [
+        3372,
+        1
+      ],
+      [
+        3356,
+        1
+      ],
+      [
+        2452,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 183
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      300,
+      300,
+      300
+    ],
+    "creates": [
+      279990,
+      1,
+      1
+    ],
+    "displayName": "Alchemy Laboratory",
+    "id": 1263078,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Alchemy Laboratory",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Tier 3",
+    "reagents": [
+      [
+        273125,
+        1
+      ],
+      [
+        8925,
+        1
+      ],
+      [
+        13463,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 196
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      325,
+      330
+    ],
+    "creates": [
+      274273,
+      1,
+      1
+    ],
+    "displayName": "Flask of Natural Accuracy",
+    "id": 1293559,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Flask of Natural Accuracy",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        248822,
+        1
+      ],
+      [
+        248821,
+        12
+      ],
+      [
+        13464,
+        9
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 129
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      325,
+      330
+    ],
+    "creates": [
+      274274,
+      1,
+      1
+    ],
+    "displayName": "Flask of Natural Aggression",
+    "id": 1293560,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Flask of Natural Aggression",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        248822,
+        1
+      ],
+      [
+        248821,
+        18
+      ],
+      [
+        13465,
+        6
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 87
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      325,
+      330
+    ],
+    "creates": [
+      274275,
+      1,
+      1
+    ],
+    "displayName": "Flask of Natural Precision",
+    "id": 1293561,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Flask of Natural Precision",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        248822,
+        1
+      ],
+      [
+        248823,
+        12
+      ],
+      [
+        13463,
+        9
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 71
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      325,
+      330
+    ],
+    "creates": [
+      274276,
+      1,
+      1
+    ],
+    "displayName": "Flask of Natural Swiftness",
+    "id": 1293562,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Flask of Natural Swiftness",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        248822,
+        1
+      ],
+      [
+        248823,
+        18
+      ],
+      [
+        13467,
+        6
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 83
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      275,
+      282,
+      290
+    ],
+    "creates": [
+      251290,
+      0,
+      0
+    ],
+    "displayName": "Transmute: Legionite",
+    "id": 1317279,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Transmute: Legionite",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        251291,
+        1
+      ],
+      [
+        248819,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      171
+    ],
+    "popularity": 166
+  }
+]

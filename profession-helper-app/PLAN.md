@@ -105,7 +105,7 @@ Der Join beider Listen ergibt `Rezept → Herstellungsprodukt`. **Ohne das zweit
 2. **Tooltip-/XML-Endpoint** pro Item, falls die Listings zu wenig Felder haben (Quelle, Herstellungsprodukt). Gecacht, ein Request pro Item, nur einmalig und bei Diffs.
 3. **Zwei Durchläufe für Lokalisierung**: identische Requests gegen `/forever/...` und `/forever/de/...`, Join über `item_id`.
 
-**Fehlt ein Name in einer Sprache, wird der andere angezeigt** (`display_de` leer → Fallback `display_en` und umgekehrt). Der Fallback bleibt als Sicherungsnetz, ist aber nach dem M0-Spike nicht der Normalfall: Für Schneiderei sind **477 von 477 Einträgen übersetzt, einschließlich der neuen Forever-Rezepte** — die deutsche Lokalisierung ist weiter als beim Verfassen dieses Plans angenommen. Für die übrigen Berufe ist das noch zu prüfen. Belege in [tools/catalog_sources.md](tools/catalog_sources.md).
+**Fehlt ein Name in einer Sprache, wird der andere angezeigt** (`display_de` leer → Fallback `display_en` und umgekehrt). Der Fallback bleibt als Sicherungsnetz, ist aber nach dem M0-Spike nicht der Normalfall: Für Schneiderei sind **477 von 477 Einträgen übersetzt, einschließlich der neuen Forever-Rezepte** — die deutsche Lokalisierung ist weiter als beim Verfassen dieses Plans angenommen. Für die übrigen sechs Berufe liefern EN und DE jeweils gleich viele Einträge; ob auch alle übersetzt sind, ist noch zu messen. Belege in [tools/catalog_sources.md](tools/catalog_sources.md).
 
 > ⚠️ **Rechtlicher Hinweis, ehrlich:** Wowheads Nutzungsbedingungen schränken automatisierten Zugriff ein. Für ein privates Gilden-Tool ist das eine Grauzone, kein Freibrief. Mitigation: **max. 1 Request/Sekunde**, aussagekräftiger `User-Agent` mit Kontaktadresse, `ETag`/`If-Modified-Since`, aggressives Caching, **keine öffentliche Weiterverbreitung des Datensatzes**. Wenn Wowhead blockt oder du das nicht willst: In-Game-Addon-Export als Ersatzquelle (siehe *Offene Optionen*).
 
@@ -395,6 +395,13 @@ Zusätzlich infrastrukturfrei: `/admin export` postet `characters` + `character_
 
 **M0 — Scraper-Spike** *(2–3 Tage, kein Discord-Code)* ⚠️ **größtes Risiko, zuerst**
 Prüfen, ob die Wowhead-Listings das `Listview`-Datenarray liefern; ob Quelle (Trainer/Drop/Quest) und **Herstellungsprodukt** enthalten sind; ob die Zauberbeschreibung mit Zahlenwerten („+35 Beweglichkeit") erreichbar ist; ob `/forever/de/` deutsche Namen liefert; und was die Kategorie „Books" tatsächlich enthält (falls dort Rezepte primärer Berufe stecken, muss sie mit in den Scope). `scrape_wowhead.py` + `build_catalog.py`, Rate-Limit 1 req/s, Ergebnis als Snapshot-JSON.
+**Zwischenstand 21.09.2026** (Details in [tools/catalog_sources.md](tools/catalog_sources.md)):
+- ✅ Listview-Array, Herstellungsprodukt, Quelle, deutsche Namen: für Schneiderei belegt.
+- ✅ Alle sieben Berufe per `tools/probe_all.py` geladen, Slugs bestätigt (`alchemy`, `blacksmithing`, `enchanting`, `engineering`, `leatherworking`, `mining`, `tailoring`), EN/DE je gleich viele Einträge.
+- ✅ `cat` ist bei allen Berufen `11` — der Beruf steht allein in `skill`. Rezepte können mehreren Berufen gehören (`skill: [165, 197]`) → Dedup über `spell_id` im Import.
+- ❔ Neuer `source`-Code `1` bei Alchemie und Schmiedekunst — Bedeutung offen, als Nächstes `tools/analysis/source_codes.py` auf alle Berufe erweitern und gegen das Wowhead-Dropdown prüfen.
+- ❔ Kategorie „Books" und Zauberbeschreibung („+35 Beweglichkeit") noch nicht untersucht.
+
 **Abnahme:** 20 Rezepte stichprobenartig gegen die Wowhead-Website prüfen — Beruf, Name, Quelle, Herstellungsprodukt korrekt? **Erst dann geht M1 los.** Fällt der Spike negativ aus, ist der Addon-Weg zu bewerten (siehe unten) — lieber jetzt als im Oktober.
 
 **M1 — Erfassung + deterministische Abfrage, ohne LLM** *(bis ~10.10.)* → *liefert ~80 % des Nutzens*
