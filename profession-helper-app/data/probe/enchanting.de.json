@@ -1,0 +1,9997 @@
+[
+  {
+    "cat": 11,
+    "displayName": "Verzauberkunst",
+    "id": 7411,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Verzauberkunst",
+    "nskillup": 1,
+    "rank": "Lehrling",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 10,
+    "quality": -1,
+    "popularity": 58
+  },
+  {
+    "cat": 11,
+    "displayName": "Verzauberkunst",
+    "id": 7412,
+    "learnedat": 50,
+    "level": 0,
+    "name": "Verzauberkunst",
+    "nskillup": 1,
+    "rank": "Geselle",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 500,
+    "quality": -1,
+    "popularity": 83
+  },
+  {
+    "cat": 11,
+    "displayName": "Verzauberkunst",
+    "id": 7413,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Verzauberkunst",
+    "nskillup": 1,
+    "rank": "Experte",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5000,
+    "quality": -1,
+    "popularity": 63
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      20,
+      22,
+      25
+    ],
+    "displayName": "Armschiene - Minderwertige Ausdauer",
+    "id": 7418,
+    "learnedat": 20,
+    "level": 0,
+    "name": "Armschiene - Minderwertige Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        247786,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 128
+  },
+  {
+    "cat": 11,
+    "colors": [
+      15,
+      70,
+      90,
+      110
+    ],
+    "displayName": "Brust - Minderwertige Ausdauer",
+    "id": 7420,
+    "learnedat": 15,
+    "level": 0,
+    "name": "Brust - Minderwertige Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 50,
+    "quality": -1,
+    "popularity": 63
+  },
+  {
+    "cat": 11,
+    "colors": [
+      1,
+      5,
+      7,
+      10
+    ],
+    "creates": [
+      6218,
+      1,
+      1
+    ],
+    "displayName": "Runenverzierte Kupferrute",
+    "id": 7421,
+    "learnedat": 1,
+    "level": 0,
+    "name": "Runenverzierte Kupferrute",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        6217,
+        1
+      ],
+      [
+        247786,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 111
+  },
+  {
+    "cat": 11,
+    "colors": [
+      40,
+      90,
+      110,
+      130
+    ],
+    "displayName": "Brust - Schwache Absorption",
+    "id": 7426,
+    "learnedat": 40,
+    "level": 0,
+    "name": "Brust - Schwache Absorption",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 100,
+    "quality": -1,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      80,
+      100,
+      120
+    ],
+    "displayName": "Armschiene - Schwache Abwehr",
+    "id": 7428,
+    "learnedat": 80,
+    "level": 5,
+    "name": "Armschiene - Schwache Abwehr",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      20,
+      80,
+      100,
+      120
+    ],
+    "displayName": "Brust - Schwache Intelligenz",
+    "id": 7443,
+    "learnedat": 20,
+    "level": 0,
+    "name": "Brust - Schwache Intelligenz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      5,
+      21
+    ],
+    "quality": -1,
+    "popularity": 57
+  },
+  {
+    "cat": 11,
+    "colors": [
+      45,
+      95,
+      115,
+      135
+    ],
+    "displayName": "Umhang - Schwacher Widerstand",
+    "id": 7454,
+    "learnedat": 45,
+    "level": 0,
+    "name": "Umhang - Schwacher Widerstand",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 100,
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      50,
+      100,
+      120,
+      140
+    ],
+    "displayName": "Armschiene - Schwache Ausdauer",
+    "id": 7457,
+    "learnedat": 50,
+    "level": 0,
+    "name": "Armschiene - Schwache Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 250,
+    "quality": -1,
+    "popularity": 32
+  },
+  {
+    "cat": 11,
+    "colors": [
+      100,
+      130,
+      150,
+      170
+    ],
+    "displayName": "Zweihandwaffe - Schwacher Einschlag",
+    "id": 7745,
+    "learnedat": 100,
+    "level": 0,
+    "name": "Zweihandwaffe - Schwacher Einschlag",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        10978,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 500,
+    "quality": -1,
+    "popularity": 91
+  },
+  {
+    "cat": 11,
+    "colors": [
+      60,
+      105,
+      125,
+      145
+    ],
+    "displayName": "Brust - Geringe Ausdauer",
+    "id": 7748,
+    "learnedat": 60,
+    "level": 0,
+    "name": "Brust - Geringe Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 250,
+    "quality": -1,
+    "popularity": 50
+  },
+  {
+    "cat": 11,
+    "colors": [
+      60,
+      105,
+      125,
+      145
+    ],
+    "displayName": "Armschiene - Schwache Willenskraft",
+    "id": 7766,
+    "learnedat": 60,
+    "level": 0,
+    "name": "Armschiene - Schwache Willenskraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      21
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      70,
+      110,
+      130,
+      150
+    ],
+    "displayName": "Umhang - Schwacher Schutz",
+    "id": 7771,
+    "learnedat": 70,
+    "level": 0,
+    "name": "Umhang - Schwacher Schutz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 200,
+    "quality": -1,
+    "popularity": 38
+  },
+  {
+    "cat": 11,
+    "colors": [
+      80,
+      115,
+      135,
+      155
+    ],
+    "displayName": "Brust - Geringe Intelligenz",
+    "id": 7776,
+    "learnedat": 80,
+    "level": 0,
+    "name": "Brust - Geringe Intelligenz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 56
+  },
+  {
+    "cat": 11,
+    "colors": [
+      80,
+      115,
+      135,
+      155
+    ],
+    "displayName": "Armschiene - Schwache Beweglichkeit",
+    "id": 7779,
+    "learnedat": 80,
+    "level": 0,
+    "name": "Armschiene - Schwache Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        10938,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 400,
+    "quality": -1,
+    "popularity": 52
+  },
+  {
+    "cat": 11,
+    "colors": [
+      80,
+      115,
+      135,
+      155
+    ],
+    "displayName": "Armschiene - Schwache Stärke",
+    "id": 7782,
+    "learnedat": 80,
+    "level": 0,
+    "name": "Armschiene - Schwache Stärke",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      21
+    ],
+    "quality": -1,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      90,
+      120,
+      140,
+      160
+    ],
+    "displayName": "Waffe - Schwacher Wildtiertöter",
+    "id": 7786,
+    "learnedat": 90,
+    "level": 0,
+    "name": "Waffe - Schwacher Wildtiertöter",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        2
+      ],
+      [
+        10939,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16,
+      21
+    ],
+    "quality": -1,
+    "popularity": 55
+  },
+  {
+    "cat": 11,
+    "colors": [
+      90,
+      120,
+      140,
+      160
+    ],
+    "displayName": "Waffe - Schwaches Schlagen",
+    "id": 7788,
+    "learnedat": 90,
+    "level": 0,
+    "name": "Waffe - Schwaches Schlagen",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        10938,
+        1
+      ],
+      [
+        10978,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 500,
+    "quality": -1,
+    "popularity": 52
+  },
+  {
+    "cat": 11,
+    "colors": [
+      100,
+      130,
+      150,
+      170
+    ],
+    "displayName": "Zweihandwaffe - Geringe Intelligenz",
+    "id": 7793,
+    "learnedat": 100,
+    "level": 0,
+    "name": "Zweihandwaffe - Geringe Intelligenz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 73
+  },
+  {
+    "cat": 11,
+    "colors": [
+      100,
+      130,
+      150,
+      170
+    ],
+    "creates": [
+      6339,
+      1,
+      1
+    ],
+    "displayName": "Runenverzierte Silberrute",
+    "id": 7795,
+    "learnedat": 100,
+    "level": 0,
+    "name": "Runenverzierte Silberrute",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        6338,
+        1
+      ],
+      [
+        10940,
+        3
+      ],
+      [
+        10938,
+        4
+      ],
+      [
+        1210,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1000,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      120,
+      145,
+      165,
+      185
+    ],
+    "displayName": "Brust - Ausdauer",
+    "id": 7857,
+    "learnedat": 120,
+    "level": 0,
+    "name": "Brust - Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        2
+      ],
+      [
+        10998,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1000,
+    "quality": -1,
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      120,
+      145,
+      165,
+      185
+    ],
+    "displayName": "Armschiene - Geringe Willenskraft",
+    "id": 7859,
+    "learnedat": 120,
+    "level": 0,
+    "name": "Armschiene - Geringe Willenskraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10998,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      125,
+      150,
+      170,
+      190
+    ],
+    "displayName": "Umhang - Geringer Feuerwiderstand",
+    "id": 7861,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Umhang - Geringer Feuerwiderstand",
+    "nskillup": 1,
+    "reagents": [
+      [
+        6371,
+        1
+      ],
+      [
+        10998,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1250,
+    "quality": -1,
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "colors": [
+      125,
+      150,
+      170,
+      190
+    ],
+    "displayName": "Stiefel - Schwache Ausdauer",
+    "id": 7863,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Stiefel - Schwache Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1400,
+    "quality": -1,
+    "popularity": 31
+  },
+  {
+    "cat": 11,
+    "colors": [
+      125,
+      150,
+      170,
+      190
+    ],
+    "displayName": "Stiefel - Schwache Beweglichkeit",
+    "id": 7867,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Stiefel - Schwache Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        3
+      ],
+      [
+        10998,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      20,
+      40,
+      60
+    ],
+    "displayName": "Entzaubern",
+    "id": 13262,
+    "learnedat": 20,
+    "level": 0,
+    "name": "Entzaubern",
+    "nskillup": 1,
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 462
+  },
+  {
+    "cat": 11,
+    "colors": [
+      105,
+      130,
+      150,
+      170
+    ],
+    "displayName": "Schild - Schwache Ausdauer",
+    "id": 13378,
+    "learnedat": 105,
+    "level": 0,
+    "name": "Schild - Schwache Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10998,
+        1
+      ],
+      [
+        10940,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 600,
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      110,
+      135,
+      155,
+      175
+    ],
+    "displayName": "Zweihandwaffe - Geringe Willenskraft",
+    "id": 13380,
+    "learnedat": 110,
+    "level": 0,
+    "name": "Zweihandwaffe - Geringe Willenskraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10998,
+        1
+      ],
+      [
+        10940,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      110,
+      135,
+      155,
+      175
+    ],
+    "displayName": "Umhang - Schwache Beweglichkeit",
+    "id": 13419,
+    "learnedat": 110,
+    "level": 0,
+    "name": "Umhang - Schwache Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10998,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      5
+    ],
+    "quality": -1,
+    "popularity": 73
+  },
+  {
+    "cat": 11,
+    "colors": [
+      115,
+      140,
+      160,
+      180
+    ],
+    "displayName": "Umhang - Geringer Schutz",
+    "id": 13421,
+    "learnedat": 115,
+    "level": 0,
+    "name": "Umhang - Geringer Schutz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        3
+      ],
+      [
+        10978,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 800,
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      115,
+      140,
+      160,
+      180
+    ],
+    "displayName": "Schild - Geringer Schutz",
+    "id": 13464,
+    "learnedat": 115,
+    "level": 0,
+    "name": "Schild - Geringer Schutz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        10978,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      130,
+      155,
+      175,
+      195
+    ],
+    "displayName": "Schild - Geringe Willenskraft",
+    "id": 13485,
+    "learnedat": 130,
+    "level": 0,
+    "name": "Schild - Geringe Willenskraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10998,
+        1
+      ],
+      [
+        10940,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1500,
+    "quality": -1,
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      130,
+      155,
+      175,
+      195
+    ],
+    "displayName": "Armschiene - Geringe Ausdauer",
+    "id": 13501,
+    "learnedat": 130,
+    "level": 0,
+    "name": "Armschiene - Geringe Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 1500,
+    "quality": -1,
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      140,
+      165,
+      185,
+      205
+    ],
+    "displayName": "Waffe - Geringes Schlagen",
+    "id": 13503,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Waffe - Geringes Schlagen",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ],
+      [
+        11084,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2000,
+    "quality": -1,
+    "popularity": 45
+  },
+  {
+    "cat": 11,
+    "colors": [
+      135,
+      160,
+      180,
+      200
+    ],
+    "displayName": "Umhang - Geringer Schattenwiderstand",
+    "id": 13522,
+    "learnedat": 135,
+    "level": 0,
+    "name": "Umhang - Geringer Schattenwiderstand",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10998,
+        1
+      ],
+      [
+        6048,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "colors": [
+      145,
+      170,
+      190,
+      210
+    ],
+    "displayName": "Zweihandwaffe - Geringer Einschlag",
+    "id": 13529,
+    "learnedat": 145,
+    "level": 0,
+    "name": "Zweihandwaffe - Geringer Einschlag",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ],
+      [
+        11084,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2400,
+    "quality": -1,
+    "popularity": 71
+  },
+  {
+    "cat": 11,
+    "colors": [
+      140,
+      165,
+      185,
+      205
+    ],
+    "displayName": "Armschiene - Geringe Stärke",
+    "id": 13536,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Armschiene - Geringe Stärke",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 44
+  },
+  {
+    "cat": 11,
+    "colors": [
+      140,
+      165,
+      185,
+      205
+    ],
+    "displayName": "Brust - Geringe Absorption",
+    "id": 13538,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Brust - Geringe Absorption",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        10998,
+        1
+      ],
+      [
+        11084,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2500,
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      145,
+      170,
+      190,
+      210
+    ],
+    "displayName": "Brust - Intelligenz",
+    "id": 13607,
+    "learnedat": 145,
+    "level": 0,
+    "name": "Brust - Intelligenz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11082,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2400,
+    "quality": -1,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      145,
+      170,
+      190,
+      210
+    ],
+    "displayName": "Handschuhe - Bergbau",
+    "id": 13612,
+    "learnedat": 145,
+    "level": 0,
+    "name": "Handschuhe - Bergbau",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ],
+      [
+        2772,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 15
+  },
+  {
+    "cat": 11,
+    "colors": [
+      145,
+      170,
+      190,
+      210
+    ],
+    "displayName": "Handschuhe - Kräuterkunde",
+    "id": 13617,
+    "learnedat": 145,
+    "level": 0,
+    "name": "Handschuhe - Kräuterkunde",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ],
+      [
+        3356,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      145,
+      170,
+      190,
+      210
+    ],
+    "displayName": "Handschuhe - Angeln",
+    "id": 13620,
+    "learnedat": 145,
+    "level": 0,
+    "name": "Handschuhe - Angeln",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ],
+      [
+        6370,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      150,
+      175,
+      195,
+      215
+    ],
+    "displayName": "Armschiene - Geringe Intelligenz",
+    "id": 13622,
+    "learnedat": 150,
+    "level": 0,
+    "name": "Armschiene - Geringe Intelligenz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11082,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2500,
+    "quality": -1,
+    "popularity": 30
+  },
+  {
+    "cat": 11,
+    "colors": [
+      150,
+      175,
+      195,
+      215
+    ],
+    "displayName": "Brust - Schwache Werte",
+    "id": 13626,
+    "learnedat": 150,
+    "level": 0,
+    "name": "Brust - Schwache Werte",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10998,
+        1
+      ],
+      [
+        11083,
+        1
+      ],
+      [
+        11084,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2500,
+    "quality": -1,
+    "popularity": 41
+  },
+  {
+    "cat": 11,
+    "colors": [
+      150,
+      175,
+      195,
+      215
+    ],
+    "creates": [
+      11130,
+      1,
+      1
+    ],
+    "displayName": "Runenverzierte Goldrute",
+    "id": 13628,
+    "learnedat": 150,
+    "level": 0,
+    "name": "Runenverzierte Goldrute",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        11128,
+        1
+      ],
+      [
+        5500,
+        1
+      ],
+      [
+        11082,
+        1
+      ],
+      [
+        11083,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2500,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      155,
+      175,
+      195,
+      215
+    ],
+    "displayName": "Schild - Geringe Ausdauer",
+    "id": 13631,
+    "learnedat": 155,
+    "level": 0,
+    "name": "Schild - Geringe Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2600,
+    "quality": -1,
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      155,
+      175,
+      195,
+      215
+    ],
+    "displayName": "Umhang - Verteidigung",
+    "id": 13635,
+    "learnedat": 155,
+    "level": 0,
+    "name": "Umhang - Verteidigung",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11138,
+        1
+      ],
+      [
+        11083,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2600,
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      160,
+      180,
+      200,
+      220
+    ],
+    "displayName": "Stiefel - Geringe Beweglichkeit",
+    "id": 13637,
+    "learnedat": 160,
+    "level": 0,
+    "name": "Stiefel - Geringe Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2800,
+    "quality": -1,
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      160,
+      180,
+      200,
+      220
+    ],
+    "displayName": "Brust - Große Ausdauer",
+    "id": 13640,
+    "learnedat": 160,
+    "level": 0,
+    "name": "Brust - Große Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2700,
+    "quality": -1,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      165,
+      185,
+      205,
+      225
+    ],
+    "displayName": "Armschiene - Willenskraft",
+    "id": 13642,
+    "learnedat": 165,
+    "level": 0,
+    "name": "Armschiene - Willenskraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2800,
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "colors": [
+      170,
+      190,
+      210,
+      230
+    ],
+    "displayName": "Stiefel - Geringe Ausdauer",
+    "id": 13644,
+    "learnedat": 170,
+    "level": 0,
+    "name": "Stiefel - Geringe Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2800,
+    "quality": -1,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      170,
+      190,
+      210,
+      230
+    ],
+    "displayName": "Armschiene - Geringe Abwehr",
+    "id": 13646,
+    "learnedat": 170,
+    "level": 0,
+    "name": "Armschiene - Geringe Abwehr",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        1
+      ],
+      [
+        11083,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      170,
+      190,
+      210,
+      230
+    ],
+    "displayName": "Armschiene - Ausdauer",
+    "id": 13648,
+    "learnedat": 170,
+    "level": 0,
+    "name": "Armschiene - Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2800,
+    "quality": -1,
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ],
+    "displayName": "Waffe - Geringer Wildtiertöter",
+    "id": 13653,
+    "learnedat": 175,
+    "level": 0,
+    "name": "Waffe - Geringer Wildtiertöter",
+    "nskillup": 1,
+    "reagents": [
+      [
+        5637,
+        1
+      ],
+      [
+        11138,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ],
+    "displayName": "Waffe - Geringer Elementartöter",
+    "id": 13655,
+    "learnedat": 175,
+    "level": 0,
+    "name": "Waffe - Geringer Elementartöter",
+    "nskillup": 1,
+    "reagents": [
+      [
+        7067,
+        1
+      ],
+      [
+        11138,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ],
+    "displayName": "Umhang - Feuerwiderstand",
+    "id": 13657,
+    "learnedat": 175,
+    "level": 0,
+    "name": "Umhang - Feuerwiderstand",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        1
+      ],
+      [
+        7068,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 3000,
+    "quality": -1,
+    "popularity": 15
+  },
+  {
+    "cat": 11,
+    "colors": [
+      180,
+      200,
+      220,
+      240
+    ],
+    "displayName": "Schild - Willenskraft",
+    "id": 13659,
+    "learnedat": 180,
+    "level": 0,
+    "name": "Schild - Willenskraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        1
+      ],
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 3200,
+    "quality": -1,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      180,
+      200,
+      220,
+      240
+    ],
+    "displayName": "Armschiene - Stärke",
+    "id": 13661,
+    "learnedat": 180,
+    "level": 0,
+    "name": "Armschiene - Stärke",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 3600,
+    "quality": -1,
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      185,
+      205,
+      225,
+      245
+    ],
+    "displayName": "Brust - Große Intelligenz",
+    "id": 13663,
+    "learnedat": 185,
+    "level": 0,
+    "name": "Brust - Große Intelligenz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 3800,
+    "quality": -1,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      190,
+      210,
+      230,
+      250
+    ],
+    "displayName": "Stiefel - Geringe Willenskraft",
+    "id": 13687,
+    "learnedat": 190,
+    "level": 0,
+    "name": "Stiefel - Geringe Willenskraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      195,
+      215,
+      235,
+      255
+    ],
+    "displayName": "Schild - Geringes Blocken",
+    "id": 13689,
+    "learnedat": 195,
+    "level": 0,
+    "name": "Schild - Geringes Blocken",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11135,
+        1
+      ],
+      [
+        11137,
+        1
+      ],
+      [
+        11139,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "colors": [
+      195,
+      215,
+      235,
+      255
+    ],
+    "displayName": "Waffe - Schlagen",
+    "id": 13693,
+    "learnedat": 195,
+    "level": 0,
+    "name": "Waffe - Schlagen",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11135,
+        1
+      ],
+      [
+        11139,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4000,
+    "quality": -1,
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ],
+    "displayName": "Zweihandwaffe - Einschlag",
+    "id": 13695,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Zweihandwaffe - Einschlag",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        2
+      ],
+      [
+        11139,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4000,
+    "quality": -1,
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ],
+    "displayName": "Handschuhe - Kürschnerei",
+    "id": 13698,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Handschuhe - Kürschnerei",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        1
+      ],
+      [
+        7392,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ],
+    "displayName": "Brust - Geringe Werte",
+    "id": 13700,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Brust - Geringe Werte",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11135,
+        1
+      ],
+      [
+        11137,
+        1
+      ],
+      [
+        11139,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4000,
+    "quality": -1,
+    "popularity": 39
+  },
+  {
+    "cat": 11,
+    "colors": [
+      200,
+      220,
+      240,
+      260
+    ],
+    "creates": [
+      11145,
+      1,
+      1
+    ],
+    "displayName": "Runenverzierte Echtsilberrute",
+    "id": 13702,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Runenverzierte Echtsilberrute",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        11144,
+        1
+      ],
+      [
+        7971,
+        1
+      ],
+      [
+        11135,
+        1
+      ],
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4000,
+    "popularity": 14
+  },
+  {
+    "cat": 11,
+    "colors": [
+      205,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Umhang - Große Verteidigung",
+    "id": 13746,
+    "learnedat": 205,
+    "level": 0,
+    "name": "Umhang - Große Verteidigung",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4200,
+    "quality": -1,
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      205,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Umhang - Widerstand",
+    "id": 13794,
+    "learnedat": 205,
+    "level": 0,
+    "name": "Umhang - Widerstand",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4200,
+    "quality": -1,
+    "popularity": 16
+  },
+  {
+    "cat": 11,
+    "colors": [
+      210,
+      230,
+      250,
+      270
+    ],
+    "displayName": "Handschuhe - Beweglichkeit",
+    "id": 13815,
+    "learnedat": 210,
+    "level": 0,
+    "name": "Handschuhe - Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4400,
+    "quality": -1,
+    "popularity": 40
+  },
+  {
+    "cat": 11,
+    "colors": [
+      210,
+      230,
+      250,
+      270
+    ],
+    "displayName": "Schild - Ausdauer",
+    "id": 13817,
+    "learnedat": 210,
+    "level": 0,
+    "name": "Schild - Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 8
+  },
+  {
+    "cat": 11,
+    "colors": [
+      210,
+      230,
+      250,
+      270
+    ],
+    "displayName": "Armschiene - Intelligenz",
+    "id": 13822,
+    "learnedat": 210,
+    "level": 0,
+    "name": "Armschiene - Intelligenz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4400,
+    "quality": -1,
+    "popularity": 16
+  },
+  {
+    "cat": 11,
+    "colors": [
+      215,
+      235,
+      255,
+      275
+    ],
+    "displayName": "Stiefel - Ausdauer",
+    "id": 13836,
+    "learnedat": 215,
+    "level": 0,
+    "name": "Stiefel - Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4600,
+    "quality": -1,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      215,
+      235,
+      255,
+      275
+    ],
+    "displayName": "Handschuhe - Hochentwickelter Bergbau",
+    "id": 13841,
+    "learnedat": 215,
+    "level": 0,
+    "name": "Handschuhe - Hochentwickelter Bergbau",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        2
+      ],
+      [
+        6037,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      220,
+      240,
+      260,
+      280
+    ],
+    "displayName": "Armschiene - Große Willenskraft",
+    "id": 13846,
+    "learnedat": 220,
+    "level": 0,
+    "name": "Armschiene - Große Willenskraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        1
+      ],
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      220,
+      240,
+      260,
+      280
+    ],
+    "displayName": "Brust - Überragende Ausdauer",
+    "id": 13858,
+    "learnedat": 220,
+    "level": 0,
+    "name": "Brust - Überragende Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 4800,
+    "quality": -1,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      225,
+      245,
+      265,
+      285
+    ],
+    "displayName": "Handschuhe - Hochentwickelte Kräuterkunde",
+    "id": 13868,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Handschuhe - Hochentwickelte Kräuterkunde",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        2
+      ],
+      [
+        8838,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 36
+  },
+  {
+    "cat": 11,
+    "colors": [
+      225,
+      245,
+      265,
+      285
+    ],
+    "displayName": "Umhang - Geringe Beweglichkeit",
+    "id": 13882,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Umhang - Geringe Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 35
+  },
+  {
+    "cat": 11,
+    "colors": [
+      225,
+      245,
+      265,
+      285
+    ],
+    "displayName": "Handschuhe - Stärke",
+    "id": 13887,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Handschuhe - Stärke",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        1
+      ],
+      [
+        11137,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5000,
+    "quality": -1,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      225,
+      245,
+      265,
+      285
+    ],
+    "displayName": "Stiefel - Schwaches Tempo",
+    "id": 13890,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Stiefel - Schwaches Tempo",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11177,
+        1
+      ],
+      [
+        7909,
+        1
+      ],
+      [
+        11174,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5000,
+    "quality": -1,
+    "popularity": 104
+  },
+  {
+    "cat": 11,
+    "colors": [
+      265,
+      285,
+      305,
+      325
+    ],
+    "displayName": "Waffe - Feurige Waffe",
+    "id": 13898,
+    "learnedat": 265,
+    "level": 0,
+    "name": "Waffe - Feurige Waffe",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11177,
+        2
+      ],
+      [
+        7078,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 86
+  },
+  {
+    "cat": 11,
+    "colors": [
+      230,
+      250,
+      270,
+      290
+    ],
+    "displayName": "Schild - Große Willenskraft",
+    "id": 13905,
+    "learnedat": 230,
+    "level": 0,
+    "name": "Schild - Große Willenskraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        2
+      ],
+      [
+        11176,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5400,
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      230,
+      250,
+      270,
+      290
+    ],
+    "displayName": "Waffe - Dämonentöten",
+    "id": 13915,
+    "learnedat": 230,
+    "level": 0,
+    "name": "Waffe - Dämonentöten",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11177,
+        1
+      ],
+      [
+        11176,
+        1
+      ],
+      [
+        9224,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      230,
+      250,
+      270,
+      290
+    ],
+    "displayName": "Brust - Überragende Intelligenz",
+    "id": 13917,
+    "learnedat": 230,
+    "level": 0,
+    "name": "Brust - Überragende Intelligenz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11175,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5400,
+    "quality": -1,
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "displayName": "Verzauberkunst",
+    "id": 13920,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Verzauberkunst",
+    "nskillup": 1,
+    "rank": "Fachmann",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 50000,
+    "quality": -1,
+    "popularity": 59
+  },
+  {
+    "cat": 11,
+    "colors": [
+      235,
+      255,
+      275,
+      295
+    ],
+    "displayName": "Armschiene - Abwehr",
+    "id": 13931,
+    "learnedat": 235,
+    "level": 0,
+    "name": "Armschiene - Abwehr",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        2
+      ],
+      [
+        11176,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      235,
+      255,
+      275,
+      295
+    ],
+    "displayName": "Schild - Frostwiderstand",
+    "id": 13933,
+    "learnedat": 235,
+    "level": 0,
+    "name": "Schild - Frostwiderstand",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11178,
+        1
+      ],
+      [
+        3829,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 12
+  },
+  {
+    "cat": 11,
+    "colors": [
+      235,
+      255,
+      275,
+      295
+    ],
+    "displayName": "Stiefel - Beweglichkeit",
+    "id": 13935,
+    "learnedat": 235,
+    "level": 0,
+    "name": "Stiefel - Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11175,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5800,
+    "quality": -1,
+    "popularity": 35
+  },
+  {
+    "cat": 11,
+    "colors": [
+      240,
+      260,
+      280,
+      300
+    ],
+    "displayName": "Zweihandwaffe - Großer Einschlag",
+    "id": 13937,
+    "learnedat": 240,
+    "level": 0,
+    "name": "Zweihandwaffe - Großer Einschlag",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11178,
+        1
+      ],
+      [
+        11176,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 6200,
+    "quality": -1,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      240,
+      260,
+      280,
+      300
+    ],
+    "displayName": "Armschiene - Große Stärke",
+    "id": 13939,
+    "learnedat": 240,
+    "level": 0,
+    "name": "Armschiene - Große Stärke",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        1
+      ],
+      [
+        11174,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 6200,
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "colors": [
+      245,
+      265,
+      285,
+      305
+    ],
+    "displayName": "Brust - Werte",
+    "id": 13941,
+    "learnedat": 245,
+    "level": 0,
+    "name": "Brust - Werte",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11178,
+        1
+      ],
+      [
+        11176,
+        1
+      ],
+      [
+        11175,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 6200,
+    "quality": -1,
+    "popularity": 33
+  },
+  {
+    "cat": 11,
+    "colors": [
+      245,
+      265,
+      285,
+      305
+    ],
+    "displayName": "Waffe - Großes Schlagen",
+    "id": 13943,
+    "learnedat": 245,
+    "level": 0,
+    "name": "Waffe - Großes Schlagen",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11178,
+        1
+      ],
+      [
+        11175,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 6200,
+    "quality": -1,
+    "popularity": 46
+  },
+  {
+    "cat": 11,
+    "colors": [
+      245,
+      265,
+      285,
+      305
+    ],
+    "displayName": "Armschiene - Große Ausdauer",
+    "id": 13945,
+    "learnedat": 245,
+    "level": 0,
+    "name": "Armschiene - Große Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      270,
+      290,
+      310
+    ],
+    "displayName": "Handschuhe - Reitfertigkeit",
+    "id": 13947,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Handschuhe - Reitfertigkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11178,
+        1
+      ],
+      [
+        11176,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 26
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      270,
+      290,
+      310
+    ],
+    "displayName": "Handschuhe - Schwache Hast",
+    "id": 13948,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Handschuhe - Schwache Hast",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11178,
+        1
+      ],
+      [
+        8153,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 6500,
+    "quality": -1,
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "colors": [
+      10,
+      75,
+      95,
+      115
+    ],
+    "creates": [
+      11287,
+      1,
+      1
+    ],
+    "displayName": "Geringer Magiezauberstab",
+    "id": 14293,
+    "learnedat": 10,
+    "level": 0,
+    "name": "Geringer Magiezauberstab",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        4470,
+        1
+      ],
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 50,
+    "popularity": 288
+  },
+  {
+    "cat": 11,
+    "colors": [
+      70,
+      110,
+      130,
+      150
+    ],
+    "creates": [
+      11288,
+      1,
+      1
+    ],
+    "displayName": "Großer Magiezauberstab",
+    "id": 14807,
+    "learnedat": 70,
+    "level": 0,
+    "name": "Großer Magiezauberstab",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        4470,
+        1
+      ],
+      [
+        10938,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 200,
+    "popularity": 374
+  },
+  {
+    "cat": 11,
+    "colors": [
+      155,
+      175,
+      195,
+      215
+    ],
+    "creates": [
+      11289,
+      1,
+      1
+    ],
+    "displayName": "Geringer Mystikerzauberstab",
+    "id": 14809,
+    "learnedat": 155,
+    "level": 0,
+    "name": "Geringer Mystikerzauberstab",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        11291,
+        1
+      ],
+      [
+        11134,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 2600,
+    "popularity": 66
+  },
+  {
+    "cat": 11,
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ],
+    "creates": [
+      217287,
+      1,
+      1
+    ],
+    "displayName": "Großer Mystikerzauberstab",
+    "id": 14810,
+    "learnedat": 175,
+    "level": 0,
+    "name": "Großer Mystikerzauberstab",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        11291,
+        1
+      ],
+      [
+        11134,
+        1
+      ],
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 3000,
+    "popularity": 25
+  },
+  {
+    "cat": 11,
+    "colors": [
+      265,
+      285,
+      305,
+      325
+    ],
+    "displayName": "Rauchendes Herz des Berges",
+    "id": 15596,
+    "learnedat": 265,
+    "level": 0,
+    "name": "Rauchendes Herz des Berges",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11382,
+        1
+      ],
+      [
+        7078,
+        1
+      ],
+      [
+        14343,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 46
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      250,
+      255,
+      260
+    ],
+    "creates": [
+      12655,
+      1,
+      1
+    ],
+    "displayName": "Verzaubertes Thorium",
+    "id": 17180,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Verzaubertes Thorium",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        12359,
+        1
+      ],
+      [
+        11176,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 10000,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      250,
+      255,
+      260
+    ],
+    "creates": [
+      12810,
+      1,
+      1
+    ],
+    "displayName": "Verzaubertes Leder",
+    "id": 17181,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Verzaubertes Leder",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8170,
+        1
+      ],
+      [
+        16202,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 10000,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      255,
+      275,
+      295,
+      315
+    ],
+    "displayName": "Armschiene - Große Intelligenz",
+    "id": 20008,
+    "learnedat": 255,
+    "level": 0,
+    "name": "Armschiene - Große Intelligenz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16202,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      270,
+      290,
+      310,
+      330
+    ],
+    "displayName": "Armschiene - Überragende Willenskraft",
+    "id": 20009,
+    "learnedat": 270,
+    "level": 0,
+    "name": "Armschiene - Überragende Willenskraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16202,
+        2
+      ],
+      [
+        11176,
+        7
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2,
+      16
+    ],
+    "quality": -1,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      295,
+      315,
+      335,
+      355
+    ],
+    "displayName": "Armschiene - Überragende Stärke",
+    "id": 20010,
+    "learnedat": 295,
+    "level": 0,
+    "name": "Armschiene - Überragende Stärke",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16204,
+        6
+      ],
+      [
+        16203,
+        6
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Armschiene - Überragende Ausdauer",
+    "id": 20011,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Armschiene - Überragende Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16204,
+        15
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      270,
+      290,
+      310,
+      330
+    ],
+    "displayName": "Handschuhe - Große Beweglichkeit",
+    "id": 20012,
+    "learnedat": 270,
+    "level": 0,
+    "name": "Handschuhe - Große Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16202,
+        2
+      ],
+      [
+        16204,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 25
+  },
+  {
+    "cat": 11,
+    "colors": [
+      295,
+      315,
+      335,
+      355
+    ],
+    "displayName": "Handschuhe - Große Stärke",
+    "id": 20013,
+    "learnedat": 295,
+    "level": 0,
+    "name": "Handschuhe - Große Stärke",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        4
+      ],
+      [
+        16204,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "colors": [
+      265,
+      285,
+      305,
+      325
+    ],
+    "displayName": "Umhang - Großer Widerstand",
+    "id": 20014,
+    "learnedat": 265,
+    "level": 0,
+    "name": "Umhang - Großer Widerstand",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16202,
+        1
+      ],
+      [
+        7077,
+        1
+      ],
+      [
+        7075,
+        1
+      ],
+      [
+        7079,
+        1
+      ],
+      [
+        7081,
+        1
+      ],
+      [
+        7972,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "colors": [
+      285,
+      305,
+      325,
+      345
+    ],
+    "displayName": "Umhang - Überragende Verteidigung",
+    "id": 20015,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Umhang - Überragende Verteidigung",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16204,
+        8
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "colors": [
+      280,
+      300,
+      320,
+      340
+    ],
+    "displayName": "Schild - Erhebliche Willenskraft",
+    "id": 20016,
+    "learnedat": 280,
+    "level": 0,
+    "name": "Schild - Erhebliche Willenskraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        2
+      ],
+      [
+        16204,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 15
+  },
+  {
+    "cat": 11,
+    "colors": [
+      265,
+      285,
+      305,
+      325
+    ],
+    "displayName": "Schild - Große Ausdauer",
+    "id": 20017,
+    "learnedat": 265,
+    "level": 0,
+    "name": "Schild - Große Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        6
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "colors": [
+      260,
+      280,
+      300,
+      320
+    ],
+    "displayName": "Stiefel - Große Ausdauer",
+    "id": 20020,
+    "learnedat": 260,
+    "level": 0,
+    "name": "Stiefel - Große Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        6
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      295,
+      315,
+      335,
+      355
+    ],
+    "displayName": "Stiefel - Große Beweglichkeit",
+    "id": 20023,
+    "learnedat": 295,
+    "level": 0,
+    "name": "Stiefel - Große Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        8
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 14
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      295,
+      315,
+      335
+    ],
+    "displayName": "Stiefel - Willenskraft",
+    "id": 20024,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Stiefel - Willenskraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        2
+      ],
+      [
+        16202,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Brust - Große Werte",
+    "id": 20025,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Brust - Große Werte",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        16204,
+        15
+      ],
+      [
+        16203,
+        10
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 44
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      295,
+      315,
+      335
+    ],
+    "displayName": "Brust - Erhebliche Ausdauer",
+    "id": 20026,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Brust - Erhebliche Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16204,
+        6
+      ],
+      [
+        14343,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 45
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      310,
+      330,
+      350
+    ],
+    "displayName": "Brust - Erhebliche Intelligenz",
+    "id": 20028,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Brust - Erhebliche Intelligenz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        3
+      ],
+      [
+        14343,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 39
+  },
+  {
+    "cat": 11,
+    "colors": [
+      285,
+      305,
+      325,
+      345
+    ],
+    "displayName": "Waffe - Eisiger Hauch",
+    "id": 20029,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Waffe - Eisiger Hauch",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14343,
+        4
+      ],
+      [
+        7080,
+        1
+      ],
+      [
+        7082,
+        1
+      ],
+      [
+        13467,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      295,
+      315,
+      335,
+      355
+    ],
+    "displayName": "Zweihandwaffe - Überragender Einschlag",
+    "id": 20030,
+    "learnedat": 295,
+    "level": 0,
+    "name": "Zweihandwaffe - Überragender Einschlag",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        16204,
+        10
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 12
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Waffe - Überragendes Schlagen",
+    "id": 20031,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Waffe - Überragendes Schlagen",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        2
+      ],
+      [
+        16203,
+        10
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Waffe - Lebensdiebstahl",
+    "id": 20032,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Waffe - Lebensdiebstahl",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        6
+      ],
+      [
+        12808,
+        6
+      ],
+      [
+        12803,
+        6
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      295,
+      315,
+      335,
+      355
+    ],
+    "displayName": "Waffe - Unheilige Waffe",
+    "id": 20033,
+    "learnedat": 295,
+    "level": 0,
+    "name": "Waffe - Unheilige Waffe",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        12808,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 32
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Waffe - Kreuzfahrer",
+    "id": 20034,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Waffe - Kreuzfahrer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        12811,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 84
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Zweihandwaffe - Erhebliche Willenskraft",
+    "id": 20035,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Zweihandwaffe - Erhebliche Willenskraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        12
+      ],
+      [
+        14344,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Zweihandwaffen - Erhebliche Intelligenz",
+    "id": 20036,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Zweihandwaffen - Erhebliche Intelligenz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        12
+      ],
+      [
+        14344,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      310,
+      330,
+      350
+    ],
+    "creates": [
+      16207,
+      1,
+      1
+    ],
+    "displayName": "Runenverzierte Arkanitrute",
+    "id": 20051,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Runenverzierte Arkanitrute",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        16206,
+        1
+      ],
+      [
+        13926,
+        1
+      ],
+      [
+        16204,
+        10
+      ],
+      [
+        16203,
+        4
+      ],
+      [
+        14343,
+        4
+      ],
+      [
+        14344,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      190,
+      210,
+      230,
+      250
+    ],
+    "displayName": "Waffe - Wintermacht",
+    "id": 21931,
+    "learnedat": 190,
+    "level": 0,
+    "name": "Waffe - Wintermacht",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11135,
+        1
+      ],
+      [
+        11137,
+        1
+      ],
+      [
+        11139,
+        1
+      ],
+      [
+        3819,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Waffe - Zauberkraft",
+    "id": 22749,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Waffe - Zauberkraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        16203,
+        12
+      ],
+      [
+        7078,
+        4
+      ],
+      [
+        7080,
+        4
+      ],
+      [
+        7082,
+        4
+      ],
+      [
+        13926,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 88
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Waffe - Heilkraft",
+    "id": 22750,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Waffe - Heilkraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        16203,
+        8
+      ],
+      [
+        12803,
+        6
+      ],
+      [
+        7080,
+        6
+      ],
+      [
+        12811,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      310,
+      330,
+      350
+    ],
+    "displayName": "Waffe - Stärke",
+    "id": 23799,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Waffe - Stärke",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        6
+      ],
+      [
+        16203,
+        6
+      ],
+      [
+        16204,
+        4
+      ],
+      [
+        7076,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      310,
+      330,
+      350
+    ],
+    "displayName": "Waffe - Beweglichkeit",
+    "id": 23800,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Waffe - Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        6
+      ],
+      [
+        16203,
+        6
+      ],
+      [
+        16204,
+        4
+      ],
+      [
+        7082,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 38
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      310,
+      330,
+      350
+    ],
+    "displayName": "Armschiene - Manaregeneration",
+    "id": 23801,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Armschiene - Manaregeneration",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16204,
+        16
+      ],
+      [
+        16203,
+        4
+      ],
+      [
+        7080,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 44
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Armschiene - Heilkraft",
+    "id": 23802,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Armschiene - Heilkraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        2
+      ],
+      [
+        16204,
+        20
+      ],
+      [
+        16203,
+        4
+      ],
+      [
+        12803,
+        6
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Waffe - Mächtige Willenskraft",
+    "id": 23803,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Waffe - Mächtige Willenskraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        10
+      ],
+      [
+        16203,
+        8
+      ],
+      [
+        16204,
+        15
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Waffe - Mächtige Intelligenz",
+    "id": 23804,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Waffe - Mächtige Intelligenz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        15
+      ],
+      [
+        16203,
+        12
+      ],
+      [
+        16204,
+        20
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 34
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Handschuhe - Bedrohung",
+    "id": 25072,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Handschuhe - Bedrohung",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        4
+      ],
+      [
+        14344,
+        6
+      ],
+      [
+        18512,
+        8
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Handschuhe - Schattenmacht",
+    "id": 25073,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Handschuhe - Schattenmacht",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        14344,
+        10
+      ],
+      [
+        12808,
+        6
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Handschuhe - Frostmacht",
+    "id": 25074,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Handschuhe - Frostmacht",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        14344,
+        10
+      ],
+      [
+        7080,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 15
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Handschuhe - Feuermacht",
+    "id": 25078,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Handschuhe - Feuermacht",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        14344,
+        10
+      ],
+      [
+        7078,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Handschuhe - Heilkraft",
+    "id": 25079,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Handschuhe - Heilkraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        14344,
+        8
+      ],
+      [
+        12811,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Handschuhe - Überragende Beweglichkeit",
+    "id": 25080,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Handschuhe - Überragende Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        14344,
+        8
+      ],
+      [
+        7082,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Umhang - Großer Feuerwiderstand",
+    "id": 25081,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Umhang - Großer Feuerwiderstand",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        14344,
+        8
+      ],
+      [
+        7078,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 11
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Umhang - Großer Naturwiderstand",
+    "id": 25082,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Umhang - Großer Naturwiderstand",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        14344,
+        8
+      ],
+      [
+        12803,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 13
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Umhang - Verstohlenheit",
+    "id": 25083,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Umhang - Verstohlenheit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        14344,
+        8
+      ],
+      [
+        13468,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Umhang - Feingefühl",
+    "id": 25084,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Umhang - Feingefühl",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        4
+      ],
+      [
+        14344,
+        6
+      ],
+      [
+        11754,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 24
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Umhang - Ausweichen",
+    "id": 25086,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Umhang - Ausweichen",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        14344,
+        8
+      ],
+      [
+        12809,
+        8
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "quality": -1,
+    "popularity": 27
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      45,
+      47,
+      65
+    ],
+    "creates": [
+      20744,
+      0,
+      0
+    ],
+    "displayName": "Schwaches Zauberöl",
+    "id": 25124,
+    "learnedat": 45,
+    "level": 0,
+    "name": "Schwaches Zauberöl",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ],
+      [
+        17034,
+        1
+      ],
+      [
+        3371,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 220
+  },
+  {
+    "cat": 11,
+    "colors": [
+      150,
+      160,
+      170,
+      180
+    ],
+    "creates": [
+      20745,
+      0,
+      0
+    ],
+    "displayName": "Schwaches Manaöl",
+    "id": 25125,
+    "learnedat": 150,
+    "level": 0,
+    "name": "Schwaches Manaöl",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        11083,
+        1
+      ],
+      [
+        17034,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 38
+  },
+  {
+    "cat": 11,
+    "colors": [
+      200,
+      210,
+      220,
+      230
+    ],
+    "creates": [
+      20746,
+      0,
+      0
+    ],
+    "displayName": "Geringes Zauberöl",
+    "id": 25126,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Geringes Zauberöl",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        11137,
+        1
+      ],
+      [
+        17035,
+        2
+      ],
+      [
+        3372,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 41
+  },
+  {
+    "cat": 11,
+    "colors": [
+      250,
+      260,
+      270,
+      280
+    ],
+    "creates": [
+      20747,
+      0,
+      0
+    ],
+    "displayName": "Geringes Manaöl",
+    "id": 25127,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Geringes Manaöl",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        11176,
+        1
+      ],
+      [
+        8831,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 12
+  },
+  {
+    "cat": 11,
+    "colors": [
+      275,
+      285,
+      295,
+      305
+    ],
+    "creates": [
+      20750,
+      0,
+      0
+    ],
+    "displayName": "Zauberöl",
+    "id": 25128,
+    "learnedat": 275,
+    "level": 0,
+    "name": "Zauberöl",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        16204,
+        3
+      ],
+      [
+        4625,
+        2
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 52
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      310,
+      320,
+      330
+    ],
+    "creates": [
+      20749,
+      0,
+      0
+    ],
+    "displayName": "Hervorragendes Zauberöl",
+    "id": 25129,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Hervorragendes Zauberöl",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        14344,
+        2
+      ],
+      [
+        4625,
+        3
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      300,
+      310,
+      320,
+      330
+    ],
+    "creates": [
+      20748,
+      0,
+      0
+    ],
+    "displayName": "Hervorragendes Manaöl",
+    "id": 25130,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Hervorragendes Manaöl",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        14344,
+        2
+      ],
+      [
+        8831,
+        3
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      290,
+      310,
+      330,
+      350
+    ],
+    "displayName": "Zweihandwaffen - Beweglichkeit",
+    "id": 27837,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Zweihandwaffen - Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        10
+      ],
+      [
+        16203,
+        6
+      ],
+      [
+        16204,
+        14
+      ],
+      [
+        7082,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 22
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      100,
+      110,
+      120
+    ],
+    "displayName": "Blackfathom-Manaöl",
+    "id": 430409,
+    "learnedat": 100,
+    "level": 1,
+    "name": "Blackfathom-Manaöl",
+    "nskillup": 1,
+    "reagents": [
+      [
+        3372,
+        1
+      ],
+      [
+        10939,
+        1
+      ],
+      [
+        10940,
+        5
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 103
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      200,
+      217,
+      235
+    ],
+    "displayName": "Waffe - Zerlegen",
+    "id": 435481,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Waffe - Zerlegen",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11174,
+        4
+      ],
+      [
+        5637,
+        2
+      ],
+      [
+        11177,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 36
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      200,
+      220,
+      240
+    ],
+    "displayName": "Brust - Vergelter",
+    "id": 435903,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Brust - Vergelter",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11177,
+        1
+      ],
+      [
+        11176,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 50
+  },
+  {
+    "cat": 11,
+    "colors": [
+      175,
+      195,
+      215,
+      235
+    ],
+    "creates": [
+      217287,
+      1,
+      1
+    ],
+    "displayName": "Großer Mystikerzauberstab",
+    "id": 439134,
+    "learnedat": 175,
+    "level": 0,
+    "name": "Großer Mystikerzauberstab",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        11291,
+        1
+      ],
+      [
+        11135,
+        1
+      ],
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 3000,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      227,
+      230
+    ],
+    "creates": [
+      217308,
+      1,
+      1
+    ],
+    "displayName": "Siegel der Innovation",
+    "id": 439156,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Siegel der Innovation",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        11137,
+        5
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      250,
+      255,
+      260
+    ],
+    "displayName": "Siegel der lebendigen Träume",
+    "id": 446243,
+    "learnedat": 250,
+    "level": 0,
+    "name": "Siegel der lebendigen Träume",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        5
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      120,
+      140,
+      160
+    ],
+    "creates": [
+      220792,
+      1,
+      1
+    ],
+    "displayName": "Schriftrolle der räumlichen Heilung",
+    "id": 448624,
+    "learnedat": 120,
+    "level": 0,
+    "name": "Schriftrolle der räumlichen Heilung",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        4470,
+        1
+      ],
+      [
+        10940,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      2
+    ],
+    "popularity": 111
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      305,
+      312,
+      320
+    ],
+    "creates": [
+      228978,
+      1,
+      1
+    ],
+    "displayName": "Siegel des fließenden Wassers",
+    "id": 463866,
+    "learnedat": 305,
+    "level": 0,
+    "name": "Siegel des fließenden Wassers",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        16204,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 59
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      295,
+      305
+    ],
+    "creates": [
+      228980,
+      0,
+      0
+    ],
+    "displayName": "Leitende Schildbeschichtung",
+    "id": 463869,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Leitende Schildbeschichtung",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        16204,
+        2
+      ],
+      [
+        4625,
+        1
+      ],
+      [
+        8925,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 28
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Schild - Naturgesetz",
+    "id": 463871,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Schild - Naturgesetz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        16203,
+        12
+      ],
+      [
+        7078,
+        4
+      ],
+      [
+        7080,
+        4
+      ],
+      [
+        7076,
+        1
+      ],
+      [
+        12811,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "quality": -1,
+    "popularity": 52
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      310,
+      320,
+      330
+    ],
+    "creates": [
+      232611,
+      0,
+      0
+    ],
+    "displayName": "Prächtiger Trollschein",
+    "id": 471400,
+    "learnedat": 310,
+    "level": 0,
+    "name": "Prächtiger Trollschein",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        8151,
+        3
+      ],
+      [
+        8152,
+        3
+      ],
+      [
+        14344,
+        2
+      ],
+      [
+        18256,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "source": [
+      5
+    ],
+    "popularity": 35
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Geschwindigkeitsstein",
+    "id": 1213593,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Geschwindigkeitsstein",
+    "nskillup": 1,
+    "reagents": [
+      [
+        234006,
+        10
+      ],
+      [
+        234010,
+        10
+      ],
+      [
+        20725,
+        6
+      ],
+      [
+        234004,
+        6
+      ],
+      [
+        2452,
+        20
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 57
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Träne des Träumers",
+    "id": 1213595,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Träne des Träumers",
+    "nskillup": 1,
+    "reagents": [
+      [
+        234006,
+        10
+      ],
+      [
+        234010,
+        10
+      ],
+      [
+        20725,
+        4
+      ],
+      [
+        234003,
+        10
+      ],
+      [
+        234012,
+        10
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 48
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Leitstein der Vergeltung",
+    "id": 1213598,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Leitstein der Vergeltung",
+    "nskillup": 1,
+    "reagents": [
+      [
+        234007,
+        10
+      ],
+      [
+        234010,
+        5
+      ],
+      [
+        20725,
+        4
+      ],
+      [
+        234003,
+        10
+      ],
+      [
+        234011,
+        10
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 36
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Verzauberte Stoppuhr",
+    "id": 1213600,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Verzauberte Stoppuhr",
+    "nskillup": 1,
+    "reagents": [
+      [
+        234003,
+        3
+      ],
+      [
+        234005,
+        6
+      ],
+      [
+        14344,
+        4
+      ],
+      [
+        2459,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 51
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Rubinbesetzte Brosche",
+    "id": 1213603,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Rubinbesetzte Brosche",
+    "nskillup": 1,
+    "reagents": [
+      [
+        234007,
+        10
+      ],
+      [
+        234010,
+        5
+      ],
+      [
+        20725,
+        6
+      ],
+      [
+        234003,
+        10
+      ],
+      [
+        234012,
+        10
+      ],
+      [
+        234011,
+        10
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Schriftrolle: Zorn des Schwarms",
+    "id": 1213607,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Schriftrolle: Zorn des Schwarms",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        1
+      ],
+      [
+        14047,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 52
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Verzaubertes Abwehrmittel",
+    "id": 1213610,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Verzaubertes Abwehrmittel",
+    "nskillup": 1,
+    "reagents": [
+      [
+        234011,
+        3
+      ],
+      [
+        234012,
+        3
+      ],
+      [
+        16204,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 41
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Brust - Lebendige Werte",
+    "id": 1213616,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Brust - Lebendige Werte",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        16204,
+        8
+      ],
+      [
+        16203,
+        5
+      ],
+      [
+        13458,
+        10
+      ],
+      [
+        234011,
+        2
+      ],
+      [
+        234010,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Handschuhe - Heilige Kraft",
+    "id": 1213622,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Handschuhe - Heilige Kraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        14344,
+        5
+      ],
+      [
+        13180,
+        5
+      ],
+      [
+        12735,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Handschuhe - Arkane Macht",
+    "id": 1213626,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Handschuhe - Arkane Macht",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        14344,
+        5
+      ],
+      [
+        12753,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Verzauberter Gebetsband",
+    "id": 1213628,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Verzauberter Gebetsband",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234008,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Verzaubertes Totem",
+    "id": 1213633,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Verzaubertes Totem",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234012,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 49
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Verzauberter Pilz",
+    "id": 1213635,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Verzauberter Pilz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        234012,
+        20
+      ],
+      [
+        12810,
+        3
+      ],
+      [
+        234011,
+        4
+      ],
+      [
+        234010,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 76
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Buchband der Rechtschaffenheit",
+    "id": 1216005,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Buchband der Rechtschaffenheit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234008,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Buchband des Exorzisten",
+    "id": 1216007,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Buchband des Exorzisten",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234008,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 38
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Buchband der Heiligkeit",
+    "id": 1216010,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Buchband der Heiligkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234008,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 33
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Totem des pyroklastischen Donners",
+    "id": 1216014,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Totem des pyroklastischen Donners",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234012,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Totem der donnernden Schläge",
+    "id": 1216016,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Totem der donnernden Schläge",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234012,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 44
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Totem des fließenden Magmas",
+    "id": 1216018,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Totem des fließenden Magmas",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        234012,
+        10
+      ],
+      [
+        234003,
+        2
+      ],
+      [
+        12810,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 29
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Götze des siderischen Zorns",
+    "id": 1216020,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Götze des siderischen Zorns",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        234012,
+        20
+      ],
+      [
+        12810,
+        3
+      ],
+      [
+        234011,
+        4
+      ],
+      [
+        234010,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 39
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Götze der Katzenwildheit",
+    "id": 1216022,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Götze der Katzenwildheit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        234012,
+        20
+      ],
+      [
+        12810,
+        3
+      ],
+      [
+        234011,
+        4
+      ],
+      [
+        234010,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 51
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Götze der Bärenwut",
+    "id": 1216024,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Götze der Bärenwut",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        234012,
+        20
+      ],
+      [
+        12810,
+        3
+      ],
+      [
+        234011,
+        4
+      ],
+      [
+        234010,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 44
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Armschiene - Zaubermacht",
+    "id": 1217189,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Armschiene - Zaubermacht",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        2
+      ],
+      [
+        16204,
+        20
+      ],
+      [
+        16203,
+        4
+      ],
+      [
+        7080,
+        2
+      ],
+      [
+        7078,
+        2
+      ],
+      [
+        7082,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 28
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Armschiene - Beweglichkeit",
+    "id": 1217203,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Armschiene - Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        16204,
+        10
+      ],
+      [
+        16203,
+        2
+      ],
+      [
+        7082,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 38
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Schildhand - Überragende Intelligenz",
+    "id": 1219577,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Schildhand - Überragende Intelligenz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        16204,
+        18
+      ],
+      [
+        7082,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 21
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Schildhand - Ausgezeichnete Willenskraft",
+    "id": 1219578,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Schildhand - Ausgezeichnete Willenskraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        16204,
+        18
+      ],
+      [
+        7080,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 32
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Schildhand - Weisheit",
+    "id": 1219579,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Schildhand - Weisheit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        6
+      ],
+      [
+        16204,
+        18
+      ],
+      [
+        7082,
+        1
+      ],
+      [
+        7080,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 31
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Zweihandwaffe - Zauberschlag",
+    "id": 1219580,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Zweihandwaffe - Zauberschlag",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        3
+      ],
+      [
+        16204,
+        24
+      ],
+      [
+        12938,
+        1
+      ],
+      [
+        8831,
+        6
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 94
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Schild - Ausgezeichnete Ausdauer",
+    "id": 1219581,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Schild - Ausgezeichnete Ausdauer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        6
+      ],
+      [
+        16204,
+        18
+      ],
+      [
+        7076,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 18
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Umhang - Beweglichkeit",
+    "id": 1219587,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Umhang - Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        3
+      ],
+      [
+        16204,
+        9
+      ],
+      [
+        7078,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 34
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Schild - Kritische Trefferchance",
+    "id": 1220623,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Schild - Kritische Trefferchance",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        5
+      ],
+      [
+        16204,
+        15
+      ],
+      [
+        12938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Armschiene - Große Zaubermacht",
+    "id": 1220624,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Armschiene - Große Zaubermacht",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        3
+      ],
+      [
+        16204,
+        9
+      ],
+      [
+        12808,
+        12
+      ],
+      [
+        8831,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      20,
+      22,
+      25
+    ],
+    "creates": [
+      279976,
+      1,
+      1
+    ],
+    "displayName": "Verzauberte Laute",
+    "id": 1230643,
+    "learnedat": 20,
+    "level": 0,
+    "name": "Verzauberte Laute",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Stufe 1",
+    "reagents": [
+      [
+        4470,
+        1
+      ],
+      [
+        10940,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 308
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      305,
+      307,
+      310
+    ],
+    "displayName": "Waffe - Oberster Kreuzzügler",
+    "id": 1231128,
+    "learnedat": 305,
+    "level": 0,
+    "name": "Waffe - Oberster Kreuzzügler",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        5
+      ],
+      [
+        12811,
+        2
+      ],
+      [
+        20725,
+        2
+      ],
+      [
+        12938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 77
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      305,
+      307,
+      310
+    ],
+    "displayName": "Zweihandwaffe - Oberster Arkanist",
+    "id": 1231139,
+    "learnedat": 305,
+    "level": 0,
+    "name": "Zweihandwaffe - Oberster Arkanist",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        10
+      ],
+      [
+        12811,
+        4
+      ],
+      [
+        20725,
+        4
+      ],
+      [
+        12938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 83
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      305,
+      307,
+      310
+    ],
+    "displayName": "Waffe - Oberster Zauberer",
+    "id": 1231164,
+    "learnedat": 305,
+    "level": 0,
+    "name": "Waffe - Oberster Zauberer",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        6
+      ],
+      [
+        12811,
+        3
+      ],
+      [
+        20725,
+        2
+      ],
+      [
+        12938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 63
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      305,
+      307,
+      310
+    ],
+    "displayName": "Zweihandwaffe verzaubern - Großinquisitor",
+    "id": 1232172,
+    "learnedat": 305,
+    "level": 0,
+    "name": "Zweihandwaffe verzaubern - Großinquisitor",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        10
+      ],
+      [
+        12811,
+        6
+      ],
+      [
+        20725,
+        4
+      ],
+      [
+        12938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 99
+  },
+  {
+    "cat": 11,
+    "displayName": "Verzauberkunst",
+    "id": 1240946,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Verzauberkunst",
+    "nskillup": 1,
+    "rank": "Lehrling",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 34
+  },
+  {
+    "cat": 11,
+    "displayName": "Verzauberkunst",
+    "id": 1240957,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Verzauberkunst",
+    "nskillup": 1,
+    "rank": "Geselle",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 20
+  },
+  {
+    "cat": 11,
+    "displayName": "Verzauberkunst",
+    "id": 1240968,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Verzauberkunst",
+    "nskillup": 1,
+    "rank": "Experte",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 23
+  },
+  {
+    "cat": 11,
+    "displayName": "Verzauberkunst",
+    "id": 1240981,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Verzauberkunst",
+    "nskillup": 1,
+    "rank": "Fachmann",
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 30
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      10,
+      12,
+      15
+    ],
+    "creates": [
+      247786,
+      3,
+      3
+    ],
+    "displayName": "Staub zu Partikel",
+    "id": 1245320,
+    "learnedat": 10,
+    "level": 0,
+    "name": "Staub zu Partikel",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        10940,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 188
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      10,
+      12,
+      15
+    ],
+    "creates": [
+      247789,
+      1,
+      1
+    ],
+    "displayName": "Übungszauberstab des Novizen",
+    "id": 1245321,
+    "learnedat": 10,
+    "level": 0,
+    "name": "Übungszauberstab des Novizen",
+    "nskillup": 1,
+    "quality": 1,
+    "reagents": [
+      [
+        4470,
+        1
+      ],
+      [
+        247786,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 371
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      110,
+      130,
+      150
+    ],
+    "displayName": "Armschiene - Schwache Intelligenz",
+    "id": 1248458,
+    "learnedat": 110,
+    "level": 0,
+    "name": "Armschiene - Schwache Intelligenz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      120,
+      140,
+      160
+    ],
+    "displayName": "Armschiene - Schwache Heilkraft",
+    "id": 1248459,
+    "learnedat": 120,
+    "level": 0,
+    "name": "Armschiene - Schwache Heilkraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10938,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 58
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      165,
+      185,
+      205
+    ],
+    "displayName": "Armschiene - Geringe Beweglichkeit",
+    "id": 1248460,
+    "learnedat": 165,
+    "level": 0,
+    "name": "Armschiene - Geringe Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      205,
+      225,
+      245
+    ],
+    "creates": [
+      249144,
+      0,
+      0
+    ],
+    "displayName": "Verwirbelter Netherzauberstab",
+    "id": 1248461,
+    "learnedat": 205,
+    "level": 0,
+    "name": "Verwirbelter Netherzauberstab",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        11174,
+        1
+      ],
+      [
+        11176,
+        1
+      ],
+      [
+        11291,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 53
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Armschiene - Beweglichkeit",
+    "id": 1248497,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Armschiene - Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Armschiene - Geringere Heilkraft",
+    "id": 1248498,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Armschiene - Geringere Heilkraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11134,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      260,
+      280,
+      300
+    ],
+    "displayName": "Armschiene - Große Beweglichkeit",
+    "id": 1248500,
+    "learnedat": 260,
+    "level": 0,
+    "name": "Armschiene - Große Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        3
+      ],
+      [
+        11174,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 51
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      265,
+      285,
+      305
+    ],
+    "creates": [
+      249232,
+      0,
+      0
+    ],
+    "displayName": "Kleiner ewiger Zauberstab",
+    "id": 1248505,
+    "learnedat": 265,
+    "level": 0,
+    "name": "Kleiner ewiger Zauberstab",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        16202,
+        1
+      ],
+      [
+        11176,
+        1
+      ],
+      [
+        11291,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 34
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      235,
+      255,
+      275
+    ],
+    "creates": [
+      249234,
+      0,
+      0
+    ],
+    "displayName": "Traumzweigzauberstab",
+    "id": 1248509,
+    "learnedat": 235,
+    "level": 0,
+    "name": "Traumzweigzauberstab",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        11174,
+        2
+      ],
+      [
+        11137,
+        1
+      ],
+      [
+        11291,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      230,
+      250,
+      270
+    ],
+    "displayName": "Enchant 2H Weapon - Lesser Agility",
+    "id": 1248510,
+    "learnedat": 230,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Lesser Agility",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        2
+      ],
+      [
+        11139,
+        1
+      ],
+      [
+        11174,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      240,
+      260,
+      280
+    ],
+    "displayName": "Enchant 2H Weapon - Lesser Strength",
+    "id": 1248511,
+    "learnedat": 240,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Lesser Strength",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11137,
+        1
+      ],
+      [
+        11139,
+        1
+      ],
+      [
+        11174,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 41
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      295,
+      305
+    ],
+    "creates": [
+      249237,
+      0,
+      0
+    ],
+    "displayName": "Großer ewiger Zauberstab",
+    "id": 1248515,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Großer ewiger Zauberstab",
+    "nskillup": 1,
+    "quality": 2,
+    "reagents": [
+      [
+        16203,
+        2
+      ],
+      [
+        16204,
+        1
+      ],
+      [
+        11291,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 37
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      270,
+      290,
+      310
+    ],
+    "displayName": "Handschuhe - Hochentwickelte Kürschnerei",
+    "id": 1248528,
+    "learnedat": 270,
+    "level": 0,
+    "name": "Handschuhe - Hochentwickelte Kürschnerei",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        2
+      ],
+      [
+        15407,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 33
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      315,
+      335,
+      355
+    ],
+    "displayName": "Armschiene - Überragende Beweglichkeit",
+    "id": 1248599,
+    "learnedat": 315,
+    "level": 0,
+    "name": "Armschiene - Überragende Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16204,
+        3
+      ],
+      [
+        16203,
+        3
+      ],
+      [
+        14344,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 51
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant 2H Weapon - Mighty Spell Power",
+    "id": 1248607,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Mighty Spell Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        248819,
+        4
+      ],
+      [
+        16203,
+        6
+      ],
+      [
+        7076,
+        4
+      ],
+      [
+        12808,
+        4
+      ],
+      [
+        20725,
+        4
+      ],
+      [
+        248820,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 69
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Enchant 2H Weapon - Mighty Healing Power",
+    "id": 1248636,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Mighty Healing Power",
+    "nskillup": 1,
+    "reagents": [
+      [
+        248819,
+        4
+      ],
+      [
+        16203,
+        6
+      ],
+      [
+        249726,
+        4
+      ],
+      [
+        249274,
+        4
+      ],
+      [
+        20725,
+        4
+      ],
+      [
+        248820,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 93
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Handschuhe - Überragende Stärke",
+    "id": 1248640,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Handschuhe - Überragende Stärke",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        4
+      ],
+      [
+        16203,
+        8
+      ],
+      [
+        7076,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 39
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Handschuhe - Natürliche Macht",
+    "id": 1248645,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Handschuhe - Natürliche Macht",
+    "nskillup": 1,
+    "reagents": [
+      [
+        20725,
+        2
+      ],
+      [
+        14344,
+        5
+      ],
+      [
+        248822,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 48
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "creates": [
+      249385,
+      0,
+      0
+    ],
+    "displayName": "Hervorragender Zauberstab",
+    "id": 1248650,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Hervorragender Zauberstab",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        16203,
+        1
+      ],
+      [
+        16204,
+        3
+      ],
+      [
+        14344,
+        2
+      ],
+      [
+        11291,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 86
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Armschiene - Überragende Intelligenz",
+    "id": 1248661,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Armschiene - Überragende Intelligenz",
+    "nskillup": 1,
+    "reagents": [
+      [
+        16203,
+        10
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 46
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "displayName": "Armschiene - Überragende Abwehr",
+    "id": 1248665,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Armschiene - Überragende Abwehr",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 48
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      290,
+      295,
+      300
+    ],
+    "displayName": "Enchant 2H Weapon - Strength",
+    "id": 1248668,
+    "learnedat": 290,
+    "level": 0,
+    "name": "Enchant 2H Weapon - Strength",
+    "nskillup": 1,
+    "reagents": [
+      [
+        14344,
+        8
+      ],
+      [
+        16203,
+        10
+      ],
+      [
+        16204,
+        8
+      ],
+      [
+        12363,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 30
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "creates": [
+      249392,
+      0,
+      0
+    ],
+    "displayName": "Schimmernder Stab",
+    "id": 1248703,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Schimmernder Stab",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11084,
+        4
+      ],
+      [
+        10978,
+        2
+      ],
+      [
+        11291,
+        4
+      ],
+      [
+        11082,
+        1
+      ],
+      [
+        10940,
+        5
+      ],
+      [
+        249391,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 180
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "creates": [
+      249393,
+      0,
+      0
+    ],
+    "displayName": "Seelenstab",
+    "id": 1248739,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Seelenstab",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11084,
+        2
+      ],
+      [
+        10978,
+        1
+      ],
+      [
+        11291,
+        4
+      ],
+      [
+        11082,
+        1
+      ],
+      [
+        11083,
+        6
+      ],
+      [
+        1210,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 101
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "creates": [
+      249394,
+      0,
+      0
+    ],
+    "displayName": "Kugel der mystischen Einsicht",
+    "id": 1248745,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Kugel der mystischen Einsicht",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        10978,
+        2
+      ],
+      [
+        11082,
+        2
+      ],
+      [
+        10940,
+        5
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 85
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "creates": [
+      249395,
+      0,
+      0
+    ],
+    "displayName": "Kugel der Seelen",
+    "id": 1248748,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Kugel der Seelen",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        10978,
+        2
+      ],
+      [
+        11082,
+        2
+      ],
+      [
+        11083,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 66
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "creates": [
+      249396,
+      0,
+      0
+    ],
+    "displayName": "Mystischer Pilz",
+    "id": 1248752,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Mystischer Pilz",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        10978,
+        1
+      ],
+      [
+        10939,
+        2
+      ],
+      [
+        10940,
+        5
+      ],
+      [
+        4605,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 105
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "creates": [
+      249397,
+      0,
+      0
+    ],
+    "displayName": "Grundsätze der Silbernen Hand",
+    "id": 1248754,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Grundsätze der Silbernen Hand",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11084,
+        1
+      ],
+      [
+        10939,
+        1
+      ],
+      [
+        10940,
+        2
+      ],
+      [
+        3013,
+        5
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 90
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "creates": [
+      249398,
+      0,
+      0
+    ],
+    "displayName": "Ikone aus poliertem Treibholz",
+    "id": 1248755,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Ikone aus poliertem Treibholz",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11084,
+        1
+      ],
+      [
+        10939,
+        2
+      ],
+      [
+        10940,
+        3
+      ],
+      [
+        4470,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 157
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "displayName": "Waffe - Einsicht",
+    "id": 1248757,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Waffe - Einsicht",
+    "nskillup": 1,
+    "reagents": [
+      [
+        10940,
+        10
+      ],
+      [
+        11084,
+        4
+      ],
+      [
+        11082,
+        4
+      ],
+      [
+        249391,
+        4
+      ],
+      [
+        249399,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 216
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "displayName": "Waffe - Erholung",
+    "id": 1248760,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Waffe - Erholung",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        6
+      ],
+      [
+        11084,
+        4
+      ],
+      [
+        11082,
+        6
+      ],
+      [
+        249391,
+        4
+      ],
+      [
+        2775,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 174
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      160,
+      180
+    ],
+    "displayName": "Waffe - Offenbarung",
+    "id": 1248805,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Waffe - Offenbarung",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11083,
+        8
+      ],
+      [
+        11084,
+        6
+      ],
+      [
+        11082,
+        2
+      ],
+      [
+        249409,
+        4
+      ],
+      [
+        249410,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 246
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      249441,
+      0,
+      0
+    ],
+    "displayName": "Klauen des Zorns",
+    "id": 1248974,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Klauen des Zorns",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11178,
+        2
+      ],
+      [
+        11175,
+        4
+      ],
+      [
+        11176,
+        6
+      ],
+      [
+        249430,
+        2
+      ],
+      [
+        249409,
+        1
+      ],
+      [
+        11291,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 50
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      249442,
+      0,
+      0
+    ],
+    "displayName": "Buchband der Anrufung",
+    "id": 1249006,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Buchband der Anrufung",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11178,
+        3
+      ],
+      [
+        11175,
+        3
+      ],
+      [
+        11176,
+        4
+      ],
+      [
+        249430,
+        2
+      ],
+      [
+        249409,
+        1
+      ],
+      [
+        2289,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      249443,
+      0,
+      0
+    ],
+    "displayName": "Totem des Schutzes der Ahnen",
+    "id": 1249015,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Totem des Schutzes der Ahnen",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11178,
+        4
+      ],
+      [
+        11175,
+        2
+      ],
+      [
+        11176,
+        2
+      ],
+      [
+        249432,
+        4
+      ],
+      [
+        249410,
+        2
+      ],
+      [
+        11291,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Halskette - Stärke",
+    "id": 1249019,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Halskette - Stärke",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11175,
+        4
+      ],
+      [
+        11178,
+        4
+      ],
+      [
+        11176,
+        10
+      ],
+      [
+        249410,
+        4
+      ],
+      [
+        249425,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Halskette - Zaubermacht",
+    "id": 1249057,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Halskette - Zaubermacht",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11175,
+        5
+      ],
+      [
+        11178,
+        3
+      ],
+      [
+        11176,
+        8
+      ],
+      [
+        249409,
+        4
+      ],
+      [
+        249430,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 69
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Halskette - Heilkraft",
+    "id": 1249058,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Halskette - Heilkraft",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11175,
+        3
+      ],
+      [
+        11178,
+        5
+      ],
+      [
+        11176,
+        4
+      ],
+      [
+        249391,
+        4
+      ],
+      [
+        249424,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 78
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Halskette - Beweglichkeit",
+    "id": 1249059,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Halskette - Beweglichkeit",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11175,
+        2
+      ],
+      [
+        11178,
+        8
+      ],
+      [
+        11176,
+        6
+      ],
+      [
+        249410,
+        4
+      ],
+      [
+        249430,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 64
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Halskette - Abwehr",
+    "id": 1249060,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Halskette - Abwehr",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11175,
+        8
+      ],
+      [
+        11178,
+        2
+      ],
+      [
+        11176,
+        2
+      ],
+      [
+        249409,
+        4
+      ],
+      [
+        249430,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 46
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      249453,
+      0,
+      0
+    ],
+    "displayName": "Strahlender Stab",
+    "id": 1249061,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Strahlender Stab",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11178,
+        6
+      ],
+      [
+        11177,
+        2
+      ],
+      [
+        11291,
+        4
+      ],
+      [
+        11175,
+        4
+      ],
+      [
+        11176,
+        6
+      ],
+      [
+        249409,
+        2
+      ],
+      [
+        249430,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 78
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      249454,
+      0,
+      0
+    ],
+    "displayName": "Traumstab",
+    "id": 1249064,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Traumstab",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11178,
+        4
+      ],
+      [
+        11177,
+        4
+      ],
+      [
+        11291,
+        4
+      ],
+      [
+        11175,
+        6
+      ],
+      [
+        11176,
+        8
+      ],
+      [
+        249409,
+        2
+      ],
+      [
+        249430,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 90
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      249455,
+      0,
+      0
+    ],
+    "displayName": "Echtsilbermedium",
+    "id": 1249069,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Echtsilbermedium",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11178,
+        3
+      ],
+      [
+        11177,
+        1
+      ],
+      [
+        11291,
+        2
+      ],
+      [
+        11175,
+        2
+      ],
+      [
+        11176,
+        3
+      ],
+      [
+        249409,
+        1
+      ],
+      [
+        249430,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 43
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "creates": [
+      249456,
+      0,
+      0
+    ],
+    "displayName": "Gefäß der gewundenen Essenz",
+    "id": 1249070,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Gefäß der gewundenen Essenz",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        6037,
+        4
+      ],
+      [
+        11175,
+        12
+      ],
+      [
+        11135,
+        12
+      ],
+      [
+        249409,
+        1
+      ],
+      [
+        249430,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 57
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      225,
+      245,
+      265
+    ],
+    "displayName": "Brust - Absorption",
+    "id": 1249071,
+    "learnedat": 225,
+    "level": 0,
+    "name": "Brust - Absorption",
+    "nskillup": 1,
+    "reagents": [
+      [
+        11176,
+        10
+      ],
+      [
+        11175,
+        4
+      ],
+      [
+        11178,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      305,
+      325
+    ],
+    "creates": [
+      249469,
+      1,
+      1
+    ],
+    "displayName": "Gefrorenes Herz des Berges",
+    "id": 1249107,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Gefrorenes Herz des Berges",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11382,
+        1
+      ],
+      [
+        12808,
+        1
+      ],
+      [
+        14343,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 61
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      305,
+      325
+    ],
+    "creates": [
+      249470,
+      1,
+      1
+    ],
+    "displayName": "Geschmolzenes Herz des Berges",
+    "id": 1249112,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Geschmolzenes Herz des Berges",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11382,
+        1
+      ],
+      [
+        7076,
+        1
+      ],
+      [
+        14343,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 64
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      305,
+      325
+    ],
+    "creates": [
+      249473,
+      1,
+      1
+    ],
+    "displayName": "Schlafendes Herz des Berges",
+    "id": 1249114,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Schlafendes Herz des Berges",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        11382,
+        1
+      ],
+      [
+        7080,
+        1
+      ],
+      [
+        14343,
+        3
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 64
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "creates": [
+      220606,
+      0,
+      0
+    ],
+    "displayName": "Götze des Traums",
+    "id": 1249128,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Götze des Traums",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        14344,
+        2
+      ],
+      [
+        16203,
+        4
+      ],
+      [
+        16204,
+        6
+      ],
+      [
+        249431,
+        8
+      ],
+      [
+        249430,
+        4
+      ],
+      [
+        249409,
+        2
+      ],
+      [
+        11291,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 64
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "creates": [
+      228175,
+      0,
+      0
+    ],
+    "displayName": "Buchband des heiligen Eifers",
+    "id": 1249152,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Buchband des heiligen Eifers",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        14344,
+        4
+      ],
+      [
+        16203,
+        3
+      ],
+      [
+        16204,
+        4
+      ],
+      [
+        249431,
+        8
+      ],
+      [
+        249430,
+        4
+      ],
+      [
+        249409,
+        2
+      ],
+      [
+        10308,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 47
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      320,
+      340,
+      360
+    ],
+    "creates": [
+      228176,
+      0,
+      0
+    ],
+    "displayName": "Totem des Donners",
+    "id": 1249154,
+    "learnedat": 320,
+    "level": 0,
+    "name": "Totem des Donners",
+    "nskillup": 1,
+    "quality": 3,
+    "reagents": [
+      [
+        14344,
+        1
+      ],
+      [
+        16203,
+        8
+      ],
+      [
+        16204,
+        10
+      ],
+      [
+        249431,
+        8
+      ],
+      [
+        249430,
+        4
+      ],
+      [
+        249409,
+        2
+      ],
+      [
+        11291,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 63
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      142,
+      145
+    ],
+    "creates": [
+      279985,
+      1,
+      1
+    ],
+    "displayName": "Arkaner Wiederverwerter",
+    "id": 1263056,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Arkaner Wiederverwerter",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Stufe 2",
+    "reagents": [
+      [
+        11137,
+        2
+      ],
+      [
+        11174,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 157
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      300,
+      300,
+      300
+    ],
+    "creates": [
+      279987,
+      1,
+      1
+    ],
+    "displayName": "Arkane Schmiede",
+    "id": 1263082,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Arkane Schmiede",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Stufe 3",
+    "reagents": [
+      [
+        273128,
+        1
+      ],
+      [
+        14344,
+        2
+      ],
+      [
+        16203,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 129
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      285,
+      287,
+      290
+    ],
+    "displayName": "Handschuhe - Lotusklaue",
+    "id": 1294054,
+    "learnedat": 285,
+    "level": 0,
+    "name": "Handschuhe - Lotusklaue",
+    "nskillup": 1,
+    "reagents": [
+      [
+        248822,
+        1
+      ],
+      [
+        14343,
+        2
+      ],
+      [
+        16204,
+        12
+      ],
+      [
+        16202,
+        4
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "quality": -1,
+    "popularity": 69
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      310,
+      317,
+      325
+    ],
+    "creates": [
+      279246,
+      1,
+      1
+    ],
+    "displayName": "Fackel des Lichts",
+    "id": 1306520,
+    "learnedat": 310,
+    "level": 0,
+    "name": "Fackel des Lichts",
+    "nskillup": 1,
+    "quality": 4,
+    "reagents": [
+      [
+        274030,
+        2
+      ],
+      [
+        20725,
+        1
+      ],
+      [
+        14344,
+        6
+      ],
+      [
+        16202,
+        5
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 113
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      310,
+      317,
+      325
+    ],
+    "creates": [
+      279247,
+      1,
+      1
+    ],
+    "displayName": "Standhafter Buchband",
+    "id": 1306521,
+    "learnedat": 310,
+    "level": 0,
+    "name": "Standhafter Buchband",
+    "nskillup": 1,
+    "quality": 4,
+    "reagents": [
+      [
+        274030,
+        1
+      ],
+      [
+        20725,
+        1
+      ],
+      [
+        16203,
+        2
+      ],
+      [
+        16204,
+        12
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 75
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      310,
+      317,
+      325
+    ],
+    "creates": [
+      279248,
+      1,
+      1
+    ],
+    "displayName": "Buchband der Infusion",
+    "id": 1306522,
+    "learnedat": 310,
+    "level": 0,
+    "name": "Buchband der Infusion",
+    "nskillup": 1,
+    "quality": 4,
+    "reagents": [
+      [
+        274030,
+        1
+      ],
+      [
+        20725,
+        1
+      ],
+      [
+        16203,
+        2
+      ],
+      [
+        16204,
+        12
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 69
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      310,
+      317,
+      325
+    ],
+    "creates": [
+      279249,
+      1,
+      1
+    ],
+    "displayName": "Totem der Dringlichkeit",
+    "id": 1306523,
+    "learnedat": 310,
+    "level": 0,
+    "name": "Totem der Dringlichkeit",
+    "nskillup": 1,
+    "quality": 4,
+    "reagents": [
+      [
+        274030,
+        1
+      ],
+      [
+        20725,
+        1
+      ],
+      [
+        16203,
+        2
+      ],
+      [
+        16204,
+        12
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 61
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      310,
+      317,
+      325
+    ],
+    "creates": [
+      279250,
+      1,
+      1
+    ],
+    "displayName": "Götze der Schnelligkeit",
+    "id": 1306524,
+    "learnedat": 310,
+    "level": 0,
+    "name": "Götze der Schnelligkeit",
+    "nskillup": 1,
+    "quality": 4,
+    "reagents": [
+      [
+        274030,
+        1
+      ],
+      [
+        20725,
+        1
+      ],
+      [
+        16203,
+        2
+      ],
+      [
+        16204,
+        12
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 66
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      310,
+      317,
+      325
+    ],
+    "creates": [
+      279251,
+      1,
+      1
+    ],
+    "displayName": "Götze der Bärenzwillinge",
+    "id": 1306525,
+    "learnedat": 310,
+    "level": 0,
+    "name": "Götze der Bärenzwillinge",
+    "nskillup": 1,
+    "quality": 4,
+    "reagents": [
+      [
+        274030,
+        1
+      ],
+      [
+        20725,
+        1
+      ],
+      [
+        16203,
+        2
+      ],
+      [
+        16204,
+        12
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      333
+    ],
+    "popularity": 72
+  }
+]
