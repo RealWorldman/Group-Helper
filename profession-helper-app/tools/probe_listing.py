@@ -35,27 +35,20 @@ def fetch(url: str) -> str:
     return response.text
 
 
-def extract_listview(html: str, var_name: str) -> str:
+def extract_balanced(text: str, open_pos: int) -> str:
     """
-    Schneidet das JS-Array aus `var <var_name> = [...];` heraus.
+    Schneidet ab `text[open_pos]` (einer oeffnenden Klammer) bis zur passenden zu.
 
-    Eine Regex reicht dafuer nicht: Das Array enthaelt verschachtelte Klammern
-    und Strings, die ihrerseits Klammern enthalten koennen. Deshalb wird ab der
-    oeffnenden Klammer die Schachtelungstiefe gezaehlt und Stringinhalt dabei
-    uebersprungen.
+    Eine Regex reicht dafuer nicht: Der Inhalt enthaelt verschachtelte Klammern und
+    Strings, die ihrerseits Klammern enthalten koennen. Deshalb wird die
+    Schachtelungstiefe zeichenweise gezaehlt und Stringinhalt dabei uebersprungen.
     """
-    marker = f"var {var_name} = ["
-    start = html.find(marker)
-    if start == -1:
-        raise ValueError(f"'{marker}' kommt in der Seite nicht vor")
-
-    open_bracket = start + len(marker) - 1
     depth = 0
     in_string = False
     escaped = False
 
-    for pos in range(open_bracket, len(html)):
-        char = html[pos]
+    for pos in range(open_pos, len(text)):
+        char = text[pos]
         if in_string:
             if escaped:
                 escaped = False
@@ -70,9 +63,19 @@ def extract_listview(html: str, var_name: str) -> str:
         elif char in "]}":
             depth -= 1
             if depth == 0:
-                return html[open_bracket : pos + 1]
+                return text[open_pos : pos + 1]
 
-    raise ValueError(f"Das Array '{var_name}' wird in der Seite nie geschlossen")
+    raise ValueError(f"Die Klammer bei Position {open_pos} wird nie geschlossen")
+
+
+def extract_listview(html: str, var_name: str) -> str:
+    """Schneidet das JS-Array aus `var <var_name> = [...];` heraus."""
+    marker = f"var {var_name} = ["
+    start = html.find(marker)
+    if start == -1:
+        raise ValueError(f"'{marker}' kommt in der Seite nicht vor")
+
+    return extract_balanced(html, start + len(marker) - 1)
 
 
 def parse_loose(js_array: str) -> list[dict]:

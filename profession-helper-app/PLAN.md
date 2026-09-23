@@ -99,6 +99,8 @@ Gescrapt werden nur die sieben Kategorien im Scope. Das reduziert Requests, Kata
 
 Der Join beider Listen ergibt `Rezept → Herstellungsprodukt`. **Ohne das zweite Ziel scheitert die Beispielfrage nach der Wollstofftasche.**
 
+> ⚠️ **Überholt durch den M0-Spike (23.09.2026).** Das zweite Ziel wird nicht gebraucht: Die Berufs-Zauber-Seite enthält den Item-Block `WH.Gatherer.addData(3, …)` mit allen Item-IDs aus `reagents` und `creates` — Name, Qualität, Icon inklusive. Ein Request pro Beruf und Sprache genügt. Belege in [tools/catalog_sources.md](tools/catalog_sources.md) Abschnitt 6.
+
 ### Technischer Ansatz (M0-Spike, in dieser Reihenfolge testen)
 
 1. **Listing-Seiten mit eingebettetem `Listview`-Datenarray.** Wowhead-Listen liefern die komplette gefilterte Liste als JS-Array in einer einzigen Antwort — ein Request pro Beruf statt einer pro Item. Das ist der mit Abstand schonendste Weg und der Primärversuch.
@@ -286,7 +288,7 @@ LM Studio erzwingt das Schema bei GGUF über **grammar-based sampling (llama.cpp
 
 **Aliase:** `aliases.de.yaml` handkuratiert (die lohnendsten ~100 Einträge, primär Verzauberungen mit Zahlenwerten). Dazu **generierte** Aliase beim Import: Name ohne Präfix, EN-Name ohne Präfix, Herstellungsprodukt-Name, Kompositum-Varianten („Wollstoff-Tasche" → „wollstofftasche", „wollstoff tasche").
 
-> ⚠️ **Ehrliche Einschränkung:** Zahlenwerte wie „+35 Beweglichkeit" stehen typischerweise nicht im Rezeptnamen, sondern nur in der Zauberbeschreibung. Ob der Wowhead-Scrape diese Beschreibung mitliefert, ist **in M0 zu prüfen** — wenn ja, ist das Problem automatisch gelöst; wenn nein, müssen die Verzauberungs-Formeln von Hand aliasiert werden. Das ist die wichtigste offene Frage für genau deine erste Beispielfrage.
+> ✅ **In M0 geklärt (23.09.2026):** Zahlenwerte wie „+35 Beweglichkeit" stehen tatsächlich nicht im Rezeptnamen — aber der Scrape liefert die Zauberbeschreibung mit. Bei Verzauberkunst haben 223 von 261 Rezepten eine Beschreibung, 172 davon mit Zahlenwert. **Die Verzauberungs-Formeln müssen also nicht von Hand aliasiert werden**; die Beschreibung wandert stattdessen in den Suchindex. `aliases.de.yaml` bleibt trotzdem sinnvoll, aber für Umgangssprache („Agi-Handschuhe"), nicht für Zahlenwerte. Belege in [tools/catalog_sources.md](tools/catalog_sources.md) Abschnitt 6.
 
 ### SQL-Fallback (Intent = `unknown`)
 
@@ -401,7 +403,9 @@ Prüfen, ob die Wowhead-Listings das `Listview`-Datenarray liefern; ob Quelle (T
 - ✅ `cat` ist bei allen Berufen `11` — der Beruf steht allein in `skill`. Rezepte können mehreren Berufen gehören (`skill: [165, 197]`) → Dedup über `spell_id` im Import.
 - ✅ `source`-Codes für alle sieben Berufe ausgewertet (`tools/analysis/source_codes.py`): insgesamt sieben Codes, keine Überraschungen. Der Trainer-Filter (Code `6` ↔ `trainingcost`) ist jetzt bei **jedem** Beruf in beide Richtungen perfekt. Die `source`-Lücke liegt überall bei 40–59 %, „sicher kein Lehrer-Rezept” bleibt also nirgends sagbar.
 - ⚠️ Code `1` = „Hergestellt” gegengeprüft, aber nur zwei Einträge im ganzen Bestand — schmale Basis, siehe catalog_sources.md.
-- ❔ Kategorie „Books" und Zauberbeschreibung („+35 Beweglichkeit") noch nicht untersucht.
+- ✅ **Risiko 3 entschärft.** Jede Listing-Seite enthält einen zweiten Datenblock `WH.Gatherer.addData(6, …)` mit `description_<lang>` — bei Verzauberkunst haben **85,4 % der Rezepte eine Beschreibung, 172 davon mit Zahlenwert** („…sodass die Beweglichkeit um 15 erhöht wird."). Genau dort tritt die Fragenklasse auf; bei den Handwerksberufen fragt niemand über Werte. Die handkuratierten Verzauberungs-Aliase entfallen damit.
+- ✅ **Der zweite Scrape über `/forever/items/recipes/` entfällt.** Der Item-Block `addData(3, …)` derselben Seite enthält alle Item-IDs aus `reagents` und `creates` mit Name, Qualität und Icon (geprüft: 180/180, 519/519, 548/548). Ein Request pro Beruf und Sprache reicht für alles — siehe „Zwei Scrape-Ziele, nicht eines" weiter oben, der Abschnitt ist überholt.
+- ❔ Kategorie „Books" noch nicht untersucht — letzte offene M0-Frage.
 
 **Abnahme:** 20 Rezepte stichprobenartig gegen die Wowhead-Website prüfen — Beruf, Name, Quelle, Herstellungsprodukt korrekt? **Erst dann geht M1 los.** Fällt der Spike negativ aus, ist der Addon-Weg zu bewerten (siehe unten) — lieber jetzt als im Oktober.
 

@@ -23,6 +23,21 @@ def load(filename: str) -> list[dict]:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def load_html(filename: str) -> str:
+    """
+    Laedt eine gecachte Roh-Seite, z. B. 'enchanting.de.html'.
+
+    Die HTML-Dateien legt tools/probe_all.py ab; sie sind gitignored, auf einem
+    frischen Klon muessen sie also erst geholt werden.
+    """
+    path = PROBE_DIR / filename
+    if not path.exists():
+        raise SystemExit(
+            f"{path} fehlt.\nErst holen mit: uv run python tools/probe_all.py"
+        )
+    return path.read_text(encoding="utf-8")
+
+
 def recipes_only(entries: list[dict]) -> list[dict]:
     """
     Entfernt die Berufsrang-Eintraege - das sind keine Rezepte.

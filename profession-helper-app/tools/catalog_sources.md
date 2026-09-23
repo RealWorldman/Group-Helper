@@ -321,11 +321,89 @@ indiziert — siehe *Zweisprachigkeit* im [Plan](../PLAN.md).
 
 ---
 
-## 6. Noch offen
+## 6. Der zweite Datenblock: `WH.Gatherer.addData`
+
+**Jede Listing-Seite enthält neben `var listviewspells` einen zweiten Datenblock**, der beim
+ersten Spike übersehen wurde. Er kostet keinen zusätzlichen Request. ✅ belegt (23.09.2026)
+
+```js
+WH.Gatherer.addData(3, 16, {"6217": {...}, ...})   // Items,  Schlüssel = item_id
+WH.Gatherer.addData(6, 16, {"7421": {...}, ...})   // Zauber, Schlüssel = spell_id
+```
+
+Anders als `listviewspells` ist dieser Block **gültiges JSON** — alle Schlüssel sind
+gequotet, `parse_loose()` wird nicht gebraucht. Geschnitten wird er mit demselben
+Klammer-Scanner (`probe_listing.extract_balanced`).
+
+| Typ | Schlüssel | Felder |
+|---:|---|---|
+| `3` | `item_id` | `name_<lang>`, `quality`, `icon`, `jsonequip` (Preise, Tempo, …) |
+| `6` | `spell_id` | `name_<lang>`, `icon`, `rank_<lang>`, **`description_<lang>`**, `skillcategory` |
+
+> ⚠️ **Der Feldname trägt das Sprachkürzel**: `description_dede` gegen `/forever/de/`,
+> `description_enus` gegen `/forever/`. Ein fest verdrahteter Feldname schlägt beim
+> Sprachwechsel still fehl. `spell_descriptions.description_of()` sucht deshalb nach dem
+> Präfix `description_`.
+
+### Die Zauberbeschreibung — Risiko 3 aus dem Plan
+
+Die Frage war: Steht der Zahlenwert aus „+35 Beweglichkeit" irgendwo in den Daten? Er steht
+nicht im Namen (`Handschuhe - Überragende Beweglichkeit`), aber in der Beschreibung:
+
+```
+25080  Handschuhe - Überragende Beweglichkeit
+       Handschuhe dauerhaft verzaubern, sodass die Beweglichkeit um 15 erhöht wird.
+       Permanently enchant gloves to increase agility by 15.
+```
+
+Abdeckung (`tools/analysis/spell_descriptions.py`, nur echte Rezepte, Berufsränge heraus):
+
+| Beruf | Rezepte | im Block `6` | mit Beschreibung | davon mit Zahl |
+|---|---:|---:|---:|---:|
+| Verzauberkunst | 261 | 261 | **223 (85,4 %)** | 172 |
+| Bergbau | 18 | 18 | 15 (83,3 %) | 0 |
+| Alchemie | 194 | 194 | 16 (8,2 %) | 1 |
+| Ingenieurskunst | 273 | 273 | 10 (3,7 %) | 3 |
+| Schneiderei | 469 | 469 | 5 (1,1 %) | 1 |
+| Schmiedekunst | 502 | 502 | 4 (0,8 %) | 0 |
+| Lederverarbeitung | 602 | 602 | 3 (0,5 %) | 0 |
+
+**Risiko 3 ist entschärft — aber nicht, weil die Beschreibung überall da wäre.** Sie ist fast
+nur bei Verzauberkunst da. Das genügt, weil die Fragenklasse „+35 Beweglichkeit" genau dort
+auftritt: Verzauberungen heißen nach ihrem Effekt, Handwerksprodukte nach sich selbst. Nach
+einer Wollstofftasche fragt niemand über ihre Werte.
+
+Die Spalte „im Block `6`" ist bei jedem Beruf gleich der Rezeptanzahl: **jeder Zauber aus dem
+Listing steht auch im Gatherer-Block.** Handarbeit für die Verzauberungs-Aliase (der
+Nein-Fall aus dem Plan) entfällt damit.
+
+### Folge für die zwei Scrape-Ziele
+
+Der Plan sieht einen **zweiten Scrape** über `/forever/items/recipes/<kategorie>` vor, um an
+Item-Daten zu kommen. Der Item-Block macht ihn überflüssig: Er enthält **alle** Item-IDs, die
+in `reagents` und `creates` vorkommen, mit Namen, Qualität und Icon.
+
+| Beruf | gebrauchte Item-IDs | im Block `3` vorhanden |
+|---|---:|---:|
+| Verzauberkunst | 180 | 180 |
+| Schneiderei | 519 | 519 |
+| Schmiedekunst | 548 | 548 |
+
+Das ist kein Zufall, sondern Konstruktion: Wowhead bettet genau die Tooltips ein, die auf der
+Seite referenziert werden. **Ein Request pro Beruf und Sprache reicht damit für Rezept,
+Produkt, Reagenzien, Icon und Beschreibung.** Der zweite Scrape entfällt — und mit ihm die
+Kappung bei 1.000 Einträgen aus Abschnitt 1.
+
+> Was der Item-Block **nicht** repariert: die 72 Rezepte ohne `creates` (Abschnitt 4). Ohne
+> `item_id` gibt es nichts nachzuschlagen. Der Produktname aus `name` bleibt dort die
+> einzige Quelle.
+
+---
+
+## 7. Noch offen
 
 | Frage | Warum sie zählt |
 |---|---|
 | Gilt die Tiefenanalyse (Abschnitte 2–5) auch für die anderen sechs Berufe? | Daten liegen vor (Abschnitt 1a), ausgewertet ist nur Schneiderei |
 | Wie viele berufsübergreifende Rezepte (`skill` mit mehreren IDs) gibt es? | Dedup im Import |
-| Liefert der Scrape die **Zauberbeschreibung** mit Zahlenwerten? | Entscheidet über die Fragenklasse „+35 Beweglichkeit" (Risiko 3 im Plan) |
 | Was enthält die Kategorie „Books"? | Falls dort Rezepte primärer Berufe stecken, muss sie in den Scope |
