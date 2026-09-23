@@ -10,8 +10,9 @@ dokumentiert diese Strukturen nirgends. Jede Aussage trägt deshalb einen Status
 | 🟡 vermutet | plausibel, aber nicht gegengeprüft |
 | ❔ offen | noch nicht untersucht |
 
-**Datenstand:** 21.09.2026, Beta-Phase. Tiefenanalyse (Abschnitte 2–5) bisher nur für
-Schneiderei (`skill=197`, 477 Einträge); alle sieben Berufe sind geladen (Abschnitt 1a).
+**Datenstand:** 23.09.2026, Beta-Phase. Alle sieben Berufe geladen (Abschnitt 1a); die
+`source`-Codes (Abschnitt 3) sind für alle ausgewertet. Die übrige Tiefenanalyse
+(Abschnitte 2, 4, 5) stützt sich bisher nur auf Schneiderei (`skill=197`, 477 Einträge).
 **Rohdaten:** `data/probe/<slug>.json` (EN) und `data/probe/<slug>.de.json` (DE),
 Roh-HTML daneben als `<slug>[.de].html` (gitignored).
 
@@ -155,18 +156,24 @@ Ein Eintrag kann mehrere Quellen haben: `Rote Leinenrobe` hat `[2, 16, 21]`.
 
 | Code | Anzahl | davon mit `trainingcost` | Bedeutung | Status |
 |---:|---:|---:|---|---|
+| `1` | 2 | 0 | **Hergestellt** | ✅ belegt |
 | `2` | 102 | 0 | **Drop** | ✅ belegt |
 | `6` | 86 | **86** | **Lehrer** | ✅ belegt |
 | `5` | 60 | 0 | **Händler** | ✅ belegt |
 | `16` | 19 | 0 | **Geangelt** | ✅ belegt |
 | `4` | 6 | 0 | **Quest** | ✅ belegt |
 | `21` | 6 | 0 | **Aus Taschendiebstahl** | ✅ belegt |
-| `1` | ? | ? | **unbekannt** — nur bei Alchemie und Schmiedekunst | ❔ offen |
+| `1` | 2 | 0 | **Hergestellt** — nur bei Alchemie und Schmiedekunst, je 1 Eintrag | ✅ belegt (schmal) |
 
-Die Anzahlen oben gelten für Schneiderei. Dort ist die Zuordnung vollständig. **Code `1`**
-taucht erst bei Alchemie und Schmiedekunst auf (Lauf vom 21.09.2026) und ist noch nicht
-belegt: Häufigkeit, Korrelation mit `trainingcost` und Gegenprobe im Wowhead-Dropdown
-stehen aus. Bis dahin muss der Import ihn als unbekannt melden.
+Die Anzahlen der Codes `2`–`21` gelten für Schneiderei; die Zahlen pro Beruf stehen weiter
+unten. Über alle sieben Berufe tauchen **genau diese sieben Codes** auf, kein weiterer.
+
+> ⚠️ **Code `1` ist belegt, aber auf schmaler Basis.** Die Bedeutung „Hergestellt" wurde am
+> 23.09.2026 im Wowhead-WebUI gegengeprüft. Es gibt jedoch **im gesamten Datenbestand nur
+> zwei Einträge damit**: `Goblin-Raketentreibstoff` (Alchemie) und `Veredelter
+> Mithrilzylinder` (Schmiedekunst), beide ohne `trainingcost`. Bei einer Trefferzahl von 1
+> kann ein Dropdown-Abgleich zufällig stimmen — auf diese Zuordnung darf später kein
+> Gewicht gelegt werden, das über „zwei Einzelfälle" hinausgeht.
 
 Dass ausgerechnet *Angeln* und *Taschendiebstahl* als Quellen auftauchen, ist kein Fehler:
 Das Rezept-**Item** wird so erlangt (aus erangelten Behältern bzw. von bestohlenen
@@ -174,16 +181,30 @@ Humanoiden), nicht der Zauber selbst.
 
 ### Warum Code 6 = Lehrer belegt ist
 
-Die Korrelation mit `trainingcost` ist in **beide** Richtungen perfekt:
+Die Korrelation mit `trainingcost` ist in **beide** Richtungen perfekt — und zwar bei
+**allen sieben Berufen**, nicht nur bei Schneiderei (`source_codes.py`, 23.09.2026):
 
-- alle 86 Einträge mit Code `6` haben ein `trainingcost`
-- kein einziger Eintrag hat `trainingcost` ohne Code `6`
+| Beruf | Einträge | Code `6` | davon mit `trainingcost` | `trainingcost` ohne Code `6` | ohne `source` |
+|---|---:|---:|---:|---:|---:|
+| Alchemie | 202 | 35 | 35 | **0** | 92 (45,5 %) |
+| Schmiedekunst | 515 | 81 | 81 | **0** | 261 (50,7 %) |
+| Verzauberkunst | 270 | 66 | 66 | **0** | 109 (40,4 %) |
+| Ingenieurskunst | 284 | 78 | 78 | **0** | 125 (44,0 %) |
+| Lederverarbeitung | 613 | 74 | 74 | **0** | 349 (56,9 %) |
+| Bergbau | 29 | 12 | 12 | **0** | 17 (58,6 %) |
+| Schneiderei | 477 | 86 | 86 | **0** | 225 (47,2 %) |
 
-Damit steht der Trainer-Filter (Entscheidung 3 im Plan) auf belastbarem Fundament.
+Damit steht der Trainer-Filter (Entscheidung 3 im Plan) berufsübergreifend auf
+belastbarem Fundament.
+
+> Ein Rezept kann mehrere Quellen haben. Bei Alchemie tragen deshalb auch Einträge mit
+> Code `2` (Drop) oder `5` (Händler) ein `trainingcost` — sie haben zusätzlich Code `6`.
+> Das ist kein Widerspruch zur Spalte „`trainingcost` ohne Code `6`".
 
 ### Warum der Trainer-Filter trotzdem weich bleiben muss
 
-**225 der 477 Einträge (47 %) haben überhaupt kein `source`-Feld.** Wir können also sagen
+**Die `source`-Lücke liegt bei jedem Beruf zwischen 40,4 % und 58,6 %** (Spalte ganz rechts
+oben) — bei Schneiderei sind es 225 der 477 Einträge. Wir können also sagen
 „das ist sicher ein Lehrer-Rezept", aber nie „das ist sicher keins". Genau deshalb blendet
 der Import Trainer-Rezepte nur aus, statt sie wegzulassen — ein Fehlurteil der Quelle darf
 keine Daten kosten.
@@ -305,7 +326,6 @@ indiziert — siehe *Zweisprachigkeit* im [Plan](../PLAN.md).
 | Frage | Warum sie zählt |
 |---|---|
 | Gilt die Tiefenanalyse (Abschnitte 2–5) auch für die anderen sechs Berufe? | Daten liegen vor (Abschnitt 1a), ausgewertet ist nur Schneiderei |
-| Was bedeutet `source`-Code `1`? | Alchemie + Schmiedekunst; ohne Klärung ist der Trainer-Filter dort unsicher |
 | Wie viele berufsübergreifende Rezepte (`skill` mit mehreren IDs) gibt es? | Dedup im Import |
 | Liefert der Scrape die **Zauberbeschreibung** mit Zahlenwerten? | Entscheidet über die Fragenklasse „+35 Beweglichkeit" (Risiko 3 im Plan) |
 | Was enthält die Kategorie „Books"? | Falls dort Rezepte primärer Berufe stecken, muss sie in den Scope |

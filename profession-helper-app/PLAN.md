@@ -395,11 +395,12 @@ Zusätzlich infrastrukturfrei: `/admin export` postet `characters` + `character_
 
 **M0 — Scraper-Spike** *(2–3 Tage, kein Discord-Code)* ⚠️ **größtes Risiko, zuerst**
 Prüfen, ob die Wowhead-Listings das `Listview`-Datenarray liefern; ob Quelle (Trainer/Drop/Quest) und **Herstellungsprodukt** enthalten sind; ob die Zauberbeschreibung mit Zahlenwerten („+35 Beweglichkeit") erreichbar ist; ob `/forever/de/` deutsche Namen liefert; und was die Kategorie „Books" tatsächlich enthält (falls dort Rezepte primärer Berufe stecken, muss sie mit in den Scope). `scrape_wowhead.py` + `build_catalog.py`, Rate-Limit 1 req/s, Ergebnis als Snapshot-JSON.
-**Zwischenstand 21.09.2026** (Details in [tools/catalog_sources.md](tools/catalog_sources.md)):
+**Zwischenstand 23.09.2026** (Details in [tools/catalog_sources.md](tools/catalog_sources.md)):
 - ✅ Listview-Array, Herstellungsprodukt, Quelle, deutsche Namen: für Schneiderei belegt.
 - ✅ Alle sieben Berufe per `tools/probe_all.py` geladen, Slugs bestätigt (`alchemy`, `blacksmithing`, `enchanting`, `engineering`, `leatherworking`, `mining`, `tailoring`), EN/DE je gleich viele Einträge.
 - ✅ `cat` ist bei allen Berufen `11` — der Beruf steht allein in `skill`. Rezepte können mehreren Berufen gehören (`skill: [165, 197]`) → Dedup über `spell_id` im Import.
-- ❔ Neuer `source`-Code `1` bei Alchemie und Schmiedekunst — Bedeutung offen, als Nächstes `tools/analysis/source_codes.py` auf alle Berufe erweitern und gegen das Wowhead-Dropdown prüfen.
+- ✅ `source`-Codes für alle sieben Berufe ausgewertet (`tools/analysis/source_codes.py`): insgesamt sieben Codes, keine Überraschungen. Der Trainer-Filter (Code `6` ↔ `trainingcost`) ist jetzt bei **jedem** Beruf in beide Richtungen perfekt. Die `source`-Lücke liegt überall bei 40–59 %, „sicher kein Lehrer-Rezept” bleibt also nirgends sagbar.
+- ⚠️ Code `1` = „Hergestellt” gegengeprüft, aber nur zwei Einträge im ganzen Bestand — schmale Basis, siehe catalog_sources.md.
 - ❔ Kategorie „Books" und Zauberbeschreibung („+35 Beweglichkeit") noch nicht untersucht.
 
 **Abnahme:** 20 Rezepte stichprobenartig gegen die Wowhead-Website prüfen — Beruf, Name, Quelle, Herstellungsprodukt korrekt? **Erst dann geht M1 los.** Fällt der Spike negativ aus, ist der Addon-Weg zu bewerten (siehe unten) — lieber jetzt als im Oktober.
