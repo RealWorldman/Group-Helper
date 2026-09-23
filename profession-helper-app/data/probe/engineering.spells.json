@@ -1,0 +1,2558 @@
+{
+  "3918": {
+    "name_enus": "Rough Blasting Powder",
+    "icon": "inv_misc_dust_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3919": {
+    "name_enus": "Rough Dynamite",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3922": {
+    "name_enus": "Handful of Copper Bolts",
+    "icon": "inv_misc_gear_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3923": {
+    "name_enus": "Rough Copper Bomb",
+    "icon": "inv_misc_bomb_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "4037": {
+    "name_enus": "Engineering",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "Allows an engineer to make more powerful devices and explosives up to a maximum potential skill of 150."
+  },
+  "7430": {
+    "name_enus": "Arclight Spanner",
+    "icon": "inv_misc_wrench_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3925": {
+    "name_enus": "Rough Boomstick",
+    "icon": "inv_weapon_rifle_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3924": {
+    "name_enus": "Copper Tube",
+    "icon": "inv_gizmo_pipe_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3977": {
+    "name_enus": "Crude Scope",
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3926": {
+    "name_enus": "Copper Modulator",
+    "icon": "inv_gizmo_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3929": {
+    "name_enus": "Coarse Blasting Powder",
+    "icon": "inv_misc_dust_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3930": {
+    "name_enus": "Crafted Heavy Shot",
+    "icon": "inv_ammo_bullet_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3931": {
+    "name_enus": "Coarse Dynamite",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3928": {
+    "name_enus": "Mechanical Squirrel",
+    "icon": "inv_crate_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3932": {
+    "name_enus": "Target Dummy",
+    "icon": "inv_crate_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3973": {
+    "name_enus": "Silver Contact",
+    "icon": "inv_ingot_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8339": {
+    "name_enus": "EZ-Thro Dynamite",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8334": {
+    "name_enus": "Practice Lock",
+    "icon": "inv_box_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3934": {
+    "name_enus": "Flying Tiger Goggles",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3933": {
+    "name_enus": "Small Seaforium Charge",
+    "icon": "inv_misc_urn_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "A Small Seaforium charge which is enough to blast open some doors."
+  },
+  "3938": {
+    "name_enus": "Bronze Tube",
+    "icon": "inv_gizmo_pipe_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3937": {
+    "name_enus": "Large Copper Bomb",
+    "icon": "inv_misc_bomb_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3936": {
+    "name_enus": "Deadly Blunderbuss",
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3978": {
+    "name_enus": "Standard Scope",
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "An improved scope that increases the damage done with your bow or gun."
+  },
+  "3941": {
+    "name_enus": "Small Bronze Bomb",
+    "icon": "inv_misc_bomb_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3939": {
+    "name_enus": "Lovingly Crafted Boomstick",
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3940": {
+    "name_enus": "Shadow Goggles",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "4038": {
+    "name_enus": "Engineering",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "Allows an engineer to make bombs and gizmos that are a wonder to behold up to a maximum potential skill of 225."
+  },
+  "3947": {
+    "name_enus": "Crafted Solid Shot",
+    "icon": "inv_ammo_bullet_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3945": {
+    "name_enus": "Heavy Blasting Powder",
+    "icon": "inv_misc_dust_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3946": {
+    "name_enus": "Heavy Dynamite",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26416": {
+    "name_enus": "Small Blue Rocket",
+    "icon": "inv_misc_missilesmall_blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26417": {
+    "name_enus": "Small Green Rocket",
+    "icon": "inv_misc_missilesmall_green",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26418": {
+    "name_enus": "Small Red Rocket",
+    "icon": "inv_misc_missilesmall_red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3944": {
+    "name_enus": "Flame Deflector",
+    "icon": "inv_gizmo_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3942": {
+    "name_enus": "Whirring Bronze Gizmo",
+    "icon": "inv_gizmo_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9269": {
+    "name_enus": "Gnomish Universal Remote",
+    "icon": "inv_misc_pocketwatch_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3949": {
+    "name_enus": "Silver-plated Shotgun",
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6458": {
+    "name_enus": "Ornate Spyglass",
+    "icon": "inv_misc_spyglass_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3950": {
+    "name_enus": "Big Bronze Bomb",
+    "icon": "inv_misc_bomb_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3952": {
+    "name_enus": "Minor Recombobulator",
+    "icon": "inv_gizmo_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3953": {
+    "name_enus": "Bronze Framework",
+    "icon": "inv_gizmo_bronzeframework_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3954": {
+    "name_enus": "Moonsight Rifle",
+    "icon": "inv_weapon_rifle_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9271": {
+    "name_enus": "Aquadynamic Fish Attractor",
+    "icon": "inv_misc_food_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23067": {
+    "name_enus": "Blue Firework",
+    "icon": "spell_ice_magicdamage",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23068": {
+    "name_enus": "Green Firework",
+    "icon": "spell_nature_abolishmagic",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23066": {
+    "name_enus": "Red Firework",
+    "icon": "spell_fire_fireball02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12584": {
+    "name_enus": "Gold Power Core",
+    "icon": "inv_battery_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3956": {
+    "name_enus": "Green Tinted Goggles",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3955": {
+    "name_enus": "Explosive Sheep",
+    "icon": "spell_nature_polymorph",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3957": {
+    "name_enus": "Ice Deflector",
+    "icon": "inv_gizmo_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3958": {
+    "name_enus": "Iron Strut",
+    "icon": "inv_spear_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3959": {
+    "name_enus": "Discombobulator Ray",
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9273": {
+    "name_enus": "Goblin Jumper Cables",
+    "icon": "inv_misc_enggizmos_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3960": {
+    "name_enus": "Portable Bronze Mortar",
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3961": {
+    "name_enus": "Gyrochronatom",
+    "icon": "inv_misc_pocketwatch_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12585": {
+    "name_enus": "Solid Blasting Powder",
+    "icon": "inv_misc_powder_black",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12586": {
+    "name_enus": "Solid Dynamite",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26420": {
+    "name_enus": "Large Blue Rocket",
+    "icon": "inv_misc_missilelarge_blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26421": {
+    "name_enus": "Large Green Rocket",
+    "icon": "inv_misc_missilelarge_green",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26422": {
+    "name_enus": "Large Red Rocket",
+    "icon": "inv_misc_missilelarge_red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3963": {
+    "name_enus": "Compact Harvest Reaper Kit",
+    "icon": "inv_helmet_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12590": {
+    "name_enus": "Gyromatic Micro-Adjustor",
+    "icon": "inv_misc_screwdriver_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3962": {
+    "name_enus": "Iron Grenade",
+    "icon": "inv_misc_bomb_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12587": {
+    "name_enus": "Bright-Eye Goggles",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3979": {
+    "name_enus": "Accurate Scope",
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3965": {
+    "name_enus": "Advanced Target Dummy",
+    "icon": "inv_crate_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8243": {
+    "name_enus": "Flash Bomb",
+    "icon": "inv_misc_ammo_bullet_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3966": {
+    "name_enus": "Craftsman's Monocle",
+    "icon": "inv_helmet_44",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3967": {
+    "name_enus": "Big Iron Bomb",
+    "icon": "inv_misc_bomb_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "21940": {
+    "name_enus": "Snowmaster 9000",
+    "icon": "spell_frost_windwalkon",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12589": {
+    "name_enus": "Mithril Tube",
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3968": {
+    "name_enus": "Goblin Land Mine",
+    "icon": "inv_shield_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Build a Goblin Land Mine."
+  },
+  "12656": {
+    "name_enus": "Engineering",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "Allows an engineer to make bombs and gizmos that are truly amazing up to a maximum potential skill of 300."
+  },
+  "23069": {
+    "name_enus": "EZ-Thro Dynamite II",
+    "icon": "inv_misc_bomb_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3972": {
+    "name_enus": "Large Seaforium Charge",
+    "icon": "inv_misc_urn_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "15255": {
+    "name_enus": "Mechanical Repair Kit",
+    "icon": "inv_gizmo_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12591": {
+    "name_enus": "Unstable Trigger",
+    "icon": "inv_battery_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3971": {
+    "name_enus": "Gnomish Cloaking Device",
+    "icon": "inv_gizmo_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3969": {
+    "name_enus": "Mechanical Dragonling",
+    "icon": "inv_misc_head_dragon_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "13240": {
+    "name_enus": "The Mortar: Reloaded",
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Reloads an empty Goblin mortar."
+  },
+  "12715": {
+    "name_enus": "Goblin Rocket Fuel Recipe",
+    "icon": "inv_scroll_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12895": {
+    "name_enus": "Inlaid Mithril Cylinder Plans",
+    "icon": "inv_scroll_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "15633": {
+    "name_enus": "Lil' Smoky",
+    "icon": "inv_mechagon_spareparts",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "15628": {
+    "name_enus": "Pet Bombling",
+    "icon": "inv_misc_bomb_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12760": {
+    "name_enus": "Goblin Sapper Charge",
+    "icon": "spell_fire_selfdestruct",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12594": {
+    "name_enus": "Fire Goggles",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12718": {
+    "name_enus": "Goblin Construction Helmet",
+    "icon": "inv_helmet_60",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12717": {
+    "name_enus": "Goblin Mining Helmet",
+    "icon": "inv_helmet_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12595": {
+    "name_enus": "Mithril Blunderbuss",
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12899": {
+    "name_enus": "Gnomish Shrink Ray",
+    "icon": "inv_gizmo_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12596": {
+    "name_enus": "Hi-Impact Mithril Slugs",
+    "icon": "inv_ammo_bullet_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12897": {
+    "name_enus": "Gnomish Goggles",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12597": {
+    "name_enus": "Deadly Scope",
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12902": {
+    "name_enus": "Gnomish Net-o-Matic Projector",
+    "icon": "inv_misc_net_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12599": {
+    "name_enus": "Mithril Casing",
+    "icon": "inv_gizmo_mithrilcasing_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12603": {
+    "name_enus": "Mithril Frag Bomb",
+    "icon": "inv_misc_bomb_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12903": {
+    "name_enus": "Gnomish Harm Prevention Belt",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12607": {
+    "name_enus": "Catseye Ultra Goggles",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12614": {
+    "name_enus": "Mithril Heavy-bore Rifle",
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26423": {
+    "name_enus": "Blue Rocket Cluster",
+    "icon": "inv_misc_missilesmallcluster_blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26424": {
+    "name_enus": "Green Rocket Cluster",
+    "icon": "inv_misc_missilesmallcluster_green",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26425": {
+    "name_enus": "Red Rocket Cluster",
+    "icon": "inv_misc_missilesmallcluster_red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12905": {
+    "name_enus": "Gnomish Rocket Boots",
+    "icon": "inv_boots_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8895": {
+    "name_enus": "Goblin Rocket Boots",
+    "icon": "inv_gizmo_rocketboot_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12616": {
+    "name_enus": "Parachute Cloak",
+    "icon": "inv_misc_cape_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12615": {
+    "name_enus": "Spellpower Goggles Xtreme",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26442": {
+    "name_enus": "Firework Launcher",
+    "icon": "inv_musket_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12755": {
+    "name_enus": "Goblin Bomb Dispenser",
+    "icon": "inv_gizmo_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12617": {
+    "name_enus": "Deepdive Helmet",
+    "icon": "inv_helmet_49",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12618": {
+    "name_enus": "Rose Colored Goggles",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12906": {
+    "name_enus": "Gnomish Battle Chicken",
+    "icon": "spell_magic_polymorphchicken",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12619": {
+    "name_enus": "Hi-Explosive Bomb",
+    "icon": "inv_misc_bomb_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12754": {
+    "name_enus": "The Big One",
+    "icon": "inv_misc_bomb_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12907": {
+    "name_enus": "Gnomish Mind Control Cap",
+    "icon": "inv_helmet_49",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12759": {
+    "name_enus": "Gnomish Death Ray",
+    "icon": "inv_gizmo_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12908": {
+    "name_enus": "Goblin Dragon Gun",
+    "icon": "spell_fire_flamebolt",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12620": {
+    "name_enus": "Sniper Scope",
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12621": {
+    "name_enus": "Mithril Gyro-Shot",
+    "icon": "inv_ammo_bullet_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12622": {
+    "name_enus": "Green Lens",
+    "icon": "inv_helmet_44",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12758": {
+    "name_enus": "Goblin Rocket Helmet",
+    "icon": "inv_helmet_49",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19788": {
+    "name_enus": "Dense Blasting Powder",
+    "icon": "inv_misc_ammo_gunpowder_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23070": {
+    "name_enus": "Dense Dynamite",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23507": {
+    "name_enus": "Snake Burst Firework",
+    "icon": "spell_holy_holybolt",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12624": {
+    "name_enus": "Mithril Mechanical Dragonling",
+    "icon": "inv_misc_head_dragon_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19567": {
+    "name_enus": "Salt Shaker",
+    "icon": "inv_egg_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26011": {
+    "name_enus": "Tranquil Mechanical Yeti",
+    "icon": "ability_hunter_pet_gorilla",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23129": {
+    "name_enus": "World Enlarger",
+    "icon": "inv_misc_enggizmos_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23071": {
+    "name_enus": "Truesilver Transformer",
+    "icon": "inv_staff_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23077": {
+    "name_enus": "Gyrofreeze Ice Reflector",
+    "icon": "inv_misc_enggizmos_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19792": {
+    "name_enus": "Thorium Rifle",
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19790": {
+    "name_enus": "Thorium Grenade",
+    "icon": "inv_misc_bomb_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19791": {
+    "name_enus": "Thorium Widget",
+    "icon": "inv_gizmo_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23096": {
+    "name_enus": "Alarm-O-Bot",
+    "icon": "inv_misc_enggizmos_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23078": {
+    "name_enus": "Goblin Jumper Cables XL",
+    "icon": "inv_misc_enggizmos_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19793": {
+    "name_enus": "Lifelike Mechanical Toad",
+    "icon": "inv_misc_monsterhead_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19794": {
+    "name_enus": "Spellpower Goggles Xtreme Plus",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26426": {
+    "name_enus": "Large Blue Rocket Cluster",
+    "icon": "inv_misc_missilelargecluster_blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26427": {
+    "name_enus": "Large Green Rocket Cluster",
+    "icon": "inv_misc_missilelargecluster_green",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26428": {
+    "name_enus": "Large Red Rocket Cluster",
+    "icon": "inv_misc_missilelargecluster_red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23080": {
+    "name_enus": "Powerful Seaforium Charge",
+    "icon": "spell_shadow_detectinvisibility",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23079": {
+    "name_enus": "Major Recombobulator",
+    "icon": "inv_misc_enggizmos_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19796": {
+    "name_enus": "Dark Iron Rifle",
+    "icon": "inv_weapon_rifle_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28327": {
+    "name_enus": "Steam Tonk Controller",
+    "icon": "inv_misc_enggizmos_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26443": {
+    "name_enus": "Firework Cluster Launcher",
+    "icon": "inv_misc_enggizmos_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19814": {
+    "name_enus": "Masterwork Target Dummy",
+    "icon": "inv_crate_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19795": {
+    "name_enus": "Thorium Tube",
+    "icon": "inv_gizmo_pipe_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19800": {
+    "name_enus": "Thorium Shells",
+    "icon": "inv_ammo_bullet_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19799": {
+    "name_enus": "Dark Iron Bomb",
+    "icon": "inv_misc_bomb_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19815": {
+    "name_enus": "Delicate Arcanite Converter",
+    "icon": "inv_gizmo_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23081": {
+    "name_enus": "Hyper-Radiant Flame Reflector",
+    "icon": "inv_misc_enggizmos_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19825": {
+    "name_enus": "Master Engineer's Goggles",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19819": {
+    "name_enus": "Voice Amplification Modulator",
+    "icon": "inv_jewelry_amulet_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22795": {
+    "name_enus": "Core Marksman Rifle",
+    "icon": "inv_weapon_rifle_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22797": {
+    "name_enus": "Force Reactive Disk",
+    "icon": "spell_arcane_portaldarnassus",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19830": {
+    "name_enus": "Arcanite Dragonling",
+    "icon": "inv_misc_head_dragon_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22793": {
+    "name_enus": "Biznicks 247x128 Accurascope",
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24356": {
+    "name_enus": "Bloodvine Goggles",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24357": {
+    "name_enus": "Bloodvine Lens",
+    "icon": "inv_helmet_44",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19833": {
+    "name_enus": "Flawless Arcanite Rifle",
+    "icon": "inv_weapon_rifle_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23082": {
+    "name_enus": "Ultra-Flash Shadow Reflector",
+    "icon": "inv_misc_enggizmos_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19831": {
+    "name_enus": "Arcane Bomb",
+    "icon": "spell_shadow_mindbomb",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22704": {
+    "name_enus": "Field Repair Bot 74A",
+    "icon": "inv_egg_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "4036": {
+    "name_enus": "Engineering",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "Allows an engineer to make basic contraptions up to a maximum potential skill of 75.  Requires stone and metal found with the mining skill."
+  },
+  "1240947": {
+    "name_enus": "Engineering",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "<a href=\"/beta/spell=4036/engineering\" target=\"_blank\">Allows an engineer to make basic contraptions up to a maximum potential skill of 75.  Requires stone and metal found with the mining skill.</a>"
+  },
+  "1240982": {
+    "name_enus": "Engineering",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "<a href=\"/beta/spell=12656/engineering\" target=\"_blank\">Allows an engineer to make bombs and gizmos that are truly amazing up to a maximum potential skill of 300.</a>"
+  },
+  "1240969": {
+    "name_enus": "Engineering",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "<a href=\"/beta/spell=4038/engineering\" target=\"_blank\">Allows an engineer to make bombs and gizmos that are a wonder to behold up to a maximum potential skill of 225.</a>"
+  },
+  "1240958": {
+    "name_enus": "Engineering",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "<a href=\"/beta/spell=4037/engineering\" target=\"_blank\">Allows an engineer to make more powerful devices and explosives up to a maximum potential skill of 150.</a>"
+  },
+  "1253005": {
+    "name_enus": "Enormous Tranquilizer Dart",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1253006": {
+    "name_enus": "G.R.R.-Nade",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "20219": {
+    "name_enus": "Gnomish Engineer",
+    "icon": "inv_gizmo_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows an engineer to make fantastic, yet unreliable gnomish devices."
+  },
+  "20222": {
+    "name_enus": "Goblin Engineer",
+    "icon": "spell_fire_selfdestruct",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows an engineer to make lethal goblin devices."
+  },
+  "1253004": {
+    "name_enus": "Sludge Suppressor",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1235244": {
+    "name_enus": "Engineering",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1230656": {
+    "name_enus": "Reagent Bot",
+    "icon": "inv_misc_enggizmos_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 1",
+    "description_enus": "Craft a Reagent Bot."
+  },
+  "1266893": {
+    "name_enus": "SAF-T Tabs",
+    "icon": "inv_misc_punchcards_white",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266905": {
+    "name_enus": "SAF-T Dynamite",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3920": {
+    "name_enus": "Crafted Light Shot",
+    "icon": "inv_ammo_bullet_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266906": {
+    "name_enus": "SAF-T Copper Bomb",
+    "icon": "inv_misc_bomb_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1302161": {
+    "name_enus": "Harvester Override Signalcaster",
+    "icon": "inv_gizmo_goblingtonkcontroller",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1317958": {
+    "name_enus": "Satchel of Copper Bombs",
+    "icon": "inv_misc_bag_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266907": {
+    "name_enus": "EZ-Thro Wrap",
+    "icon": "inv_misc_giftwrap_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1293088": {
+    "name_enus": "9-60 Battery Pack",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1319154": {
+    "name_enus": "Small Purple Rocket",
+    "icon": "inv_misc_missilesmall_purple",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1319155": {
+    "name_enus": "Small White Rocket",
+    "icon": "inv_misc_missilesmall_white",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1319156": {
+    "name_enus": "Small Yellow Rocket",
+    "icon": "inv_misc_missilesmall_yellow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1249634": {
+    "name_enus": "Sandpaper",
+    "icon": "inv_inscription_papyrus",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266908": {
+    "name_enus": "EZ-Thro Copper Bomb XL",
+    "icon": "inv_misc_bomb_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "424641": {
+    "name_enus": "Shredder Autosalvage Unit",
+    "icon": "inv_misc_enggizmos_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1263034": {
+    "name_enus": "Repair Bot",
+    "icon": "inv_robotpet",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 2",
+    "description_enus": "Craft a Repair Bot."
+  },
+  "1266909": {
+    "name_enus": "No Slip SAF-T Padding",
+    "icon": "inv_misc_leatherscrap_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266910": {
+    "name_enus": "SAF-T Bronze Bomb",
+    "icon": "inv_misc_bomb_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1286796": {
+    "name_enus": "Hoof-Shaped Foot Pedal",
+    "icon": "inv_blacksmith_leystonehoofplates_orange",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266911": {
+    "name_enus": "SAF-T Jumbo Dynamite",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1317959": {
+    "name_enus": "Satchel of Bronze Bombs",
+    "icon": "inv_misc_bag_09_black",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266912": {
+    "name_enus": "SAF-T Bell",
+    "icon": "inv_misc_bell_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1319157": {
+    "name_enus": "Large Purple Rocket",
+    "icon": "inv_misc_missilelarge_purple",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1319158": {
+    "name_enus": "Large White Rocket",
+    "icon": "inv_misc_missilelarge_white",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1319159": {
+    "name_enus": "Large Yellow Rocket",
+    "icon": "inv_misc_missilelarge_yellow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1308180": {
+    "name_enus": "Clanking Cord",
+    "icon": "inv_belt_34",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1308179": {
+    "name_enus": "Gizmo Girdle",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1308178": {
+    "name_enus": "Whimsical Waistwrap",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1308182": {
+    "name_enus": "Serrated Strap",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266914": {
+    "name_enus": "EZ-Thro Fireproof Fuse",
+    "icon": "inv_jewelcrafting_delicatecopperwire",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1286792": {
+    "name_enus": "Centaur Banner Deployment Device",
+    "icon": "achievement_bg_killflagcarriers_grabflag_capit",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435956": {
+    "name_enus": "Polished Truesilver Gears",
+    "icon": "inv_mace_107",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266913": {
+    "name_enus": "Shafety Sheep",
+    "icon": "ability_mage_improvedpolymorph",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266916": {
+    "name_enus": "EZ-Thro Grenade",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1308184": {
+    "name_enus": "Bent Goggles",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1308186": {
+    "name_enus": "Dented Goggles",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1308183": {
+    "name_enus": "Floppy Goggles",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1308185": {
+    "name_enus": "Stuckbutton Goggles",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "431362": {
+    "name_enus": "Soul Vessel",
+    "icon": "inv_jewelcrafting_nightseye_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266915": {
+    "name_enus": "EZ-Thro Bronze Mortar",
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266917": {
+    "name_enus": "SAF-T Casing",
+    "icon": "inv_gizmo_mithrilcasing_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266918": {
+    "name_enus": "SAF-T Bomb",
+    "icon": "inv_misc_bomb_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435966": {
+    "name_enus": "Ez-Thro Radiation Bomb",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435964": {
+    "name_enus": "High-Yield Radiation Bomb",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435960": {
+    "name_enus": "Hyperconductive Goldwap",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435958": {
+    "name_enus": "Whirling Truesilver Gearwall",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12716": {
+    "name_enus": "Goblin Mortar",
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1319160": {
+    "name_enus": "Purple Rocket Cluster",
+    "icon": "inv_misc_missilesmallcluster_purple",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1319161": {
+    "name_enus": "White Rocket Cluster",
+    "icon": "inv_misc_missilesmallcluster_white",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1319162": {
+    "name_enus": "Yellow Rocket Cluster",
+    "icon": "inv_misc_missilesmallcluster_yellow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266920": {
+    "name_enus": "Compact Critter Carrier",
+    "icon": "inv_box_birdcage_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1317960": {
+    "name_enus": "Satchel of Iron Bombs",
+    "icon": "inv_misc_bag_10_black",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266921": {
+    "name_enus": "EZ-Thro Tru-Trigger",
+    "icon": "inv_engineering_loosetrigger",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266922": {
+    "name_enus": "Tru-Trigger Frag Bomb",
+    "icon": "inv_misc_bomb_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266919": {
+    "name_enus": "Emergency Field Cloak",
+    "icon": "inv_misc_enggizmos_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266924": {
+    "name_enus": "Gnomish Army Knife",
+    "icon": "inv_misc_enggizmos_swissarmy",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "446236": {
+    "name_enus": "Void-Powered Invoker's Vambraces",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "446238": {
+    "name_enus": "Void-Powered Protector's Vambraces",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "446237": {
+    "name_enus": "Void-Powered Slayer's Vambraces",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1228088": {
+    "name_enus": "Pop-Up Shrub",
+    "icon": "inv_misc_plant_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1226206": {
+    "name_enus": "Tinkerbox",
+    "icon": "inv_gizmo_goblingtonkcontroller",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1226209": {
+    "name_enus": "Tinkerbox: Magnetic Displacement",
+    "icon": "inv_gizmo_hardenedadamantitetube",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1226208": {
+    "name_enus": "Tinkerbox: Nitro Boosts",
+    "icon": "inv_misc_enggizmos_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1226207": {
+    "name_enus": "Tinkerbox: Teleport",
+    "icon": "inv_misc_enggizmos_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266923": {
+    "name_enus": "SAF-T Disposable Parachute",
+    "icon": "inv_misc_cape_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266925": {
+    "name_enus": "Loot-A-Rang",
+    "icon": "inv_eng_mechanicalboomerang",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266926": {
+    "name_enus": "SAF-T Tube",
+    "icon": "inv_gizmo_hardenedadamantitetube",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1221012": {
+    "name_enus": "Creepy Censor Sensors",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1319163": {
+    "name_enus": "Large Purple Rocket Cluster",
+    "icon": "inv_misc_missilelargecluster_purple",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1319164": {
+    "name_enus": "Large White Rocket Cluster",
+    "icon": "inv_misc_missilelargecluster_white",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1319165": {
+    "name_enus": "Large Yellow Rocket Cluster",
+    "icon": "inv_misc_missilelargecluster_yellow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266927": {
+    "name_enus": "SAF-T Clever Dynamite",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1226212": {
+    "name_enus": "Tinker: Magnetic Displacement",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Augment your belt to give the following effect:<br /><br /><a href=\"/beta/spell=1226001/tinker:-magnetic-displacement\" target=\"_blank\"><a href=\"/beta/spell=1226007/tinker:-magnetic-displacement\" target=\"_blank\">Disrupt a magnetic field between you and your nearby enemy target, knocking you both away.<br /><br />Can only affect targets up to 2 levels higher than you. Some targets cannot be displaced. Targets can only be affected by this effect once every 2 min.</a></a>"
+  },
+  "1226211": {
+    "name_enus": "Tinker: Nitro Boosts",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Augment your belt to give the following effect:<br /><br /><a href=\"/beta/spell=1225982/tinker:-nitro-boosts\" target=\"_blank\"><a href=\"/beta/spell=1225987/tinker:-nitro-boosts\" target=\"_blank\">Activate a set of jets to increase your movement speed by up to 160%, for up to 8 sec.</a></a>"
+  },
+  "1226210": {
+    "name_enus": "Tinker: Teleport",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Augment your belt to give the following effect:<br /><br /><a href=\"/beta/spell=1225951/tinker:-teleport\" target=\"_blank\"><a href=\"/beta/spell=1225960/tinker:-teleport\" target=\"_blank\">Teleport forward 20 yds.</a></a>"
+  },
+  "1317270": {
+    "name_enus": "Unsanctified Grenade",
+    "icon": "inv_misc_bomb_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266928": {
+    "name_enus": "EZ-Thro Shell",
+    "icon": "inv_qiraj_carapaceoldgod",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23486": {
+    "name_enus": "Dimensional Ripper - Everlook",
+    "icon": "inv_misc_enggizmos_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23489": {
+    "name_enus": "Ultrasafe Transporter - Gadgetzan",
+    "icon": "inv_misc_enggizmos_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266929": {
+    "name_enus": "EZ-Thro Thorium Grenade",
+    "icon": "inv_misc_bomb_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1317961": {
+    "name_enus": "Satchel of Dark Iron Bombs",
+    "icon": "inv_misc_bag_07_black",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1263083": {
+    "name_enus": "Anarchist's Workbench",
+    "icon": "inv_10_specialization_professionbook_engineering_color1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 3",
+    "description_enus": "Craft an Anarchist's Workbench."
+  },
+  "1226213": {
+    "name_enus": "Semisafe Transporter: New Avalon",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1293849": {
+    "name_enus": "Swiftfeather Arrow",
+    "icon": "inv_ammo_arrow_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1293850": {
+    "name_enus": "Swiftstrike Shot",
+    "icon": "inv_ammo_bullet_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306547": {
+    "name_enus": "Hyper Deluxe Sniper Rifle Mk XVII",
+    "icon": "inv_weapon_rifle_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306546": {
+    "name_enus": "SAF-T Ultra Precision Scope",
+    "icon": "inv_engineering_90_scope_blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213573": {
+    "name_enus": "Arcane Megabomb",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213586": {
+    "name_enus": "G00 DV-1B3 Generator",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213646": {
+    "name_enus": "Obsidian Blasting Powder",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213578": {
+    "name_enus": "Obsidian Bomb",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213576": {
+    "name_enus": "The Fumigator",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213588": {
+    "name_enus": "Tuned Force Reactive Disk",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266937": {
+    "name_enus": "Gnomish Poultryizer",
+    "icon": "inv_misc_enggizmos_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266936": {
+    "name_enus": "Dimensional Transporter - Mt. Hyjal",
+    "icon": "inv_misc_enggizmos_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266934": {
+    "name_enus": "EZ and SAF Field Transporter: Mt. Hyjal",
+    "icon": "inv_misc_enggizmos_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266932": {
+    "name_enus": "EZ-Thro Field Transporter: Gadgetzan",
+    "icon": "inv_misc_enggizmos_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266942": {
+    "name_enus": "EZ-Thro Magnetic Displacer",
+    "icon": "inv_misc_magnet",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266939": {
+    "name_enus": "Gnomish Weather Machine",
+    "icon": "inv_gizmo_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266933": {
+    "name_enus": "SAF-T Emergency Ripper: Everlook",
+    "icon": "inv_misc_enggizmos_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266941": {
+    "name_enus": "SAF-T Nitro Boosts",
+    "icon": "inv_gizmo_rocketbootextreme",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266943": {
+    "name_enus": "SAF-T Teleport",
+    "icon": "inv_misc_enggizmos_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266940": {
+    "name_enus": "Stealthman 52",
+    "icon": "inv_misc_enggizmos_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266938": {
+    "name_enus": "Ultralight Goblin Glider",
+    "icon": "inv_misc_clothscrap_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266935": {
+    "name_enus": "Ultrasafe Rechargeable Battery",
+    "icon": "inv_gizmo_electrifiedether",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266930": {
+    "name_enus": "EZ-Thro Dark Bomb",
+    "icon": "inv_misc_bomb_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1266931": {
+    "name_enus": "EZ-Thro Mana Bomb",
+    "icon": "spell_shadow_mindbomb",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461710": {
+    "name_enus": "Fiery Core Sharpshooter Rifle",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1217207": {
+    "name_enus": "Obsidian Scope",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1214145": {
+    "name_enus": "Obsidian Shotgun",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  }
+}

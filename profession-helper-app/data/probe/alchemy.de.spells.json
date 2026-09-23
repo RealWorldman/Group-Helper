@@ -1,0 +1,1820 @@
+{
+  "2329": {
+    "name_dede": "Elixier der schwachen Stärke",
+    "icon": "inv_potion_56",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7183": {
+    "name_dede": "Elixier der schwachen Verteidigung",
+    "icon": "inv_potion_63",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3170": {
+    "name_dede": "Schwaches Trollblutelixier",
+    "icon": "inv_potion_78",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2331": {
+    "name_dede": "Schwacher Manatrank",
+    "icon": "inv_potion_70",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2332": {
+    "name_dede": "Schwacher Verjüngungstrank",
+    "icon": "inv_potion_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3101": {
+    "name_dede": "Alchimie",
+    "icon": "trade_alchemy",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "Ermöglicht einem Alchimisten, einfache Tränke mit einer maximalen potenziellen Fertigkeit von 150 zu brauen."
+  },
+  "4508": {
+    "name_dede": "Schwacher verfärbter Heiltrank",
+    "icon": "inv_potion_35",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3230": {
+    "name_dede": "Elixier der schwachen Beweglichkeit",
+    "icon": "inv_potion_91",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2334": {
+    "name_dede": "Elixier der schwachen Seelenstärke",
+    "icon": "inv_potion_42",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2335": {
+    "name_dede": "Hurtigkeitstrank",
+    "icon": "inv_potion_95",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6617": {
+    "name_dede": "Wuttrank",
+    "icon": "inv_potion_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7836": {
+    "name_dede": "Schwarzmaulöl",
+    "icon": "inv_drink_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3171": {
+    "name_dede": "Elixier der Weisheit",
+    "icon": "inv_potion_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8240": {
+    "name_dede": "Elixier des Riesenwuchses",
+    "icon": "inv_potion_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7179": {
+    "name_dede": "Trunk der Wasseratmung",
+    "icon": "inv_potion_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7255": {
+    "name_dede": "Heiligschutztrank",
+    "icon": "inv_potion_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7841": {
+    "name_dede": "Schwimmtempotrank",
+    "icon": "inv_potion_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3172": {
+    "name_dede": "Schwacher Magiewiderstandstrank",
+    "icon": "inv_potion_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3173": {
+    "name_dede": "Geringer Manatrank",
+    "icon": "inv_potion_71",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3174": {
+    "name_dede": "Trank der Giftreinigung",
+    "icon": "inv_potion_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3464": {
+    "name_dede": "Alchimie",
+    "icon": "trade_alchemy",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "Ermöglicht einem Alchimisten das Brauen von erstaunlichen Tränken mit einer maximalen potenziellen Fertigkeit von 225."
+  },
+  "3176": {
+    "name_dede": "Geringes Trollblutelixier",
+    "icon": "inv_potion_79",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7837": {
+    "name_dede": "Feueröl",
+    "icon": "inv_potion_38",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3177": {
+    "name_dede": "Elixier der geringen Verteidigung",
+    "icon": "inv_potion_64",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7256": {
+    "name_dede": "Schattenschutztrank",
+    "icon": "inv_potion_44",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7845": {
+    "name_dede": "Elixier der Feuermacht",
+    "icon": "inv_potion_55",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2333": {
+    "name_dede": "Elixier der geringen Beweglichkeit",
+    "icon": "inv_potion_92",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3188": {
+    "name_dede": "Elixier der Ogerstärke",
+    "icon": "inv_potion_57",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6624": {
+    "name_dede": "Trank der freien Aktion",
+    "icon": "inv_potion_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3452": {
+    "name_dede": "Manatrank",
+    "icon": "inv_potion_72",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3448": {
+    "name_dede": "Geringer Unsichtbarkeitstrank",
+    "icon": "inv_potion_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3449": {
+    "name_dede": "Schattenöl",
+    "icon": "inv_potion_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7257": {
+    "name_dede": "Feuerschutztrank",
+    "icon": "inv_potion_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3450": {
+    "name_dede": "Elixier der geringen Seelenstärke",
+    "icon": "inv_potion_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6618": {
+    "name_dede": "Großer Wuttrank",
+    "icon": "inv_potion_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3451": {
+    "name_dede": "Trollblutelixier",
+    "icon": "inv_potion_80",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11449": {
+    "name_dede": "Elixier der Beweglichkeit",
+    "icon": "inv_potion_93",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7258": {
+    "name_dede": "Frostschutztrank",
+    "icon": "inv_potion_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "21923": {
+    "name_dede": "Elixier der Frostmacht",
+    "icon": "inv_potion_76",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7259": {
+    "name_dede": "Naturschutztrank",
+    "icon": "inv_potion_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11450": {
+    "name_dede": "Elixier der Verteidigung",
+    "icon": "inv_potion_65",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3453": {
+    "name_dede": "Trunk der Entdeckung geringer Unsichtbarkeit",
+    "icon": "inv_potion_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11611": {
+    "name_dede": "Alchimie",
+    "icon": "trade_alchemy",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "Ermöglicht einem Alchimisten das Brauen von verblüffenden Tränken mit einer maximalen potenziellen Fertigkeit von 300."
+  },
+  "3454": {
+    "name_dede": "Frostöl",
+    "icon": "inv_potion_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12609": {
+    "name_dede": "Katzenaugentrunk",
+    "icon": "inv_potion_36",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11448": {
+    "name_dede": "Großer Manatrank",
+    "icon": "inv_potion_73",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11451": {
+    "name_dede": "Öl des Feuerbrandes",
+    "icon": "inv_potion_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11456": {
+    "name_dede": "Goblin-Raketentreibstoff",
+    "icon": "inv_cask_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11453": {
+    "name_dede": "Magiewiderstandtrank",
+    "icon": "inv_potion_120",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11452": {
+    "name_dede": "Regenerationstrank",
+    "icon": "inv_potion_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "4942": {
+    "name_dede": "Geringer Steinschildtrank",
+    "icon": "inv_potion_67",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22808": {
+    "name_dede": "Trunk der verbesserten Wasseratmung",
+    "icon": "inv_potion_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11458": {
+    "name_dede": "Wildrankentrank",
+    "icon": "inv_potion_34",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11479": {
+    "name_dede": "Transmutieren: Eisen in Gold",
+    "icon": "inv_ingot_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Transmutiert einen Barren Eisen zu einem Barren Gold.<br /><br />Diese geringe Transmutation kann nur einmal pro Stunde durchgeführt werden."
+  },
+  "11480": {
+    "name_dede": "Transmutieren: Mithril in Echtsilber",
+    "icon": "inv_ingot_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Transmutiert einen Barren Mithril zu einem Barren Echtsilber.<br /><br />Diese geringe Transmutation kann nur einmal pro Stunde durchgeführt werden."
+  },
+  "11459": {
+    "name_dede": "Stein der Weisen",
+    "icon": "inv_misc_orb_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "15833": {
+    "name_dede": "Trank des traumlosen Schlafs",
+    "icon": "inv_potion_83",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11460": {
+    "name_dede": "Trunk der Untotenentdeckung",
+    "icon": "inv_potion_53",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11461": {
+    "name_dede": "Arkanes Elixier",
+    "icon": "inv_potion_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11465": {
+    "name_dede": "Elixier der großen Intelligenz",
+    "icon": "inv_potion_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11464": {
+    "name_dede": "Unsichtbarkeitstrank",
+    "icon": "inv_potion_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11466": {
+    "name_dede": "Arthas' Gabe",
+    "icon": "inv_potion_28",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11467": {
+    "name_dede": "Elixier der großen Beweglichkeit",
+    "icon": "inv_potion_94",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11468": {
+    "name_dede": "Trunk der Traumvision",
+    "icon": "inv_potion_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11472": {
+    "name_dede": "Elixier der großen Stärke",
+    "icon": "inv_potion_59",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11473": {
+    "name_dede": "Geisterfarbstoff",
+    "icon": "inv_poison_mindnumbing",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17551": {
+    "name_dede": "Steinschuppenöl",
+    "icon": "inv_potion_68",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26277": {
+    "name_dede": "Elixier der heiligen Kraft",
+    "icon": "inv_potion_62",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11476": {
+    "name_dede": "Elixier der Schattenmacht",
+    "icon": "inv_potion_48",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11477": {
+    "name_dede": "Trank des Dämonentötens",
+    "icon": "inv_potion_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11478": {
+    "name_dede": "Trunk der Dämonenentdeckung",
+    "icon": "inv_potion_53",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3175": {
+    "name_dede": "Begrenzter Unverwundbarkeitstrank",
+    "icon": "inv_potion_62",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17552": {
+    "name_dede": "Mächtiger Wuttrank",
+    "icon": "inv_potion_41",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17553": {
+    "name_dede": "Überragender Manatrank",
+    "icon": "inv_potion_74",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17554": {
+    "name_dede": "Elixier der großen Verteidigung",
+    "icon": "inv_potion_66",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17555": {
+    "name_dede": "Elixier der Weisen",
+    "icon": "inv_potion_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17187": {
+    "name_dede": "Transmutieren: Arkanit",
+    "icon": "inv_misc_stonetablet_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Transmutiert einen Thoriumbarren und einen Arkankristall zu einem Arkanitbarren."
+  },
+  "17566": {
+    "name_dede": "Transmutieren: Erde zu Leben",
+    "icon": "spell_nature_abolishmagic",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Transmutiert Essenz der Erde zu Essenz des Lebens."
+  },
+  "17561": {
+    "name_dede": "Transmutieren: Erde zu Wasser",
+    "icon": "spell_nature_acid_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Transmutiert Essenz der Erde zu Essenz des Wassers."
+  },
+  "17560": {
+    "name_dede": "Transmutieren: Feuer zu Erde",
+    "icon": "spell_nature_strengthofearthtotem02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Transmutiert Essenz des Feuers zu Essenz der Erde."
+  },
+  "17565": {
+    "name_dede": "Transmutieren: Leben zu Erde",
+    "icon": "spell_nature_strengthofearthtotem02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Transmutiert Essenz des Lebens zu Essenz der Erde."
+  },
+  "17559": {
+    "name_dede": "Transmutieren: Luft zu Feuer",
+    "icon": "spell_fire_volcano",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Transmutiert Essenz der Luft zu Essenz des Feuers."
+  },
+  "17563": {
+    "name_dede": "Transmutieren: Untod zu Wasser",
+    "icon": "spell_nature_acid_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Läutert die Essenz des Untodes und transmutiert sie zu Essenz des Wassers."
+  },
+  "17562": {
+    "name_dede": "Transmutieren: Wasser zu Luft",
+    "icon": "spell_nature_earthbind",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Transmutiert Essenz des Wassers zu Essenz der Luft."
+  },
+  "17564": {
+    "name_dede": "Transmutieren: Wasser zu Untod",
+    "icon": "spell_shadow_shadetruesight",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Besudelt die Essenz des Wassers und transmutiert sie zu Essenz des Untodes."
+  },
+  "17557": {
+    "name_dede": "Elixier der rohen Gewalt",
+    "icon": "inv_potion_40",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24366": {
+    "name_dede": "Großer Trank des traumlosen Schlafs",
+    "icon": "inv_potion_83",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24365": {
+    "name_dede": "Magierblutelixier",
+    "icon": "inv_potion_137",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17571": {
+    "name_dede": "Elixier des Mungos",
+    "icon": "inv_potion_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17570": {
+    "name_dede": "Großer Steinschildtrank",
+    "icon": "inv_potion_69",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17573": {
+    "name_dede": "Großes Arkanelixier",
+    "icon": "inv_potion_109",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17572": {
+    "name_dede": "Läuterungstrank",
+    "icon": "inv_potion_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24367": {
+    "name_dede": "Trank der lebhaften Aktion",
+    "icon": "inv_potion_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24368": {
+    "name_dede": "Erhebliches Trollblutelixier",
+    "icon": "inv_potion_82",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17577": {
+    "name_dede": "Großer Arkanschutztrank",
+    "icon": "inv_potion_83",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17574": {
+    "name_dede": "Großer Feuerschutztrank",
+    "icon": "inv_potion_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17575": {
+    "name_dede": "Großer Frostschutztrank",
+    "icon": "inv_potion_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17576": {
+    "name_dede": "Großer Naturschutztrank",
+    "icon": "inv_potion_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17578": {
+    "name_dede": "Großer Schattenschutztrank",
+    "icon": "inv_potion_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17580": {
+    "name_dede": "Erheblicher Manatrank",
+    "icon": "inv_potion_76",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "25146": {
+    "name_dede": "Elementarfeuer transmutieren",
+    "icon": "spell_fire_fire",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Transmutiert ein Herz des Feuers zu 3 <!--singular:Elementarfeuer:Elementarfeuern-->Elementarfeuern<!--singular-->."
+  },
+  "22732": {
+    "name_dede": "Erheblicher Verjüngungstrank",
+    "icon": "inv_potion_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17632": {
+    "name_dede": "Alchimistenstein",
+    "icon": "inv_misc_orb_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17635": {
+    "name_dede": "Fläschchen der Titanen",
+    "icon": "inv_potion_62",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17634": {
+    "name_dede": "Fläschchen der Versteinerung",
+    "icon": "inv_potion_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17638": {
+    "name_dede": "Fläschchen mit chromatischem Widerstand",
+    "icon": "inv_potion_48",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17636": {
+    "name_dede": "Fläschchen mit destillierter Weisheit",
+    "icon": "inv_potion_97",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17637": {
+    "name_dede": "Fläschchen mit oberster Macht",
+    "icon": "inv_potion_41",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1240965": {
+    "name_dede": "Alchemie",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "<a href=\"/beta/de/spell=3464/alchimie\" target=\"_blank\">Ermöglicht einem Alchimisten das Brauen von erstaunlichen Tränken mit einer maximalen potenziellen Fertigkeit von 225.</a>"
+  },
+  "1240977": {
+    "name_dede": "Alchemie",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "<a href=\"/beta/de/spell=11611/alchimie\" target=\"_blank\">Ermöglicht einem Alchimisten das Brauen von verblüffenden Tränken mit einer maximalen potenziellen Fertigkeit von 300.</a>"
+  },
+  "1240954": {
+    "name_dede": "Alchemie",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "<a href=\"/beta/de/spell=3101/alchimie\" target=\"_blank\">Ermöglicht einem Alchimisten, einfache Tränke mit einer maximalen potenziellen Fertigkeit von 150 zu brauen.</a>"
+  },
+  "1240943": {
+    "name_dede": "Alchemie",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "<a href=\"/beta/de/spell=2259/alchimie\" target=\"_blank\">Ermöglicht einem Alchimisten, einfache Tränke mit einer maximalen potenziellen Fertigkeit von 75 zu brauen. Es werden Kräuter benötigt, die mit der Kräuterkundefertigkeit gefunden wurden.</a>"
+  },
+  "2259": {
+    "name_dede": "Alchimie",
+    "icon": "trade_alchemy",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "Ermöglicht einem Alchimisten, einfache Tränke mit einer maximalen potenziellen Fertigkeit von 75 zu brauen. Es werden Kräuter benötigt, die mit der Kräuterkundefertigkeit gefunden wurden."
+  },
+  "1245250": {
+    "name_dede": "Elixier der schwachen Gewalt",
+    "icon": "inv_potion_77",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1245246": {
+    "name_dede": "Schwaches Arkanelixier",
+    "icon": "inv_potion_106",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250793": {
+    "name_dede": "Elixier der schwachen Willenskraft",
+    "icon": "inv_potion_113",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1230564": {
+    "name_dede": "Manabrunnen",
+    "icon": "spell_arcane_manatap",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 1",
+    "description_dede": "Stellt einen Manabrunnen her."
+  },
+  "1250788": {
+    "name_dede": "Schwaches Magierblutelixier",
+    "icon": "trade_alchemy_dpotion_a12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251741": {
+    "name_dede": "Schwacher Trank des Heilers",
+    "icon": "trade_alchemy_dpotion_d13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251729": {
+    "name_dede": "Schwacher Trank des Zauberschlags",
+    "icon": "trade_alchemy_dpotion_d14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251735": {
+    "name_dede": "Schwacher Trank der Raserei",
+    "icon": "trade_alchemy_dpotion_d12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250779": {
+    "name_dede": "Schwaches Klerikerelixier",
+    "icon": "trade_alchemy_dpotion_a17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1249630": {
+    "name_dede": "Himmelblauer Farbstoff",
+    "icon": "inv_inscription_inkcerulean01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1249633": {
+    "name_dede": "Schwefelsäure",
+    "icon": "trade_alchemy",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250794": {
+    "name_dede": "Elixier der geringen Willenskraft",
+    "icon": "inv_potion_114",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250789": {
+    "name_dede": "Geringes Magierblutelixier",
+    "icon": "inv_potion_126",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251742": {
+    "name_dede": "Geringer Trank des Heilers",
+    "icon": "inv_misc_potionsete",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1244645": {
+    "name_dede": "Geringer verfärbter Heiltrank",
+    "icon": "inv_potion_36",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251730": {
+    "name_dede": "Geringer Trank des Zauberschlags",
+    "icon": "inv_misc_potionsetc",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "426607": {
+    "name_dede": "Elixier der verschmolzenen Reue",
+    "icon": "inv_potion_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251736": {
+    "name_dede": "Geringer Trank der Raserei",
+    "icon": "inv_misc_potionsetf",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250801": {
+    "name_dede": "Elixier der geringen Intelligenz",
+    "icon": "inv_potion_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250780": {
+    "name_dede": "Geringes Klerikerelixier",
+    "icon": "inv_potion_128",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2365": {
+    "name_dede": "Trunk der Sprachen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250795": {
+    "name_dede": "Elixier der Willenskraft",
+    "icon": "inv_potion_115",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250791": {
+    "name_dede": "Geringes Arkanelixier",
+    "icon": "inv_potion_107",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1249631": {
+    "name_dede": "Magentafarbener Farbstoff",
+    "icon": "inv_inscription_inkpurple02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251743": {
+    "name_dede": "Trank des Heilers",
+    "icon": "inv_potiond_6",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1244646": {
+    "name_dede": "Verfärbter Heiltrank",
+    "icon": "inv_potion_37",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250802": {
+    "name_dede": "Elixier der Intelligenz",
+    "icon": "inv_potion_44",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1263005": {
+    "name_dede": "Gärbehälter",
+    "icon": "inv_alchemy_90_cauldron",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 2",
+    "description_dede": "Stellt einen Gärbehälter her."
+  },
+  "1251731": {
+    "name_dede": "Trank des Zauberschlags",
+    "icon": "inv_potiond_2",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251737": {
+    "name_dede": "Trank der Raserei",
+    "icon": "inv_potiond_3",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250781": {
+    "name_dede": "Klerikerelixier",
+    "icon": "inv_potion_139",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250783": {
+    "name_dede": "Elixier der Seelenstärke",
+    "icon": "inv_potion_44",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250798": {
+    "name_dede": "Elixier der Stärke",
+    "icon": "inv_potion_58",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250796": {
+    "name_dede": "Elixier der großen Willenskraft",
+    "icon": "inv_potion_116",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1244647": {
+    "name_dede": "Großer verfärbter Heiltrank",
+    "icon": "inv_potion_38",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250790": {
+    "name_dede": "Großes Magierblutelixier",
+    "icon": "inv_potion_168",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251744": {
+    "name_dede": "Großer Trank des Heilers",
+    "icon": "inv_potionf_3",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251750": {
+    "name_dede": "Trank des desorientierenden Dunstes",
+    "icon": "trade_alchemy_dpotion_c24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251732": {
+    "name_dede": "Großer Trank des Zauberschlags",
+    "icon": "inv_potionf_4",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251738": {
+    "name_dede": "Großer Trank der Raserei",
+    "icon": "inv_potionf_1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250782": {
+    "name_dede": "Großes Klerikerelixier",
+    "icon": "inv_potion_150",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250776": {
+    "name_dede": "Trunk der Raubtierinstinkte",
+    "icon": "trade_alchemy_dpotion_d12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435969": {
+    "name_dede": "Isolierendes Gniodin",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250784": {
+    "name_dede": "Elixier der großen Seelenstärke",
+    "icon": "inv_potion_45",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250775": {
+    "name_dede": "Enthüllender Trunk",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439960": {
+    "name_dede": "Geringes Arkanelixier",
+    "icon": "inv_potion_108",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435971": {
+    "name_dede": "Leicht bestrahlter Verjüngungstrank",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1249632": {
+    "name_dede": "Viridiangrüner Farbstoff",
+    "icon": "inv_inscription_inkgreen01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1244648": {
+    "name_dede": "Überragender verfärbter Heiltrank",
+    "icon": "inv_potion_39",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251745": {
+    "name_dede": "Überragender Trank des Heilers",
+    "icon": "inv_misc_potiona3",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251733": {
+    "name_dede": "Überragender Trank des Zauberschlags",
+    "icon": "inv_misc_potiona2",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251739": {
+    "name_dede": "Überragender Trank der Raserei",
+    "icon": "inv_misc_potiona6",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251751": {
+    "name_dede": "Drachenfeuertrank",
+    "icon": "inv_potion_33",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "448085": {
+    "name_dede": "Fläschchen der ruhelosen Träume",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446226": {
+    "name_dede": "Fläschchen der unvergänglichen Alpträume",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446851": {
+    "name_dede": "Krug des alptraumhaften Mojo",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250778": {
+    "name_dede": "Elixier der Phalanx",
+    "icon": "trade_alchemy_dpotion_a25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1244421": {
+    "name_dede": "Destilliertes Feuerwasser",
+    "icon": "inv_potion_92",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251749": {
+    "name_dede": "Trank des ätzenden Dunstes",
+    "icon": "trade_alchemy_dpotion_c26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1317279": {
+    "name_dede": "Transmutieren: Legionit",
+    "icon": "inv_blacksmithing_70_demonsteelbar",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Transmutiert einen Barren schweres Thorium und einen Teufelskristall in Legionit."
+  },
+  "1250777": {
+    "name_dede": "Elixier der Gerissenheit",
+    "icon": "inv_potion_166",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250787": {
+    "name_dede": "Elixier der Weisen",
+    "icon": "inv_potion_165",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250799": {
+    "name_dede": "Elixier der Wildheit",
+    "icon": "inv_potion_161",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250797": {
+    "name_dede": "Elixier des Wals",
+    "icon": "inv_potion_163",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251748": {
+    "name_dede": "Trank des giftigen Blutes",
+    "icon": "inv_potion_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250786": {
+    "name_dede": "Elixier der Eule",
+    "icon": "inv_potion_164",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251747": {
+    "name_dede": "Erheblicher Trank des Heilers",
+    "icon": "inv_potione_2",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251752": {
+    "name_dede": "Trank des Elementarentzugs",
+    "icon": "inv_alchemy_80_potion02blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251753": {
+    "name_dede": "Trank des Wildtierschlachtens",
+    "icon": "inv_alchemy_80_potion02yellow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250785": {
+    "name_dede": "Elixier der bösartigen Regeneration",
+    "icon": "trade_alchemy_dpotion_a22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1250792": {
+    "name_dede": "Elixier der Naturmacht",
+    "icon": "inv_potion_97",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251734": {
+    "name_dede": "Erheblicher Trank des Zauberschlags",
+    "icon": "inv_potione_4",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1231583": {
+    "name_dede": "Erheblicher verfärbter Heiltrank",
+    "icon": "inv_potion_40",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1251740": {
+    "name_dede": "Erheblicher Trank der Raserei",
+    "icon": "inv_potione_6",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1263078": {
+    "name_dede": "Alchemielaboratorium",
+    "icon": "10prof_portabletable_alchemy01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 3",
+    "description_dede": "Stellt ein Alchimielaboratorium her."
+  },
+  "1250800": {
+    "name_dede": "Elixier des Grizzlybären",
+    "icon": "inv_potion_160",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24266": {
+    "name_dede": "Mojowahnsinn der Gurubashi",
+    "icon": "inv_poison_mindnumbing",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213565": {
+    "name_dede": "Elixier der Eisenflanken",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213571": {
+    "name_dede": "Elixier des Eifers",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213559": {
+    "name_dede": "Elixier des Honigdachses",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213563": {
+    "name_dede": "Elixier des Magierlords",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213548": {
+    "name_dede": "Fläschchen der Alten Götter",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213544": {
+    "name_dede": "Fläschchen des unnachgiebigen Kummers",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213546": {
+    "name_dede": "Fläschchen des uralten Wissens",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213552": {
+    "name_dede": "Fläschchen des Wahnsinns",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1293560": {
+    "name_dede": "Fläschchen der natürlichen Aggression",
+    "icon": "inv_potionc_1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1293559": {
+    "name_dede": "Fläschchen der natürlichen Genauigkeit",
+    "icon": "inv_potionc_5",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1293561": {
+    "name_dede": "Fläschchen der natürlichen Präzision",
+    "icon": "inv_potionc_3",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1293562": {
+    "name_dede": "Fläschchen der natürlichen Schnelligkeit",
+    "icon": "inv_potionc_4",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  }
+}

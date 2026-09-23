@@ -1,0 +1,2432 @@
+{
+  "7421": {
+    "name_enus": "Runed Copper Rod",
+    "icon": "inv_staff_goldfeathered_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "14293": {
+    "name_enus": "Lesser Magic Wand",
+    "icon": "inv_staff_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a lesser magic wand."
+  },
+  "7420": {
+    "name_enus": "Enchant Chest - Inferior Stamina",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor so that it increases the Stamina of the wearer by 2."
+  },
+  "7443": {
+    "name_enus": "Enchant Chest - Minor Intellect",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor so that it increases the Intellect of the wearer by 2."
+  },
+  "7426": {
+    "name_enus": "Enchant Chest - Minor Absorption",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Enchant a piece of chest armor so it has a 2% chance per hit of giving you 10 points of damage absorption. Cannot occur more often than once every 5 sec."
+  },
+  "25124": {
+    "name_enus": "Minor Wizard Oil",
+    "icon": "inv_poison_mindnumbing",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates Minor Wizard Oil."
+  },
+  "7454": {
+    "name_enus": "Enchant Cloak - Minor Resistance",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak so that it increases the resistance to all schools of magic by 2."
+  },
+  "7412": {
+    "name_enus": "Enchanting",
+    "icon": "trade_engraving",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "Allows an enchanter to enchant weapons and armor up to a maximum potential skill of 150."
+  },
+  "7457": {
+    "name_enus": "Enchant Bracer - Minor Stamina",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers so they increase the wearer's Stamina by 3."
+  },
+  "7766": {
+    "name_enus": "Enchant Bracer - Minor Spirit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers so they increase the wearer's Spirit by 3."
+  },
+  "7748": {
+    "name_enus": "Enchant Chest - Lesser Stamina",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor so that it increases the Stamina of the wearer by 3."
+  },
+  "14807": {
+    "name_enus": "Greater Magic Wand",
+    "icon": "inv_staff_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a greater magic wand."
+  },
+  "7771": {
+    "name_enus": "Enchant Cloak - Minor Protection",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak to increase armor by 0."
+  },
+  "7779": {
+    "name_enus": "Enchant Bracer - Minor Agility",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers so they increase the wearer's Agility by 3."
+  },
+  "7782": {
+    "name_enus": "Enchant Bracer - Minor Strength",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers so they increase the wearer's Strength by 3."
+  },
+  "7776": {
+    "name_enus": "Enchant Chest - Lesser Intellect",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor so that it increases the Intellect of the wearer by 3."
+  },
+  "7786": {
+    "name_enus": "Enchant Weapon - Minor Beastslayer",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Melee Weapon to do 2 additional points of damage to Beasts."
+  },
+  "7788": {
+    "name_enus": "Enchant Weapon - Minor Striking",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Melee Weapon to do 1 additional point of damage."
+  },
+  "7795": {
+    "name_enus": "Runed Silver Rod",
+    "icon": "inv_staff_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7793": {
+    "name_enus": "Enchant 2H Weapon - Lesser Intellect",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Two-Handed Melee Weapon to add 5 to Intellect."
+  },
+  "7745": {
+    "name_enus": "Enchant 2H Weapon - Minor Impact",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Two-Handed Melee Weapon to do 4 additional points of damage."
+  },
+  "13378": {
+    "name_enus": "Enchant Shield - Minor Stamina",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a shield so that it increases the Stamina of the bearer by 3."
+  },
+  "13380": {
+    "name_enus": "Enchant 2H Weapon - Lesser Spirit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Two-Handed Melee Weapon to add 5 to Spirit."
+  },
+  "13419": {
+    "name_enus": "Enchant Cloak - Minor Agility",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak to grant +3 Agility."
+  },
+  "13421": {
+    "name_enus": "Enchant Cloak - Lesser Protection",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak to increase armor by 0."
+  },
+  "13464": {
+    "name_enus": "Enchant Shield - Lesser Protection",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a shield to increase its armor by 30."
+  },
+  "7859": {
+    "name_enus": "Enchant Bracer - Lesser Spirit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a bracer so it increases the wearer's Spirit by 4."
+  },
+  "7857": {
+    "name_enus": "Enchant Chest - Stamina",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor to increase the Stamina of the wearer by 4."
+  },
+  "7413": {
+    "name_enus": "Enchanting",
+    "icon": "trade_engraving",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "Allows an enchanter to put masterful enchantments on weapons and armor up to a maximum potential skill of 225."
+  },
+  "7867": {
+    "name_enus": "Enchant Boots - Minor Agility",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a pair of boots so they increase the wearer's Agility by 3."
+  },
+  "7863": {
+    "name_enus": "Enchant Boots - Minor Stamina",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a pair of boots so they increase the wearer's Stamina by 3."
+  },
+  "7861": {
+    "name_enus": "Enchant Cloak - Lesser Fire Resistance",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak so that it increases resistance to fire by 10."
+  },
+  "13501": {
+    "name_enus": "Enchant Bracer - Lesser Stamina",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a bracer so it increases the wearer's Stamina by 4."
+  },
+  "13485": {
+    "name_enus": "Enchant Shield - Lesser Spirit",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a shield to give 3 spirit."
+  },
+  "13522": {
+    "name_enus": "Enchant Cloak - Lesser Shadow Resistance",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak so that it increases resistance to shadow by 10."
+  },
+  "13536": {
+    "name_enus": "Enchant Bracer - Lesser Strength",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a bracer so it increases the wearer's Strength by 4."
+  },
+  "13538": {
+    "name_enus": "Enchant Chest - Lesser Absorption",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Enchant a piece of chest armor so it has a 5% chance per hit of giving you 25 points of damage absorption. Cannot occur more often than once every 5 sec."
+  },
+  "13503": {
+    "name_enus": "Enchant Weapon - Lesser Striking",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Melee Weapon to do 2 additional points of damage."
+  },
+  "13529": {
+    "name_enus": "Enchant 2H Weapon - Lesser Impact",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Two-handed Melee Weapon to do 5 additional points of damage."
+  },
+  "13607": {
+    "name_enus": "Enchant Chest - Intellect",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor to increase the Intellect of the wearer by 4."
+  },
+  "13620": {
+    "name_enus": "Enchant Gloves - Fishing",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to grant +2 fishing skill."
+  },
+  "13617": {
+    "name_enus": "Enchant Gloves - Herbalism",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to grant +2 herbalism skill."
+  },
+  "13612": {
+    "name_enus": "Enchant Gloves - Mining",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to grant +2 mining skill."
+  },
+  "25125": {
+    "name_enus": "Minor Mana Oil",
+    "icon": "inv_potion_98",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates Minor Mana Oil."
+  },
+  "13628": {
+    "name_enus": "Runed Golden Rod",
+    "icon": "inv_staff_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "13622": {
+    "name_enus": "Enchant Bracer - Lesser Intellect",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a bracer so it increases the wearer's Intellect by 5."
+  },
+  "13626": {
+    "name_enus": "Enchant Chest - Minor Stats",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor to grant +2 to all stats."
+  },
+  "14809": {
+    "name_enus": "Lesser Mystic Wand",
+    "icon": "inv_staff_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a lesser mystic wand."
+  },
+  "13635": {
+    "name_enus": "Enchant Cloak - Defense",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak to give 60 additional armor."
+  },
+  "13631": {
+    "name_enus": "Enchant Shield - Lesser Stamina",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a shield to give 5 Stamina."
+  },
+  "13637": {
+    "name_enus": "Enchant Boots - Lesser Agility",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant boots to give +4 Agility."
+  },
+  "13640": {
+    "name_enus": "Enchant Chest - Greater Stamina",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor to give +6 Stamina."
+  },
+  "13642": {
+    "name_enus": "Enchant Bracer - Spirit",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +5 Spirit."
+  },
+  "13644": {
+    "name_enus": "Enchant Boots - Lesser Stamina",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant boots to give +4 Stamina."
+  },
+  "13646": {
+    "name_enus": "Enchant Bracer - Lesser Deflection",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +5 Defense."
+  },
+  "13648": {
+    "name_enus": "Enchant Bracer - Stamina",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +5 Stamina."
+  },
+  "14810": {
+    "name_enus": "Greater Mystic Wand",
+    "icon": "inv_wand_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a greater mystic wand."
+  },
+  "439134": {
+    "name_enus": "Greater Mystic Wand",
+    "icon": "inv_wand_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a greater mystic wand."
+  },
+  "13657": {
+    "name_enus": "Enchant Cloak - Fire Resistance",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak to give 12 Fire Resistance."
+  },
+  "13653": {
+    "name_enus": "Enchant Weapon - Lesser Beastslayer",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Melee Weapon to do 6 additional points of damage to Beasts."
+  },
+  "13655": {
+    "name_enus": "Enchant Weapon - Lesser Elemental Slayer",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Melee Weapon to do 6 additional damage against Elementals."
+  },
+  "13661": {
+    "name_enus": "Enchant Bracer - Strength",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +5 Strength."
+  },
+  "13659": {
+    "name_enus": "Enchant Shield - Spirit",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a shield to give 5 Spirit."
+  },
+  "13663": {
+    "name_enus": "Enchant Chest - Greater Intellect",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor to give +6 Intellect."
+  },
+  "13687": {
+    "name_enus": "Enchant Boots - Lesser Spirit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant boots to give +4 Spirit."
+  },
+  "21931": {
+    "name_enus": "Enchant Weapon - Winter's Might",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a weapon to grant up to 15 additional frost damage when casting frost spells."
+  },
+  "13689": {
+    "name_enus": "Enchant Shield - Lesser Block",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a shield to give +2% chance to block."
+  },
+  "13693": {
+    "name_enus": "Enchant Weapon - Striking",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Melee Weapon to do 3 additional points of damage."
+  },
+  "13920": {
+    "name_enus": "Enchanting",
+    "icon": "trade_engraving",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "Allows an enchanter to put masterful enchantments on weapons and armor up to a maximum potential skill of 300."
+  },
+  "25126": {
+    "name_enus": "Lesser Wizard Oil",
+    "icon": "inv_potion_103",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates Lesser Wizard Oil."
+  },
+  "13702": {
+    "name_enus": "Runed Truesilver Rod",
+    "icon": "inv_staff_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "13695": {
+    "name_enus": "Enchant 2H Weapon - Impact",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Two-handed Melee Weapon to do 6 additional points of damage."
+  },
+  "13700": {
+    "name_enus": "Enchant Chest - Lesser Stats",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor to grant +2 to all stats."
+  },
+  "13698": {
+    "name_enus": "Enchant Gloves - Skinning",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to grant +5 skinning skill."
+  },
+  "13746": {
+    "name_enus": "Enchant Cloak - Greater Defense",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak to give 60 additional armor."
+  },
+  "13794": {
+    "name_enus": "Enchant Cloak - Resistance",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak to give 3 to all resistances."
+  },
+  "13822": {
+    "name_enus": "Enchant Bracer - Intellect",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +5 Intellect."
+  },
+  "13815": {
+    "name_enus": "Enchant Gloves - Agility",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to grant +7 Agility."
+  },
+  "13817": {
+    "name_enus": "Enchant Shield - Stamina",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a shield to give +7 Stamina."
+  },
+  "13836": {
+    "name_enus": "Enchant Boots - Stamina",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant boots to give +5 Stamina."
+  },
+  "13841": {
+    "name_enus": "Enchant Gloves - Advanced Mining",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to grant +5 mining skill."
+  },
+  "13846": {
+    "name_enus": "Enchant Bracer - Greater Spirit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +7 Spirit."
+  },
+  "13858": {
+    "name_enus": "Enchant Chest - Superior Stamina",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor to grant +8 Stamina."
+  },
+  "13890": {
+    "name_enus": "Enchant Boots - Minor Speed",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant boots to give a slight movement speed increase."
+  },
+  "13882": {
+    "name_enus": "Enchant Cloak - Lesser Agility",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak to give 3 Agility."
+  },
+  "13868": {
+    "name_enus": "Enchant Gloves - Advanced Herbalism",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to grant +5 herbalism skill."
+  },
+  "13887": {
+    "name_enus": "Enchant Gloves - Strength",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to grant +7 Strength."
+  },
+  "13917": {
+    "name_enus": "Enchant Chest - Superior Intellect",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor to give +8 Intellect."
+  },
+  "13905": {
+    "name_enus": "Enchant Shield - Greater Spirit",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a shield to give +7 Spirit."
+  },
+  "13915": {
+    "name_enus": "Enchant Weapon - Demonslaying",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a melee weapon to have a chance of stunning and doing heavy damage to demons."
+  },
+  "13935": {
+    "name_enus": "Enchant Boots - Agility",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant boots to give +5 Agility."
+  },
+  "13931": {
+    "name_enus": "Enchant Bracer - Deflection",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +7 Defense."
+  },
+  "13933": {
+    "name_enus": "Enchant Shield - Frost Resistance",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a shield to give +8 Frost Resistance."
+  },
+  "13937": {
+    "name_enus": "Enchant 2H Weapon - Greater Impact",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a two-handed melee weapon to do +7 damage."
+  },
+  "13939": {
+    "name_enus": "Enchant Bracer - Greater Strength",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +7 Strength."
+  },
+  "13945": {
+    "name_enus": "Enchant Bracer - Greater Stamina",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +7 Stamina."
+  },
+  "13941": {
+    "name_enus": "Enchant Chest - Stats",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor to grant +3 to all stats."
+  },
+  "13943": {
+    "name_enus": "Enchant Weapon - Greater Striking",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Melee Weapon to do 4 additional points of damage."
+  },
+  "17181": {
+    "name_enus": "Enchanted Leather",
+    "icon": "inv_misc_rune_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17180": {
+    "name_enus": "Enchanted Thorium",
+    "icon": "inv_ingot_eternium",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "25127": {
+    "name_enus": "Lesser Mana Oil",
+    "icon": "inv_potion_99",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates Lesser Mana Oil."
+  },
+  "13948": {
+    "name_enus": "Enchant Gloves - Minor Haste",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to grant a +1% attack and casting speed bonus."
+  },
+  "13947": {
+    "name_enus": "Enchant Gloves - Riding Skill",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to grant a minor movement bonus while mounted."
+  },
+  "20008": {
+    "name_enus": "Enchant Bracer - Greater Intellect",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +7 Intellect."
+  },
+  "20020": {
+    "name_enus": "Enchant Boots - Greater Stamina",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant boots to give +7 Stamina."
+  },
+  "20014": {
+    "name_enus": "Enchant Cloak - Greater Resistance",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak to give 5 to all resistances."
+  },
+  "20017": {
+    "name_enus": "Enchant Shield - Greater Stamina",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a shield to give +9 Stamina."
+  },
+  "13898": {
+    "name_enus": "Enchant Weapon - Fiery Weapon",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a melee weapon to often strike for 40 additional fire damage."
+  },
+  "15596": {
+    "name_enus": "Smoking Heart of the Mountain",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "20009": {
+    "name_enus": "Enchant Bracer - Superior Spirit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +9 Spirit."
+  },
+  "20012": {
+    "name_enus": "Enchant Gloves - Greater Agility",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to grant +10 Agility."
+  },
+  "25128": {
+    "name_enus": "Wizard Oil",
+    "icon": "inv_potion_104",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates Wizard Oil."
+  },
+  "20024": {
+    "name_enus": "Enchant Boots - Spirit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant boots to give +5 Spirit."
+  },
+  "20026": {
+    "name_enus": "Enchant Chest - Major Stamina",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor to grant +10 Stamina."
+  },
+  "20016": {
+    "name_enus": "Enchant Shield - Superior Spirit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a shield to give +9 Spirit."
+  },
+  "20015": {
+    "name_enus": "Enchant Cloak - Superior Defense",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak to give 70 additional armor."
+  },
+  "20029": {
+    "name_enus": "Enchant Weapon - Icy Chill",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a melee weapon to often chill the target reducing their movement and attack speed."
+  },
+  "20051": {
+    "name_enus": "Runed Arcanite Rod",
+    "icon": "inv_wand_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "27837": {
+    "name_enus": "Enchant 2H Weapon - Agility",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a two-handed melee weapon to grant +25 Agility."
+  },
+  "23801": {
+    "name_enus": "Enchant Bracer - Mana Regeneration",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to restore 4 mana every 5 seconds."
+  },
+  "20028": {
+    "name_enus": "Enchant Chest - Major Intellect",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor to give +10 Intellect."
+  },
+  "23800": {
+    "name_enus": "Enchant Weapon - Agility",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a melee weapon to grant +15 Agility."
+  },
+  "23799": {
+    "name_enus": "Enchant Weapon - Strength",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a melee weapon to grant +15 strength."
+  },
+  "20030": {
+    "name_enus": "Enchant 2H Weapon - Superior Impact",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a two-handed melee weapon to do +9 damage."
+  },
+  "20023": {
+    "name_enus": "Enchant Boots - Greater Agility",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant boots to give +7 Agility."
+  },
+  "20010": {
+    "name_enus": "Enchant Bracer - Superior Strength",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +9 Strength."
+  },
+  "20013": {
+    "name_enus": "Enchant Gloves - Greater Strength",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to grant +10 Strength."
+  },
+  "20033": {
+    "name_enus": "Enchant Weapon - Unholy Weapon",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a melee weapon to often inflict a curse on the target reducing their melee damage."
+  },
+  "25130": {
+    "name_enus": "Brilliant Mana Oil",
+    "icon": "inv_potion_100",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates Brilliant Mana Oil."
+  },
+  "25129": {
+    "name_enus": "Brilliant Wizard Oil",
+    "icon": "inv_potion_105",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates Brilliant Wizard Oil."
+  },
+  "20036": {
+    "name_enus": "Enchant 2H Weapon - Major Intellect",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Two-Handed Melee Weapon to add 9 to intellect."
+  },
+  "20035": {
+    "name_enus": "Enchant 2H Weapon - Major Spirit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Two-Handed Melee Weapon to add 9 to Spirit."
+  },
+  "23802": {
+    "name_enus": "Enchant Bracer - Healing Power",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to increase the effects of your healing spells by up to 24 and the effects of your damage spells by up to 8."
+  },
+  "20011": {
+    "name_enus": "Enchant Bracer - Superior Stamina",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +9 Stamina."
+  },
+  "20025": {
+    "name_enus": "Enchant Chest - Greater Stats",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor to grant +4 to all stats."
+  },
+  "25086": {
+    "name_enus": "Enchant Cloak - Dodge",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak to give a 1% chance to dodge."
+  },
+  "25081": {
+    "name_enus": "Enchant Cloak - Greater Fire Resistance",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak to give 15 fire resistance."
+  },
+  "25082": {
+    "name_enus": "Enchant Cloak - Greater Nature Resistance",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak to give 15 nature resistance."
+  },
+  "25083": {
+    "name_enus": "Enchant Cloak - Stealth",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak to give an increase to your stealth as if you were 1 level higher."
+  },
+  "25084": {
+    "name_enus": "Enchant Cloak - Subtlety",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a cloak to decrease threat caused by the wearer by 2%."
+  },
+  "25078": {
+    "name_enus": "Enchant Gloves - Fire Power",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to increase fire damage by up to 20."
+  },
+  "25074": {
+    "name_enus": "Enchant Gloves - Frost Power",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to increase frost damage by up to 20."
+  },
+  "25079": {
+    "name_enus": "Enchant Gloves - Healing Power",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to increase the caster's healing spells by up to 35 and damage spells by up to 12."
+  },
+  "25073": {
+    "name_enus": "Enchant Gloves - Shadow Power",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to increase shadow damage by up to 20."
+  },
+  "25080": {
+    "name_enus": "Enchant Gloves - Superior Agility",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to increase agility by 15."
+  },
+  "25072": {
+    "name_enus": "Enchant Gloves - Threat",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to increase threat from all attacks and spells by 2%."
+  },
+  "20034": {
+    "name_enus": "Enchant Weapon - Crusader",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a melee weapon so that often when attacking in melee it heals for 100 and increases Strength by 100 for 15 sec."
+  },
+  "22750": {
+    "name_enus": "Enchant Weapon - Healing Power",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Melee Weapon to add up to 55 points of healing to healing spells and up to 19 points of damage to damage spells."
+  },
+  "20032": {
+    "name_enus": "Enchant Weapon - Lifestealing",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a melee weapon to often steal life from the enemy and give it to the wielder."
+  },
+  "23804": {
+    "name_enus": "Enchant Weapon - Mighty Intellect",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a melee weapon to grant +22 Intellect."
+  },
+  "23803": {
+    "name_enus": "Enchant Weapon - Mighty Spirit",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a melee weapon to grant +22 Spirit."
+  },
+  "22749": {
+    "name_enus": "Enchant Weapon - Spell Power",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Melee Weapon to add up to 30 damage to spells."
+  },
+  "20031": {
+    "name_enus": "Enchant Weapon - Superior Striking",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Melee Weapon to do 5 additional points of damage."
+  },
+  "7411": {
+    "name_enus": "Enchanting",
+    "icon": "trade_engraving",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "Allows an enchanter to enchant basic items up to a maximum potential skill of 75.  Requires Dusts and Essences found by disenchanting magic items."
+  },
+  "1240946": {
+    "name_enus": "Enchanting",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "<a href=\"/beta/spell=7411/enchanting\" target=\"_blank\">Allows an enchanter to enchant basic items up to a maximum potential skill of 75.  Requires Dusts and Essences found by disenchanting magic items.</a>"
+  },
+  "1240981": {
+    "name_enus": "Enchanting",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "<a href=\"/beta/spell=13920/enchanting\" target=\"_blank\">Allows an enchanter to put masterful enchantments on weapons and armor up to a maximum potential skill of 300.</a>"
+  },
+  "1240968": {
+    "name_enus": "Enchanting",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "<a href=\"/beta/spell=7413/enchanting\" target=\"_blank\">Allows an enchanter to put masterful enchantments on weapons and armor up to a maximum potential skill of 225.</a>"
+  },
+  "1240957": {
+    "name_enus": "Enchanting",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "<a href=\"/beta/spell=7412/enchanting\" target=\"_blank\">Allows an enchanter to enchant weapons and armor up to a maximum potential skill of 150.</a>"
+  },
+  "1245320": {
+    "name_enus": "Dust to Motes",
+    "icon": "inv_elemental_mote_mana",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Divides 1 pile of Strange Dust into 3 Motes of Magic."
+  },
+  "1245321": {
+    "name_enus": "Novice's Practice Wand",
+    "icon": "inv_weapon_shortblade_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a lesser magic wand."
+  },
+  "1230643": {
+    "name_enus": "Enchanted Lute",
+    "icon": "inv_10_enchanting2_magicswirl_bronze",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 1",
+    "description_enus": "Craft an Enchanted Lute."
+  },
+  "7418": {
+    "name_enus": "Enchant Bracer - Inferior Stamina",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to increase the Stamina of the wearer by 2."
+  },
+  "13262": {
+    "name_enus": "Disenchant",
+    "icon": "spell_holy_removecurse",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Extracts the magical element(s) from good quality (Green) or better weapons or armor.  The targeted item will be DESTROYED and will not be retrievable."
+  },
+  "7428": {
+    "name_enus": "Enchant Bracer - Minor Deflect",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers so that the defense skill of the wearer is increased by 3."
+  },
+  "430409": {
+    "name_enus": "Blackfathom Mana Oil",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates Blackfathom Mana Oil."
+  },
+  "1248458": {
+    "name_enus": "Enchant Bracer - Minor Intellect",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +3 Intellect."
+  },
+  "448624": {
+    "name_enus": "Scroll of Spatial Mending",
+    "icon": "inv_scroll_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a Scroll of Spatial Mending."
+  },
+  "1248459": {
+    "name_enus": "Enchant Bracer - Minor Healing Power",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers so they increase the wearer's healing spells by up to 8 and damage spells by up to 3."
+  },
+  "1263056": {
+    "name_enus": "Arcane Salvager",
+    "icon": "inv_eng_bottledelements",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 2",
+    "description_enus": "Craft an Arcane Salvager."
+  },
+  "1248703": {
+    "name_enus": "Glimmering Staff",
+    "icon": "inv_staff_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a glimmering staff."
+  },
+  "1248752": {
+    "name_enus": "Mystic Mushroom",
+    "icon": "inv_mushroom_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a mystic mushroom."
+  },
+  "1248745": {
+    "name_enus": "Orb of Mystic Insight",
+    "icon": "inv_misc_orb_blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates an orb of mystic insight."
+  },
+  "1248748": {
+    "name_enus": "Orb of Souls",
+    "icon": "inv_misc_orb_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates an orb of souls."
+  },
+  "1248755": {
+    "name_enus": "Polished Driftwood Icon",
+    "icon": "spell_shaman_totemrecall",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a polished driftwood icon."
+  },
+  "1248739": {
+    "name_enus": "Soulstaff",
+    "icon": "inv_staff_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a soulstaff."
+  },
+  "1248754": {
+    "name_enus": "Tenets of the Silver Hand",
+    "icon": "inv_misc_book_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a copy of the Tenets of the Silver Hand."
+  },
+  "1248757": {
+    "name_enus": "Enchant Weapon - Insight",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Melee Weapon to have a chance to grant Insight when you cast a spell, increasing Spirit by 100% for 10 sec."
+  },
+  "1248760": {
+    "name_enus": "Enchant Weapon - Recovery",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Melee Weapon to trigger Recovery when you are Parried or Dodged, healing you for 5% of your maximum health. Cannot occur more often than once every 10 sec."
+  },
+  "1248805": {
+    "name_enus": "Enchant Weapon - Revelation",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Melee Weapon to have a chance to trigger Revelation when a non-periodic spell fails to critically strike. Revelation grants 100% increased critical strike chance to the next spell cast. Revelation's chance to trigger is diminished as your critical strike chance increases."
+  },
+  "1248460": {
+    "name_enus": "Enchant Bracer - Lesser Agility",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a bracer so it increases the wearer's Agility by 4."
+  },
+  "435481": {
+    "name_enus": "Enchant Weapon - Dismantle",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Weapon to cause all spells and attacks to sometimes deal 75 additional damage to mechanical creatures."
+  },
+  "435903": {
+    "name_enus": "Enchant Chest - Retricutioner",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Teaches you how to permanently enchant a piece of chest armor to reflect 9 damage back to the attacker when the bearer is struck in Melee."
+  },
+  "1248461": {
+    "name_enus": "Twisted Nether Wand",
+    "icon": "inv_wand_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a twisted nether wand."
+  },
+  "439156": {
+    "name_enus": "Sigil of Innovation",
+    "icon": "inv_sigil_mimiron",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1249064": {
+    "name_enus": "Dreamstaff",
+    "icon": "inv_staff_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a dreamstaff."
+  },
+  "1249006": {
+    "name_enus": "Libram of Invocation",
+    "icon": "inv_relics_libramofhope",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a libram of invocation."
+  },
+  "1249061": {
+    "name_enus": "Radiant Staff",
+    "icon": "inv_staff_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a radiant staff."
+  },
+  "1248974": {
+    "name_enus": "Talons of Wrath",
+    "icon": "spell_nature_natureswrath",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates talons of wrath."
+  },
+  "1249015": {
+    "name_enus": "Totem of Ancestral Protection",
+    "icon": "inv_relics_totemofrage",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates an ancestral totem of torment."
+  },
+  "1249069": {
+    "name_enus": "Truesilver Conduit",
+    "icon": "inv_rod_enchantedadamantite",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a truesilver conduit."
+  },
+  "1249070": {
+    "name_enus": "Twisting Essence Jar",
+    "icon": "inv_10_misc_dragonorb_color1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a twisting essence jar."
+  },
+  "1248497": {
+    "name_enus": "Enchant Bracer - Agility",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +5 Agility."
+  },
+  "1248498": {
+    "name_enus": "Enchant Bracer - Lesser Healing Power",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to increase healing by up to 16 and damage by up to 6."
+  },
+  "1249071": {
+    "name_enus": "Enchant Chest - Absorption",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Enchant a piece of chest armor so it has a 25% chance per hit of giving you 50 points of damage absorption. Cannot occur more often than once every 5 sec."
+  },
+  "1249059": {
+    "name_enus": "Enchant Necklace - Agility",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a necklace to increase Agility by 5."
+  },
+  "1249060": {
+    "name_enus": "Enchant Necklace - Deflection",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a necklace to increase defense skill by 5."
+  },
+  "1249058": {
+    "name_enus": "Enchant Necklace - Healing Power",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a necklace to increase healing by up to 11 and spell damage by up to 4."
+  },
+  "1249057": {
+    "name_enus": "Enchant Necklace - Spell Power",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a necklace to increase spell damage and healing by up to 6."
+  },
+  "1249019": {
+    "name_enus": "Enchant Necklace - Strength",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a necklace to increase Strength by 5."
+  },
+  "1248510": {
+    "name_enus": "Enchant 2H Weapon - Lesser Agility",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Two-handed Melee Weapon to grant +15 Agility."
+  },
+  "1248509": {
+    "name_enus": "Dreambough Wand",
+    "icon": "inv_wand_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a dreambough wand."
+  },
+  "1248511": {
+    "name_enus": "Enchant 2H Weapon - Lesser Strength",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Two-handed Melee Weapon to grant +15 Strength."
+  },
+  "446243": {
+    "name_enus": "Sigil of Living Dreams",
+    "icon": "inv_sigil_freya",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1248500": {
+    "name_enus": "Enchant Bracer - Greater Agility",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +7 Agility."
+  },
+  "1248505": {
+    "name_enus": "Lesser Eternal Wand",
+    "icon": "inv_wand_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a lesser eternal wand."
+  },
+  "1248528": {
+    "name_enus": "Enchant Gloves - Advanced Skinning",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to grant +10 skinning skill."
+  },
+  "1294054": {
+    "name_enus": "Enchant Gloves - Lotus Claw",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a pair of gloves to give a small chance to acquire Death Lotus when gathering any herb in Hyjal."
+  },
+  "1248515": {
+    "name_enus": "Greater Eternal Wand",
+    "icon": "inv_wand_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a greater eternal wand."
+  },
+  "463869": {
+    "name_enus": "Conductive Shield Coating",
+    "icon": "inv_potion_100",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates Conductive Shield Coating."
+  },
+  "1249114": {
+    "name_enus": "Dormant Heart of the Mountain",
+    "icon": "inv_misc_gem_diamond_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1249107": {
+    "name_enus": "Frozen Heart of the Mountain",
+    "icon": "inv_misc_gem_sapphire_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1249112": {
+    "name_enus": "Molten Heart of the Mountain",
+    "icon": "inv_misc_gem_ruby_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1248668": {
+    "name_enus": "Enchant 2H Weapon - Strength",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a two-handed melee weapon to grant +25 Strength."
+  },
+  "1263082": {
+    "name_enus": "Arcane Forge",
+    "icon": "inv_enchanting_modifiedcraftingreagent_indigo",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 3",
+    "description_enus": "Craft an Arcane Forge."
+  },
+  "1231139": {
+    "name_enus": "Enchant 2H Weapon - Grand Arcanist",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a two-handed melee weapon so that often when striking with a spell it restores 400 mana and increases Spell Power by 140 for 20 sec."
+  },
+  "1232172": {
+    "name_enus": "Enchant 2H Weapon - Grand Inquisitor",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a two-handed melee weapon so that often when attacking in melee it heals for 400 and increases Strength by 200 for 20 sec."
+  },
+  "1231128": {
+    "name_enus": "Enchant Weapon - Grand Crusader",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a melee weapon so that often when attacking in melee it heals for 400 and increases Strength by 120 for 20 sec."
+  },
+  "1231164": {
+    "name_enus": "Enchant Weapon - Grand Sorcerer",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a melee weapon so that often when striking with a spell it restores 400 mana and increases Spell Power by 70 for 20 sec."
+  },
+  "463866": {
+    "name_enus": "Sigil of Flowing Waters",
+    "icon": "inv_sigil_hodir",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306524": {
+    "name_enus": "Idol of Swiftness",
+    "icon": "ability_druid_nourish",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306525": {
+    "name_enus": "Idol of the Ursine Twins",
+    "icon": "inv_misc_idol_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306522": {
+    "name_enus": "Libram of Infusion",
+    "icon": "inv_misc_book_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306521": {
+    "name_enus": "Steadfast Libram",
+    "icon": "inv_relics_libramofgrace",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306520": {
+    "name_enus": "Torch of Light",
+    "icon": "inv_torch_lit",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306523": {
+    "name_enus": "Totem of Urgency",
+    "icon": "inv_ability_totemicshaman_surgingtotem",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "471400": {
+    "name_enus": "Magnificent Trollshine",
+    "icon": "inv_potion_96",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates Magnificent Trollshine."
+  },
+  "1248599": {
+    "name_enus": "Enchant Bracer - Superior Agility",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +9 Agility."
+  },
+  "1248650": {
+    "name_enus": "Brilliant Wand",
+    "icon": "inv_wand_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a brilliant wand."
+  },
+  "1249128": {
+    "name_enus": "Idol of the Dream",
+    "icon": "inv_relics_idolofferocity",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates an idol of the dream."
+  },
+  "1249152": {
+    "name_enus": "Libram of Holy Alacrity",
+    "icon": "inv_relics_libramofhope",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a libram of holy alacrity."
+  },
+  "1249154": {
+    "name_enus": "Totem of Thunder",
+    "icon": "inv_relics_totemofrebirth",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates a totem of thunder."
+  },
+  "1248636": {
+    "name_enus": "Enchant 2H Weapon - Mighty Healing Power",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a two-handed melee weapon to increase healing by up to 100 and damage by up to 34."
+  },
+  "1248607": {
+    "name_enus": "Enchant 2H Weapon - Mighty Spell Power",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a two-handed melee weapon to increase damage and healing by up to 55."
+  },
+  "1219580": {
+    "name_enus": "Enchant 2H Weapon - Spellblasting",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a 2H Weapon to add 65 Spell Power."
+  },
+  "1217203": {
+    "name_enus": "Enchant Bracer - Agility",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to increase Agility by 9."
+  },
+  "1220624": {
+    "name_enus": "Enchant Bracer - Greater Spellpower",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant Bracers to add 16 to spell power."
+  },
+  "1217189": {
+    "name_enus": "Enchant Bracer - Spell Power",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to add up to 12 damage to spells."
+  },
+  "1248665": {
+    "name_enus": "Enchant Bracer - Superior Deflection",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +9 defense skill."
+  },
+  "1248661": {
+    "name_enus": "Enchant Bracer - Superior Intellect",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant bracers to give +9 Intellect."
+  },
+  "1213616": {
+    "name_enus": "Enchant Chest - Living Stats",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a piece of chest armor to increase all stats by 4, and Nature Resistance by 15."
+  },
+  "1219587": {
+    "name_enus": "Enchant Cloak - Agility",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Cloak to add 5 to agility."
+  },
+  "1213626": {
+    "name_enus": "Enchant Gloves - Arcane Power",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to increase arcane damage by up to 20."
+  },
+  "1213622": {
+    "name_enus": "Enchant Gloves - Holy Power",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to increase holy damage by up to 20."
+  },
+  "1248645": {
+    "name_enus": "Enchant Gloves - Natural Power",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to increase nature damage by up to 20."
+  },
+  "1248640": {
+    "name_enus": "Enchant Gloves - Superior Strength",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant gloves to increase Strength by 15."
+  },
+  "1219578": {
+    "name_enus": "Enchant Off-Hand - Excellent Spirit",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant an Off-Hand to add 12 to spirit."
+  },
+  "1219577": {
+    "name_enus": "Enchant Off-Hand - Superior Intellect",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant an Off-Hand to add 9 to intellect."
+  },
+  "1219579": {
+    "name_enus": "Enchant Off-Hand - Wisdom",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant an Off-Hand to add 6 to intellect and 5 to spirit."
+  },
+  "1220623": {
+    "name_enus": "Enchant Shield - Critical Strike",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Shield to add 1% critical strike chance."
+  },
+  "1219581": {
+    "name_enus": "Enchant Shield - Excellent Stamina",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Shield to add 12 to stamina."
+  },
+  "463871": {
+    "name_enus": "Enchant Shield - Law of Nature",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Permanently enchant a Shield to add up to 30 damage to spells and up to 55 points of healing to healing spells."
+  },
+  "1213635": {
+    "name_enus": "Enchanted Mushroom",
+    "icon": "creature_sporemushroom",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213628": {
+    "name_enus": "Enchanted Prayer Tome",
+    "icon": "inv_relics_libramoftruth",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213610": {
+    "name_enus": "Enchanted Repellent",
+    "icon": "inv_potion_101",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Creates Enchanted Repellent."
+  },
+  "1213600": {
+    "name_enus": "Enchanted Stopwatch",
+    "icon": "inv_misc_pocketwatch_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213633": {
+    "name_enus": "Enchanted Totem",
+    "icon": "inv_relics_totemoflife",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1216022": {
+    "name_enus": "Idol of Feline Ferocity",
+    "icon": "inv_relics_idolofferocity",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1216020": {
+    "name_enus": "Idol of Sidereal Wrath",
+    "icon": "inv_relics_idolofrejuvenation",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1216024": {
+    "name_enus": "Idol of Ursin Power",
+    "icon": "inv_relics_idolofferocity",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1216005": {
+    "name_enus": "Libram of Righteousness",
+    "icon": "inv_relics_libramofhope",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1216010": {
+    "name_enus": "Libram of Sanctity",
+    "icon": "inv_relics_libramofgrace",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1216007": {
+    "name_enus": "Libram of the Exorcist",
+    "icon": "inv_relics_libramoftruth",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213598": {
+    "name_enus": "Lodestone of Retaliation",
+    "icon": "inv_stone_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213603": {
+    "name_enus": "Ruby-Encrusted Broach",
+    "icon": "inv_jewelry_necklace_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213607": {
+    "name_enus": "Scroll: Wrath of the Swarm",
+    "icon": "inv_scroll_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213593": {
+    "name_enus": "Speedstone",
+    "icon": "inv_pet_scorchedstone",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213595": {
+    "name_enus": "Tear of the Dreamer",
+    "icon": "inv_elemental_crystal_life",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1216018": {
+    "name_enus": "Totem of Flowing Magma",
+    "icon": "inv_relics_totemofrage",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1216014": {
+    "name_enus": "Totem of Pyroclastic Thunder",
+    "icon": "inv_relics_totemofrebirth",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1216016": {
+    "name_enus": "Totem of Thunderous Strikes",
+    "icon": "inv_relics_totemofrage",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  }
+}

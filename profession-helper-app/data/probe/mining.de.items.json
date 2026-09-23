@@ -1,0 +1,612 @@
+{
+  "2771": {
+    "name_dede": "Zinnerz",
+    "quality": 1,
+    "icon": "inv_ore_tin_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 290,
+      "itemSquishEraId": 0,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3576": {
+    "name_dede": "Zinnbarren",
+    "quality": 1,
+    "icon": "inv_ingot_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 248,
+      "itemSquishEraId": 0,
+      "sellprice": 35
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2840": {
+    "name_dede": "Kupferbarren",
+    "quality": 1,
+    "icon": "inv_ingot_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 309,
+      "itemSquishEraId": 0,
+      "sellprice": 10
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2841": {
+    "name_dede": "Bronzebarren",
+    "quality": 1,
+    "icon": "inv_ingot_bronze",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 451,
+      "itemSquishEraId": 0,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2775": {
+    "name_dede": "Silbererz",
+    "quality": 2,
+    "icon": "inv_stone_16",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2097,
+      "itemSquishEraId": 0,
+      "sellprice": 75
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2842": {
+    "name_dede": "Silberbarren",
+    "quality": 2,
+    "icon": "inv_ingot_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 732,
+      "itemSquishEraId": 0,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2772": {
+    "name_dede": "Eisenerz",
+    "quality": 1,
+    "icon": "inv_ore_iron_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 986,
+      "itemSquishEraId": 0,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3575": {
+    "name_dede": "Eisenbarren",
+    "quality": 1,
+    "icon": "inv_ingot_iron",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1360,
+      "itemSquishEraId": 0,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2776": {
+    "name_dede": "Golderz",
+    "quality": 2,
+    "icon": "inv_ore_copper_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1719,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3577": {
+    "name_dede": "Goldbarren",
+    "quality": 2,
+    "icon": "inv_ingot_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1637,
+      "itemSquishEraId": 0,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3857": {
+    "name_dede": "Kohle",
+    "quality": 1,
+    "icon": "inv_ore_tin_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 359,
+      "buyprice": 500,
+      "itemSquishEraId": 0,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3859": {
+    "name_dede": "Stahlbarren",
+    "quality": 1,
+    "icon": "inv_ingot_steel",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2665,
+      "itemSquishEraId": 0,
+      "sellprice": 60
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3858": {
+    "name_dede": "Mithrilerz",
+    "quality": 1,
+    "icon": "inv_ore_mithril_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1469,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3860": {
+    "name_dede": "Mithrilbarren",
+    "quality": 1,
+    "icon": "inv_ingot_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2168,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10620": {
+    "name_dede": "Thoriumerz",
+    "quality": 1,
+    "icon": "inv_ore_thorium_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2076,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12359": {
+    "name_dede": "Thoriumbarren",
+    "quality": 1,
+    "icon": "inv_ingot_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3226,
+      "itemSquishEraId": 0,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2835": {
+    "name_dede": "Rauer Stein",
+    "quality": 1,
+    "icon": "inv_stone_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 29,
+      "itemSquishEraId": 0,
+      "sellprice": 2
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279960": {
+    "name_dede": "Leitstein",
+    "quality": 1,
+    "icon": "inv_misc_rune_06",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 186,
+      "reqskillrank": 20
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2770": {
+    "name_dede": "Kupfererz",
+    "quality": 1,
+    "icon": "inv_ore_copper_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 204,
+      "itemSquishEraId": 0,
+      "sellprice": 5
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2838": {
+    "name_dede": "Schwerer Stein",
+    "quality": 1,
+    "icon": "inv_stone_12",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 790,
+      "itemSquishEraId": 0,
+      "sellprice": 60
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279948": {
+    "name_dede": "Felsgarten",
+    "quality": 1,
+    "icon": "inv_misc_powder_iron",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 186,
+      "reqskillrank": 140
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7911": {
+    "name_dede": "Echtsilbererz",
+    "quality": 2,
+    "icon": "inv_ore_truesilver_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1253,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6037": {
+    "name_dede": "Echtsilberbarren",
+    "quality": 2,
+    "icon": "inv_ingot_08",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3164,
+      "itemSquishEraId": 0,
+      "sellprice": 1250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "11370": {
+    "name_dede": "Dunkeleisenerz",
+    "quality": 1,
+    "icon": "inv_ore_mithril_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3488,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "11371": {
+    "name_dede": "Dunkeleisenbarren",
+    "quality": 1,
+    "icon": "inv_ingot_mithril",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 76500,
+      "itemSquishEraId": 0,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249426": {
+    "name_dede": "Pechblende",
+    "quality": 2,
+    "icon": "inv_ore_elethium_nugget",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 375
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249726": {
+    "name_dede": "Azerothiumbarren",
+    "quality": 2,
+    "icon": "inv_ingot_livingsteel",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12365": {
+    "name_dede": "Verdichteter Stein",
+    "quality": 1,
+    "icon": "inv_misc_stonetablet_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1412,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279952": {
+    "name_dede": "Geschmolzene Gießerei",
+    "quality": 1,
+    "icon": "inv_blacksmithingalloys_red",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 186,
+      "reqskillrank": 300
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "248815": {
+    "name_dede": "Schweres Thoriumerz",
+    "quality": 1,
+    "icon": "inv_ore_oxxein",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 375
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "251291": {
+    "name_dede": "Schwerer Thoriumbarren",
+    "quality": 2,
+    "icon": "item_elementiumbar",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 2500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18562": {
+    "name_dede": "Elementiumerz",
+    "quality": 4,
+    "icon": "inv_stone_sharpeningstone_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 321758,
+      "itemSquishEraId": 0,
+      "sellprice": 100000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12360": {
+    "name_dede": "Arkanitbarren",
+    "quality": 2,
+    "icon": "inv_misc_stonetablet_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 541000,
+      "itemSquishEraId": 0,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "17010": {
+    "name_dede": "Feuerkern",
+    "quality": 3,
+    "icon": "spell_fire_flamebolt",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 127096,
+      "buyprice": 8000,
+      "itemSquishEraId": 0,
+      "sellprice": 2000
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18567": {
+    "name_dede": "Elementarfluxus",
+    "quality": 1,
+    "icon": "spell_frost_fireresistancetotem",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 10000,
+      "buyprice": 150000,
+      "itemSquishEraId": 0,
+      "sellprice": 37500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "17771": {
+    "name_dede": "Elementiumbarren",
+    "quality": 5,
+    "icon": "inv_ingot_thorium",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 9500000,
+      "itemSquishEraId": 0,
+      "sellprice": 100000
+    },
+    "attainable": 0,
+    "flags2": -2147454972,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12655": {
+    "name_dede": "Verzauberter Thoriumbarren",
+    "quality": 1,
+    "icon": "inv_ingot_eternium",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 28752,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "22203": {
+    "name_dede": "Großer Obsidiansplitter",
+    "quality": 1,
+    "icon": "inv_stone_15",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 590000,
+      "itemSquishEraId": 0,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  }
+}

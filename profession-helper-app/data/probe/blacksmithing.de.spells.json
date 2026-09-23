@@ -1,0 +1,4637 @@
+{
+  "12260": {
+    "name_dede": "Raue Kupferweste",
+    "icon": "inv_chest_chain",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3115": {
+    "name_dede": "Rauer Gewichtsstein",
+    "icon": "inv_stone_weightstone_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2660": {
+    "name_dede": "Rauer Wetzstein",
+    "icon": "inv_stone_sharpeningstone_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2663": {
+    "name_dede": "Kupferarmschienen",
+    "icon": "inv_bracer_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2662": {
+    "name_dede": "Kupferne Kettenhose",
+    "icon": "inv_pants_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2737": {
+    "name_dede": "Kupferstreitkolben",
+    "icon": "inv_mace_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3319": {
+    "name_dede": "Kupferne Kettenstiefel",
+    "icon": "inv_boots_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2738": {
+    "name_dede": "Kupferaxt",
+    "icon": "inv_axe_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3320": {
+    "name_dede": "Rauer Schleifstein",
+    "icon": "inv_stone_grindingstone_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2739": {
+    "name_dede": "Kupferkurzschwert",
+    "icon": "inv_sword_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9983": {
+    "name_dede": "Kupferclaymore",
+    "icon": "inv_sword_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8880": {
+    "name_dede": "Kupferdolch",
+    "icon": "inv_weapon_shortblade_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3321": {
+    "name_dede": "Kupferne Kettenweste",
+    "icon": "inv_chest_chain",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2661": {
+    "name_dede": "Kupferner Kettengürtel",
+    "icon": "inv_belt_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3293": {
+    "name_dede": "Kupferstreitaxt",
+    "icon": "inv_throwingaxe_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3323": {
+    "name_dede": "Runenverzierte Kupferstulpen",
+    "icon": "inv_gauntlets_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3324": {
+    "name_dede": "Runenverzierte Kupferhose",
+    "icon": "inv_pants_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3100": {
+    "name_dede": "Schmiedekunst",
+    "icon": "trade_blacksmithing",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "Ermöglicht einem Schmied, meisterliche Waffen und Rüstung mit einer maximalen potenziellen Fertigkeit von 150 herzustellen."
+  },
+  "3325": {
+    "name_dede": "Edelsteinbesetzte Kupferstulpen",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3116": {
+    "name_dede": "Grober Gewichtsstein",
+    "icon": "inv_stone_weightstone_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2665": {
+    "name_dede": "Grober Wetzstein",
+    "icon": "inv_stone_sharpeningstone_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7408": {
+    "name_dede": "Schwerer Kupferschlägel",
+    "icon": "inv_hammer_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3294": {
+    "name_dede": "Dicke Kriegsaxt",
+    "icon": "inv_throwingaxe_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2666": {
+    "name_dede": "Runenverzierter Kupfergürtel",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3326": {
+    "name_dede": "Grober Schleifstein",
+    "icon": "inv_stone_grindingstone_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2667": {
+    "name_dede": "Runenverzierte Kupferbrustplatte",
+    "icon": "inv_chest_plate03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2664": {
+    "name_dede": "Runenverzierte Kupferarmschienen",
+    "icon": "inv_bracer_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7817": {
+    "name_dede": "Raue bronzene Stiefel",
+    "icon": "inv_boots_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3292": {
+    "name_dede": "Schweres Kupferbreitschwert",
+    "icon": "inv_sword_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19666": {
+    "name_dede": "Silberdietrich",
+    "icon": "inv_misc_key_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7818": {
+    "name_dede": "Silberrute",
+    "icon": "inv_staff_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8367": {
+    "name_dede": "Ironforgebrustplatte",
+    "icon": "inv_chest_plate05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3491": {
+    "name_dede": "Großes bronzenes Messer",
+    "icon": "inv_weapon_shortblade_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2668": {
+    "name_dede": "Raue bronzene Gamaschen",
+    "icon": "inv_pants_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2670": {
+    "name_dede": "Rauer bronzener Kürass",
+    "icon": "inv_chest_chain_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2740": {
+    "name_dede": "Bronzener Streitkolben",
+    "icon": "inv_mace_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6517": {
+    "name_dede": "Perlengriffdolch",
+    "icon": "inv_weapon_shortblade_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3328": {
+    "name_dede": "Raue bronzene Schultern",
+    "icon": "inv_shoulder_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2741": {
+    "name_dede": "Bronzene Axt",
+    "icon": "inv_axe_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2742": {
+    "name_dede": "Bronzenes Kurzschwert",
+    "icon": "inv_sword_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2672": {
+    "name_dede": "Gemusterte bronzene Armschienen",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3538": {
+    "name_dede": "Schmiedekunst",
+    "icon": "trade_blacksmithing",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "Ermöglicht einem Schmied das Herstellen von meisterlichen Waffen und Rüstungen mit einer maximalen potenziellen Fertigkeit von 225."
+  },
+  "3117": {
+    "name_dede": "Schwerer Gewichtsstein",
+    "icon": "inv_stone_weightstone_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2674": {
+    "name_dede": "Schwerer Wetzstein",
+    "icon": "inv_stone_sharpeningstone_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3337": {
+    "name_dede": "Schwerer Schleifstein",
+    "icon": "inv_stone_grindingstone_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3330": {
+    "name_dede": "Bronzene Schultern mit Versilberung",
+    "icon": "inv_shoulder_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3295": {
+    "name_dede": "Tödlicher Bronzepoignard",
+    "icon": "inv_weapon_shortblade_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9985": {
+    "name_dede": "Bronzener Kriegshammer",
+    "icon": "inv_hammer_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2673": {
+    "name_dede": "Bronzene Brustplatte mit Versilberung",
+    "icon": "inv_chest_chain_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3331": {
+    "name_dede": "Bronzene Stiefel mit Versilberung",
+    "icon": "inv_boots_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9986": {
+    "name_dede": "Bronzenes Großschwert",
+    "icon": "inv_sword_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3296": {
+    "name_dede": "Schwerer bronzener Streitkolben",
+    "icon": "inv_mace_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9987": {
+    "name_dede": "Bronzene Streitaxt",
+    "icon": "inv_axe_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3333": {
+    "name_dede": "Bronzene Stulpen mit Versilberung",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6518": {
+    "name_dede": "Schillernder Hammer",
+    "icon": "inv_hammer_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2675": {
+    "name_dede": "Leuchtende silberne Brustplatte",
+    "icon": "inv_chest_plate15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3334": {
+    "name_dede": "Grüne Eisenstiefel",
+    "icon": "inv_boots_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3297": {
+    "name_dede": "Mächtiger Eisenhammer",
+    "icon": "inv_hammer_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19667": {
+    "name_dede": "Golddietrich",
+    "icon": "inv_misc_key_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8768": {
+    "name_dede": "Eiserne Gürtelschnalle",
+    "icon": "inv_misc_armorkit_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Stellt zwei eiserne Schnallen her, die von anderen Handwerksfertigkeiten verwendet werden."
+  },
+  "14379": {
+    "name_dede": "Goldrute",
+    "icon": "inv_staff_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3336": {
+    "name_dede": "Grüne Eisenstulpen",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7221": {
+    "name_dede": "Eisenschildstachel",
+    "icon": "inv_misc_armorkit_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12259": {
+    "name_dede": "Bronzene Gamaschen mit Versilberung",
+    "icon": "inv_pants_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3506": {
+    "name_dede": "Grüne Eisengamaschen",
+    "icon": "inv_pants_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3494": {
+    "name_dede": "Robuster Eisenschlägel",
+    "icon": "inv_hammer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9813": {
+    "name_dede": "Barbarische Eisenbrustplatte",
+    "icon": "inv_chest_chain_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9811": {
+    "name_dede": "Barbarische Eisenschultern",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3492": {
+    "name_dede": "Gehärtetes Eisenkurzschwert",
+    "icon": "inv_sword_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3504": {
+    "name_dede": "Grüne Eisenschultern",
+    "icon": "inv_shoulder_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3501": {
+    "name_dede": "Grüne Eisenarmschienen",
+    "icon": "inv_bracer_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7222": {
+    "name_dede": "Eisengegengewicht",
+    "icon": "inv_misc_orb_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3507": {
+    "name_dede": "Goldene Schuppengamaschen",
+    "icon": "inv_pants_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3495": {
+    "name_dede": "Goldener Eisenzerstörer",
+    "icon": "inv_hammer_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3502": {
+    "name_dede": "Grüner Eisenhelm",
+    "icon": "inv_helmet_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9814": {
+    "name_dede": "Barbarischer Eisenhelm",
+    "icon": "inv_helmet_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3505": {
+    "name_dede": "Goldene Schuppenschultern",
+    "icon": "inv_shoulder_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3493": {
+    "name_dede": "Jadeschlangenklinge",
+    "icon": "inv_sword_36",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3508": {
+    "name_dede": "Grüne Eisenhalsberge",
+    "icon": "inv_chest_chain",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9818": {
+    "name_dede": "Barbarische Eisenstiefel",
+    "icon": "inv_boots_plate_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "15972": {
+    "name_dede": "Glitzernder Stahldolch",
+    "icon": "inv_weapon_shortblade_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3496": {
+    "name_dede": "Mondstahlbreitschwert",
+    "icon": "inv_sword_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9820": {
+    "name_dede": "Barbarische Eisenhandschuhe",
+    "icon": "inv_gauntlets_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7223": {
+    "name_dede": "Goldene Schuppenarmschienen",
+    "icon": "inv_bracer_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3498": {
+    "name_dede": "Massive Eisenaxt",
+    "icon": "inv_throwingaxe_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3513": {
+    "name_dede": "Polierte Stahlstiefel",
+    "icon": "inv_boots_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3503": {
+    "name_dede": "Goldene Schuppenhelmkappe",
+    "icon": "inv_helmet_36",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "21913": {
+    "name_dede": "Schneide des Winters",
+    "icon": "inv_axe_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "15973": {
+    "name_dede": "Sengende Goldklinge",
+    "icon": "inv_weapon_shortblade_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7224": {
+    "name_dede": "Stahlwaffenkette",
+    "icon": "spell_frost_chainsofice",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3511": {
+    "name_dede": "Goldener Schuppenkürass",
+    "icon": "inv_chest_chain_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9785": {
+    "name_dede": "Schmiedekunst",
+    "icon": "trade_blacksmithing",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "Ermöglicht einem Schmied das Herstellen von Waffen und Rüstungen mit einer maximalen potenziellen Fertigkeit von 300."
+  },
+  "19668": {
+    "name_dede": "Echtsilberdietrich",
+    "icon": "inv_misc_key_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "14380": {
+    "name_dede": "Echtsilberrute",
+    "icon": "inv_staff_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9921": {
+    "name_dede": "Robuster Gewichtsstein",
+    "icon": "inv_stone_weightstone_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9920": {
+    "name_dede": "Robuster Schleifstein",
+    "icon": "inv_stone_grindingstone_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9918": {
+    "name_dede": "Robuster Wetzstein",
+    "icon": "inv_stone_sharpeningstone_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3497": {
+    "name_dede": "Frosttigerklinge",
+    "icon": "inv_sword_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3515": {
+    "name_dede": "Goldene Schuppenstiefel",
+    "icon": "inv_boots_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3500": {
+    "name_dede": "Schattensichelaxt",
+    "icon": "inv_axe_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9916": {
+    "name_dede": "Stahlbrustplatte",
+    "icon": "inv_chest_plate05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11454": {
+    "name_dede": "Veredelter Mithrilzylinder",
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "11643": {
+    "name_dede": "Goldene Schuppenstulpen",
+    "icon": "inv_gauntlets_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9926": {
+    "name_dede": "Schwere Mithrilschulter",
+    "icon": "inv_shoulder_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9928": {
+    "name_dede": "Schwere Mithrilstulpen",
+    "icon": "inv_gauntlets_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9931": {
+    "name_dede": "Mithrilplattenhose",
+    "icon": "inv_pants_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9933": {
+    "name_dede": "Schwere Mithrilhose",
+    "icon": "inv_pants_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9993": {
+    "name_dede": "Schwere Mithrilaxt",
+    "icon": "inv_axe_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9937": {
+    "name_dede": "Mithrilplattenarmschienen",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9939": {
+    "name_dede": "Mithrilschildstachel",
+    "icon": "inv_misc_armorkit_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9935": {
+    "name_dede": "Stahlplattenhelm",
+    "icon": "inv_helmet_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9950": {
+    "name_dede": "Verschnörkelte Mithrilhandschuhe",
+    "icon": "inv_gauntlets_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9945": {
+    "name_dede": "Verschnörkelte Mithrilhose",
+    "icon": "inv_pants_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9995": {
+    "name_dede": "Blaue glitzernde Axt",
+    "icon": "inv_axe_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9954": {
+    "name_dede": "Echtsilberstulpen",
+    "icon": "inv_gauntlets_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9952": {
+    "name_dede": "Verschnörkelte Mithrilschultern",
+    "icon": "inv_shoulder_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9997": {
+    "name_dede": "Tückische Mithrilklinge",
+    "icon": "inv_sword_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9961": {
+    "name_dede": "Mithrilhelmkappe",
+    "icon": "inv_helmet_35",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9957": {
+    "name_dede": "Orc-Kriegsgamaschen",
+    "icon": "inv_pants_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9959": {
+    "name_dede": "Schwere Mithrilbrustplatte",
+    "icon": "inv_chest_plate10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10001": {
+    "name_dede": "Großer schwarzer Streitkolben",
+    "icon": "inv_mace_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9966": {
+    "name_dede": "Mithrilplattenschultern",
+    "icon": "inv_shoulder_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9964": {
+    "name_dede": "Mithrilsporen",
+    "icon": "ability_rogue_sprint",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9968": {
+    "name_dede": "Schwere Mithrilstiefel",
+    "icon": "inv_boots_plate_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10003": {
+    "name_dede": "Der Zertrümmerer",
+    "icon": "inv_hammer_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9972": {
+    "name_dede": "Verschnörkelte Mithrilbrustplatte",
+    "icon": "inv_chest_plate10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10005": {
+    "name_dede": "Funkelndes Mithrilrapier",
+    "icon": "inv_sword_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9970": {
+    "name_dede": "Schwerer Mithrilhelm",
+    "icon": "inv_helmet_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9974": {
+    "name_dede": "Echtsilberbrustplatte",
+    "icon": "inv_chest_plate04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9979": {
+    "name_dede": "Verschnörkelte Mithrilstiefel",
+    "icon": "inv_boots_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9980": {
+    "name_dede": "Verschnörkelter Mithrilhelm",
+    "icon": "inv_helmet_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10007": {
+    "name_dede": "Phantomklinge",
+    "icon": "inv_sword_40",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10009": {
+    "name_dede": "Runenverzierter Mithrilhammer",
+    "icon": "inv_hammer_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16640": {
+    "name_dede": "Verdichteter Gewichtsstein",
+    "icon": "inv_stone_weightstone_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16639": {
+    "name_dede": "Verdichteter Schleifstein",
+    "icon": "inv_stone_grindingstone_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16641": {
+    "name_dede": "Verdichteter Wetzstein",
+    "icon": "inv_stone_sharpeningstone_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16643": {
+    "name_dede": "Thoriumgürtel",
+    "icon": "inv_belt_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16642": {
+    "name_dede": "Thoriumrüstung",
+    "icon": "inv_chest_plate08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10011": {
+    "name_dede": "Verseuchung",
+    "icon": "inv_spear_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16644": {
+    "name_dede": "Thoriumarmschienen",
+    "icon": "inv_bracer_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10013": {
+    "name_dede": "Ebenholzmesser",
+    "icon": "inv_weapon_shortblade_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16645": {
+    "name_dede": "Strahlender Gürtel",
+    "icon": "inv_belt_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10015": {
+    "name_dede": "Echtsilberchampion",
+    "icon": "inv_sword_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "15292": {
+    "name_dede": "Dunkeleisenpulverisierer",
+    "icon": "inv_hammer_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16646": {
+    "name_dede": "Imperiale Plattenschultern",
+    "icon": "inv_shoulder_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16647": {
+    "name_dede": "Imperialer Plattengürtel",
+    "icon": "inv_belt_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "15293": {
+    "name_dede": "Dunkeleisenpanzer",
+    "icon": "inv_chest_chain_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16649": {
+    "name_dede": "Imperiale Plattenarmschienen",
+    "icon": "inv_bracer_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16648": {
+    "name_dede": "Strahlende Brustplatte",
+    "icon": "inv_chest_plate16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19669": {
+    "name_dede": "Arkanitdietrich",
+    "icon": "inv_misc_key_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20201": {
+    "name_dede": "Arkanitrute",
+    "icon": "inv_staff_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "15294": {
+    "name_dede": "Dunkeleisenzerreißer",
+    "icon": "inv_weapon_halberd_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16651": {
+    "name_dede": "Thoriumschildstachel",
+    "icon": "inv_misc_armorkit_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16970": {
+    "name_dede": "Dämmerungsschneide",
+    "icon": "inv_axe_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16969": {
+    "name_dede": "Verschnörkelte Thoriumhandaxt",
+    "icon": "inv_axe_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "15295": {
+    "name_dede": "Dunkeleisenschultern",
+    "icon": "inv_shoulder_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16653": {
+    "name_dede": "Thoriumhelm",
+    "icon": "inv_helmet_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16652": {
+    "name_dede": "Thoriumstiefel",
+    "icon": "inv_boots_plate_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16978": {
+    "name_dede": "Loderflammenrapier",
+    "icon": "inv_sword_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16973": {
+    "name_dede": "Verzauberter Kampfhammer",
+    "icon": "inv_hammer_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16971": {
+    "name_dede": "Gewaltige Thoriumstreitaxt",
+    "icon": "inv_weapon_halberd_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "15296": {
+    "name_dede": "Dunkeleisenplatte",
+    "icon": "inv_chest_plate08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16654": {
+    "name_dede": "Strahlende Handschuhe",
+    "icon": "inv_gauntlets_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16667": {
+    "name_dede": "Dämonengeschmiedete Brustplatte",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16983": {
+    "name_dede": "Beschaulichkeit",
+    "icon": "inv_mace_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16655": {
+    "name_dede": "Feurige Plattenstulpen",
+    "icon": "inv_gauntlets_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23632": {
+    "name_dede": "Gurt der Dämmerung",
+    "icon": "inv_belt_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16660": {
+    "name_dede": "Schultern der Morgenröte",
+    "icon": "inv_shoulder_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16656": {
+    "name_dede": "Strahlende Stiefel",
+    "icon": "inv_boots_plate_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16985": {
+    "name_dede": "Verderbnis",
+    "icon": "inv_sword_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16984": {
+    "name_dede": "Vulkanischer Hammer",
+    "icon": "inv_hammer_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20874": {
+    "name_dede": "Dunkeleisenarmschienen",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20872": {
+    "name_dede": "Feuriger Kettengurt",
+    "icon": "inv_belt_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16657": {
+    "name_dede": "Imperiale Plattenstiefel",
+    "icon": "inv_boots_plate_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16658": {
+    "name_dede": "Imperialer Plattenhelm",
+    "icon": "inv_helmet_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16659": {
+    "name_dede": "Strahlender Reif",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22757": {
+    "name_dede": "Elementarwetzstein",
+    "icon": "inv_stone_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23650": {
+    "name_dede": "Ebenholzhand",
+    "icon": "inv_hammer_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23652": {
+    "name_dede": "Finsterer Streiter",
+    "icon": "inv_sword_39",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23653": {
+    "name_dede": "Nachtlauer",
+    "icon": "inv_axe_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16991": {
+    "name_dede": "Vernichter",
+    "icon": "inv_axe_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16663": {
+    "name_dede": "Imperiale Plattenrüstung",
+    "icon": "inv_chest_plate10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16664": {
+    "name_dede": "Runenverzierte Plattenschultern",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16665": {
+    "name_dede": "Runenverzierte Plattenstiefel",
+    "icon": "inv_boots_plate_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16662": {
+    "name_dede": "Thoriumgamaschen",
+    "icon": "inv_pants_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16730": {
+    "name_dede": "Imperiale Plattengamaschen",
+    "icon": "inv_pants_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16726": {
+    "name_dede": "Runenverzierter Plattenhelm",
+    "icon": "inv_helmet_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16725": {
+    "name_dede": "Strahlende Gamaschen",
+    "icon": "inv_pants_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16731": {
+    "name_dede": "Runenverzierte Brustplatte",
+    "icon": "inv_chest_plate11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16732": {
+    "name_dede": "Runenverzierte Plattengamaschen",
+    "icon": "inv_pants_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16724": {
+    "name_dede": "Helm der weißen Seele",
+    "icon": "inv_helmet_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "27587": {
+    "name_dede": "Dicke Obsidianbrustplatte",
+    "icon": "inv_chest_chain_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20876": {
+    "name_dede": "Dunkeleisengamaschen",
+    "icon": "inv_pants_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23636": {
+    "name_dede": "Dunkeleisenhelm",
+    "icon": "inv_helmet_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24399": {
+    "name_dede": "Dunkeleisenstiefel",
+    "icon": "inv_boots_chain_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23637": {
+    "name_dede": "Dunkeleisenstulpen",
+    "icon": "inv_gauntlets_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "27589": {
+    "name_dede": "Dunkler Griff des Zerstörers",
+    "icon": "inv_gauntlets_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28244": {
+    "name_dede": "Eisflucharmschienen",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28242": {
+    "name_dede": "Eisfluchbrustplatte",
+    "icon": "inv_chest_chain_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28243": {
+    "name_dede": "Eisfluchstulpen",
+    "icon": "inv_gauntlets_28",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16741": {
+    "name_dede": "Festungsstulpen",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20873": {
+    "name_dede": "Feurige Kettenschultern",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "27829": {
+    "name_dede": "Gamaschen der Titanen",
+    "icon": "inv_pants_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "27586": {
+    "name_dede": "Gezackter Obsidianschild",
+    "icon": "inv_shield_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16729": {
+    "name_dede": "Löwenherzhelm",
+    "icon": "inv_helmet_36",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "27590": {
+    "name_dede": "Obsidianpanzertunika",
+    "icon": "inv_chest_chain_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23639": {
+    "name_dede": "Schattenzorn",
+    "icon": "inv_spear_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23638": {
+    "name_dede": "Schwarze Amnestie",
+    "icon": "inv_weapon_shortblade_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "27832": {
+    "name_dede": "Weisenklinge",
+    "icon": "inv_sword_51",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "27830": {
+    "name_dede": "Willensbrecher",
+    "icon": "inv_hammer_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16990": {
+    "name_dede": "Arkanitchampion",
+    "icon": "inv_sword_39",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16994": {
+    "name_dede": "Arkanitschnitter",
+    "icon": "inv_axe_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24136": {
+    "name_dede": "Blutseelenbrustplatte",
+    "icon": "inv_chest_chain_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24137": {
+    "name_dede": "Blutseelenschultern",
+    "icon": "inv_shoulder_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24138": {
+    "name_dede": "Blutseelenstulpen",
+    "icon": "inv_gauntlets_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20890": {
+    "name_dede": "Dunkeleisenhäscher",
+    "icon": "inv_sword_48",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20897": {
+    "name_dede": "Dunkeleisenzerstörer",
+    "icon": "inv_axe_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24914": {
+    "name_dede": "Dunkelrunenbrustplatte",
+    "icon": "inv_chest_plate06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24913": {
+    "name_dede": "Dunkelrunenhelm",
+    "icon": "inv_helmet_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24912": {
+    "name_dede": "Dunkelrunenstulpen",
+    "icon": "inv_gauntlets_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24139": {
+    "name_dede": "Dunkelseelenbrustplatte",
+    "icon": "inv_chest_plate08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24140": {
+    "name_dede": "Dunkelseelengamaschen",
+    "icon": "inv_pants_plate_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24141": {
+    "name_dede": "Dunkelseelenschultern",
+    "icon": "inv_shoulder_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16992": {
+    "name_dede": "Frostwache",
+    "icon": "inv_sword_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16988": {
+    "name_dede": "Hammer der Titanen",
+    "icon": "inv_hammer_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23633": {
+    "name_dede": "Handschuhe der Dämmerung",
+    "icon": "inv_gauntlets_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16995": {
+    "name_dede": "Herzsucher",
+    "icon": "inv_sword_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "27588": {
+    "name_dede": "Leichter Obsidiangürtel",
+    "icon": "inv_belt_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16993": {
+    "name_dede": "Meisterlicher Sturmhammer",
+    "icon": "inv_hammer_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "27585": {
+    "name_dede": "Schwerer Obsidiangürtel",
+    "icon": "inv_belt_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16745": {
+    "name_dede": "Verzauberte Thoriumbrustplatte",
+    "icon": "inv_chest_plate10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16744": {
+    "name_dede": "Verzauberte Thoriumgamaschen",
+    "icon": "inv_pants_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16742": {
+    "name_dede": "Verzauberter Thoriumhelm",
+    "icon": "inv_helmet_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28461": {
+    "name_dede": "Eisenrankenbrustplatte",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28463": {
+    "name_dede": "Eisenrankengürtel",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28462": {
+    "name_dede": "Eisenrankenhandschuhe",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "21161": {
+    "name_dede": "Sulfuronhammer",
+    "icon": "inv_hammer_unique_sulfuras",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252989": {
+    "name_dede": "Adaptive Armschützer des Erdbrechers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1253002": {
+    "name_dede": "Adaptive Bindungen des Erdwebers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252988": {
+    "name_dede": "Adaptive Brustplatte des Erdbrechers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1253001": {
+    "name_dede": "Adaptive Platte des Erdwebers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252990": {
+    "name_dede": "Adaptiver Gurt des Erdbrechers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1253003": {
+    "name_dede": "Adaptiver Taillenschutz des Erdwebers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17041": {
+    "name_dede": "Axtschmiedemeister",
+    "icon": "inv_axe_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht einem Schmied das Herstellen von speziellen Äxten, die für den normalen Waffenschmiedfachmann nicht verfügbar sind."
+  },
+  "17040": {
+    "name_dede": "Hammerschmiedemeister",
+    "icon": "inv_hammer_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht einem Schmied das Herstellen von speziellen Streitkolben und Hämmern, die für den normalen Waffenschmiedfachmann nicht verfügbar sind."
+  },
+  "9788": {
+    "name_dede": "Rüstungsschmied",
+    "icon": "inv_chest_plate04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "Ermöglicht einem Schmied das Herstellen von speziellen Rüstungen, die für den normalen Schmiedekunstfachmann nicht verfügbar sind."
+  },
+  "1240966": {
+    "name_dede": "Schmiedekunst",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "<a href=\"/beta/de/spell=3538/schmiedekunst\" target=\"_blank\">Ermöglicht einem Schmied das Herstellen von meisterlichen Waffen und Rüstungen mit einer maximalen potenziellen Fertigkeit von 225.</a>"
+  },
+  "1240979": {
+    "name_dede": "Schmiedekunst",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "<a href=\"/beta/de/spell=9785/schmiedekunst\" target=\"_blank\">Ermöglicht einem Schmied das Herstellen von Waffen und Rüstungen mit einer maximalen potenziellen Fertigkeit von 300.</a>"
+  },
+  "1240955": {
+    "name_dede": "Schmiedekunst",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "<a href=\"/beta/de/spell=3100/schmiedekunst\" target=\"_blank\">Ermöglicht einem Schmied, meisterliche Waffen und Rüstung mit einer maximalen potenziellen Fertigkeit von 150 herzustellen.</a>"
+  },
+  "2018": {
+    "name_dede": "Schmiedekunst",
+    "icon": "trade_blacksmithing",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "Ermöglicht einem Schmied, einfache Waffen und Rüstung mit einer maximalen potenziellen Fertigkeit von 75 herzustellen. Es werden Stein und Metall benötigt, die mit der Bergbaufertigkeit gefunden wurden."
+  },
+  "1240944": {
+    "name_dede": "Schmiedekunst",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "<a href=\"/beta/de/spell=2018/schmiedekunst\" target=\"_blank\">Ermöglicht einem Schmied, einfache Waffen und Rüstung mit einer maximalen potenziellen Fertigkeit von 75 herzustellen. Es werden Stein und Metall benötigt, die mit der Bergbaufertigkeit gefunden wurden.</a>"
+  },
+  "17039": {
+    "name_dede": "Schwertschmiedemeister",
+    "icon": "inv_sword_41",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht einem Schmied das Herstellen von speziellen Schwertern, die für den normalen Waffenschmiedfachmann nicht verfügbar sind."
+  },
+  "9787": {
+    "name_dede": "Waffenschmied",
+    "icon": "inv_sword_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "Ermöglicht einem Schmied das Herstellen von speziellen Waffen, die für den normalen Schmiedekunstfachmann nicht verfügbar sind."
+  },
+  "1245287": {
+    "name_dede": "Kupferrute",
+    "icon": "inv_misc_flute_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1230171": {
+    "name_dede": "Schleifstein",
+    "icon": "inv_stone_grindingstone_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 1",
+    "description_dede": "Stellt einen Schleifstein her."
+  },
+  "1252229": {
+    "name_dede": "Edelsteinbesetzte Kupferstiefel",
+    "icon": "inv_boots_chain_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252231": {
+    "name_dede": "Leuchtende Kupferstiefel",
+    "icon": "inv_boots_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252230": {
+    "name_dede": "Seltsame Bronzestiefel",
+    "icon": "inv_boots_plate_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301448": {
+    "name_dede": "Azurblaue himmelsgeschmiedete Kette",
+    "icon": "inv_belt_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301446": {
+    "name_dede": "Azurblauer himmelsgeschmiedeter Handgelenksschutz",
+    "icon": "inv_bracer_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301424": {
+    "name_dede": "Wolkenblaue himmelsgeschmiedete Kette",
+    "icon": "inv_belt_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301422": {
+    "name_dede": "Wolkenblauer himmelsgeschmiedeter Handgelenksschutz",
+    "icon": "inv_bracer_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301450": {
+    "name_dede": "Azurblaue himmelsgeschmiedete Beinschützer",
+    "icon": "inv_boot_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301447": {
+    "name_dede": "Azurblaue himmelsgeschmiedete Stulpen",
+    "icon": "inv_glove_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301426": {
+    "name_dede": "Wolkenblaue himmelsgeschmiedete Beinschützer",
+    "icon": "inv_boot_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301423": {
+    "name_dede": "Wolkenblaue himmelsgeschmiedete Stulpen",
+    "icon": "inv_glove_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1302598": {
+    "name_dede": "Raue kupferne Kettenstiefel",
+    "icon": "inv_boots_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301449": {
+    "name_dede": "Azurblaue himmelsgeschmiedete Beinschützer",
+    "icon": "inv_pant_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301445": {
+    "name_dede": "Azurblaues himmelsgeschmiedetes Kettenhemd",
+    "icon": "inv_chest_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301425": {
+    "name_dede": "Wolkenblaue himmelsgeschmiedete Beinschützer",
+    "icon": "inv_pant_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301421": {
+    "name_dede": "Wolkenblaues himmelsgeschmiedetes Kettenhemd",
+    "icon": "inv_chest_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252240": {
+    "name_dede": "Kettenhemd des Akolythen",
+    "icon": "inv_chest_chain_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252239": {
+    "name_dede": "Kettenhemd des Beschützers",
+    "icon": "inv_chest_chain_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252238": {
+    "name_dede": "Kettenhemd des Gardisten",
+    "icon": "inv_chest_chain_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252241": {
+    "name_dede": "Kettenhemd des Kreuzfahrers",
+    "icon": "inv_chest_chain_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252237": {
+    "name_dede": "Kettenhemd des Veteranen",
+    "icon": "inv_chest_chain_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252265": {
+    "name_dede": "Kettengürtel des Akolythen",
+    "icon": "inv_belt_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252264": {
+    "name_dede": "Kettengürtel des Beschützers",
+    "icon": "inv_belt_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252263": {
+    "name_dede": "Kettengürtel des Gardisten",
+    "icon": "inv_belt_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252266": {
+    "name_dede": "Kettengürtel des Kreuzfahrers",
+    "icon": "inv_belt_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252262": {
+    "name_dede": "Kettengürtel des Veteranen",
+    "icon": "inv_belt_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252245": {
+    "name_dede": "Kettengamaschen des Akolythen",
+    "icon": "inv_pants_mail_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252244": {
+    "name_dede": "Kettengamaschen des Beschützers",
+    "icon": "inv_pants_mail_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252243": {
+    "name_dede": "Kettengamaschen des Gardisten",
+    "icon": "inv_pants_mail_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252246": {
+    "name_dede": "Kettengamaschen des Kreuzfahrers",
+    "icon": "inv_pants_mail_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252242": {
+    "name_dede": "Kettengamaschen des Veteranen",
+    "icon": "inv_pants_mail_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "430397": {
+    "name_dede": "Blackfathom-Wetzstein",
+    "icon": "inv_misc_rune_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252260": {
+    "name_dede": "Handschuhe des Akolythen",
+    "icon": "inv_gauntlets_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252259": {
+    "name_dede": "Handschuhe des Beschützers",
+    "icon": "inv_gauntlets_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252258": {
+    "name_dede": "Handschuhe des Gardisten",
+    "icon": "inv_gauntlets_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252261": {
+    "name_dede": "Handschuhe des Kreuzfahrers",
+    "icon": "inv_gauntlets_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252257": {
+    "name_dede": "Handschuhe des Veteranen",
+    "icon": "inv_gauntlets_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252351": {
+    "name_dede": "Messingschlagring",
+    "icon": "inv_gauntlets_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1317962": {
+    "name_dede": "Rissiger Schmiedehammer",
+    "icon": "inv_hammer_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252255": {
+    "name_dede": "Stiefel des Akolythen",
+    "icon": "inv_boots_chain_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252254": {
+    "name_dede": "Stiefel des Beschützers",
+    "icon": "inv_boots_chain_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252253": {
+    "name_dede": "Stiefel des Gardisten",
+    "icon": "inv_boots_chain_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252256": {
+    "name_dede": "Stiefel des Kreuzfahrers",
+    "icon": "inv_boots_chain_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252252": {
+    "name_dede": "Stiefel des Veteranen",
+    "icon": "inv_boots_chain_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252280": {
+    "name_dede": "Versilberter Kettenhelm des Akolythen",
+    "icon": "inv_helmet_36",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252279": {
+    "name_dede": "Versilberter Kettenhelm des Beschützers",
+    "icon": "inv_helmet_39",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252278": {
+    "name_dede": "Versilberter Kettenhelm des Gardisten",
+    "icon": "inv_helmet_38",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252281": {
+    "name_dede": "Versilberter Kettenhelm des Kreuzfahrers",
+    "icon": "inv_helmet_37",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252277": {
+    "name_dede": "Versilberter Kettenhelm des Veteranen",
+    "icon": "inv_helmet_39",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252352": {
+    "name_dede": "Bronzenes Dory",
+    "icon": "inv_spear_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252250": {
+    "name_dede": "Kettenhelm des Akolythen",
+    "icon": "inv_helmet_36",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252249": {
+    "name_dede": "Kettenhelm des Beschützers",
+    "icon": "inv_helmet_39",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252248": {
+    "name_dede": "Kettenhelm des Gardisten",
+    "icon": "inv_helmet_38",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252251": {
+    "name_dede": "Kettenhelm des Kreuzfahrers",
+    "icon": "inv_helmet_37",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252247": {
+    "name_dede": "Kettenhelm des Veteranen",
+    "icon": "inv_helmet_39",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252232": {
+    "name_dede": "Sterlingsilberstiefel",
+    "icon": "inv_boots_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252233": {
+    "name_dede": "Sterlingsilbergamaschen",
+    "icon": "inv_pants_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252234": {
+    "name_dede": "Sterlingsilberstulpen",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1263041": {
+    "name_dede": "Amboss",
+    "icon": "inv_blacksmith_anvil",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 2",
+    "description_dede": "Stellt einen Amboss her."
+  },
+  "427061": {
+    "name_dede": "Mantel des Zweiten Krieges",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252270": {
+    "name_dede": "Versilbertes Kettenhemd des Akolythen",
+    "icon": "inv_chest_chain_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252269": {
+    "name_dede": "Versilbertes Kettenhemd des Beschützers",
+    "icon": "inv_chest_chain_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252268": {
+    "name_dede": "Versilbertes Kettenhemd des Gardisten",
+    "icon": "inv_chest_chain_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252271": {
+    "name_dede": "Versilbertes Kettenhemd des Kreuzfahrers",
+    "icon": "inv_chest_chain_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252267": {
+    "name_dede": "Versilbertes Kettenhemd des Veteranen",
+    "icon": "inv_chest_chain_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252235": {
+    "name_dede": "Sterlingsilberschulterstücke",
+    "icon": "inv_shoulder_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252306": {
+    "name_dede": "Gürtel der Schildwache",
+    "icon": "inv_belt_37a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252307": {
+    "name_dede": "Gürtel der Wacht",
+    "icon": "inv_belt_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252305": {
+    "name_dede": "Gürtel des Offiziers",
+    "icon": "inv_belt_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252308": {
+    "name_dede": "Gürtel des Präfekten",
+    "icon": "inv_belt_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252309": {
+    "name_dede": "Gürtel des Rechtsprechers",
+    "icon": "inv_belt_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252353": {
+    "name_dede": "Eisenfäuste",
+    "icon": "inv_gauntlets_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252275": {
+    "name_dede": "Versilberte Kettengamaschen des Akolythen",
+    "icon": "inv_pants_mail_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252274": {
+    "name_dede": "Versilberte Kettengamaschen des Beschützers",
+    "icon": "inv_pants_mail_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252273": {
+    "name_dede": "Versilberte Kettengamaschen des Gardisten",
+    "icon": "inv_pants_mail_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252276": {
+    "name_dede": "Versilberte Kettengamaschen des Kreuzfahrers",
+    "icon": "inv_pants_mail_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252272": {
+    "name_dede": "Versilberte Kettengamaschen des Veteranen",
+    "icon": "inv_pants_mail_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252236": {
+    "name_dede": "Sterlingsilberbrustplatte",
+    "icon": "inv_chest_chain_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252282": {
+    "name_dede": "Hartgoldkürass",
+    "icon": "inv_chest_chain_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252283": {
+    "name_dede": "Hartgoldstiefel",
+    "icon": "inv_boots_chain_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "429348": {
+    "name_dede": "Veränderliche silberne Brustplatte",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301535": {
+    "name_dede": "Azurblaue himmelsgeschmiedete Schulterstücke",
+    "icon": "inv_shoulder_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301534": {
+    "name_dede": "Azurblauer himmelsgeschmiedeter Helm",
+    "icon": "inv_helm_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301527": {
+    "name_dede": "Wolkenblaue himmelsgeschmiedete Schulterstücke",
+    "icon": "inv_shoulder_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301526": {
+    "name_dede": "Wolkenblauer himmelsgeschmiedeter Helm",
+    "icon": "inv_helm_mail_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252284": {
+    "name_dede": "Hartgoldarmschienen",
+    "icon": "inv_bracer_28a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252354": {
+    "name_dede": "Stahlspeer",
+    "icon": "inv_spear_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252355": {
+    "name_dede": "Eiserner Morgenstern",
+    "icon": "inv_mace_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252285": {
+    "name_dede": "Hartgoldgamaschen",
+    "icon": "inv_pants_mail_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252286": {
+    "name_dede": "Hartgoldkappe",
+    "icon": "inv_helmet_39",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439132": {
+    "name_dede": "Goldene Schuppengamaschen",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1317963": {
+    "name_dede": "Mithrilschmiedehammer",
+    "icon": "inv_hammer_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435910": {
+    "name_dede": "Echtsilberplatten mit geringer Grundstrahlung",
+    "icon": "inv_gizmo_mithrilcasing_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252356": {
+    "name_dede": "Mithrilkurzschwert",
+    "icon": "inv_weapon_shortblade_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252316": {
+    "name_dede": "Stulpen der Schildwache",
+    "icon": "inv_gauntlets_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252317": {
+    "name_dede": "Stulpen der Wacht",
+    "icon": "inv_gauntlets_50",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252315": {
+    "name_dede": "Stulpen des Offiziers",
+    "icon": "inv_gauntlets_51",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252318": {
+    "name_dede": "Stulpen des Präfekten",
+    "icon": "inv_gauntlets_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252319": {
+    "name_dede": "Stulpen des Rechtsprechers",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252288": {
+    "name_dede": "Hartgoldschulterstücke",
+    "icon": "inv_shoulder_28",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252287": {
+    "name_dede": "Hartgoldstulpen",
+    "icon": "inv_gauntlets_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439130": {
+    "name_dede": "Goldene Schuppenschultern",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252296": {
+    "name_dede": "Stiefel der Schildwache",
+    "icon": "inv_boots_plate_20v1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252297": {
+    "name_dede": "Stiefel der Wacht",
+    "icon": "inv_boots_plate_19v1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252295": {
+    "name_dede": "Stiefel des Offiziers",
+    "icon": "inv_boots_plate_19v2",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252298": {
+    "name_dede": "Stiefel des Präfekten",
+    "icon": "inv_boots_plate_19v3",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252299": {
+    "name_dede": "Stiefel des Rechtsprechers",
+    "icon": "inv_boots_plate_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439128": {
+    "name_dede": "Mondstahlbreitschwert",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252357": {
+    "name_dede": "Mithrilkriegshammer",
+    "icon": "inv_hammer_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252289": {
+    "name_dede": "Glänzende Mithrilbrustplatte",
+    "icon": "inv_chest_plate01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252290": {
+    "name_dede": "Glänzende Mithrilschulterstücke",
+    "icon": "inv_shoulder_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252359": {
+    "name_dede": "Mithrilclaymore",
+    "icon": "inv_sword_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252358": {
+    "name_dede": "Mithrilklauen",
+    "icon": "inv_misc_monsterclaw_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439126": {
+    "name_dede": "Goldene Schuppenhelmkappe",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252291": {
+    "name_dede": "Glänzende Mithrilstiefel",
+    "icon": "inv_boots_plate_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439124": {
+    "name_dede": "Goldener Schuppenkürass",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435908": {
+    "name_dede": "Gehärteter Interferenzen-negierender Helm",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435906": {
+    "name_dede": "Reflektierender Echtsilbergehirnkäfig",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439120": {
+    "name_dede": "Goldene Schuppenstulpen",
+    "icon": "inv_gauntlets_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439122": {
+    "name_dede": "Goldene Schuppenstiefel",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252326": {
+    "name_dede": "Schulterstücke der Schildwache",
+    "icon": "inv_shoulder_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252327": {
+    "name_dede": "Schulterstücke der Wacht",
+    "icon": "inv_shoulder_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252325": {
+    "name_dede": "Schulterstücke des Offiziers",
+    "icon": "inv_shoulder_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252328": {
+    "name_dede": "Schulterstücke des Präfekten",
+    "icon": "inv_shoulder_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252329": {
+    "name_dede": "Schulterstücke des Rechtsprechers",
+    "icon": "inv_shoulder_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252360": {
+    "name_dede": "Mithrilstilett",
+    "icon": "inv_weapon_shortblade_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252361": {
+    "name_dede": "Geladene Mithrilstreitaxt",
+    "icon": "inv_axe_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252292": {
+    "name_dede": "Glänzender Mithrilhelm",
+    "icon": "inv_helmet_35",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252293": {
+    "name_dede": "Glänzende Mithrilhose",
+    "icon": "inv_pants_plate_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252294": {
+    "name_dede": "Glänzende Mithrilstulpen",
+    "icon": "inv_gauntlets_28",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446191": {
+    "name_dede": "Elendige Schulterstücke",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446179": {
+    "name_dede": "Schulterplatten des Schreckens",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446188": {
+    "name_dede": "Schulterschützer des Furchtschürers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252331": {
+    "name_dede": "Handgelenksschützer der Schildwache",
+    "icon": "inv_bracer_23a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252332": {
+    "name_dede": "Handgelenksschützer der Wacht",
+    "icon": "inv_bracer_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252330": {
+    "name_dede": "Handgelenksschützer des Offiziers",
+    "icon": "inv_bracer_22c",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252333": {
+    "name_dede": "Handgelenksschützer des Präfekten",
+    "icon": "inv_bracer_21b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252334": {
+    "name_dede": "Handgelenksschützer des Rechtsprechers",
+    "icon": "inv_bracer_22a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252301": {
+    "name_dede": "Handschuhe der Schildwache",
+    "icon": "inv_gauntlets_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252302": {
+    "name_dede": "Handschuhe der Wacht",
+    "icon": "inv_gauntlets_50",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252300": {
+    "name_dede": "Handschuhe des Offiziers",
+    "icon": "inv_gauntlets_51",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252303": {
+    "name_dede": "Handschuhe des Präfekten",
+    "icon": "inv_gauntlets_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252304": {
+    "name_dede": "Handschuhe des Rechtsprechers",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252311": {
+    "name_dede": "Sabatons der Schildwache",
+    "icon": "inv_boots_plate_20v1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252312": {
+    "name_dede": "Sabatons der Wacht",
+    "icon": "inv_boots_plate_19v1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252310": {
+    "name_dede": "Sabatons des Offiziers",
+    "icon": "inv_boots_plate_19v2",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252313": {
+    "name_dede": "Sabatons des Präfekten",
+    "icon": "inv_boots_plate_19v3",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252314": {
+    "name_dede": "Sabatons des Rechtsprechers",
+    "icon": "inv_boots_plate_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252335": {
+    "name_dede": "Gesegnete Plattenschulterstücke",
+    "icon": "inv_shoulder_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252336": {
+    "name_dede": "Gesegnete Plattenstiefel",
+    "icon": "inv_boots_plate_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224635": {
+    "name_dede": "Schützer des scharlachroten Soldaten",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224637": {
+    "name_dede": "Taillenschutz des scharlachroten Soldaten",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252337": {
+    "name_dede": "Gesegnete Plattenstulpen",
+    "icon": "inv_gauntlets_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252321": {
+    "name_dede": "Taillenschutz der Schildwache",
+    "icon": "inv_belt_37a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252322": {
+    "name_dede": "Taillenschutz der Wacht",
+    "icon": "inv_belt_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252320": {
+    "name_dede": "Taillenschutz des Offiziers",
+    "icon": "inv_belt_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252323": {
+    "name_dede": "Taillenschutz des Präfekten",
+    "icon": "inv_belt_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252324": {
+    "name_dede": "Taillenschutz des Rechtsprechers",
+    "icon": "inv_belt_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252363": {
+    "name_dede": "Thoriumcestus",
+    "icon": "inv_gauntlets_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252362": {
+    "name_dede": "Thoriumgroßstreitkolben",
+    "icon": "inv_hammer_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224636": {
+    "name_dede": "Handschutz des scharlachroten Soldaten",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224639": {
+    "name_dede": "Stampfer des scharlachroten Soldaten",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1317964": {
+    "name_dede": "Arkanitschmiedehammer",
+    "icon": "inv_hammer_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252339": {
+    "name_dede": "Gesegnete Plattenarmschienen",
+    "icon": "inv_bracer_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252338": {
+    "name_dede": "Imperiale Plattenstulpen",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252364": {
+    "name_dede": "Thoriumstangenaxt",
+    "icon": "inv_spear_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224638": {
+    "name_dede": "Beinplatten des scharlachroten Soldaten",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224633": {
+    "name_dede": "Brustplatte des scharlachroten Soldaten",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224631": {
+    "name_dede": "Helm des scharlachroten Soldaten",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224632": {
+    "name_dede": "Schiftung des scharlachroten Soldaten",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297141": {
+    "name_dede": "Handschutz des Gelegefürsten",
+    "icon": "inv_gauntlets_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297138": {
+    "name_dede": "Handschutz des Schreckensschlitzers",
+    "icon": "inv_gauntlets_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252340": {
+    "name_dede": "Gesegnete Plattengamaschen",
+    "icon": "inv_pants_plate_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252341": {
+    "name_dede": "Gesegneter Plattengürtel",
+    "icon": "inv_belt_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252365": {
+    "name_dede": "Grober Dolch",
+    "icon": "inv_weapon_shortblade_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297143": {
+    "name_dede": "Stampfer des Gelegefürsten",
+    "icon": "inv_boots_plate_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297140": {
+    "name_dede": "Stampfer des Schreckensschlitzers",
+    "icon": "inv_boots_plate_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297142": {
+    "name_dede": "Unterstützung des Gelegefürsten",
+    "icon": "inv_belt_34",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297139": {
+    "name_dede": "Unterstützung des Schreckensschlitzers",
+    "icon": "inv_belt_33",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252342": {
+    "name_dede": "Gesegneter Plattenhelm",
+    "icon": "inv_helmet_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1263073": {
+    "name_dede": "Meisterschmiede",
+    "icon": "inv_mace_1h_blacksmithing_b_01_black",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 3",
+    "description_dede": "Stellt eine Meisterschmiede her."
+  },
+  "1252343": {
+    "name_dede": "Gesegnete Plattenrüstung",
+    "icon": "inv_chest_plate03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461667": {
+    "name_dede": "Getemperte Dunkeleisenplatte",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461733": {
+    "name_dede": "Sorgsam verzauberter Kampfhammer",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306537": {
+    "name_dede": "Ausgelaugte Thoriumsabatons",
+    "icon": "inv_boots_plate_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306534": {
+    "name_dede": "Axt des Waldverteidigers",
+    "icon": "inv_axe_2h_raidhyjalc60_d_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306539": {
+    "name_dede": "Azerothiumbeinplatten",
+    "icon": "inv_pants_plate_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306533": {
+    "name_dede": "Eisenholzklinge",
+    "icon": "inv_sword_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306535": {
+    "name_dede": "Grünhammer",
+    "icon": "inv_mace_1h_raidhyjalc60_d_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306536": {
+    "name_dede": "Immergrüner Schild",
+    "icon": "inv_shield_1h_raidhyjalc60_d_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306538": {
+    "name_dede": "Schwere Thoriumstulpen",
+    "icon": "inv_gauntlets_28",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461651": {
+    "name_dede": "Feurige Plattenstulpen der verborgenen Technik",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461718": {
+    "name_dede": "Gelassenheit",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213643": {
+    "name_dede": "Obsidianschleifstein",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461737": {
+    "name_dede": "Sturmstulpen",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461714": {
+    "name_dede": "Entweihung",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292949": {
+    "name_dede": "Beinplatten der Gerechtigkeit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292981": {
+    "name_dede": "Beinplatten des Ruhms",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292953": {
+    "name_dede": "Beinschützer der Gerechtigkeit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292985": {
+    "name_dede": "Beinschützer des Ruhms",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292945": {
+    "name_dede": "Gamaschen der Gerechtigkeit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292950": {
+    "name_dede": "Handschuhe der Gerechtigkeit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292954": {
+    "name_dede": "Handschützer der Gerechtigkeit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292986": {
+    "name_dede": "Handschützer des Ruhms",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292956": {
+    "name_dede": "Sabatons der Gerechtigkeit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292988": {
+    "name_dede": "Sabatons des Ruhms",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292948": {
+    "name_dede": "Schienbeinschützer der Gerechtigkeit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292984": {
+    "name_dede": "Schienbeinschützer des Ruhms",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292947": {
+    "name_dede": "Schiftung der Gerechtigkeit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292951": {
+    "name_dede": "Schulterklappen der Gerechtigkeit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292983": {
+    "name_dede": "Schultern des Ruhms",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292955": {
+    "name_dede": "Schulterstücke der Gerechtigkeit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292987": {
+    "name_dede": "Schulterstücke des Ruhms",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292946": {
+    "name_dede": "Stulpen der Gerechtigkeit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292982": {
+    "name_dede": "Stulpen des Ruhms",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292952": {
+    "name_dede": "Treter der Gerechtigkeit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252347": {
+    "name_dede": "Beinplatten des Feldherrn",
+    "icon": "inv_pants_plate_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252348": {
+    "name_dede": "Bruchfester Helm",
+    "icon": "inv_helmet_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252350": {
+    "name_dede": "Erretterbrustplatte",
+    "icon": "inv_chest_plate09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252349": {
+    "name_dede": "Märtyrerbeinplatten",
+    "icon": "inv_pants_plate_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252344": {
+    "name_dede": "Angereicherte Thoriumbrustplatte",
+    "icon": "inv_chest_plate11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252345": {
+    "name_dede": "Angereicherte Thoriumgamaschen",
+    "icon": "inv_pants_plate_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252346": {
+    "name_dede": "Angereicherter Thoriumhelm",
+    "icon": "inv_helmet_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252367": {
+    "name_dede": "Baghnakh",
+    "icon": "inv_misc_monsterclaw_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252368": {
+    "name_dede": "Gleve des Legioniten",
+    "icon": "inv_spear_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252366": {
+    "name_dede": "Sturmschnitzer",
+    "icon": "inv_axe_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1215507": {
+    "name_dede": "Dicke Obsidianbrustplatte",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1214257": {
+    "name_dede": "Dunkler Griff des Zerstörers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213715": {
+    "name_dede": "Eisenrankenbrustplatte",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213709": {
+    "name_dede": "Eisenrankengürtel",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213711": {
+    "name_dede": "Eisenrankenhandschuhe",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223791": {
+    "name_dede": "Eisflucharmschienen",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223787": {
+    "name_dede": "Eisfluchbrustplatte",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223789": {
+    "name_dede": "Eisfluchstulpen",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461671": {
+    "name_dede": "Festerungsstulpen",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461730": {
+    "name_dede": "Gehärtete Frostwache",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1214270": {
+    "name_dede": "Gezackter Obsidianschild",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213481": {
+    "name_dede": "Klingenstachelhirnkasten",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213490": {
+    "name_dede": "Klingenstachelkampfplatte",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213484": {
+    "name_dede": "Klingenstachelschulterplatten",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461739": {
+    "name_dede": "Kriegswappen des großen Häuptlings",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213748": {
+    "name_dede": "Leichter Obsidiangürtel",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461647": {
+    "name_dede": "Meisterlicher Sturmhammer des Himmelsreiters",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213498": {
+    "name_dede": "Obsidianchampion",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213492": {
+    "name_dede": "Obsidianhäscher",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1214137": {
+    "name_dede": "Obsidianherzsucher",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1214274": {
+    "name_dede": "Obsidianpanzertunika",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213502": {
+    "name_dede": "Obsidiansturmhammer",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213506": {
+    "name_dede": "Obsidianverteidiger",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213504": {
+    "name_dede": "Obsidianweisenklinge",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213500": {
+    "name_dede": "Obsidianzerstörer",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213746": {
+    "name_dede": "Schwerer Obsidiangürtel",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461716": {
+    "name_dede": "Tödlicher Herzsucher",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1214309": {
+    "name_dede": "Traumschuppenvisier",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461735": {
+    "name_dede": "Unverwundbarer Panzer",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461669": {
+    "name_dede": "Veredelter Arkanitchampion",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461675": {
+    "name_dede": "Veredelter Arkanitschnitter",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461712": {
+    "name_dede": "Veredelter Hammer der Titanen",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461743": {
+    "name_dede": "Weisenklinge des Erzmagiers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "460460": {
+    "name_dede": "Sulfuronhammer",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  }
+}

@@ -1,0 +1,612 @@
+{
+  "2771": {
+    "name_enus": "Tin Ore",
+    "quality": 1,
+    "icon": "inv_ore_tin_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 290,
+      "itemSquishEraId": 0,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3576": {
+    "name_enus": "Tin Bar",
+    "quality": 1,
+    "icon": "inv_ingot_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 248,
+      "itemSquishEraId": 0,
+      "sellprice": 35
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2840": {
+    "name_enus": "Copper Bar",
+    "quality": 1,
+    "icon": "inv_ingot_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 309,
+      "itemSquishEraId": 0,
+      "sellprice": 10
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2841": {
+    "name_enus": "Bronze Bar",
+    "quality": 1,
+    "icon": "inv_ingot_bronze",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 451,
+      "itemSquishEraId": 0,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2775": {
+    "name_enus": "Silver Ore",
+    "quality": 2,
+    "icon": "inv_stone_16",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2097,
+      "itemSquishEraId": 0,
+      "sellprice": 75
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2842": {
+    "name_enus": "Silver Bar",
+    "quality": 2,
+    "icon": "inv_ingot_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 732,
+      "itemSquishEraId": 0,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2772": {
+    "name_enus": "Iron Ore",
+    "quality": 1,
+    "icon": "inv_ore_iron_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 986,
+      "itemSquishEraId": 0,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3575": {
+    "name_enus": "Iron Bar",
+    "quality": 1,
+    "icon": "inv_ingot_iron",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1360,
+      "itemSquishEraId": 0,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2776": {
+    "name_enus": "Gold Ore",
+    "quality": 2,
+    "icon": "inv_ore_copper_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1719,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3577": {
+    "name_enus": "Gold Bar",
+    "quality": 2,
+    "icon": "inv_ingot_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1637,
+      "itemSquishEraId": 0,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3857": {
+    "name_enus": "Coal",
+    "quality": 1,
+    "icon": "inv_ore_tin_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 359,
+      "buyprice": 500,
+      "itemSquishEraId": 0,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3859": {
+    "name_enus": "Steel Bar",
+    "quality": 1,
+    "icon": "inv_ingot_steel",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2665,
+      "itemSquishEraId": 0,
+      "sellprice": 60
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3858": {
+    "name_enus": "Mithril Ore",
+    "quality": 1,
+    "icon": "inv_ore_mithril_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1469,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3860": {
+    "name_enus": "Mithril Bar",
+    "quality": 1,
+    "icon": "inv_ingot_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2168,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10620": {
+    "name_enus": "Thorium Ore",
+    "quality": 1,
+    "icon": "inv_ore_thorium_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2076,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12359": {
+    "name_enus": "Thorium Bar",
+    "quality": 1,
+    "icon": "inv_ingot_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3226,
+      "itemSquishEraId": 0,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2835": {
+    "name_enus": "Rough Stone",
+    "quality": 1,
+    "icon": "inv_stone_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 29,
+      "itemSquishEraId": 0,
+      "sellprice": 2
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279960": {
+    "name_enus": "Lodestone",
+    "quality": 1,
+    "icon": "inv_misc_rune_06",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 186,
+      "reqskillrank": 20
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2770": {
+    "name_enus": "Copper Ore",
+    "quality": 1,
+    "icon": "inv_ore_copper_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 204,
+      "itemSquishEraId": 0,
+      "sellprice": 5
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2838": {
+    "name_enus": "Heavy Stone",
+    "quality": 1,
+    "icon": "inv_stone_12",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 790,
+      "itemSquishEraId": 0,
+      "sellprice": 60
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279948": {
+    "name_enus": "Rock Garden",
+    "quality": 1,
+    "icon": "inv_misc_powder_iron",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 186,
+      "reqskillrank": 140
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7911": {
+    "name_enus": "Truesilver Ore",
+    "quality": 2,
+    "icon": "inv_ore_truesilver_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1253,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6037": {
+    "name_enus": "Truesilver Bar",
+    "quality": 2,
+    "icon": "inv_ingot_08",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3164,
+      "itemSquishEraId": 0,
+      "sellprice": 1250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "11370": {
+    "name_enus": "Dark Iron Ore",
+    "quality": 1,
+    "icon": "inv_ore_mithril_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3488,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "11371": {
+    "name_enus": "Dark Iron Bar",
+    "quality": 1,
+    "icon": "inv_ingot_mithril",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 76500,
+      "itemSquishEraId": 0,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249426": {
+    "name_enus": "Pitchblende",
+    "quality": 2,
+    "icon": "inv_ore_elethium_nugget",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 375
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249726": {
+    "name_enus": "Azerothium Bar",
+    "quality": 2,
+    "icon": "inv_ingot_livingsteel",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12365": {
+    "name_enus": "Dense Stone",
+    "quality": 1,
+    "icon": "inv_misc_stonetablet_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1412,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279952": {
+    "name_enus": "Molten Foundry",
+    "quality": 1,
+    "icon": "inv_blacksmithingalloys_red",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 186,
+      "reqskillrank": 300
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "248815": {
+    "name_enus": "Heavy Thorium Ore",
+    "quality": 1,
+    "icon": "inv_ore_oxxein",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 375
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "251291": {
+    "name_enus": "Heavy Thorium Bar",
+    "quality": 2,
+    "icon": "item_elementiumbar",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 2500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18562": {
+    "name_enus": "Elementium Ore",
+    "quality": 4,
+    "icon": "inv_stone_sharpeningstone_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 321758,
+      "itemSquishEraId": 0,
+      "sellprice": 100000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12360": {
+    "name_enus": "Arcanite Bar",
+    "quality": 2,
+    "icon": "inv_misc_stonetablet_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 541000,
+      "itemSquishEraId": 0,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "17010": {
+    "name_enus": "Fiery Core",
+    "quality": 3,
+    "icon": "spell_fire_flamebolt",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 127096,
+      "buyprice": 8000,
+      "itemSquishEraId": 0,
+      "sellprice": 2000
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18567": {
+    "name_enus": "Elemental Flux",
+    "quality": 1,
+    "icon": "spell_frost_fireresistancetotem",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 10000,
+      "buyprice": 150000,
+      "itemSquishEraId": 0,
+      "sellprice": 37500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "17771": {
+    "name_enus": "Elementium Bar",
+    "quality": 5,
+    "icon": "inv_ingot_thorium",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 9500000,
+      "itemSquishEraId": 0,
+      "sellprice": 100000
+    },
+    "attainable": 0,
+    "flags2": -2147454972,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12655": {
+    "name_enus": "Enchanted Thorium Bar",
+    "quality": 1,
+    "icon": "inv_ingot_eternium",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 28752,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "22203": {
+    "name_enus": "Large Obsidian Shard",
+    "quality": 1,
+    "icon": "inv_stone_15",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 590000,
+      "itemSquishEraId": 0,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  }
+}

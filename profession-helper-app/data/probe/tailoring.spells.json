@@ -1,0 +1,4295 @@
+{
+  "2963": {
+    "name_enus": "Bolt of Linen Cloth",
+    "icon": "inv_fabric_linen_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3915": {
+    "name_enus": "Brown Linen Shirt",
+    "icon": "inv_shirt_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2387": {
+    "name_enus": "Linen Cloak",
+    "icon": "inv_misc_cape_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2393": {
+    "name_enus": "White Linen Shirt",
+    "icon": "inv_shirt_white_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12044": {
+    "name_enus": "Simple Linen Pants",
+    "icon": "inv_pants_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2385": {
+    "name_enus": "Brown Linen Vest",
+    "icon": "inv_shirt_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8776": {
+    "name_enus": "Linen Belt",
+    "icon": "inv_belt_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12045": {
+    "name_enus": "Simple Linen Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3914": {
+    "name_enus": "Brown Linen Pants",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7623": {
+    "name_enus": "Brown Linen Robe",
+    "icon": "inv_chest_cloth_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7624": {
+    "name_enus": "White Linen Robe",
+    "icon": "inv_chest_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3840": {
+    "name_enus": "Heavy Linen Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2389": {
+    "name_enus": "Red Linen Robe",
+    "icon": "inv_chest_cloth_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2394": {
+    "name_enus": "Blue Linen Shirt",
+    "icon": "inv_shirt_blue_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2392": {
+    "name_enus": "Red Linen Shirt",
+    "icon": "inv_shirt_red_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8465": {
+    "name_enus": "Simple Dress",
+    "icon": "inv_shirt_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3755": {
+    "name_enus": "Linen Bag",
+    "icon": "inv_misc_bag_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3909": {
+    "name_enus": "Tailoring",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "Allows a tailor to make fashionable cloth shirts and armors up to a maximum potential skill of 150."
+  },
+  "7630": {
+    "name_enus": "Blue Linen Vest",
+    "icon": "inv_chest_cloth_37",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7629": {
+    "name_enus": "Red Linen Vest",
+    "icon": "inv_chest_cloth_40",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3841": {
+    "name_enus": "Green Linen Bracers",
+    "icon": "inv_bracer_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2397": {
+    "name_enus": "Reinforced Linen Cape",
+    "icon": "inv_misc_cape_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2386": {
+    "name_enus": "Linen Boots",
+    "icon": "inv_boots_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2395": {
+    "name_enus": "Barbaric Linen Vest",
+    "icon": "inv_chest_fur",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2396": {
+    "name_enus": "Green Linen Shirt",
+    "icon": "inv_shirt_green_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7633": {
+    "name_enus": "Blue Linen Robe",
+    "icon": "inv_chest_cloth_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3842": {
+    "name_enus": "Handstitched Linen Britches",
+    "icon": "inv_pants_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6686": {
+    "name_enus": "Red Linen Bag",
+    "icon": "inv_misc_bag_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2964": {
+    "name_enus": "Bolt of Woolen Cloth",
+    "icon": "inv_fabric_wool_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12046": {
+    "name_enus": "Simple Kilt",
+    "icon": "inv_pants_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2402": {
+    "name_enus": "Woolen Cape",
+    "icon": "inv_misc_cape_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3757": {
+    "name_enus": "Woolen Bag",
+    "icon": "inv_misc_bag_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3845": {
+    "name_enus": "Soft-soled Linen Boots",
+    "icon": "inv_boots_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2399": {
+    "name_enus": "Green Woolen Vest",
+    "icon": "inv_chest_cloth_39",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3843": {
+    "name_enus": "Heavy Woolen Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6521": {
+    "name_enus": "Pearl-clasped Cloak",
+    "icon": "inv_misc_cape_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3847": {
+    "name_enus": "Red Woolen Boots",
+    "icon": "inv_boots_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2401": {
+    "name_enus": "Woolen Boots",
+    "icon": "inv_boots_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3758": {
+    "name_enus": "Green Woolen Bag",
+    "icon": "inv_misc_bag_10_green",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2406": {
+    "name_enus": "Gray Woolen Shirt",
+    "icon": "inv_shirt_grey_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7639": {
+    "name_enus": "Blue Overalls",
+    "icon": "inv_shirt_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3844": {
+    "name_enus": "Heavy Woolen Cloak",
+    "icon": "inv_misc_cape_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2403": {
+    "name_enus": "Gray Woolen Robe",
+    "icon": "inv_chest_cloth_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3848": {
+    "name_enus": "Double-stitched Woolen Shoulders",
+    "icon": "inv_shoulder_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3850": {
+    "name_enus": "Heavy Woolen Pants",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8467": {
+    "name_enus": "White Woolen Dress",
+    "icon": "inv_shirt_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3866": {
+    "name_enus": "Stylish Red Shirt",
+    "icon": "inv_shirt_red_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7643": {
+    "name_enus": "Greater Adept's Robe",
+    "icon": "inv_chest_cloth_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6688": {
+    "name_enus": "Red Woolen Bag",
+    "icon": "inv_misc_bag_10_red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12047": {
+    "name_enus": "Colorful Kilt",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3849": {
+    "name_enus": "Reinforced Woolen Shoulders",
+    "icon": "inv_shoulder_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7892": {
+    "name_enus": "Stylish Blue Shirt",
+    "icon": "inv_shirt_blue_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7893": {
+    "name_enus": "Stylish Green Shirt",
+    "icon": "inv_shirt_green_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3910": {
+    "name_enus": "Tailoring",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "Allows a tailor to make shirts and armors that are the height of style up to a maximum potential skill of 225."
+  },
+  "3839": {
+    "name_enus": "Bolt of Silk Cloth",
+    "icon": "inv_fabric_silk_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3855": {
+    "name_enus": "Spidersilk Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3868": {
+    "name_enus": "Phoenix Gloves",
+    "icon": "inv_gauntlets_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3851": {
+    "name_enus": "Phoenix Pants",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3852": {
+    "name_enus": "Gloves of Meditation",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3869": {
+    "name_enus": "Bright Yellow Shirt",
+    "icon": "inv_shirt_yellow_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6690": {
+    "name_enus": "Lesser Wizard's Robe",
+    "icon": "inv_chest_cloth_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3856": {
+    "name_enus": "Spider Silk Slippers",
+    "icon": "inv_boots_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8758": {
+    "name_enus": "Azure Silk Pants",
+    "icon": "inv_pants_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8760": {
+    "name_enus": "Azure Silk Hood",
+    "icon": "inv_helmet_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3854": {
+    "name_enus": "Azure Silk Gloves",
+    "icon": "inv_gauntlets_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8780": {
+    "name_enus": "Hands of Darkness",
+    "icon": "inv_gauntlets_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3859": {
+    "name_enus": "Azure Silk Vest",
+    "icon": "inv_chest_cloth_37",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6692": {
+    "name_enus": "Robes of Arcana",
+    "icon": "inv_chest_cloth_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8782": {
+    "name_enus": "Truefaith Gloves",
+    "icon": "inv_gauntlets_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3813": {
+    "name_enus": "Small Silk Pack",
+    "icon": "inv_misc_bag_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3870": {
+    "name_enus": "Dark Silk Shirt",
+    "icon": "inv_shirt_black_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8762": {
+    "name_enus": "Silk Headband",
+    "icon": "inv_misc_bandana_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8483": {
+    "name_enus": "White Swashbuckler's Shirt",
+    "icon": "inv_shirt_white_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3857": {
+    "name_enus": "Enchanter's Cowl",
+    "icon": "inv_helmet_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8784": {
+    "name_enus": "Green Silk Armor",
+    "icon": "inv_chest_cloth_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3871": {
+    "name_enus": "Formal White Shirt",
+    "icon": "inv_shirt_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8764": {
+    "name_enus": "Earthen Vest",
+    "icon": "inv_shirt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3858": {
+    "name_enus": "Shadow Hood",
+    "icon": "inv_helmet_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439100": {
+    "name_enus": "Earthen Vest",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3865": {
+    "name_enus": "Bolt of Mageweave",
+    "icon": "inv_fabric_mageweave_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8489": {
+    "name_enus": "Red Swashbuckler's Shirt",
+    "icon": "inv_shirt_red_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8766": {
+    "name_enus": "Azure Silk Belt",
+    "icon": "inv_belt_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8786": {
+    "name_enus": "Azure Silk Cloak",
+    "icon": "inv_chest_cloth_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3860": {
+    "name_enus": "Boots of the Enchanter",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8772": {
+    "name_enus": "Crimson Silk Belt",
+    "icon": "inv_belt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6693": {
+    "name_enus": "Green Silk Pack",
+    "icon": "inv_misc_bag_07_green",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439098": {
+    "name_enus": "Crimson Silk Belt",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8789": {
+    "name_enus": "Crimson Silk Cloak",
+    "icon": "inv_chest_cloth_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8774": {
+    "name_enus": "Green Silken Shoulders",
+    "icon": "inv_shoulder_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3863": {
+    "name_enus": "Spider Belt",
+    "icon": "inv_belt_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3872": {
+    "name_enus": "Rich Purple Silk Shirt",
+    "icon": "inv_shirt_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8791": {
+    "name_enus": "Crimson Silk Vest",
+    "icon": "inv_shirt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3861": {
+    "name_enus": "Long Silken Cloak",
+    "icon": "inv_misc_cape_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6695": {
+    "name_enus": "Black Silk Pack",
+    "icon": "inv_misc_bag_07_black",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439094": {
+    "name_enus": "Long Silken Cloak",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "21945": {
+    "name_enus": "Green Holiday Shirt",
+    "icon": "inv_shirt_green_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8770": {
+    "name_enus": "Robe of Power",
+    "icon": "inv_chest_cloth_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8795": {
+    "name_enus": "Azure Shoulders",
+    "icon": "inv_shoulder_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8793": {
+    "name_enus": "Crimson Silk Shoulders",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8799": {
+    "name_enus": "Crimson Silk Pantaloons",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8797": {
+    "name_enus": "Earthen Silk Belt",
+    "icon": "inv_belt_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12180": {
+    "name_enus": "Tailoring",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "Allows a tailor to make shirts and armors that are the height of style up to a maximum potential skill of 300."
+  },
+  "3873": {
+    "name_enus": "Black Swashbuckler's Shirt",
+    "icon": "inv_shirt_black_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3862": {
+    "name_enus": "Icy Cloak",
+    "icon": "inv_misc_cape_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3864": {
+    "name_enus": "Star Belt",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12049": {
+    "name_enus": "Black Mageweave Leggings",
+    "icon": "inv_pants_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12048": {
+    "name_enus": "Black Mageweave Vest",
+    "icon": "inv_chest_leather_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8802": {
+    "name_enus": "Crimson Silk Robe",
+    "icon": "inv_chest_cloth_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439088": {
+    "name_enus": "Black Mageweave Leggings",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439086": {
+    "name_enus": "Black Mageweave Vest",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12050": {
+    "name_enus": "Black Mageweave Robe",
+    "icon": "inv_chest_cloth_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8804": {
+    "name_enus": "Crimson Silk Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12052": {
+    "name_enus": "Shadoweave Pants",
+    "icon": "inv_pants_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12059": {
+    "name_enus": "White Bandit Mask",
+    "icon": "inv_helmet_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12061": {
+    "name_enus": "Orange Mageweave Shirt",
+    "icon": "inv_shirt_orange_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12053": {
+    "name_enus": "Black Mageweave Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12060": {
+    "name_enus": "Red Mageweave Pants",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12056": {
+    "name_enus": "Red Mageweave Vest",
+    "icon": "inv_shirt_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12055": {
+    "name_enus": "Shadoweave Robe",
+    "icon": "inv_chest_cloth_38",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12064": {
+    "name_enus": "Orange Martial Shirt",
+    "icon": "inv_shirt_orange_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12067": {
+    "name_enus": "Dreamweave Gloves",
+    "icon": "inv_gauntlets_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12070": {
+    "name_enus": "Dreamweave Vest",
+    "icon": "inv_chest_cloth_42",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12069": {
+    "name_enus": "Cindercloth Robe",
+    "icon": "inv_chest_cloth_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "27658": {
+    "name_enus": "Enchanted Mageweave Pouch",
+    "icon": "inv_misc_bag_enchantedmageweave",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12066": {
+    "name_enus": "Red Mageweave Gloves",
+    "icon": "inv_gauntlets_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12071": {
+    "name_enus": "Shadoweave Gloves",
+    "icon": "inv_gauntlets_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12065": {
+    "name_enus": "Mageweave Bag",
+    "icon": "inv_misc_bag_10_black",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12075": {
+    "name_enus": "Lavender Mageweave Shirt",
+    "icon": "inv_shirt_purple_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12073": {
+    "name_enus": "Black Mageweave Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12072": {
+    "name_enus": "Black Mageweave Headband",
+    "icon": "inv_misc_bandana_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12074": {
+    "name_enus": "Black Mageweave Shoulders",
+    "icon": "inv_shoulder_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12080": {
+    "name_enus": "Pink Mageweave Shirt",
+    "icon": "inv_shirt_red_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12077": {
+    "name_enus": "Simple Black Dress",
+    "icon": "inv_chest_cloth_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12078": {
+    "name_enus": "Red Mageweave Shoulders",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12076": {
+    "name_enus": "Shadoweave Shoulders",
+    "icon": "inv_shoulder_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12079": {
+    "name_enus": "Red Mageweave Bag",
+    "icon": "inv_misc_bag_10_red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12081": {
+    "name_enus": "Admiral's Hat",
+    "icon": "inv_helmet_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12085": {
+    "name_enus": "Tuxedo Shirt",
+    "icon": "inv_shirt_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12084": {
+    "name_enus": "Red Mageweave Headband",
+    "icon": "inv_misc_bandana_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12082": {
+    "name_enus": "Shadoweave Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12086": {
+    "name_enus": "Shadoweave Mask",
+    "icon": "inv_helmet_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12089": {
+    "name_enus": "Tuxedo Pants",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12088": {
+    "name_enus": "Cindercloth Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26403": {
+    "name_enus": "Festival Dress",
+    "icon": "inv_chest_cloth_56",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26407": {
+    "name_enus": "Festival Suit",
+    "icon": "inv_chest_cloth_55",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18401": {
+    "name_enus": "Bolt of Runecloth",
+    "icon": "inv_fabric_purplefire_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12093": {
+    "name_enus": "Tuxedo Jacket",
+    "icon": "inv_shirt_black_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12091": {
+    "name_enus": "White Wedding Dress",
+    "icon": "inv_chest_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "12092": {
+    "name_enus": "Dreamweave Circlet",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18560": {
+    "name_enus": "Mooncloth",
+    "icon": "inv_fabric_moonrag_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "The purification of tainted Felcloth into Mooncloth can only be done at a moonwell, and only once every 4 days will the waters permit themselves to be used in such a way."
+  },
+  "18404": {
+    "name_enus": "Frostweave Robe",
+    "icon": "inv_chest_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18403": {
+    "name_enus": "Frostweave Tunic",
+    "icon": "inv_chest_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18402": {
+    "name_enus": "Runecloth Belt",
+    "icon": "inv_belt_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18408": {
+    "name_enus": "Cindercloth Vest",
+    "icon": "inv_chest_cloth_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18406": {
+    "name_enus": "Runecloth Robe",
+    "icon": "inv_chest_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18407": {
+    "name_enus": "Runecloth Tunic",
+    "icon": "inv_chest_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26085": {
+    "name_enus": "Soul Pouch",
+    "icon": "inv_misc_bag_soulbag",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18405": {
+    "name_enus": "Runecloth Bag",
+    "icon": "inv_misc_bag_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18411": {
+    "name_enus": "Frostweave Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18410": {
+    "name_enus": "Ghostweave Belt",
+    "icon": "inv_belt_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18409": {
+    "name_enus": "Runecloth Cloak",
+    "icon": "inv_misc_cape_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18415": {
+    "name_enus": "Brightcloth Gloves",
+    "icon": "inv_gauntlets_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18414": {
+    "name_enus": "Brightcloth Robe",
+    "icon": "inv_chest_cloth_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18412": {
+    "name_enus": "Cindercloth Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18413": {
+    "name_enus": "Ghostweave Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18422": {
+    "name_enus": "Cloak of Fire",
+    "icon": "inv_misc_cape_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18416": {
+    "name_enus": "Ghostweave Vest",
+    "icon": "inv_shirt_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18420": {
+    "name_enus": "Brightcloth Cloak",
+    "icon": "inv_misc_cape_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "27724": {
+    "name_enus": "Cenarion Herb Bag",
+    "icon": "inv_misc_bag_cenarionherbbag",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18418": {
+    "name_enus": "Cindercloth Cloak",
+    "icon": "inv_misc_cape_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "27659": {
+    "name_enus": "Enchanted Runecloth Bag",
+    "icon": "inv_misc_bag_enchantedrunecloth",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18419": {
+    "name_enus": "Felcloth Pants",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18417": {
+    "name_enus": "Runecloth Gloves",
+    "icon": "inv_gauntlets_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18421": {
+    "name_enus": "Wizardweave Leggings",
+    "icon": "inv_pants_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18434": {
+    "name_enus": "Cindercloth Pants",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18424": {
+    "name_enus": "Frostweave Pants",
+    "icon": "inv_pants_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18423": {
+    "name_enus": "Runecloth Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26086": {
+    "name_enus": "Felcloth Bag",
+    "icon": "inv_misc_bag_felclothbag",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18437": {
+    "name_enus": "Felcloth Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18438": {
+    "name_enus": "Runecloth Pants",
+    "icon": "inv_pants_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18436": {
+    "name_enus": "Robe of Winter Night",
+    "icon": "inv_chest_cloth_49",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18439": {
+    "name_enus": "Brightcloth Pants",
+    "icon": "inv_pants_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18442": {
+    "name_enus": "Felcloth Hood",
+    "icon": "inv_helmet_34",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18441": {
+    "name_enus": "Ghostweave Pants",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23664": {
+    "name_enus": "Argent Boots",
+    "icon": "inv_boots_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18440": {
+    "name_enus": "Mooncloth Leggings",
+    "icon": "inv_pants_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23662": {
+    "name_enus": "Wisdom of the Timbermaw",
+    "icon": "inv_belt_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19435": {
+    "name_enus": "Mooncloth Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18444": {
+    "name_enus": "Runecloth Headband",
+    "icon": "inv_misc_bandana_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "27660": {
+    "name_enus": "Big Bag of Enchantment",
+    "icon": "inv_misc_bag_bigbagofenchantments",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18445": {
+    "name_enus": "Mooncloth Bag",
+    "icon": "inv_misc_bag_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "27725": {
+    "name_enus": "Satchel of Cenarius",
+    "icon": "inv_misc_bag_satchelofcenarius",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18446": {
+    "name_enus": "Wizardweave Robe",
+    "icon": "inv_chest_cloth_46",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18451": {
+    "name_enus": "Felcloth Robe",
+    "icon": "inv_chest_cloth_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18449": {
+    "name_enus": "Runecloth Shoulders",
+    "icon": "inv_shoulder_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18450": {
+    "name_enus": "Wizardweave Turban",
+    "icon": "inv_helmet_63",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18453": {
+    "name_enus": "Felcloth Shoulders",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18447": {
+    "name_enus": "Mooncloth Vest",
+    "icon": "inv_chest_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22902": {
+    "name_enus": "Mooncloth Robe",
+    "icon": "inv_chest_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18448": {
+    "name_enus": "Mooncloth Shoulders",
+    "icon": "inv_shoulder_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22870": {
+    "name_enus": "Cloak of Warding",
+    "icon": "inv_misc_cape_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22867": {
+    "name_enus": "Felcloth Gloves",
+    "icon": "inv_gauntlets_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22868": {
+    "name_enus": "Inferno Gloves",
+    "icon": "inv_gauntlets_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18452": {
+    "name_enus": "Mooncloth Circlet",
+    "icon": "inv_misc_bandana_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22869": {
+    "name_enus": "Mooncloth Gloves",
+    "icon": "inv_gauntlets_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24902": {
+    "name_enus": "Runed Stygian Belt",
+    "icon": "inv_belt_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24903": {
+    "name_enus": "Runed Stygian Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24901": {
+    "name_enus": "Runed Stygian Leggings",
+    "icon": "inv_pants_cloth_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23663": {
+    "name_enus": "Mantle of the Timbermaw",
+    "icon": "inv_shoulder_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23665": {
+    "name_enus": "Argent Shoulders",
+    "icon": "inv_shoulder_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22866": {
+    "name_enus": "Belt of the Archmage",
+    "icon": "inv_belt_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18454": {
+    "name_enus": "Gloves of Spell Mastery",
+    "icon": "inv_gauntlets_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18457": {
+    "name_enus": "Robe of the Archmage",
+    "icon": "inv_chest_cloth_38",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18458": {
+    "name_enus": "Robe of the Void",
+    "icon": "inv_chest_cloth_51",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18456": {
+    "name_enus": "Truefaith Vestments",
+    "icon": "inv_chest_cloth_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26087": {
+    "name_enus": "Core Felcloth Bag",
+    "icon": "inv_misc_bag_corefelclothbag",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "20849": {
+    "name_enus": "Flarecore Gloves",
+    "icon": "inv_gauntlets_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23667": {
+    "name_enus": "Flarecore Leggings",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "20848": {
+    "name_enus": "Flarecore Mantle",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23666": {
+    "name_enus": "Flarecore Robe",
+    "icon": "inv_chest_cloth_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28208": {
+    "name_enus": "Glacial Cloak",
+    "icon": "inv_misc_cape_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28205": {
+    "name_enus": "Glacial Gloves",
+    "icon": "inv_gauntlets_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28207": {
+    "name_enus": "Glacial Vest",
+    "icon": "inv_chest_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28209": {
+    "name_enus": "Glacial Wrists",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24093": {
+    "name_enus": "Bloodvine Boots",
+    "icon": "inv_boots_cloth_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24092": {
+    "name_enus": "Bloodvine Leggings",
+    "icon": "inv_pants_cloth_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24091": {
+    "name_enus": "Bloodvine Vest",
+    "icon": "inv_chest_cloth_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "18455": {
+    "name_enus": "Bottomless Bag",
+    "icon": "inv_misc_bag_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28210": {
+    "name_enus": "Gaea's Embrace",
+    "icon": "inv_misc_cape_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28481": {
+    "name_enus": "Sylvan Crown",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28482": {
+    "name_enus": "Sylvan Shoulders",
+    "icon": "inv_shoulder_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28480": {
+    "name_enus": "Sylvan Vest",
+    "icon": "inv_chest_plate07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22759": {
+    "name_enus": "Flarecore Wraps",
+    "icon": "inv_bracer_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252981": {
+    "name_enus": "Slimeslayer's Adaptive Cord",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252980": {
+    "name_enus": "Slimeslayer's Adaptive Cuffs",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252979": {
+    "name_enus": "Slimeslayer's Adaptive Robes",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252993": {
+    "name_enus": "Slimetender's Adaptive Belt",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252992": {
+    "name_enus": "Slimetender's Adaptive Bracers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252991": {
+    "name_enus": "Slimetender's Adaptive Tunic",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3908": {
+    "name_enus": "Tailoring",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "Allows a tailor to make basic cloth armors up to a maximum potential skill of 75.  Requires cloth found on humanoids."
+  },
+  "1240953": {
+    "name_enus": "Tailoring",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "<a href=\"/beta/spell=3908/tailoring\" target=\"_blank\">Allows a tailor to make basic cloth armors up to a maximum potential skill of 75.  Requires cloth found on humanoids.</a>"
+  },
+  "1240988": {
+    "name_enus": "Tailoring",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "<a href=\"/beta/spell=12180/tailoring\" target=\"_blank\">Allows a tailor to make shirts and armors that are the height of style up to a maximum potential skill of 300.</a>"
+  },
+  "1240976": {
+    "name_enus": "Tailoring",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "<a href=\"/beta/spell=3910/tailoring\" target=\"_blank\">Allows a tailor to make shirts and armors that are the height of style up to a maximum potential skill of 225.</a>"
+  },
+  "1240964": {
+    "name_enus": "Tailoring",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "<a href=\"/beta/spell=3909/tailoring\" target=\"_blank\">Allows a tailor to make fashionable cloth shirts and armors up to a maximum potential skill of 150.</a>"
+  },
+  "1229504": {
+    "name_enus": "Faction Banner",
+    "icon": "inv_banner_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 1",
+    "description_enus": "Craft a Faction Banner."
+  },
+  "1263425": {
+    "name_enus": "Faction Banner",
+    "icon": "inv_banner_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 1",
+    "description_enus": "Craft a Faction Banner."
+  },
+  "1257013": {
+    "name_enus": "Linen Reagent Bag",
+    "icon": "inv_misc_bag_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257368": {
+    "name_enus": "Novice Arcanist's Sash",
+    "icon": "inv_belt_43a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257369": {
+    "name_enus": "Novice Ardent's Sash",
+    "icon": "inv_belt_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301466": {
+    "name_enus": "Azure Stormsewn Cord",
+    "icon": "inv_belt_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301464": {
+    "name_enus": "Azure Stormsewn Cuffs",
+    "icon": "inv_bracer_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301442": {
+    "name_enus": "Cloudy Stormsewn Cord",
+    "icon": "inv_belt_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301440": {
+    "name_enus": "Cloudy Stormsewn Cuffs",
+    "icon": "inv_bracer_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301465": {
+    "name_enus": "Azure Stormsewn Handwraps",
+    "icon": "inv_glove_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301469": {
+    "name_enus": "Azure Stormsewn Shoes",
+    "icon": "inv_boot_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301441": {
+    "name_enus": "Cloudy Stormsewn Handwraps",
+    "icon": "inv_glove_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301444": {
+    "name_enus": "Cloudy Stormsewn Shoes",
+    "icon": "inv_boot_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301468": {
+    "name_enus": "Azure Stormsewn Leggings",
+    "icon": "inv_pant_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301463": {
+    "name_enus": "Azure Stormsewn Vest",
+    "icon": "inv_chest-_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301443": {
+    "name_enus": "Cloudy Stormsewn Leggings",
+    "icon": "inv_pant_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301439": {
+    "name_enus": "Cloudy Stormsewn Vest",
+    "icon": "inv_chest-_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257017": {
+    "name_enus": "Woolen Reagent Bag",
+    "icon": "inv_misc_bag_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257378": {
+    "name_enus": "Filigreed Flame Gown",
+    "icon": "inv_chest_cloth_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257380": {
+    "name_enus": "Filigreed Pearly Gown",
+    "icon": "inv_chest_cloth_51",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257376": {
+    "name_enus": "Filigreed Pristine Gown",
+    "icon": "inv_chest_cloth_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257379": {
+    "name_enus": "Filigreed Shadow Gown",
+    "icon": "inv_chest_cloth_48",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257381": {
+    "name_enus": "Filigreed Shining Gown",
+    "icon": "inv_chest_cloth_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257377": {
+    "name_enus": "Filigreed Silky Gown",
+    "icon": "inv_chest_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257372": {
+    "name_enus": "Flame Boots",
+    "icon": "inv_boots_cloth_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257374": {
+    "name_enus": "Pearly Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257370": {
+    "name_enus": "Pristine Boots",
+    "icon": "inv_boots_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257373": {
+    "name_enus": "Shadow Boots",
+    "icon": "inv_boots_cloth_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257375": {
+    "name_enus": "Shining Boots",
+    "icon": "inv_boots_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257371": {
+    "name_enus": "Silky Boots",
+    "icon": "inv_boots_cloth_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257384": {
+    "name_enus": "Flame Gloves",
+    "icon": "inv_gauntlets_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257386": {
+    "name_enus": "Pearly Gloves",
+    "icon": "inv_gauntlets_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257382": {
+    "name_enus": "Pristine Gloves",
+    "icon": "inv_gauntlets_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257385": {
+    "name_enus": "Shadow Gloves",
+    "icon": "inv_gauntlets_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257387": {
+    "name_enus": "Shining Gloves",
+    "icon": "inv_gauntlets_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257383": {
+    "name_enus": "Silky Gloves",
+    "icon": "inv_gauntlets_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257396": {
+    "name_enus": "Filigreed Flame Leggings",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257398": {
+    "name_enus": "Filigreed Pearly Leggings",
+    "icon": "inv_pants_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257394": {
+    "name_enus": "Filigreed Pristine Leggings",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257397": {
+    "name_enus": "Filigreed Shadow Leggings",
+    "icon": "inv_pants_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257399": {
+    "name_enus": "Filigreed Shining Leggings",
+    "icon": "inv_pants_cloth_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257395": {
+    "name_enus": "Filigreed Silky Leggings",
+    "icon": "inv_pants_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257390": {
+    "name_enus": "Flame Sash",
+    "icon": "inv_belt_43c",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257392": {
+    "name_enus": "Pearly Sash",
+    "icon": "inv_belt_43a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257388": {
+    "name_enus": "Pristine Sash",
+    "icon": "inv_belt_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257391": {
+    "name_enus": "Shadow Sash",
+    "icon": "inv_belt_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257393": {
+    "name_enus": "Shining Sash",
+    "icon": "inv_belt_43b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257389": {
+    "name_enus": "Silky Sash",
+    "icon": "inv_belt_43a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "428424": {
+    "name_enus": "Phoenix Bindings",
+    "icon": "inv_bracer_25a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257402": {
+    "name_enus": "Flame Circlet",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257404": {
+    "name_enus": "Pearly Circlet",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257400": {
+    "name_enus": "Pristine Circlet",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257403": {
+    "name_enus": "Shadow Circlet",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257405": {
+    "name_enus": "Shining Circlet",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257401": {
+    "name_enus": "Silky Circlet",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257415": {
+    "name_enus": "Filigreed Flame Circlet",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257417": {
+    "name_enus": "Filigreed Pearly Circlet",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257413": {
+    "name_enus": "Filigreed Pristine Circlet",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257416": {
+    "name_enus": "Filigreed Shadow Circlet",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257418": {
+    "name_enus": "Filigreed Shining Circlet",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257414": {
+    "name_enus": "Filigreed Silky Circlet",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257408": {
+    "name_enus": "Flame Gown",
+    "icon": "inv_chest_cloth_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257410": {
+    "name_enus": "Pearly Gown",
+    "icon": "inv_chest_cloth_51",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257406": {
+    "name_enus": "Pristine Gown",
+    "icon": "inv_chest_cloth_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257409": {
+    "name_enus": "Shadow Gown",
+    "icon": "inv_chest_cloth_48",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257411": {
+    "name_enus": "Shining Gown",
+    "icon": "inv_chest_cloth_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257407": {
+    "name_enus": "Silky Gown",
+    "icon": "inv_chest_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257412": {
+    "name_enus": "Silk Reagent Bag",
+    "icon": "inv_misc_bag_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1263032": {
+    "name_enus": "Spinning Wheel",
+    "icon": "10prof_table_tailoring01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 2",
+    "description_enus": "Craft a Spinning Wheel."
+  },
+  "1257429": {
+    "name_enus": "Black Slippers",
+    "icon": "inv_boots_cloth_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257428": {
+    "name_enus": "Fiery Slippers",
+    "icon": "inv_boots_cloth_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257427": {
+    "name_enus": "Frothing Slippers",
+    "icon": "inv_boots_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257426": {
+    "name_enus": "Gilded Slippers",
+    "icon": "inv_boots_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257430": {
+    "name_enus": "Golden Slippers",
+    "icon": "inv_boots_cloth_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257431": {
+    "name_enus": "Radiant Slippers",
+    "icon": "inv_boots_cloth_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257421": {
+    "name_enus": "Flame Leggings",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257423": {
+    "name_enus": "Pearly Leggings",
+    "icon": "inv_pants_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257419": {
+    "name_enus": "Pristine Leggings",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257422": {
+    "name_enus": "Shadow Leggings",
+    "icon": "inv_pants_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257424": {
+    "name_enus": "Shining Leggings",
+    "icon": "inv_pants_cloth_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257420": {
+    "name_enus": "Silky Leggings",
+    "icon": "inv_pants_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "429351": {
+    "name_enus": "Extraplanar Spidersilk Boots",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257425": {
+    "name_enus": "Earthen Leggings",
+    "icon": "inv_pants_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257432": {
+    "name_enus": "Earthen Silk Slippers",
+    "icon": "inv_boots_cloth_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257433": {
+    "name_enus": "Earthen Silk Hood",
+    "icon": "inv_helmet_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435841": {
+    "name_enus": "Invoker's Cord",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435848": {
+    "name_enus": "Invoker's Mantle",
+    "icon": "inv_shoulder_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257434": {
+    "name_enus": "Earthen Silk Gloves",
+    "icon": "inv_gauntlets_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301540": {
+    "name_enus": "Azure Stormsewn Cowl",
+    "icon": "inv_helm_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301541": {
+    "name_enus": "Azure Stormsewn Epaulets",
+    "icon": "inv_shoulder_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301532": {
+    "name_enus": "Cloudy Stormsewn Cowl",
+    "icon": "inv_helm_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301533": {
+    "name_enus": "Cloudy Stormsewn Epaulets",
+    "icon": "inv_shoulder_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257439": {
+    "name_enus": "Black Handwraps",
+    "icon": "inv_gauntlets_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257438": {
+    "name_enus": "Fiery Handwraps",
+    "icon": "inv_gauntlets_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257437": {
+    "name_enus": "Frothing Handwraps",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257436": {
+    "name_enus": "Gilded Handwraps",
+    "icon": "inv_gauntlets_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257440": {
+    "name_enus": "Golden Handwraps",
+    "icon": "inv_gauntlets_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257441": {
+    "name_enus": "Radiant Handwraps",
+    "icon": "inv_gauntlets_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257435": {
+    "name_enus": "Earthen Silk Cuffs",
+    "icon": "inv_bracer_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257442": {
+    "name_enus": "Earthen Silk Shoulders",
+    "icon": "inv_shoulder_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439102": {
+    "name_enus": "Enchanter's Cowl",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257447": {
+    "name_enus": "Black Cord",
+    "icon": "inv_belt_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257446": {
+    "name_enus": "Fiery Cord",
+    "icon": "inv_belt_39c",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257445": {
+    "name_enus": "Frothing Cord",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257444": {
+    "name_enus": "Gilded Cord",
+    "icon": "inv_belt_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257448": {
+    "name_enus": "Golden Cord",
+    "icon": "inv_belt_34",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257449": {
+    "name_enus": "Radiant Cord",
+    "icon": "inv_belt_37b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439097": {
+    "name_enus": "Boots of the Enchanter",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435827": {
+    "name_enus": "Hyperconductive Arcano-Filament",
+    "icon": "inv_misc_thread_eternium",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257443": {
+    "name_enus": "Mageweave Reagent Bag",
+    "icon": "inv_misc_bag_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257452": {
+    "name_enus": "Netherflame Shoulders",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257451": {
+    "name_enus": "Netherfroth Shoulders",
+    "icon": "inv_shoulder_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257450": {
+    "name_enus": "Nethergeld Shoulders",
+    "icon": "inv_shoulder_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257455": {
+    "name_enus": "Netherlight Shoulders",
+    "icon": "inv_shoulder_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257453": {
+    "name_enus": "Netherpearl Shoulders",
+    "icon": "inv_shoulder_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257454": {
+    "name_enus": "Nethershine Shoulders",
+    "icon": "inv_shoulder_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439093": {
+    "name_enus": "Crimson Silk Shoulders",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439091": {
+    "name_enus": "Earthen Silk Belt",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257458": {
+    "name_enus": "Netherflame Cuffs",
+    "icon": "inv_bracer_23a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257457": {
+    "name_enus": "Netherfroth Cuffs",
+    "icon": "inv_bracer_22a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257456": {
+    "name_enus": "Nethergeld Cuffs",
+    "icon": "inv_bracer_23b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257461": {
+    "name_enus": "Netherlight Cuffs",
+    "icon": "inv_bracer_20b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257459": {
+    "name_enus": "Netherpearl Cuffs",
+    "icon": "inv_bracer_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257460": {
+    "name_enus": "Nethershine Cuffs",
+    "icon": "inv_bracer_21b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439085": {
+    "name_enus": "Crimson Silk Robe",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435610": {
+    "name_enus": "Gneuro-Linked Arcano-Filament Monocle",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257469": {
+    "name_enus": "Black Waistcord",
+    "icon": "inv_belt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257468": {
+    "name_enus": "Fiery Waistcord",
+    "icon": "inv_belt_37a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257467": {
+    "name_enus": "Frothing Waistcord",
+    "icon": "inv_belt_39a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257466": {
+    "name_enus": "Gilded Waistcord",
+    "icon": "inv_belt_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257470": {
+    "name_enus": "Golden Waistcord",
+    "icon": "inv_belt_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257471": {
+    "name_enus": "Radiant Waistcord",
+    "icon": "inv_belt_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257464": {
+    "name_enus": "Earthenweave Cord",
+    "icon": "inv_belt_39c",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257463": {
+    "name_enus": "Earthenweave Gloves",
+    "icon": "inv_gauntlets_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257462": {
+    "name_enus": "Ghostweave Cord",
+    "icon": "inv_belt_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257465": {
+    "name_enus": "Runecloth Reagent Bag",
+    "icon": "inv_misc_bag_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257476": {
+    "name_enus": "Black Gloves",
+    "icon": "inv_gauntlets_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257475": {
+    "name_enus": "Fiery Gloves",
+    "icon": "inv_gauntlets_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257474": {
+    "name_enus": "Frothing Gloves",
+    "icon": "inv_gauntlets_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257473": {
+    "name_enus": "Gilded Gloves",
+    "icon": "inv_gauntlets_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257477": {
+    "name_enus": "Golden Gloves",
+    "icon": "inv_gauntlets_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257478": {
+    "name_enus": "Radiant Gloves",
+    "icon": "inv_gauntlets_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257472": {
+    "name_enus": "Earthenweave Boots",
+    "icon": "inv_boots_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "44950": {
+    "name_enus": "Green Winter Clothes",
+    "icon": "inv_chest_christmas01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "44958": {
+    "name_enus": "Red Winter Clothes",
+    "icon": "inv_chest_christmas02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "446193": {
+    "name_enus": "Fractured Mind Pauldrons",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "446194": {
+    "name_enus": "Mantle of Insanity",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "446195": {
+    "name_enus": "Shoulderpads of the Deranged",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257482": {
+    "name_enus": "Black Sandals",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257481": {
+    "name_enus": "Fiery Sandals",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257480": {
+    "name_enus": "Frothing Sandals",
+    "icon": "inv_boots_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257479": {
+    "name_enus": "Gilded Sandals",
+    "icon": "inv_boots_cloth_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257483": {
+    "name_enus": "Golden Sandals",
+    "icon": "inv_boots_cloth_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257484": {
+    "name_enus": "Radiant Sandals",
+    "icon": "inv_boots_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257485": {
+    "name_enus": "Earthenweave Mantle",
+    "icon": "inv_shoulder_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1227723": {
+    "name_enus": "Crusader's Knapsack",
+    "icon": "inv_misc_bag_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257488": {
+    "name_enus": "Earthenweave Leggings",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224610": {
+    "name_enus": "Scarlet Augur's Cuffs",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224612": {
+    "name_enus": "Scarlet Augur's Strap",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257486": {
+    "name_enus": "Earthenweave Vest",
+    "icon": "inv_chest_cloth_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257490": {
+    "name_enus": "Ghostweave Boots",
+    "icon": "inv_boots_cloth_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257489": {
+    "name_enus": "Ghostweave Mantle",
+    "icon": "inv_shoulder_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257487": {
+    "name_enus": "Runecloth Cuffs",
+    "icon": "inv_bracer_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257491": {
+    "name_enus": "Earthenweave Cuffs",
+    "icon": "inv_bracer_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257492": {
+    "name_enus": "Mooncloth Reagent Bag",
+    "icon": "inv_misc_bag_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224611": {
+    "name_enus": "Scarlet Augur's Mitts",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224614": {
+    "name_enus": "Scarlet Augur's Soles",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257494": {
+    "name_enus": "Earthenweave Crown",
+    "icon": "inv_crown_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257493": {
+    "name_enus": "Ghostweave Hood",
+    "icon": "inv_helmet_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224613": {
+    "name_enus": "Scarlet Augur's Leggings",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22813": {
+    "name_enus": "Gordok Ogre Suit",
+    "icon": "inv_chest_chain_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461692": {
+    "name_enus": "Synthetic Gordok Ogre Suit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224607": {
+    "name_enus": "Scarlet Augur's Hood",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224608": {
+    "name_enus": "Scarlet Augur's Mantle",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224609": {
+    "name_enus": "Scarlet Augur's Vestments",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297123": {
+    "name_enus": "Swarmtender's Gloves",
+    "icon": "inv_gauntlets_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297120": {
+    "name_enus": "Venomspew Gloves",
+    "icon": "inv_gauntlets_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297124": {
+    "name_enus": "Swarmtender's Cord",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297125": {
+    "name_enus": "Swarmtender's Footpads",
+    "icon": "inv_boots_cloth_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297121": {
+    "name_enus": "Venomspew Cord",
+    "icon": "inv_belt_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297122": {
+    "name_enus": "Venomspew Footpads",
+    "icon": "inv_boots_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1263080": {
+    "name_enus": "Loom",
+    "icon": "inv_tailoring_80_tidespraylinen",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 4",
+    "description_enus": "Craft a Loom."
+  },
+  "1227724": {
+    "name_enus": "Crimson Dawnwoven Bag",
+    "icon": "inv_misc_bag_26_spellfire",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461752": {
+    "name_enus": "Incandescent Mooncloth Leggings",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306544": {
+    "name_enus": "Cloak of Earth and Sky",
+    "icon": "inv_misc_cape_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306543": {
+    "name_enus": "Fel Cape",
+    "icon": "inv_misc_cape_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306545": {
+    "name_enus": "Felblood Soul Bag",
+    "icon": "inv_misc_bag_corefelclothbag",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306541": {
+    "name_enus": "Mana-infused Cord",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306542": {
+    "name_enus": "Rime-encrusted Boots",
+    "icon": "inv_boots_cloth_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306540": {
+    "name_enus": "Robes of Fiery Devastation",
+    "icon": "inv_chest_cloth_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1214173": {
+    "name_enus": "Bolt of Qiraji Silk",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461727": {
+    "name_enus": "Leather-Reinforced Runecloth Bag",
+    "icon": "inv_misc_bag_26_spellfire",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1257495": {
+    "name_enus": "Bottomless Reagent Bag",
+    "icon": "inv_misc_bag_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "463972": {
+    "name_enus": "Bottomless Bag",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "462282": {
+    "name_enus": "Embroidered Belt of the Archmage",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1223770": {
+    "name_enus": "Frosty Gloves",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1223768": {
+    "name_enus": "Frosty Vest",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1223772": {
+    "name_enus": "Frosty Wrists",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1223762": {
+    "name_enus": "Glacial Cloak",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1223764": {
+    "name_enus": "Glacial Gloves",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1223760": {
+    "name_enus": "Glacial Vest",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1223766": {
+    "name_enus": "Glacial Wrists",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461750": {
+    "name_enus": "Incandescent Mooncloth Circlet",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461708": {
+    "name_enus": "Incandescent Mooncloth Robe",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461747": {
+    "name_enus": "Incandescent Mooncloth Vest",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213742": {
+    "name_enus": "Sylvan Crown",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213740": {
+    "name_enus": "Sylvan Shoulders",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213744": {
+    "name_enus": "Sylvan Vest",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213527": {
+    "name_enus": "Vampiric Cowl",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213532": {
+    "name_enus": "Vampiric Robe",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213530": {
+    "name_enus": "Vampiric Shawl",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292964": {
+    "name_enus": "Boots of Conviction",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292980": {
+    "name_enus": "Demonheart Boots",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292978": {
+    "name_enus": "Demonheart Gloves",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292977": {
+    "name_enus": "Demonheart Leggings",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292979": {
+    "name_enus": "Demonheart Spaulders",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292958": {
+    "name_enus": "Gloves of Conviction",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292962": {
+    "name_enus": "Handguards of Conviction",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292961": {
+    "name_enus": "Leggings of Conviction",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292944": {
+    "name_enus": "Manaflare Boots",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292942": {
+    "name_enus": "Manaflare Gloves",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292943": {
+    "name_enus": "Manaflare Mantle",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292941": {
+    "name_enus": "Manaflare Pants",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292959": {
+    "name_enus": "Mantle of Conviction",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292957": {
+    "name_enus": "Pants of Conviction",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292963": {
+    "name_enus": "Pauldrons of Conviction",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292960": {
+    "name_enus": "Treads of Conviction",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1214306": {
+    "name_enus": "Dreamscale Bracers",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1214307": {
+    "name_enus": "Dreamscale Mitts",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213536": {
+    "name_enus": "Qiraji Silk Cape",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213538": {
+    "name_enus": "Qiraji Silk Cloak",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213540": {
+    "name_enus": "Qiraji Silk Drape",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213534": {
+    "name_enus": "Qiraji Silk Scarf",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  }
+}

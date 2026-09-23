@@ -1,0 +1,2432 @@
+{
+  "7421": {
+    "name_dede": "Runenverzierte Kupferrute",
+    "icon": "inv_staff_goldfeathered_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "14293": {
+    "name_dede": "Geringer Magiezauberstab",
+    "icon": "inv_staff_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Lässt einen geringen Zauberstab entstehen."
+  },
+  "7420": {
+    "name_dede": "Brust - Minderwertige Ausdauer",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft so verzaubern, dass sie die Ausdauer des Trägers um 2 erhöht."
+  },
+  "7443": {
+    "name_dede": "Brust - Schwache Intelligenz",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft so verzaubern, dass sie die Intelligenz des Trägers um 2 erhöht."
+  },
+  "7426": {
+    "name_dede": "Brust - Schwache Absorption",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft so verzaubern, dass sie mit einer Chance von 2% pro Treffer 10 Punkte Schadensabsorption gewährt. Kann nur einmal alle 5 Sek. auftreten."
+  },
+  "25124": {
+    "name_dede": "Schwaches Zauberöl",
+    "icon": "inv_poison_mindnumbing",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erstellt schwaches Zauberöl"
+  },
+  "7454": {
+    "name_dede": "Umhang - Schwacher Widerstand",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Umhang dauerhaft so verzaubern, dass er den Widerstand gegen alle Arten von Magie um 2 erhöht."
+  },
+  "7412": {
+    "name_dede": "Verzauberkunst",
+    "icon": "trade_engraving",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "Ermöglicht einem Verzauberer das Verzaubern von Waffen und Rüstung mit einer maximalen potenziellen Fertigkeit von 150."
+  },
+  "7457": {
+    "name_dede": "Armschiene - Schwache Ausdauer",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Ausdauer des Trägers um 3 erhöhen."
+  },
+  "7766": {
+    "name_dede": "Armschiene - Schwache Willenskraft",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Willenskraft des Trägers um 3 erhöhen."
+  },
+  "7748": {
+    "name_dede": "Brust - Geringe Ausdauer",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft so verzaubern, dass sie die Ausdauer des Trägers um 3 erhöht."
+  },
+  "14807": {
+    "name_dede": "Großer Magiezauberstab",
+    "icon": "inv_staff_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Lässt einen großen Magiezauberstab entstehen."
+  },
+  "7771": {
+    "name_dede": "Umhang - Schwacher Schutz",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Umhang dauerhaft so verzaubern, dass er die Rüstung um 0 erhöht."
+  },
+  "7779": {
+    "name_dede": "Armschiene - Schwache Beweglichkeit",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Beweglichkeit des Trägers um 3 erhöhen."
+  },
+  "7782": {
+    "name_dede": "Armschiene - Schwache Stärke",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Stärke des Trägers um 3 erhöhen."
+  },
+  "7776": {
+    "name_dede": "Brust - Geringe Intelligenz",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft so verzaubern, dass sie die Intelligenz des Trägers um 3 erhöht."
+  },
+  "7786": {
+    "name_dede": "Waffe - Schwacher Wildtiertöter",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass damit Wildtieren 2 zusätzliche Schadenspunkte zugefügt werden."
+  },
+  "7788": {
+    "name_dede": "Waffe - Schwaches Schlagen",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass damit 1 zusätzlicher Schadenspunkt zugefügt wird."
+  },
+  "7795": {
+    "name_dede": "Runenverzierte Silberrute",
+    "icon": "inv_staff_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7793": {
+    "name_dede": "Zweihandwaffe - Geringe Intelligenz",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine zweihändige Nahkampfwaffe dauerhaft so verzaubern, dass sie die Intelligenz um 5 erhöht."
+  },
+  "7745": {
+    "name_dede": "Zweihandwaffe - Schwacher Einschlag",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine zweihändige Nahkampfwaffe dauerhaft so verzaubern, dass ihr Schaden um 4 erhöht wird."
+  },
+  "13378": {
+    "name_dede": "Schild - Schwache Ausdauer",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Schild dauerhaft so verzaubern, dass er die Ausdauer des Trägers um 3 erhöht."
+  },
+  "13419": {
+    "name_dede": "Umhang - Schwache Beweglichkeit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Umhang dauerhaft so verzaubern, dass er die Beweglichkeit um 3 erhöht."
+  },
+  "13380": {
+    "name_dede": "Zweihandwaffe - Geringe Willenskraft",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine zweihändige Nahkampfwaffe dauerhaft so verzaubern, dass sie die Willenskraft um 5 erhöht."
+  },
+  "13464": {
+    "name_dede": "Schild - Geringer Schutz",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Schild dauerhaft verzaubern, um seine Rüstung um 30 zu erhöhen."
+  },
+  "13421": {
+    "name_dede": "Umhang - Geringer Schutz",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Umhang dauerhaft so verzaubern, dass er die Rüstung um 0 erhöht."
+  },
+  "7859": {
+    "name_dede": "Armschiene - Geringe Willenskraft",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Willenskraft des Trägers um 4 erhöhen."
+  },
+  "7857": {
+    "name_dede": "Brust - Ausdauer",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft so verzaubern, dass sie die Ausdauer des Trägers um 4 erhöht."
+  },
+  "7413": {
+    "name_dede": "Verzauberkunst",
+    "icon": "trade_engraving",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "Ermöglicht einem Verzauberer das meisterhafte Verzaubern von Waffen und Rüstung mit einer maximalen potenziellen Fertigkeit von 225."
+  },
+  "7863": {
+    "name_dede": "Stiefel - Schwache Ausdauer",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Stiefel dauerhaft so verzaubern, dass sie die Ausdauer des Trägers um 3 erhöhen."
+  },
+  "7867": {
+    "name_dede": "Stiefel - Schwache Beweglichkeit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Stiefel dauerhaft so verzaubern, dass sie die Beweglichkeit des Trägers um 3 erhöhen."
+  },
+  "7861": {
+    "name_dede": "Umhang - Geringer Feuerwiderstand",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Umhang dauerhaft so verzaubern, dass er den Feuerwiderstand um 10 erhöht."
+  },
+  "13501": {
+    "name_dede": "Armschiene - Geringe Ausdauer",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Ausdauer des Trägers um 4 erhöhen."
+  },
+  "13485": {
+    "name_dede": "Schild - Geringe Willenskraft",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Schild dauerhaft verzaubern, sodass die Willenskraft um 3 erhöht wird."
+  },
+  "13522": {
+    "name_dede": "Umhang - Geringer Schattenwiderstand",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Umhang dauerhaft verzaubern, sodass sich der Schattenwiderstand um 10 erhöht."
+  },
+  "13536": {
+    "name_dede": "Armschiene - Geringe Stärke",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Stärke des Trägers um 4 erhöhen."
+  },
+  "13538": {
+    "name_dede": "Brust - Geringe Absorption",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft so verzaubern, dass sie mit einer Chance von 5% pro Treffer 25 Punkte Schadensabsorption gewährt. Kann nur einmal alle 5 Sek. auftreten."
+  },
+  "13503": {
+    "name_dede": "Waffe - Geringes Schlagen",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass damit 2 zusätzliche Punkte Schaden zugefügt werden."
+  },
+  "13607": {
+    "name_dede": "Brust - Intelligenz",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft so verzaubern, dass sie die Intelligenz des Trägers um 4 erhöht."
+  },
+  "13620": {
+    "name_dede": "Handschuhe - Angeln",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft verzaubern, sodass die Angelfertigkeit um +2 erhöht wird."
+  },
+  "13612": {
+    "name_dede": "Handschuhe - Bergbau",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft verzaubern, sodass die Bergbaufertigkeit um +2 erhöht wird."
+  },
+  "13617": {
+    "name_dede": "Handschuhe - Kräuterkunde",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft verzaubern, sodass die Kräuterkundefertigkeit um +2 erhöht wird."
+  },
+  "13529": {
+    "name_dede": "Zweihandwaffe - Geringer Einschlag",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine zweihändige Nahkampfwaffe dauerhaft so verzaubern, dass ihr Schaden um 5 erhöht wird."
+  },
+  "25125": {
+    "name_dede": "Schwaches Manaöl",
+    "icon": "inv_potion_98",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erstelllt schwaches Manaöl"
+  },
+  "13628": {
+    "name_dede": "Runenverzierte Goldrute",
+    "icon": "inv_staff_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "13622": {
+    "name_dede": "Armschiene - Geringe Intelligenz",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Intelligenz des Trägers um 5 erhöhen."
+  },
+  "13626": {
+    "name_dede": "Brust - Schwache Werte",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft so verzaubern, dass sie alle Werte um 2 erhöht."
+  },
+  "14809": {
+    "name_dede": "Geringer Mystikerzauberstab",
+    "icon": "inv_staff_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Lässt einen geringen Mystikerzauberstab entstehen."
+  },
+  "13631": {
+    "name_dede": "Schild - Geringe Ausdauer",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Schild dauerhaft so verzaubern, dass er die Ausdauer um 5 erhöht."
+  },
+  "13635": {
+    "name_dede": "Umhang - Verteidigung",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Umhang dauerhaft so verzaubern, dass er die Rüstung um 60 erhöht."
+  },
+  "13640": {
+    "name_dede": "Brust - Große Ausdauer",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft so verzaubern, dass sie die Ausdauer um 6 erhöht."
+  },
+  "13637": {
+    "name_dede": "Stiefel - Geringe Beweglichkeit",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Stiefel dauerhaft so verzaubern, dass sie die Beweglichkeit um 4 erhöhen."
+  },
+  "13642": {
+    "name_dede": "Armschiene - Willenskraft",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Willenskraft um +5 erhöhen."
+  },
+  "13648": {
+    "name_dede": "Armschiene - Ausdauer",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Ausdauer um +5 erhöhen."
+  },
+  "13646": {
+    "name_dede": "Armschiene - Geringe Abwehr",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Verteidigung um 5 erhöhen."
+  },
+  "13644": {
+    "name_dede": "Stiefel - Geringe Ausdauer",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Stiefel dauerhaft so verzaubern, dass sie die Ausdauer um 4 erhöhen."
+  },
+  "14810": {
+    "name_dede": "Großer Mystikerzauberstab",
+    "icon": "inv_wand_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Lässt einen großen Mystikerzauberstab entstehen."
+  },
+  "439134": {
+    "name_dede": "Großer Mystikerzauberstab",
+    "icon": "inv_wand_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Lässt einen großen Mystikerzauberstab entstehen."
+  },
+  "13657": {
+    "name_dede": "Umhang - Feuerwiderstand",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Umhang dauerhaft so verzaubern, dass er den Feuerwiderstand um 12 erhöht."
+  },
+  "13655": {
+    "name_dede": "Waffe - Geringer Elementartöter",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass damit Elementaren 6 zusätzliche Punkte Schaden zugefügt werden."
+  },
+  "13653": {
+    "name_dede": "Waffe - Geringer Wildtiertöter",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass damit Wildtieren 6 zusätzliche Punkte Schaden zugefügt werden."
+  },
+  "13661": {
+    "name_dede": "Armschiene - Stärke",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Stärke um +5 erhöhen."
+  },
+  "13659": {
+    "name_dede": "Schild - Willenskraft",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Schild dauerhaft verzaubern, sodass die Willenskraft um 5 erhöht wird."
+  },
+  "13663": {
+    "name_dede": "Brust - Große Intelligenz",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft so verzaubern, dass sie die Intelligenz um 6 erhöht."
+  },
+  "13687": {
+    "name_dede": "Stiefel - Geringe Willenskraft",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Stiefel dauerhaft so verzaubern, dass sie die Willenskraft um 4 erhöhen."
+  },
+  "21931": {
+    "name_dede": "Waffe - Wintermacht",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Waffe dauerhaft so verzaubern, dass sie beim Wirken von Frostzaubern bis zu 15 Punkte zusätzlichen Frostschaden verursacht."
+  },
+  "13689": {
+    "name_dede": "Schild - Geringes Blocken",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Schild dauerhaft verzaubern, um eine Chance von +2% zum Blocken zu erhalten."
+  },
+  "13693": {
+    "name_dede": "Waffe - Schlagen",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass damit 3 zusätzliche Punkte Schaden zugefügt werden."
+  },
+  "13920": {
+    "name_dede": "Verzauberkunst",
+    "icon": "trade_engraving",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "Ermöglicht einem Verzauberer das meisterhafte Verzaubern von Waffen und Rüstung mit einer maximalen potenziellen Fertigkeit von 300."
+  },
+  "25126": {
+    "name_dede": "Geringes Zauberöl",
+    "icon": "inv_potion_103",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erstellt geringes Zauberöl"
+  },
+  "13702": {
+    "name_dede": "Runenverzierte Echtsilberrute",
+    "icon": "inv_staff_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "13700": {
+    "name_dede": "Brust - Geringe Werte",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ein Teil der Brustrüstung dauerhaft verzaubern, sodass alle Werte um +2 erhöht werden."
+  },
+  "13698": {
+    "name_dede": "Handschuhe - Kürschnerei",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft verzaubern, sodass die Kürschnereifertigkeit um +5 erhöht wird."
+  },
+  "13695": {
+    "name_dede": "Zweihandwaffe - Einschlag",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine zweihändige Nahkampfwaffe dauerhaft so verzaubern, dass ihr Schaden um 6 erhöht wird."
+  },
+  "13746": {
+    "name_dede": "Umhang - Große Verteidigung",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Umhang dauerhaft so verzaubern, dass er die Rüstung um 60 erhöht."
+  },
+  "13794": {
+    "name_dede": "Umhang - Widerstand",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Umhang dauerhaft verzaubern, sodass alle Widerstände um 3 erhöht werden."
+  },
+  "13822": {
+    "name_dede": "Armschiene - Intelligenz",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Intelligenz um +5 erhöhen."
+  },
+  "13815": {
+    "name_dede": "Handschuhe - Beweglichkeit",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft so verzaubern, dass sie die Beweglichkeit um 7 erhöhen."
+  },
+  "13817": {
+    "name_dede": "Schild - Ausdauer",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Schild dauerhaft so verzaubern, dass er die Ausdauer um 7 erhöht."
+  },
+  "13841": {
+    "name_dede": "Handschuhe - Hochentwickelter Bergbau",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft verzaubern, sodass die Bergbaufertigkeit um +5 erhöht wird."
+  },
+  "13836": {
+    "name_dede": "Stiefel - Ausdauer",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Stiefel dauerhaft verzaubern, sodass die Ausdauer um +5 erhöht wird."
+  },
+  "13846": {
+    "name_dede": "Armschiene - Große Willenskraft",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Willenskraft um +7 erhöhen."
+  },
+  "13858": {
+    "name_dede": "Brust - Überragende Ausdauer",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft so verzaubern, dass sie die Ausdauer um 8 erhöht."
+  },
+  "13868": {
+    "name_dede": "Handschuhe - Hochentwickelte Kräuterkunde",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft verzaubern, sodass die Kräuterkundefertigkeit um +5 erhöht wird."
+  },
+  "13887": {
+    "name_dede": "Handschuhe - Stärke",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft so verzaubern, dass sie die Stärke um 7 erhöhen."
+  },
+  "13890": {
+    "name_dede": "Stiefel - Schwaches Tempo",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Stiefel dauerhaft verzaubern, um eine kleine Erhöhung des Bewegungstempos zu erhalten."
+  },
+  "13882": {
+    "name_dede": "Umhang - Geringe Beweglichkeit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Umhang dauerhaft verzaubern, sodass die Beweglichkeit um 3 erhöht wird."
+  },
+  "13917": {
+    "name_dede": "Brust - Überragende Intelligenz",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft so verzaubern, dass sie die Intelligenz um 8 erhöht."
+  },
+  "13905": {
+    "name_dede": "Schild - Große Willenskraft",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Schild dauerhaft verzaubern, sodass die Willenskraft um +7 erhöht wird."
+  },
+  "13915": {
+    "name_dede": "Waffe - Dämonentöten",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, um eine Chance zu haben, Dämonen zu betäuben und ihnen schweren Schaden zuzufügen."
+  },
+  "13931": {
+    "name_dede": "Armschiene - Abwehr",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Verteidigung um 7 erhöhen."
+  },
+  "13933": {
+    "name_dede": "Schild - Frostwiderstand",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Schild dauerhaft verzaubern, um +8 Frostwiderstand zu erhalten."
+  },
+  "13935": {
+    "name_dede": "Stiefel - Beweglichkeit",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Stiefel dauerhaft verzaubern, sodass die Beweglichkeit um +5 erhöht wird."
+  },
+  "13939": {
+    "name_dede": "Armschiene - Große Stärke",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Stärke um +7 erhöhen."
+  },
+  "13937": {
+    "name_dede": "Zweihandwaffe - Großer Einschlag",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Zweihand-Nahkampfwaffe dauerhaft verzaubern, sodass damit +7 Schaden zugefügt wird."
+  },
+  "13945": {
+    "name_dede": "Armschiene - Große Ausdauer",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Ausdauer um +7 erhöhen."
+  },
+  "13941": {
+    "name_dede": "Brust - Werte",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ein Teil der Brustrüstung dauerhaft verzaubern, sodass alle Werte um +3 erhöht werden."
+  },
+  "13943": {
+    "name_dede": "Waffe - Großes Schlagen",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass damit 4 zusätzliche Punkte Schaden zugefügt werden."
+  },
+  "17181": {
+    "name_dede": "Verzaubertes Leder",
+    "icon": "inv_misc_rune_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "17180": {
+    "name_dede": "Verzaubertes Thorium",
+    "icon": "inv_ingot_eternium",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "25127": {
+    "name_dede": "Geringes Manaöl",
+    "icon": "inv_potion_99",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erstellt Geringes Manaöl."
+  },
+  "13947": {
+    "name_dede": "Handschuhe - Reitfertigkeit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft verzaubern, um einen schwachen Bewegungsbonus zu erlangen, während man auf einem Reittier sitzt."
+  },
+  "13948": {
+    "name_dede": "Handschuhe - Schwache Hast",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft so verzaubern, dass sie das Angriffs- und Zaubertempo um 1% erhöhen."
+  },
+  "20008": {
+    "name_dede": "Armschiene - Große Intelligenz",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Intelligenz um +7 erhöhen."
+  },
+  "20020": {
+    "name_dede": "Stiefel - Große Ausdauer",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Stiefel dauerhaft verzaubern, sodass die Ausdauer um +7 erhöht wird."
+  },
+  "15596": {
+    "name_dede": "Rauchendes Herz des Berges",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20017": {
+    "name_dede": "Schild - Große Ausdauer",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Schild dauerhaft so verzaubern, dass er die Ausdauer um 9 erhöht."
+  },
+  "20014": {
+    "name_dede": "Umhang - Großer Widerstand",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Umhang dauerhaft verzaubern, sodass alle Widerstände um 5 erhöht werden."
+  },
+  "13898": {
+    "name_dede": "Waffe - Feurige Waffe",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass Schläge damit oft 40 Punkt(e) Feuerschaden zusätzlich zufügen."
+  },
+  "20009": {
+    "name_dede": "Armschiene - Überragende Willenskraft",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Willenskraft um +9 erhöhen."
+  },
+  "20012": {
+    "name_dede": "Handschuhe - Große Beweglichkeit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft so verzaubern, dass sie die Beweglichkeit um 10 erhöhen."
+  },
+  "25128": {
+    "name_dede": "Zauberöl",
+    "icon": "inv_potion_104",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erstellt Zauberöl."
+  },
+  "20026": {
+    "name_dede": "Brust - Erhebliche Ausdauer",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft so verzaubern, dass sie die Ausdauer um 10 erhöht."
+  },
+  "20024": {
+    "name_dede": "Stiefel - Willenskraft",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Stiefel dauerhaft verzaubern, sodass die Willenskraft um +5 erhöht wird."
+  },
+  "20016": {
+    "name_dede": "Schild - Erhebliche Willenskraft",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Schild dauerhaft verzaubern, sodass die Willenskraft um +9 erhöht wird."
+  },
+  "20015": {
+    "name_dede": "Umhang - Überragende Verteidigung",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Umhang dauerhaft verzaubern, sodass die Rüstung zusätzlich um 70 erhöht wird."
+  },
+  "20029": {
+    "name_dede": "Waffe - Eisiger Hauch",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass das Ziel oft mit Kälteeffekten belegt wird und sein Bewegungstempo sowie sein Angriffstempo verringert wird."
+  },
+  "20051": {
+    "name_dede": "Runenverzierte Arkanitrute",
+    "icon": "inv_wand_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23801": {
+    "name_dede": "Armschiene - Manaregeneration",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft verzaubern, sodass sie alle 5 Sek. 4 Punkt(e) Mana wiederherstellen."
+  },
+  "20028": {
+    "name_dede": "Brust - Erhebliche Intelligenz",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft so verzaubern, dass sie die Intelligenz um 10 erhöht."
+  },
+  "23800": {
+    "name_dede": "Waffe - Beweglichkeit",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass sie die Beweglichkeit um 15 erhöht."
+  },
+  "23799": {
+    "name_dede": "Waffe - Stärke",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass sie die Stärke um 15 erhöht."
+  },
+  "27837": {
+    "name_dede": "Zweihandwaffen - Beweglichkeit",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Zweihandnahkampfwaffe dauerhaft verzaubern, sodass sie die Beweglichkeit um +25 erhöht."
+  },
+  "20010": {
+    "name_dede": "Armschiene - Überragende Stärke",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Stärke um +9 erhöhen."
+  },
+  "20013": {
+    "name_dede": "Handschuhe - Große Stärke",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft so verzaubern, dass sie die Stärke um 10 erhöhen."
+  },
+  "20023": {
+    "name_dede": "Stiefel - Große Beweglichkeit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Stiefel dauerhaft verzaubern, sodass die Beweglichkeit um +7 erhöht wird."
+  },
+  "20033": {
+    "name_dede": "Waffe - Unheilige Waffe",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass das Ziel oft mit einem Fluch belegt und der angerichtete Nahkampfschaden verringert wird."
+  },
+  "20030": {
+    "name_dede": "Zweihandwaffe - Überragender Einschlag",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Zweihand-Nahkampfwaffe dauerhaft verzaubern, sodass damit +9 Schaden zugefügt wird."
+  },
+  "25130": {
+    "name_dede": "Hervorragendes Manaöl",
+    "icon": "inv_potion_100",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erstellt Hervorragendes Manaöl"
+  },
+  "25129": {
+    "name_dede": "Hervorragendes Zauberöl",
+    "icon": "inv_potion_105",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erstellt Hervorragendes Zauberöl"
+  },
+  "23802": {
+    "name_dede": "Armschiene - Heilkraft",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie den Effekt von Heilzaubern um bis zu 24 und den von Schadenszaubern um bis zu 8 erhöhen."
+  },
+  "20011": {
+    "name_dede": "Armschiene - Überragende Ausdauer",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Ausdauer um +9 erhöhen."
+  },
+  "20025": {
+    "name_dede": "Brust - Große Werte",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ein Teil der Brustrüstung dauerhaft verzaubern, sodass alle Werte um +4 erhöht werden."
+  },
+  "25072": {
+    "name_dede": "Handschuhe - Bedrohung",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft verzaubern, sodass die Bedrohung von allen Attacken und Zaubern um 2% erhöht wird."
+  },
+  "25078": {
+    "name_dede": "Handschuhe - Feuermacht",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft verzaubern, sodass der Feuerschaden um +20 erhöht wird."
+  },
+  "25074": {
+    "name_dede": "Handschuhe - Frostmacht",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft verzaubern, sodass der Frostschaden um 20 erhöht wird."
+  },
+  "25079": {
+    "name_dede": "Handschuhe - Heilkraft",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft so verzaubern, dass sie die Heilzauber des Trägers um bis zu 35 und die Schadenszauber um bis zu 12 erhöhen."
+  },
+  "25073": {
+    "name_dede": "Handschuhe - Schattenmacht",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft verzaubern, sodass der Schattenschaden um 20 erhöht wird."
+  },
+  "25080": {
+    "name_dede": "Handschuhe - Überragende Beweglichkeit",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft verzaubern, sodass die Beweglichkeit um 15 erhöht wird."
+  },
+  "25086": {
+    "name_dede": "Umhang - Ausweichen",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Umhang dauerhaft verzaubern, sodass die Ausweichchance um 1% erhöht wird."
+  },
+  "25084": {
+    "name_dede": "Umhang - Feingefühl",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Umhang dauerhaft verzaubern, sodass die vom Träger verursachte Bedrohung um 2% verringert wird."
+  },
+  "25081": {
+    "name_dede": "Umhang - Großer Feuerwiderstand",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Umhang dauerhaft verzaubern, sodass der Feuerwiderstand um 15 erhöht wird."
+  },
+  "25082": {
+    "name_dede": "Umhang - Großer Naturwiderstand",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Umhang dauerhaft verzaubern, sodass der Naturwiderstand um 15 erhöht wird."
+  },
+  "25083": {
+    "name_dede": "Umhang - Verstohlenheit",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Umhang dauerhaft so verzaubern, dass er Eure Verstohlenheit erhöht, als ob Ihr eine Stufe höher wärt."
+  },
+  "22750": {
+    "name_dede": "Waffe - Heilkraft",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft so verzaubern, dass sie die Heilwirkung von Heilzaubern um bis zu 55 Punkte und den Schaden von Schadenszaubern um bis zu 19 Punkte erhöht."
+  },
+  "20034": {
+    "name_dede": "Waffe - Kreuzfahrer",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass sie bei Nahkampfangriffen oft 100 Punkt(e) heilt und 15 Sek. lang die Stärke um 100 erhöht."
+  },
+  "20032": {
+    "name_dede": "Waffe - Lebensdiebstahl",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass vom Feind oft Leben gestohlen und auf den Benutzer übertragen wird."
+  },
+  "23804": {
+    "name_dede": "Waffe - Mächtige Intelligenz",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass sie die Intelligenz um 22 erhöht."
+  },
+  "23803": {
+    "name_dede": "Waffe - Mächtige Willenskraft",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft so verzaubern, dass sie die Willenskraft um 22 erhöht."
+  },
+  "20031": {
+    "name_dede": "Waffe - Überragendes Schlagen",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass damit 5 zusätzliche Punkte Schaden zugefügt werden."
+  },
+  "22749": {
+    "name_dede": "Waffe - Zauberkraft",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft so verzaubern, dass sie den Schaden von Zaubersprüchen um bis zu 30 Punkte erhöht."
+  },
+  "20035": {
+    "name_dede": "Zweihandwaffe - Erhebliche Willenskraft",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Zweihand-Nahkampfwaffe dauerhaft verzaubern, sodass sie die Willenskraft um 9 erhöht."
+  },
+  "20036": {
+    "name_dede": "Zweihandwaffen - Erhebliche Intelligenz",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Zweihand-Nahkampfwaffe dauerhaft verzaubern, sodass sie die Intelligenz um 9 erhöht."
+  },
+  "1240968": {
+    "name_dede": "Verzauberkunst",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "<a href=\"/beta/de/spell=7413/verzauberkunst\" target=\"_blank\">Ermöglicht einem Verzauberer das meisterhafte Verzaubern von Waffen und Rüstung mit einer maximalen potenziellen Fertigkeit von 225.</a>"
+  },
+  "1240981": {
+    "name_dede": "Verzauberkunst",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "<a href=\"/beta/de/spell=13920/verzauberkunst\" target=\"_blank\">Ermöglicht einem Verzauberer das meisterhafte Verzaubern von Waffen und Rüstung mit einer maximalen potenziellen Fertigkeit von 300.</a>"
+  },
+  "1240957": {
+    "name_dede": "Verzauberkunst",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "<a href=\"/beta/de/spell=7412/verzauberkunst\" target=\"_blank\">Ermöglicht einem Verzauberer das Verzaubern von Waffen und Rüstung mit einer maximalen potenziellen Fertigkeit von 150.</a>"
+  },
+  "7411": {
+    "name_dede": "Verzauberkunst",
+    "icon": "trade_engraving",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "Ermöglicht einem Verzauberer, Standard-Gegenstände mit einer maximalen potenziellen Fertigkeit von 75 zu verzaubern. Es werden Staub und Essenzen benötigt, die durch Entzaubern von magischen Gegenständen gefunden wurden."
+  },
+  "1240946": {
+    "name_dede": "Verzauberkunst",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "<a href=\"/beta/de/spell=7411/verzauberkunst\" target=\"_blank\">Ermöglicht einem Verzauberer, Standard-Gegenstände mit einer maximalen potenziellen Fertigkeit von 75 zu verzaubern. Es werden Staub und Essenzen benötigt, die durch Entzaubern von magischen Gegenständen gefunden wurden.</a>"
+  },
+  "1245320": {
+    "name_dede": "Staub zu Partikel",
+    "icon": "inv_elemental_mote_mana",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Teilt einen Haufen seltsamen Staubs in 3 Magiepartikel auf."
+  },
+  "1245321": {
+    "name_dede": "Übungszauberstab des Novizen",
+    "icon": "inv_weapon_shortblade_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Lässt einen geringen Zauberstab entstehen."
+  },
+  "1230643": {
+    "name_dede": "Verzauberte Laute",
+    "icon": "inv_10_enchanting2_magicswirl_bronze",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 1",
+    "description_dede": "Stellt eine verzauberte Laute her."
+  },
+  "7418": {
+    "name_dede": "Armschiene - Minderwertige Ausdauer",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Ausdauer des Trägers um 2 erhöhen."
+  },
+  "13262": {
+    "name_dede": "Entzaubern",
+    "icon": "spell_holy_removecurse",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Entzieht Waffen oder Rüstungen mit guter (grün) oder besserer Qualität das oder die magischen Element(e). Das anvisierte Ziel wird ZERSTÖRT und kann nicht zurückgeholt werden."
+  },
+  "7428": {
+    "name_dede": "Armschiene - Schwache Abwehr",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Verteidigungsfertigkeit des Trägers um 3 erhöhen."
+  },
+  "430409": {
+    "name_dede": "Blackfathom-Manaöl",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Stellt Blackfathom-Manaöl her."
+  },
+  "1248458": {
+    "name_dede": "Armschiene - Schwache Intelligenz",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert Armschienen dauerhaft, sodass sie die Intelligenz um +3 erhöhen."
+  },
+  "448624": {
+    "name_dede": "Schriftrolle der räumlichen Heilung",
+    "icon": "inv_scroll_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erstellt eine Schriftrolle der räumlichen Heilung."
+  },
+  "1248459": {
+    "name_dede": "Armschiene - Schwache Heilkraft",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert Armschienen dauerhaft, sodass sie die Heilzauber des Trägers um bis zu 8 und Schadenszauber um bis zu 3 erhöhen."
+  },
+  "1263056": {
+    "name_dede": "Arkaner Wiederverwerter",
+    "icon": "inv_eng_bottledelements",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 2",
+    "description_dede": "Stellt einen arkanen Wiederverwerter her."
+  },
+  "1248754": {
+    "name_dede": "Grundsätze der Silbernen Hand",
+    "icon": "inv_misc_book_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft eine Kopie der Grundsätze der Silbernen Hand."
+  },
+  "1248755": {
+    "name_dede": "Ikone aus poliertem Treibholz",
+    "icon": "spell_shaman_totemrecall",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft eine Ikone aus poliertem Treibholz."
+  },
+  "1248745": {
+    "name_dede": "Kugel der mystischen Einsicht",
+    "icon": "inv_misc_orb_blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft eine Kugel der mystischen Einsicht."
+  },
+  "1248748": {
+    "name_dede": "Kugel der Seelen",
+    "icon": "inv_misc_orb_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft eine Kugel der Seelen."
+  },
+  "1248752": {
+    "name_dede": "Mystischer Pilz",
+    "icon": "inv_mushroom_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft einen mystischen Pilz."
+  },
+  "1248703": {
+    "name_dede": "Schimmernder Stab",
+    "icon": "inv_staff_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft einen schimmernden Stab."
+  },
+  "1248739": {
+    "name_dede": "Seelenstab",
+    "icon": "inv_staff_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft einen Seelenstab."
+  },
+  "1248757": {
+    "name_dede": "Waffe - Einsicht",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert eine Nahkampfwaffe dauerhaft, sodass sie Chance hat, beim Wirken eines Zaubers 'Offenbarung' zu gewähren, was die Willenskraft 10 Sek. lang um 100 erhöht."
+  },
+  "1248760": {
+    "name_dede": "Waffe - Erholung",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert eine Nahkampfwaffe dauerhaft, so dass sie 'Erholung' auslöst, wenn Ihr pariert oder ausweicht, was Euch um 5% Eurer maximalen Gesundheit heilt. Kann nur einmal alle 10 Sek. auftreten."
+  },
+  "1248805": {
+    "name_dede": "Waffe - Offenbarung",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert eine Nahkampfwaffe dauerhaft, sodass sie 'Offenbarung' auslöst, wenn ein Zauber ohne regelmäßige Effekte keinen kritischen Treffer erzielt. 'Offenbarung' erhöht die kritische Trefferchance des nächsten Zaubers um 100%. Die Chance, dass 'Offenbarung' ausgelöst wird, verringert sich mit zunehmender kritischer Trefferchance."
+  },
+  "1248460": {
+    "name_dede": "Armschiene - Geringe Beweglichkeit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert Armschienen dauerhaft, sodass sie die Beweglichkeit des Trägers um 4 erhöhen."
+  },
+  "435481": {
+    "name_dede": "Waffe - Zerlegen",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Waffe dauerhaft verzaubern, sodass alle Zauber und Angriffe mechanischen Kreaturen manchmal 75 zusätzlichen Schaden zufügen."
+  },
+  "435903": {
+    "name_dede": "Brust - Vergelter",
+    "icon": "inv_misc_note_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Lehrt Euch, wie man eine Brustrüstung dauerhaft so verzaubert, dass sie bei eingehenden Nahkampfangriffen 9 Schaden auf den Angreifer zurückwirft."
+  },
+  "1248461": {
+    "name_dede": "Verwirbelter Netherzauberstab",
+    "icon": "inv_wand_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft einen verwirbelten Netherzauberstab."
+  },
+  "439156": {
+    "name_dede": "Siegel der Innovation",
+    "icon": "inv_sigil_mimiron",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1249006": {
+    "name_dede": "Buchband der Anrufung",
+    "icon": "inv_relics_libramofhope",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft einen Buchband der Anrufung."
+  },
+  "1249069": {
+    "name_dede": "Echtsilbermedium",
+    "icon": "inv_rod_enchantedadamantite",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft ein Echtsilbermedium."
+  },
+  "1249070": {
+    "name_dede": "Gefäß der gewundenen Essenz",
+    "icon": "inv_10_misc_dragonorb_color1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft ein Gefäß der gewundenen Essenz."
+  },
+  "1248974": {
+    "name_dede": "Klauen des Zorns",
+    "icon": "spell_nature_natureswrath",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft Klauen des Zorns."
+  },
+  "1249061": {
+    "name_dede": "Strahlender Stab",
+    "icon": "inv_staff_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft einen strahlenden Stab."
+  },
+  "1249015": {
+    "name_dede": "Totem des Schutzes der Ahnen",
+    "icon": "inv_relics_totemofrage",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft ein Ahnentotem der Qual."
+  },
+  "1249064": {
+    "name_dede": "Traumstab",
+    "icon": "inv_staff_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft einen Traumstab."
+  },
+  "1248497": {
+    "name_dede": "Armschiene - Beweglichkeit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert Armschienen dauerhaft, sodass sie die Beweglichkeit um +5 erhöhen."
+  },
+  "1248498": {
+    "name_dede": "Armschiene - Geringere Heilkraft",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert Armschienen dauerhaft, sodass sie die Heilkraft um bis zu 16 und den Schaden um bis zu 6 erhöhen."
+  },
+  "1249071": {
+    "name_dede": "Brust - Absorption",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert eine Brustrüstung dauerhaft, sodass sie mit einer Chance von 25% pro Treffer 50 Punkte Schadensabsorption gewährt. Kann nur einmal alle 5 Sek. auftreten."
+  },
+  "1249060": {
+    "name_dede": "Halskette - Abwehr",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert eine Halskette dauerhaft, sodass sie die Verteidigungsfertigkeit um 5 erhöht."
+  },
+  "1249059": {
+    "name_dede": "Halskette - Beweglichkeit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert eine Halskette dauerhaft, sodass sie die Beweglichkeit um 5 erhöht."
+  },
+  "1249058": {
+    "name_dede": "Halskette - Heilkraft",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert eine Halskette dauerhaft, sodass sie die Heilkraft um bis zu 11 und den Zauberschaden um bis zu 4 erhöht."
+  },
+  "1249019": {
+    "name_dede": "Halskette - Stärke",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert eine Halskette dauerhaft, sodass sie die Stärke um 5 erhöht."
+  },
+  "1249057": {
+    "name_dede": "Halskette - Zaubermacht",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert eine Halskette dauerhaft, sodass sie den Zauberschaden und die Heilung um bis zu 6 erhöht."
+  },
+  "1248510": {
+    "name_dede": "Enchant 2H Weapon - Lesser Agility",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert eine Zweihandnahkampfwaffe dauerhaft, sodass sie die Beweglichkeit um +15 erhöht."
+  },
+  "1248509": {
+    "name_dede": "Traumzweigzauberstab",
+    "icon": "inv_wand_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft einen Traumzweigzauberstab."
+  },
+  "1248511": {
+    "name_dede": "Enchant 2H Weapon - Lesser Strength",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert eine Zweihandnahkampfwaffe dauerhaft, sodass sie die Stärke um +15 erhöht."
+  },
+  "446243": {
+    "name_dede": "Siegel der lebendigen Träume",
+    "icon": "inv_sigil_freya",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1248500": {
+    "name_dede": "Armschiene - Große Beweglichkeit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert Armschienen dauerhaft, sodass sie die Beweglichkeit um +7 erhöhen."
+  },
+  "1248505": {
+    "name_dede": "Kleiner ewiger Zauberstab",
+    "icon": "inv_wand_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft einen kleinen ewigen Zauberstab."
+  },
+  "1248528": {
+    "name_dede": "Handschuhe - Hochentwickelte Kürschnerei",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert Handschuhe dauerhaft, sodass sie die Kürschnereifertigkeit um +10 erhöhen."
+  },
+  "1294054": {
+    "name_dede": "Handschuhe - Lotusklaue",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft verzaubern, damit sie Euch eine kleine Chance gewähren, beim Sammeln von Kräutern auf dem Hyjal Todeslotus zu finden."
+  },
+  "1248515": {
+    "name_dede": "Großer ewiger Zauberstab",
+    "icon": "inv_wand_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft einen großen ewigen Zauberstab."
+  },
+  "463869": {
+    "name_dede": "Leitende Schildbeschichtung",
+    "icon": "inv_potion_100",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft eine leitende Schildbeschichtung."
+  },
+  "1249107": {
+    "name_dede": "Gefrorenes Herz des Berges",
+    "icon": "inv_misc_gem_sapphire_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1249112": {
+    "name_dede": "Geschmolzenes Herz des Berges",
+    "icon": "inv_misc_gem_ruby_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1249114": {
+    "name_dede": "Schlafendes Herz des Berges",
+    "icon": "inv_misc_gem_diamond_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1248668": {
+    "name_dede": "Enchant 2H Weapon - Strength",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert eine Zweihandnahkampfwaffe dauerhaft, sodass sie die Stärke um +25 erhöht."
+  },
+  "1263082": {
+    "name_dede": "Arkane Schmiede",
+    "icon": "inv_enchanting_modifiedcraftingreagent_indigo",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 3",
+    "description_dede": "Stellt eine arkane Schmiede her."
+  },
+  "1231128": {
+    "name_dede": "Waffe - Oberster Kreuzzügler",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass sie oft bei Nahkampfangriffen 400 Gesundheit heilt und die Stärke 20 Sek. lang um 120 erhöht."
+  },
+  "1231164": {
+    "name_dede": "Waffe - Oberster Zauberer",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Nahkampfwaffe dauerhaft verzaubern, sodass bei einem Treffer mit einem Zauber häufig 400 Mana wiederhergestellt und die Zaubermacht 20 Sek. lang um 70 erhöht wird."
+  },
+  "1231139": {
+    "name_dede": "Zweihandwaffe - Oberster Arkanist",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Zweihandnahkampfwaffe dauerhaft verzaubern, sodass bei einem Treffer mit einem Zauber häufig 400 Mana wiederhergestellt und die Zaubermacht 20 Sek. lang um 140 erhöht wird."
+  },
+  "1232172": {
+    "name_dede": "Zweihandwaffe verzaubern - Großinquisitor",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Zweihandnahkampfwaffe dauerhaft verzaubern, sodass sie bei Nahkampfangriffen oft 400 Gesundheit heilt und die Stärke 20 Sek. lang um 200 erhöht."
+  },
+  "463866": {
+    "name_dede": "Siegel des fließenden Wassers",
+    "icon": "inv_sigil_hodir",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306522": {
+    "name_dede": "Buchband der Infusion",
+    "icon": "inv_misc_book_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306520": {
+    "name_dede": "Fackel des Lichts",
+    "icon": "inv_torch_lit",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306525": {
+    "name_dede": "Götze der Bärenzwillinge",
+    "icon": "inv_misc_idol_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306524": {
+    "name_dede": "Götze der Schnelligkeit",
+    "icon": "ability_druid_nourish",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306521": {
+    "name_dede": "Standhafter Buchband",
+    "icon": "inv_relics_libramofgrace",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306523": {
+    "name_dede": "Totem der Dringlichkeit",
+    "icon": "inv_ability_totemicshaman_surgingtotem",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "471400": {
+    "name_dede": "Prächtiger Trollschein",
+    "icon": "inv_potion_96",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Stellt prächtigen Trollschein her."
+  },
+  "1248599": {
+    "name_dede": "Armschiene - Überragende Beweglichkeit",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert Armschienen dauerhaft, sodass sie die Beweglichkeit um +9 erhöhen."
+  },
+  "1249152": {
+    "name_dede": "Buchband des heiligen Eifers",
+    "icon": "inv_relics_libramofhope",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft einen Buchband des heiligen Eifers."
+  },
+  "1249128": {
+    "name_dede": "Götze des Traums",
+    "icon": "inv_relics_idolofferocity",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft einen Götzen des Traums."
+  },
+  "1248650": {
+    "name_dede": "Hervorragender Zauberstab",
+    "icon": "inv_wand_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft einen hervorragenden Zauberstab."
+  },
+  "1249154": {
+    "name_dede": "Totem des Donners",
+    "icon": "inv_relics_totemofrebirth",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Erschafft ein Totem des Donners."
+  },
+  "1217203": {
+    "name_dede": "Armschiene - Beweglichkeit",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie die Beweglichkeit um 9 erhöhen."
+  },
+  "1220624": {
+    "name_dede": "Armschiene - Große Zaubermacht",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft verzaubern, sodass die Zaubermacht um 16 erhöht wird."
+  },
+  "1248665": {
+    "name_dede": "Armschiene - Überragende Abwehr",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert Armschienen dauerhaft, sodass sie die Verteidigungsfertigkeit um +9 erhöhen."
+  },
+  "1248661": {
+    "name_dede": "Armschiene - Überragende Intelligenz",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert Armschienen dauerhaft, sodass sie die Intelligenz um +9 erhöhen."
+  },
+  "1217189": {
+    "name_dede": "Armschiene - Zaubermacht",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Armschienen dauerhaft so verzaubern, dass sie den Schaden von Zaubern um bis zu 12 erhöhen."
+  },
+  "1213616": {
+    "name_dede": "Brust - Lebendige Werte",
+    "icon": "spell_holy_greaterheal",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Brustrüstung dauerhaft verzaubern, sodass alle Werte um 4 sowie der Naturwiderstand um 15 erhöht werden."
+  },
+  "1216010": {
+    "name_dede": "Buchband der Heiligkeit",
+    "icon": "inv_relics_libramofgrace",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1216005": {
+    "name_dede": "Buchband der Rechtschaffenheit",
+    "icon": "inv_relics_libramofhope",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1216007": {
+    "name_dede": "Buchband des Exorzisten",
+    "icon": "inv_relics_libramoftruth",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1248636": {
+    "name_dede": "Enchant 2H Weapon - Mighty Healing Power",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert eine Zweihandnahkampfwaffe dauerhaft, sodass sie die Heilung um bis zu 100 und den Schaden um bis zu 34 erhöht."
+  },
+  "1248607": {
+    "name_dede": "Enchant 2H Weapon - Mighty Spell Power",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert eine Zweihandnahkampfwaffe dauerhaft, sodass sie den Schaden und die Heilung um bis zu 55 erhöht."
+  },
+  "1213593": {
+    "name_dede": "Geschwindigkeitsstein",
+    "icon": "inv_pet_scorchedstone",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1216024": {
+    "name_dede": "Götze der Bärenwut",
+    "icon": "inv_relics_idolofferocity",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1216022": {
+    "name_dede": "Götze der Katzenwildheit",
+    "icon": "inv_relics_idolofferocity",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1216020": {
+    "name_dede": "Götze des siderischen Zorns",
+    "icon": "inv_relics_idolofrejuvenation",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213626": {
+    "name_dede": "Handschuhe - Arkane Macht",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft verzaubern, sodass der Arkanschaden um 20 erhöht wird."
+  },
+  "1213622": {
+    "name_dede": "Handschuhe - Heilige Kraft",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Handschuhe dauerhaft verzaubern, sodass der Heiligschaden um 20 erhöht wird."
+  },
+  "1248645": {
+    "name_dede": "Handschuhe - Natürliche Macht",
+    "icon": "inv_enchant_formulagood_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert Handschuhe dauerhaft, sodass sie den Naturschaden um bis zu 20 erhöhen."
+  },
+  "1248640": {
+    "name_dede": "Handschuhe - Überragende Stärke",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verzaubert Handschuhe dauerhaft, sodass sie die Stärke um 15 erhöhen."
+  },
+  "1213598": {
+    "name_dede": "Leitstein der Vergeltung",
+    "icon": "inv_stone_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213603": {
+    "name_dede": "Rubinbesetzte Brosche",
+    "icon": "inv_jewelry_necklace_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1219581": {
+    "name_dede": "Schild - Ausgezeichnete Ausdauer",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Schild dauerhaft verzaubern, sodass die Ausdauer um 12 erhöht wird."
+  },
+  "1220623": {
+    "name_dede": "Schild - Kritische Trefferchance",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Schild dauerhaft verzaubern, sodass die kritische Trefferchance um 1% erhöht wird."
+  },
+  "463871": {
+    "name_dede": "Schild - Naturgesetz",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Schild dauerhaft verzaubern, sodass Schadenszauber bis zu 30 mehr Schaden verursachen und Heilzauber bis zu 55 mehr Gesundheit heilen."
+  },
+  "1219578": {
+    "name_dede": "Schildhand - Ausgezeichnete Willenskraft",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Schildhand dauerhaft verzaubern, sodass die Willenskraft um 12 erhöht wird."
+  },
+  "1219577": {
+    "name_dede": "Schildhand - Überragende Intelligenz",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Schildhand dauerhaft verzaubern, sodass die Intelligenz um 9 erhöht wird."
+  },
+  "1219579": {
+    "name_dede": "Schildhand - Weisheit",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Schildhand dauerhaft verzaubern, sodass die Intelligenz um 6 und die Willenskraft um 5 erhöht wird."
+  },
+  "1213607": {
+    "name_dede": "Schriftrolle: Zorn des Schwarms",
+    "icon": "inv_scroll_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1216016": {
+    "name_dede": "Totem der donnernden Schläge",
+    "icon": "inv_relics_totemofrage",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1216018": {
+    "name_dede": "Totem des fließenden Magmas",
+    "icon": "inv_relics_totemofrage",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1216014": {
+    "name_dede": "Totem des pyroklastischen Donners",
+    "icon": "inv_relics_totemofrebirth",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213595": {
+    "name_dede": "Träne des Träumers",
+    "icon": "inv_elemental_crystal_life",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1219587": {
+    "name_dede": "Umhang - Beweglichkeit",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Einen Umhang dauerhaft verzaubern, sodass die Beweglichkeit um 5 erhöht wird."
+  },
+  "1213600": {
+    "name_dede": "Verzauberte Stoppuhr",
+    "icon": "inv_misc_pocketwatch_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213628": {
+    "name_dede": "Verzauberter Gebetsband",
+    "icon": "inv_relics_libramoftruth",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213635": {
+    "name_dede": "Verzauberter Pilz",
+    "icon": "creature_sporemushroom",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213610": {
+    "name_dede": "Verzaubertes Abwehrmittel",
+    "icon": "inv_potion_101",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Stellt verzaubertes Abwehrmittel her."
+  },
+  "1213633": {
+    "name_dede": "Verzaubertes Totem",
+    "icon": "inv_relics_totemoflife",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1219580": {
+    "name_dede": "Zweihandwaffe - Zauberschlag",
+    "icon": "inv_enchant_formulasuperior_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Zweihandwaffe dauerhaft verzaubern, sodass die Zaubermacht um 65 erhöht wird."
+  }
+}

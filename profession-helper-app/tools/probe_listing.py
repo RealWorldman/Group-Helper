@@ -22,6 +22,10 @@ STRING_RE = re.compile(r'"(?:[^"\\]|\\.)*"')
 # Ein Schluessel ohne Anfuehrungszeichen, also `popularity:10` oder `{firstseenpatch: 0`.
 UNQUOTED_KEY_RE = re.compile(r"([{,]\s*)([A-Za-z_][A-Za-z0-9_]*)\s*:")
 
+# Datentypen im Block `WH.Gatherer.addData(<typ>, <locale>, {...})`.
+GATHERER_ITEMS = 3  # Schluessel = item_id
+GATHERER_SPELLS = 6  # Schluessel = spell_id
+
 
 def fetch(url: str) -> str:
     """Laedt eine Seite. Ein Request, kein Retry - der Spike wird von Hand aufgerufen."""
@@ -97,6 +101,24 @@ def parse_loose(js_array: str) -> list[dict]:
     repaired.append(UNQUOTED_KEY_RE.sub(r'\1"\2":', js_array[cursor:]))
 
     return json.loads("".join(repaired))
+
+
+def extract_gatherer(html: str, data_type: int) -> dict:
+    """
+    Schneidet `WH.Gatherer.addData(<data_type>, <locale>, {...})` aus der Seite.
+
+    Jede Listing-Seite traegt neben `listviewspells` zwei solche Bloecke:
+    GATHERER_ITEMS liefert die Item-Stammdaten zu allen 'reagents' und 'creates',
+    GATHERER_SPELLS die Zauberbeschreibung mit den Zahlenwerten.
+
+    Anders als `listviewspells` ist der Block gueltiges JSON - alle Schluessel sind
+    gequotet, `parse_loose` wird hier nicht gebraucht.
+    """
+    match = re.search(rf"WH\.Gatherer\.addData\({data_type},\s*\d+,\s*", html)
+    if match is None:
+        raise ValueError(f"Kein WH.Gatherer.addData({data_type}, ...) in der Seite")
+
+    return json.loads(extract_balanced(html, html.index("{", match.end() - 1)))
 
 
 def print_field_stats(entries: list[dict]) -> None:

@@ -1,0 +1,7387 @@
+{
+  "2835": {
+    "name_enus": "Rough Stone",
+    "quality": 1,
+    "icon": "inv_stone_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 29,
+      "itemSquishEraId": 0,
+      "sellprice": 2
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4357": {
+    "name_enus": "Rough Blasting Powder",
+    "quality": 1,
+    "icon": "inv_misc_dust_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 17,
+      "buyprice": 16,
+      "itemSquishEraId": 0,
+      "sellprice": 4
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2589": {
+    "name_enus": "Linen Cloth",
+    "quality": 1,
+    "icon": "inv_fabric_linen_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 41,
+      "itemSquishEraId": 0,
+      "sellprice": 13
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4358": {
+    "name_enus": "Rough Dynamite",
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 34,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 1,
+      "sellprice": 30
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2840": {
+    "name_enus": "Copper Bar",
+    "quality": 1,
+    "icon": "inv_ingot_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 309,
+      "itemSquishEraId": 0,
+      "sellprice": 10
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4359": {
+    "name_enus": "Handful of Copper Bolts",
+    "quality": 1,
+    "icon": "inv_misc_gear_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 182,
+      "itemSquishEraId": 0,
+      "sellprice": 12
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4360": {
+    "name_enus": "Rough Copper Bomb",
+    "quality": 1,
+    "icon": "inv_misc_bomb_09",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 260,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 30,
+      "sellprice": 60
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6219": {
+    "name_enus": "Arclight Spanner",
+    "quality": 1,
+    "icon": "inv_misc_wrench_01",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          7494,
+          ""
+        ]
+      },
+      "avgbuyout": 4100,
+      "displayid": 7494,
+      "dmgmax1": 14,
+      "dmgmin1": 7,
+      "dmgrange": 0.6,
+      "dmgtype1": 0,
+      "dps": 4.47,
+      "itemSquishEraId": 0,
+      "mledmgmax": 14,
+      "mledmgmin": 7,
+      "mledps": 4.47,
+      "mlespeed": 2.4,
+      "reqskill": 202,
+      "reqskillrank": 50,
+      "sellprice": 144,
+      "sheathtype": 3,
+      "slotbak": 21,
+      "speed": 2.4
+    },
+    "attainable": 0,
+    "flags2": 6316036,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4361": {
+    "name_enus": "Copper Tube",
+    "quality": 1,
+    "icon": "inv_gizmo_pipe_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 167,
+      "buyprice": 480,
+      "itemSquishEraId": 0,
+      "sellprice": 120
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4399": {
+    "name_enus": "Wooden Stock",
+    "quality": 1,
+    "icon": "inv_mace_11",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1912,
+      "buyprice": 200,
+      "itemSquishEraId": 0,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4362": {
+    "name_enus": "Rough Boomstick",
+    "quality": 2,
+    "icon": "inv_weapon_rifle_03",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          1136,
+          "inv_weapon_rifle_02"
+        ]
+      },
+      "avgbuyout": 1600,
+      "displayid": 1136,
+      "dmgmax1": 21,
+      "dmgmin1": 11,
+      "dmgrange": 0.6,
+      "dmgtype1": 0,
+      "dps": 7.07,
+      "dura": 35,
+      "itemSquishEraId": 0,
+      "reqlevel": 5,
+      "rgddmgmax": 21,
+      "rgddmgmin": 11,
+      "rgddps": 7.07,
+      "rgdspeed": 2.3,
+      "sellprice": 187,
+      "slotbak": 26,
+      "speed": 2.3,
+      "sta": 1
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2880": {
+    "name_enus": "Weak Flux",
+    "quality": 1,
+    "icon": "inv_misc_ammo_gunpowder_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 590,
+      "buyprice": 100,
+      "itemSquishEraId": 0,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "774": {
+    "name_enus": "Malachite",
+    "quality": 2,
+    "icon": "inv_misc_gem_emerald_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 27,
+      "itemSquishEraId": 0,
+      "sellprice": 15
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4405": {
+    "name_enus": "Crude Scope",
+    "quality": 1,
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 236,
+      "dmg": 1,
+      "itemSquishEraId": 0,
+      "reqlevel": 5,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4363": {
+    "name_enus": "Copper Modulator",
+    "quality": 1,
+    "icon": "inv_gizmo_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 380,
+      "buyprice": 200,
+      "itemSquishEraId": 0,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2836": {
+    "name_enus": "Coarse Stone",
+    "quality": 1,
+    "icon": "inv_stone_09",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 719,
+      "itemSquishEraId": 0,
+      "sellprice": 15
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4364": {
+    "name_enus": "Coarse Blasting Powder",
+    "quality": 1,
+    "icon": "inv_misc_dust_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 300,
+      "buyprice": 48,
+      "itemSquishEraId": 0,
+      "sellprice": 12
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8068": {
+    "name_enus": "Crafted Heavy Shot",
+    "quality": 1,
+    "icon": "inv_ammo_bullet_02",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          737992,
+          ""
+        ]
+      },
+      "avgbuyout": 4,
+      "displayid": 737992,
+      "itemSquishEraId": 0,
+      "reqlevel": 15,
+      "slotbak": 24,
+      "speed": 3
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4365": {
+    "name_enus": "Coarse Dynamite",
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 165,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 75,
+      "sellprice": 75
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4401": {
+    "name_enus": "Mechanical Squirrel Box",
+    "quality": 1,
+    "icon": "inv_crate_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3079,
+      "itemSquishEraId": 0,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2841": {
+    "name_enus": "Bronze Bar",
+    "quality": 1,
+    "icon": "inv_ingot_bronze",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 451,
+      "itemSquishEraId": 0,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2592": {
+    "name_enus": "Wool Cloth",
+    "quality": 1,
+    "icon": "inv_fabric_wool_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 190,
+      "itemSquishEraId": 0,
+      "sellprice": 33
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4366": {
+    "name_enus": "Target Dummy",
+    "quality": 1,
+    "icon": "inv_crate_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2778,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 85,
+      "sellprice": 75
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2842": {
+    "name_enus": "Silver Bar",
+    "quality": 2,
+    "icon": "inv_ingot_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 732,
+      "itemSquishEraId": 0,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4404": {
+    "name_enus": "Silver Contact",
+    "quality": 1,
+    "icon": "inv_ingot_04",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 56,
+      "buyprice": 100,
+      "itemSquishEraId": 0,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260794": {
+    "name_enus": "EZ-Thro Wrap",
+    "quality": 1,
+    "icon": "inv_misc_giftwrap_03",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6714": {
+    "name_enus": "Ez-Thro Dynamite",
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1111,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 10,
+      "sellprice": 75
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6712": {
+    "name_enus": "Practice Lock",
+    "quality": 1,
+    "icon": "inv_box_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 284,
+      "itemSquishEraId": 0,
+      "sellprice": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2318": {
+    "name_enus": "Light Leather",
+    "quality": 1,
+    "icon": "inv_misc_leatherscrap_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 98,
+      "itemSquishEraId": 0,
+      "sellprice": 15
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "818": {
+    "name_enus": "Tigerseye",
+    "quality": 2,
+    "icon": "inv_misc_gem_opal_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 205,
+      "itemSquishEraId": 0,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4368": {
+    "name_enus": "Flying Tiger Goggles",
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          4651,
+          ""
+        ]
+      },
+      "armor": 27,
+      "avgbuyout": 1398,
+      "displayid": 4651,
+      "dura": 35,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 100,
+      "sellprice": 408,
+      "slotbak": 1,
+      "spi": 4,
+      "sta": 4
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "159": {
+    "name_enus": "Refreshing Spring Water",
+    "quality": 1,
+    "icon": "inv_drink_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 895,
+      "buyprice": 25,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "manargn": 42,
+      "reqlevel": 1,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4367": {
+    "name_enus": "Small Seaforium Charge",
+    "quality": 1,
+    "icon": "inv_misc_urn_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4724,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 100,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4371": {
+    "name_enus": "Bronze Tube",
+    "quality": 1,
+    "icon": "inv_gizmo_pipe_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 752,
+      "buyprice": 800,
+      "itemSquishEraId": 0,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4370": {
+    "name_enus": "Large Copper Bomb",
+    "quality": 1,
+    "icon": "inv_misc_bomb_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4373,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 105,
+      "sellprice": 175
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2319": {
+    "name_enus": "Medium Leather",
+    "quality": 1,
+    "icon": "inv_misc_leatherscrap_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 196,
+      "buyprice": 200,
+      "itemSquishEraId": 0,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4369": {
+    "name_enus": "Deadly Blunderbuss",
+    "quality": 2,
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "jsonequip": {
+      "agi": 2,
+      "appearances": {
+        "0": [
+          20743,
+          ""
+        ]
+      },
+      "avgbuyout": 5585,
+      "displayid": 20743,
+      "dmgmax1": 47,
+      "dmgmin1": 25,
+      "dmgrange": 0.6,
+      "dmgtype1": 0,
+      "dps": 13.88,
+      "dura": 50,
+      "itemSquishEraId": 0,
+      "reqlevel": 16,
+      "rgddmgmax": 47,
+      "rgddmgmin": 25,
+      "rgddps": 13.88,
+      "rgdspeed": 2.6,
+      "sellprice": 1179,
+      "slotbak": 26,
+      "speed": 2.6
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "1206": {
+    "name_enus": "Moss Agate",
+    "quality": 2,
+    "icon": "inv_misc_gem_emerald_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2270,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4406": {
+    "name_enus": "Standard Scope",
+    "quality": 1,
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1072,
+      "cooldown": 1000,
+      "dmg": 2,
+      "itemSquishEraId": 0,
+      "reqlevel": 10,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4374": {
+    "name_enus": "Small Bronze Bomb",
+    "quality": 1,
+    "icon": "inv_misc_bomb_09",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1949,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 120,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4400": {
+    "name_enus": "Heavy Stock",
+    "quality": 1,
+    "icon": "inv_mace_11",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3607,
+      "buyprice": 2000,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4372": {
+    "name_enus": "Lovingly Crafted Boomstick",
+    "quality": 2,
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          2409,
+          "inv_weapon_rifle_01"
+        ]
+      },
+      "avgbuyout": 8971,
+      "displayid": 2409,
+      "dmgmax1": 38,
+      "dmgmin1": 20,
+      "dmgrange": 0.6,
+      "dmgtype1": 0,
+      "dps": 16.17,
+      "dura": 55,
+      "itemSquishEraId": 0,
+      "reqlevel": 19,
+      "rgddmgmax": 38,
+      "rgddmgmin": 20,
+      "rgddps": 16.17,
+      "rgdspeed": 1.8,
+      "sellprice": 1800,
+      "slotbak": 26,
+      "speed": 1.8,
+      "spi": 3
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "1210": {
+    "name_enus": "Shadowgem",
+    "quality": 2,
+    "icon": "inv_misc_gem_amethyst_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 285,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4373": {
+    "name_enus": "Shadow Goggles",
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          17597,
+          ""
+        ]
+      },
+      "armor": 31,
+      "avgbuyout": 3000,
+      "displayid": 17597,
+      "dura": 40,
+      "int": 5,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 120,
+      "sellprice": 722,
+      "slotbak": 1,
+      "spi": 6
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4377": {
+    "name_enus": "Heavy Blasting Powder",
+    "quality": 1,
+    "icon": "inv_misc_dust_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 889,
+      "itemSquishEraId": 0,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8069": {
+    "name_enus": "Crafted Solid Shot",
+    "quality": 1,
+    "icon": "inv_ammo_bullet_02",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          737992,
+          ""
+        ]
+      },
+      "avgbuyout": 9,
+      "displayid": 737992,
+      "itemSquishEraId": 0,
+      "reqlevel": 30,
+      "slotbak": 24,
+      "speed": 3
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2838": {
+    "name_enus": "Heavy Stone",
+    "quality": 1,
+    "icon": "inv_stone_12",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 790,
+      "itemSquishEraId": 0,
+      "sellprice": 60
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4378": {
+    "name_enus": "Heavy Dynamite",
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1465,
+      "buyprice": 1400,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 125,
+      "sellprice": 350
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21558": {
+    "name_enus": "Small Blue Rocket",
+    "quality": 1,
+    "icon": "inv_misc_missilesmall_blue",
+    "screenshot": {},
+    "jsonequip": {
+      "buyprice": 25,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 6
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21559": {
+    "name_enus": "Small Green Rocket",
+    "quality": 1,
+    "icon": "inv_misc_missilesmall_green",
+    "screenshot": {},
+    "jsonequip": {
+      "buyprice": 25,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 6
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21557": {
+    "name_enus": "Small Red Rocket",
+    "quality": 1,
+    "icon": "inv_misc_missilesmall_red",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 499,
+      "buyprice": 25,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 6
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4375": {
+    "name_enus": "Whirring Bronze Gizmo",
+    "quality": 1,
+    "icon": "inv_gizmo_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1192,
+      "itemSquishEraId": 0,
+      "sellprice": 115
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4402": {
+    "name_enus": "Small Flame Sac",
+    "quality": 1,
+    "icon": "inv_misc_organ_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 10344,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4376": {
+    "name_enus": "Flame Deflector",
+    "quality": 1,
+    "icon": "inv_gizmo_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 20096,
+      "cooldown": 900000,
+      "itemSquishEraId": 0,
+      "reqlevel": 15,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "814": {
+    "name_enus": "Flask of Oil",
+    "quality": 1,
+    "icon": "inv_drink_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 88,
+      "itemSquishEraId": 0,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7506": {
+    "name_enus": "Gnomish Universal Remote",
+    "quality": 2,
+    "icon": "inv_misc_pocketwatch_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2777,
+      "cooldown": 180000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 125,
+      "sellprice": 500,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4379": {
+    "name_enus": "Silver-plated Shotgun",
+    "quality": 2,
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          15835,
+          ""
+        ]
+      },
+      "avgbuyout": 6100,
+      "displayid": 15835,
+      "dmgmax1": 62,
+      "dmgmin1": 33,
+      "dmgrange": 0.6,
+      "dmgtype1": 0,
+      "dps": 17.64,
+      "dura": 60,
+      "itemSquishEraId": 0,
+      "reqlevel": 21,
+      "rgddmgmax": 62,
+      "rgddmgmin": 33,
+      "rgddps": 17.64,
+      "rgdspeed": 2.7,
+      "sellprice": 2357,
+      "slotbak": 26,
+      "speed": 2.7,
+      "sta": 3
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "5507": {
+    "name_enus": "Ornate Spyglass",
+    "quality": 1,
+    "icon": "inv_misc_spyglass_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 8400,
+      "itemSquishEraId": 0,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4380": {
+    "name_enus": "Big Bronze Bomb",
+    "quality": 1,
+    "icon": "inv_misc_bomb_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1890,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 140,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4381": {
+    "name_enus": "Minor Recombobulator",
+    "quality": 2,
+    "icon": "inv_gizmo_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 9458,
+      "cooldown": 300000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 140,
+      "sellprice": 600,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4382": {
+    "name_enus": "Bronze Framework",
+    "quality": 1,
+    "icon": "inv_gizmo_bronzeframework_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1810,
+      "buyprice": 2400,
+      "itemSquishEraId": 0,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "1705": {
+    "name_enus": "Lesser Moonstone",
+    "quality": 2,
+    "icon": "inv_misc_gem_crystal_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1657,
+      "itemSquishEraId": 0,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4383": {
+    "name_enus": "Moonsight Rifle",
+    "quality": 2,
+    "icon": "inv_weapon_rifle_06",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          8256,
+          ""
+        ]
+      },
+      "avgbuyout": 12297,
+      "displayid": 8256,
+      "dmgmax1": 44,
+      "dmgmin1": 23,
+      "dmgrange": 0.6,
+      "dmgtype1": 0,
+      "dps": 19.87,
+      "dura": 65,
+      "hitrtng": 3,
+      "itemSquishEraId": 0,
+      "reqlevel": 24,
+      "rgddmgmax": 44,
+      "rgddmgmin": 23,
+      "rgddps": 19.87,
+      "rgdspeed": 1.7,
+      "sellprice": 3183,
+      "slotbak": 26,
+      "speed": 1.7
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6530": {
+    "name_enus": "Nightcrawlers",
+    "quality": 1,
+    "icon": "inv_misc_monstertail_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 70,
+      "buyprice": 100,
+      "itemSquishEraId": 0,
+      "reqskill": 356,
+      "reqskillrank": 50,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6533": {
+    "name_enus": "Aquadynamic Fish Attractor",
+    "quality": 1,
+    "icon": "inv_misc_food_26",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1353,
+      "buyprice": 250,
+      "itemSquishEraId": 0,
+      "reqskill": 356,
+      "reqskillrank": 100,
+      "sellprice": 62
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4234": {
+    "name_enus": "Heavy Leather",
+    "quality": 1,
+    "icon": "inv_misc_leatherscrap_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 496,
+      "buyprice": 600,
+      "itemSquishEraId": 0,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9312": {
+    "name_enus": "Blue Firework",
+    "quality": 1,
+    "icon": "spell_ice_magicdamage",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 160,
+      "buyprice": 20,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 5
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9313": {
+    "name_enus": "Green Firework",
+    "quality": 1,
+    "icon": "spell_nature_abolishmagic",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 771,
+      "buyprice": 20,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 5
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9318": {
+    "name_enus": "Red Firework",
+    "quality": 1,
+    "icon": "spell_fire_fireball02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3799,
+      "buyprice": 20,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 5
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3577": {
+    "name_enus": "Gold Bar",
+    "quality": 2,
+    "icon": "inv_ingot_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1637,
+      "itemSquishEraId": 0,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10558": {
+    "name_enus": "Gold Power Core",
+    "quality": 1,
+    "icon": "inv_battery_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1295,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4385": {
+    "name_enus": "Green Tinted Goggles",
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          13374,
+          ""
+        ]
+      },
+      "armor": 35,
+      "avgbuyout": 8095,
+      "displayid": 13374,
+      "dura": 45,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 150,
+      "sellprice": 1410,
+      "slotbak": 1,
+      "spi": 7,
+      "sta": 8
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4384": {
+    "name_enus": "Explosive Sheep",
+    "quality": 1,
+    "icon": "spell_nature_polymorph",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1811,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 150,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3829": {
+    "name_enus": "Frost Oil",
+    "quality": 1,
+    "icon": "inv_potion_20",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 25575,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "reqlevel": 30,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4386": {
+    "name_enus": "Ice Deflector",
+    "quality": 1,
+    "icon": "inv_gizmo_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 85500,
+      "cooldown": 900000,
+      "itemSquishEraId": 0,
+      "reqlevel": 21,
+      "sellprice": 175
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3575": {
+    "name_enus": "Iron Bar",
+    "quality": 1,
+    "icon": "inv_ingot_iron",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1360,
+      "itemSquishEraId": 0,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4387": {
+    "name_enus": "Iron Strut",
+    "quality": 1,
+    "icon": "inv_spear_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2480,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4306": {
+    "name_enus": "Silk Cloth",
+    "quality": 1,
+    "icon": "inv_fabric_silk_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 219,
+      "itemSquishEraId": 0,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "1529": {
+    "name_enus": "Jade",
+    "quality": 2,
+    "icon": "inv_misc_gem_stone_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1783,
+      "itemSquishEraId": 0,
+      "sellprice": 700
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4388": {
+    "name_enus": "Discombobulator Ray",
+    "quality": 1,
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "jsonequip": {
+      "arcsplpwr": -40,
+      "avgbuyout": 15000,
+      "cooldown": 60000,
+      "firsplpwr": -40,
+      "frosplpwr": -40,
+      "holsplpwr": -40,
+      "itemSquishEraId": 0,
+      "natsplpwr": -40,
+      "reqskillrank": 160,
+      "sellprice": 1000,
+      "shasplpwr": -40
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7191": {
+    "name_enus": "Fused Wiring",
+    "quality": 1,
+    "icon": "inv_misc_gear_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 33900,
+      "itemSquishEraId": 0
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7148": {
+    "name_enus": "Goblin Jumper Cables",
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_10",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 30595,
+      "cooldown": 1800000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 165,
+      "sellprice": 21,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4403": {
+    "name_enus": "Portable Bronze Mortar",
+    "quality": 1,
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 82699,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 165,
+      "sellprice": 2000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4389": {
+    "name_enus": "Gyrochronatom",
+    "quality": 1,
+    "icon": "inv_misc_pocketwatch_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4633,
+      "buyprice": 3000,
+      "itemSquishEraId": 0,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7912": {
+    "name_enus": "Solid Stone",
+    "quality": 1,
+    "icon": "inv_stone_10",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1195,
+      "itemSquishEraId": 0,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10505": {
+    "name_enus": "Solid Blasting Powder",
+    "quality": 1,
+    "icon": "inv_misc_powder_black",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2901,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10507": {
+    "name_enus": "Solid Dynamite",
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2520,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 175,
+      "sellprice": 350
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21589": {
+    "name_enus": "Large Blue Rocket",
+    "quality": 1,
+    "icon": "inv_misc_missilelarge_blue",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 12
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21590": {
+    "name_enus": "Large Green Rocket",
+    "quality": 1,
+    "icon": "inv_misc_missilelarge_green",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 12
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21592": {
+    "name_enus": "Large Red Rocket",
+    "quality": 1,
+    "icon": "inv_misc_missilelarge_red",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 12
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4391": {
+    "name_enus": "Compact Harvest Reaper Kit",
+    "quality": 1,
+    "icon": "inv_helmet_08",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 21495,
+      "cooldown": 600000,
+      "itemSquishEraId": 0,
+      "reqlevel": 30,
+      "reqskill": 202,
+      "reqskillrank": 175,
+      "sellprice": 4000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3859": {
+    "name_enus": "Steel Bar",
+    "quality": 1,
+    "icon": "inv_ingot_steel",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2665,
+      "itemSquishEraId": 0,
+      "sellprice": 60
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10498": {
+    "name_enus": "Gyromatic Micro-Adjustor",
+    "quality": 1,
+    "icon": "inv_misc_screwdriver_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 7491,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 16,
+      "sheathtype": 5,
+      "speed": 2
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4390": {
+    "name_enus": "Iron Grenade",
+    "quality": 1,
+    "icon": "inv_misc_bomb_08",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2439,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 175,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3864": {
+    "name_enus": "Citrine",
+    "quality": 2,
+    "icon": "inv_misc_gem_opal_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1117,
+      "itemSquishEraId": 0,
+      "sellprice": 800
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10499": {
+    "name_enus": "Bright-Eye Goggles",
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          17718,
+          ""
+        ]
+      },
+      "armor": 38,
+      "avgbuyout": 26260,
+      "displayid": 17718,
+      "dura": 45,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 175,
+      "sellprice": 2105,
+      "slotbak": 1,
+      "spi": 9,
+      "sta": 9
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4407": {
+    "name_enus": "Accurate Scope",
+    "quality": 1,
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 13987,
+      "dmg": 3,
+      "itemSquishEraId": 0,
+      "reqlevel": 20,
+      "sellprice": 1200
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4392": {
+    "name_enus": "Advanced Target Dummy",
+    "quality": 1,
+    "icon": "inv_crate_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 20748,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 185,
+      "sellprice": 2500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4611": {
+    "name_enus": "Blue Pearl",
+    "quality": 1,
+    "icon": "inv_ore_arcanite_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5144,
+      "itemSquishEraId": 0,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4852": {
+    "name_enus": "Flash Bomb",
+    "quality": 1,
+    "icon": "inv_misc_ammo_bullet_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 12983,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 27,
+      "sellprice": 300
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4393": {
+    "name_enus": "Craftsman's Monocle",
+    "quality": 2,
+    "icon": "inv_helmet_44",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          4661,
+          ""
+        ]
+      },
+      "armor": 40,
+      "displayid": 4661,
+      "dura": 45,
+      "int": 15,
+      "itemSquishEraId": 0,
+      "reqlevel": 32,
+      "reqskill": 202,
+      "reqskillrank": 185,
+      "sellprice": 2632,
+      "slotbak": 1
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4394": {
+    "name_enus": "Big Iron Bomb",
+    "quality": 1,
+    "icon": "inv_misc_bomb_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3800,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 190,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3860": {
+    "name_enus": "Mithril Bar",
+    "quality": 1,
+    "icon": "inv_ingot_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2168,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "17202": {
+    "name_enus": "Snowball",
+    "quality": 1,
+    "icon": "inv_ammo_snowball",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1502,
+      "buyprice": 10,
+      "cooldown": 1000,
+      "itemSquishEraId": 0
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "17716": {
+    "name_enus": "Snowmaster 9000",
+    "quality": 1,
+    "icon": "spell_frost_windwalkon",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 250000,
+      "cooldown": 82800000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 190,
+      "sellprice": 7500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10559": {
+    "name_enus": "Mithril Tube",
+    "quality": 1,
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 6672,
+      "itemSquishEraId": 0,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4395": {
+    "name_enus": "Goblin Land Mine",
+    "quality": 1,
+    "icon": "inv_shield_08",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 9261,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 195,
+      "sellprice": 1600
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260801": {
+    "name_enus": "EZ-Thro Fireproof Fuse",
+    "quality": 1,
+    "icon": "inv_jewelcrafting_delicatecopperwire",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 300
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18588": {
+    "name_enus": "Ez-Thro Dynamite II",
+    "quality": 1,
+    "icon": "inv_misc_bomb_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5625,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 30,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4398": {
+    "name_enus": "Large Seaforium Charge",
+    "quality": 1,
+    "icon": "inv_misc_urn_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 18977,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 200,
+      "sellprice": 900
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4338": {
+    "name_enus": "Mageweave Cloth",
+    "quality": 1,
+    "icon": "inv_fabric_mageweave_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 649,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "11590": {
+    "name_enus": "Mechanical Repair Kit",
+    "quality": 1,
+    "icon": "inv_gizmo_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4991,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 200,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10560": {
+    "name_enus": "Unstable Trigger",
+    "quality": 1,
+    "icon": "inv_battery_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 9518,
+      "itemSquishEraId": 0,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4397": {
+    "name_enus": "Gnomish Cloaking Device",
+    "quality": 1,
+    "icon": "inv_gizmo_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 125750,
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 200,
+      "sellprice": 5000,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4396": {
+    "name_enus": "Mechanical Dragonling",
+    "quality": 1,
+    "icon": "inv_misc_head_dragon_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 47500,
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqlevel": 30,
+      "reqskill": 202,
+      "reqskillrank": 200,
+      "sellprice": 6000,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10577": {
+    "name_enus": "Goblin Mortar",
+    "quality": 1,
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 140000,
+      "cooldown": 600000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 205,
+      "sellprice": 2000,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10648": {
+    "name_enus": "Blank Parchment",
+    "quality": 1,
+    "icon": "inv_misc_note_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4372,
+      "buyprice": 500,
+      "itemSquishEraId": 0,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10647": {
+    "name_enus": "Engineer's Ink",
+    "quality": 1,
+    "icon": "inv_potion_65",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3087,
+      "buyprice": 2000,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10644": {
+    "name_enus": "Recipe: Goblin Rocket Fuel",
+    "quality": 1,
+    "icon": "inv_scroll_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 20190,
+      "itemSquishEraId": 0,
+      "reqskill": 171,
+      "reqskillrank": 210,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10713": {
+    "name_enus": "Plans: Inlaid Mithril Cylinder",
+    "quality": 1,
+    "icon": "inv_scroll_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 11800,
+      "itemSquishEraId": 0,
+      "reqskill": 164,
+      "reqskillrank": 200,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7075": {
+    "name_enus": "Core of Earth",
+    "quality": 1,
+    "icon": "inv_stone_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 979,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6037": {
+    "name_enus": "Truesilver Bar",
+    "quality": 2,
+    "icon": "inv_ingot_08",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3164,
+      "itemSquishEraId": 0,
+      "sellprice": 1250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "11826": {
+    "name_enus": "Lil' Smoky",
+    "quality": 1,
+    "icon": "inv_mechagon_spareparts",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 2500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7077": {
+    "name_enus": "Heart of Fire",
+    "quality": 1,
+    "icon": "spell_fire_lavaspawn",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3033,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "11825": {
+    "name_enus": "Pet Bombling",
+    "quality": 1,
+    "icon": "inv_misc_bomb_04",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 2500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10646": {
+    "name_enus": "Goblin Sapper Charge",
+    "quality": 1,
+    "icon": "spell_fire_selfdestruct",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 35289,
+      "cooldown": 300000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 205,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7068": {
+    "name_enus": "Elemental Fire",
+    "quality": 1,
+    "icon": "spell_fire_fire",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 24850,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10500": {
+    "name_enus": "Fire Goggles",
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          11700,
+          ""
+        ]
+      },
+      "armor": 44,
+      "avgbuyout": 80000,
+      "displayid": 11700,
+      "dura": 45,
+      "firres": 17,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 205,
+      "sellprice": 3478,
+      "slotbak": 1
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10543": {
+    "name_enus": "Goblin Construction Helmet",
+    "quality": 2,
+    "icon": "inv_helmet_60",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          15368,
+          "inv_helmet_18"
+        ]
+      },
+      "armor": 44,
+      "cooldown": 3600000,
+      "displayid": 15368,
+      "dura": 45,
+      "firres": 15,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 205,
+      "sellprice": 3517,
+      "slotbak": 1
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7067": {
+    "name_enus": "Elemental Earth",
+    "quality": 1,
+    "icon": "inv_ore_iron_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 20687,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10542": {
+    "name_enus": "Goblin Mining Helmet",
+    "quality": 2,
+    "icon": "inv_helmet_25",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          17729,
+          ""
+        ]
+      },
+      "armor": 190,
+      "displayid": 17729,
+      "dura": 60,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 205,
+      "sellprice": 5255,
+      "slotbak": 1,
+      "sta": 15
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10508": {
+    "name_enus": "Mithril Blunderbuss",
+    "quality": 2,
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "jsonequip": {
+      "agi": 5,
+      "appearances": {
+        "0": [
+          18298,
+          ""
+        ]
+      },
+      "avgbuyout": 45438,
+      "displayid": 18298,
+      "dmgmax1": 114,
+      "dmgmin1": 61,
+      "dmgrange": 0.6,
+      "dmgtype1": 0,
+      "dps": 30.22,
+      "dura": 65,
+      "itemSquishEraId": 0,
+      "reqlevel": 36,
+      "rgddmgmax": 114,
+      "rgddmgmin": 61,
+      "rgddps": 30.22,
+      "rgdspeed": 2.9,
+      "sellprice": 8958,
+      "slotbak": 26,
+      "speed": 2.9
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8151": {
+    "name_enus": "Flask of Mojo",
+    "quality": 1,
+    "icon": "inv_potion_15",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 349,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10716": {
+    "name_enus": "Gnomish Shrink Ray",
+    "quality": 1,
+    "icon": "inv_gizmo_09",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 55000,
+      "cooldown": 300000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 205,
+      "sellprice": 750,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10512": {
+    "name_enus": "Hi-Impact Mithril Slugs",
+    "quality": 2,
+    "icon": "inv_ammo_bullet_01",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          737992,
+          "inv_ammo_bullet_02"
+        ]
+      },
+      "avgbuyout": 9,
+      "displayid": 737992,
+      "itemSquishEraId": 0,
+      "reqlevel": 37,
+      "sellprice": 2,
+      "slotbak": 24,
+      "speed": 3
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10545": {
+    "name_enus": "Gnomish Goggles",
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "agi": 9,
+      "appearances": {
+        "0": [
+          18138,
+          ""
+        ]
+      },
+      "armor": 45,
+      "displayid": 18138,
+      "dura": 45,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 210,
+      "sellprice": 3929,
+      "slotbak": 1,
+      "spi": 9,
+      "sta": 9
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7909": {
+    "name_enus": "Aquamarine",
+    "quality": 2,
+    "icon": "inv_misc_gem_crystal_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3007,
+      "itemSquishEraId": 0,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4304": {
+    "name_enus": "Thick Leather",
+    "quality": 1,
+    "icon": "inv_misc_leatherscrap_08",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 828,
+      "buyprice": 1200,
+      "itemSquishEraId": 0,
+      "sellprice": 300
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10546": {
+    "name_enus": "Deadly Scope",
+    "quality": 1,
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 30444,
+      "dmg": 5,
+      "itemSquishEraId": 0,
+      "reqlevel": 30,
+      "sellprice": 1500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10285": {
+    "name_enus": "Shadow Silk",
+    "quality": 1,
+    "icon": "spell_nature_web",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1049,
+      "itemSquishEraId": 0,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4337": {
+    "name_enus": "Thick Spider's Silk",
+    "quality": 1,
+    "icon": "spell_nature_web",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 771,
+      "itemSquishEraId": 0,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10720": {
+    "name_enus": "Gnomish Net-o-Matic Projector",
+    "quality": 1,
+    "icon": "inv_misc_net_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 84999,
+      "cooldown": 600000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 210,
+      "sellprice": 750,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10561": {
+    "name_enus": "Mithril Casing",
+    "quality": 1,
+    "icon": "inv_gizmo_mithrilcasing_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5706,
+      "itemSquishEraId": 0,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10514": {
+    "name_enus": "Mithril Frag Bomb",
+    "quality": 1,
+    "icon": "inv_misc_bomb_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2375,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 205,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7387": {
+    "name_enus": "Dusky Belt",
+    "quality": 2,
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "jsonequip": {
+      "agi": 8,
+      "appearances": {
+        "0": [
+          8072,
+          ""
+        ]
+      },
+      "armor": 61,
+      "avgbuyout": 15025,
+      "displayid": 8072,
+      "dura": 30,
+      "itemSquishEraId": 0,
+      "reqlevel": 34,
+      "sellprice": 2587,
+      "slotbak": 6,
+      "sta": 8
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10721": {
+    "name_enus": "Gnomish Harm Prevention Belt",
+    "quality": 2,
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          8072,
+          ""
+        ]
+      },
+      "armor": 66,
+      "avgbuyout": 76777,
+      "cooldown": 3600000,
+      "displayid": 8072,
+      "dura": 30,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 215,
+      "sellprice": 3317,
+      "slotbak": 6,
+      "sta": 6
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10592": {
+    "name_enus": "Catseye Draught",
+    "quality": 1,
+    "icon": "inv_potion_36",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4018,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 30,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10501": {
+    "name_enus": "Catseye Ultra Goggles",
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          17900,
+          ""
+        ]
+      },
+      "armor": 47,
+      "avgbuyout": 61600,
+      "displayid": 17900,
+      "dura": 45,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 220,
+      "sellprice": 4398,
+      "slotbak": 1
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10510": {
+    "name_enus": "Mithril Heavy-bore Rifle",
+    "quality": 2,
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          20744,
+          ""
+        ]
+      },
+      "avgbuyout": 54380,
+      "displayid": 20744,
+      "dmgmax1": 127,
+      "dmgmin1": 68,
+      "dmgrange": 0.6,
+      "dmgtype1": 0,
+      "dps": 33.7,
+      "dura": 65,
+      "itemSquishEraId": 0,
+      "reqlevel": 39,
+      "rgdatkpwr": 14,
+      "rgddmgmax": 127,
+      "rgddmgmin": 68,
+      "rgddps": 33.7,
+      "rgdspeed": 2.9,
+      "sellprice": 11369,
+      "slotbak": 26,
+      "speed": 2.9
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21571": {
+    "name_enus": "Blue Rocket Cluster",
+    "quality": 1,
+    "icon": "inv_misc_missilesmallcluster_blue",
+    "screenshot": {},
+    "jsonequip": {
+      "buyprice": 100,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21574": {
+    "name_enus": "Green Rocket Cluster",
+    "quality": 1,
+    "icon": "inv_misc_missilesmallcluster_green",
+    "screenshot": {},
+    "jsonequip": {
+      "buyprice": 100,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21576": {
+    "name_enus": "Red Rocket Cluster",
+    "quality": 1,
+    "icon": "inv_misc_missilesmallcluster_red",
+    "screenshot": {},
+    "jsonequip": {
+      "buyprice": 100,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10026": {
+    "name_enus": "Black Mageweave Boots",
+    "quality": 2,
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          21154,
+          ""
+        ]
+      },
+      "armor": 41,
+      "avgbuyout": 33264,
+      "displayid": 21154,
+      "dmgrange": 0.2,
+      "dura": 35,
+      "int": 7,
+      "itemSquishEraId": 0,
+      "reqlevel": 41,
+      "sellprice": 5459,
+      "slotbak": 8,
+      "splpwr": 11
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10724": {
+    "name_enus": "Gnomish Rocket Boots",
+    "quality": 2,
+    "icon": "inv_boots_02",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          4630,
+          ""
+        ]
+      },
+      "armor": 41,
+      "avgbuyout": 139999,
+      "cooldown": 1800000,
+      "displayid": 4630,
+      "dura": 35,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 225,
+      "sellprice": 4697,
+      "slotbak": 8
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9061": {
+    "name_enus": "Goblin Rocket Fuel",
+    "quality": 1,
+    "icon": "inv_cask_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 21400,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7189": {
+    "name_enus": "Goblin Rocket Boots",
+    "quality": 2,
+    "icon": "inv_gizmo_rocketboot_01",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          14763,
+          ""
+        ]
+      },
+      "armor": 41,
+      "avgbuyout": 159500,
+      "cooldown": 300000,
+      "displayid": 14763,
+      "dura": 35,
+      "itemSquishEraId": 0,
+      "reqskillrank": 225,
+      "sellprice": 4712,
+      "slotbak": 8
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4339": {
+    "name_enus": "Bolt of Mageweave",
+    "quality": 1,
+    "icon": "inv_fabric_mageweave_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3391,
+      "itemSquishEraId": 0,
+      "sellprice": 1250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10518": {
+    "name_enus": "Parachute Cloak",
+    "quality": 2,
+    "icon": "inv_misc_cape_11",
+    "screenshot": {},
+    "jsonequip": {
+      "agi": 8,
+      "appearances": {
+        "0": [
+          23129,
+          ""
+        ]
+      },
+      "armor": 30,
+      "avgbuyout": 70000,
+      "cooldown": 1800000,
+      "displayid": 23129,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 225,
+      "sellprice": 4696,
+      "slotbak": 16
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7910": {
+    "name_enus": "Star Ruby",
+    "quality": 2,
+    "icon": "inv_misc_gem_ruby_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 6404,
+      "itemSquishEraId": 0,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10502": {
+    "name_enus": "Spellpower Goggles Xtreme",
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          745506,
+          ""
+        ]
+      },
+      "armor": 46,
+      "avgbuyout": 30000,
+      "displayid": 745506,
+      "dura": 45,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 215,
+      "sellprice": 4088,
+      "slotbak": 1,
+      "splpwr": 21
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9060": {
+    "name_enus": "Inlaid Mithril Cylinder",
+    "quality": 1,
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 27690,
+      "itemSquishEraId": 0,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21569": {
+    "name_enus": "Firework Launcher",
+    "quality": 1,
+    "icon": "inv_musket_04",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10587": {
+    "name_enus": "Goblin Bomb Dispenser",
+    "quality": 1,
+    "icon": "inv_gizmo_06",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 600000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 230,
+      "sellprice": 1500,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10506": {
+    "name_enus": "Deepdive Helmet",
+    "quality": 2,
+    "icon": "inv_helmet_49",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          23161,
+          ""
+        ]
+      },
+      "armor": 49,
+      "avgbuyout": 44999,
+      "displayid": 23161,
+      "dura": 45,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 230,
+      "sellprice": 5227,
+      "slotbak": 1,
+      "sta": 4
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10503": {
+    "name_enus": "Rose Colored Goggles",
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          22423,
+          ""
+        ]
+      },
+      "armor": 49,
+      "avgbuyout": 10002,
+      "displayid": 22423,
+      "dura": 45,
+      "int": 12,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 230,
+      "sellprice": 5169,
+      "slotbak": 1,
+      "spi": 13
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10725": {
+    "name_enus": "Gnomish Battle Chicken",
+    "quality": 1,
+    "icon": "spell_magic_polymorphchicken",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 1800000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 230,
+      "sellprice": 1500,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10562": {
+    "name_enus": "Hi-Explosive Bomb",
+    "quality": 1,
+    "icon": "inv_misc_bomb_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3940,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 235,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10586": {
+    "name_enus": "The Big One",
+    "quality": 1,
+    "icon": "inv_misc_bomb_04",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 33795,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 225,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10726": {
+    "name_enus": "Gnomish Mind Control Cap",
+    "quality": 2,
+    "icon": "inv_helmet_49",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          19667,
+          ""
+        ]
+      },
+      "armor": 50,
+      "avgbuyout": 148500,
+      "cooldown": 1800000,
+      "displayid": 19667,
+      "dura": 45,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 215,
+      "sellprice": 5520,
+      "slotbak": 1,
+      "spi": 14
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12808": {
+    "name_enus": "Essence of Undeath",
+    "quality": 2,
+    "icon": "spell_shadow_shadetruesight",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 13600,
+      "itemSquishEraId": 0,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7972": {
+    "name_enus": "Ichor of Undeath",
+    "quality": 1,
+    "icon": "inv_misc_slime_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 563,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10645": {
+    "name_enus": "Gnomish Death Ray",
+    "quality": 1,
+    "icon": "inv_gizmo_08",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 300000,
+      "itemSquishEraId": 0,
+      "reqskillrank": 240,
+      "sellprice": 750,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10727": {
+    "name_enus": "Goblin Dragon Gun",
+    "quality": 1,
+    "icon": "spell_fire_flamebolt",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 300000,
+      "itemSquishEraId": 0,
+      "reqskillrank": 240,
+      "sellprice": 2000,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10548": {
+    "name_enus": "Sniper Scope",
+    "quality": 1,
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 47800,
+      "dmg": 7,
+      "itemSquishEraId": 0,
+      "reqlevel": 40,
+      "sellprice": 2500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10513": {
+    "name_enus": "Mithril Gyro-Shot",
+    "quality": 2,
+    "icon": "inv_ammo_bullet_01",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          737992,
+          "inv_ammo_bullet_02"
+        ]
+      },
+      "avgbuyout": 43,
+      "displayid": 737992,
+      "itemSquishEraId": 0,
+      "reqlevel": 44,
+      "sellprice": 5,
+      "slotbak": 24,
+      "speed": 3
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10286": {
+    "name_enus": "Heart of the Wild",
+    "quality": 1,
+    "icon": "inv_misc_herb_08",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 800,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8153": {
+    "name_enus": "Wildvine",
+    "quality": 1,
+    "icon": "inv_misc_herb_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5598,
+      "itemSquishEraId": 0,
+      "sellprice": 5
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10504": {
+    "name_enus": "Green Lens",
+    "quality": 3,
+    "icon": "inv_helmet_44",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          16098,
+          ""
+        ]
+      },
+      "armor": 57,
+      "avgbuyout": 54189,
+      "displayid": 16098,
+      "dura": 50,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 245,
+      "sellprice": 7770,
+      "slotbak": 1,
+      "sta": 10
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10588": {
+    "name_enus": "Goblin Rocket Helmet",
+    "quality": 2,
+    "icon": "inv_helmet_49",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          23166,
+          ""
+        ]
+      },
+      "armor": 50,
+      "avgbuyout": 500000,
+      "cooldown": 1200000,
+      "displayid": 23166,
+      "dura": 45,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 235,
+      "sellprice": 5834,
+      "slotbak": 1,
+      "sta": 15
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12365": {
+    "name_enus": "Dense Stone",
+    "quality": 1,
+    "icon": "inv_misc_stonetablet_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1412,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "15992": {
+    "name_enus": "Dense Blasting Powder",
+    "quality": 1,
+    "icon": "inv_misc_ammo_gunpowder_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4456,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "14047": {
+    "name_enus": "Runecloth",
+    "quality": 1,
+    "icon": "inv_fabric_purplefire_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1147,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18641": {
+    "name_enus": "Dense Dynamite",
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 24599,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 250,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8150": {
+    "name_enus": "Deeprock Salt",
+    "quality": 1,
+    "icon": "inv_misc_dust_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 526,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "19026": {
+    "name_enus": "Snake Burst Firework",
+    "quality": 1,
+    "icon": "spell_holy_holybolt",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10576": {
+    "name_enus": "Mithril Mechanical Dragonling",
+    "quality": 1,
+    "icon": "inv_misc_head_dragon_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 443363,
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqlevel": 40,
+      "reqskill": 202,
+      "reqskillrank": 250,
+      "sellprice": 6000,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12359": {
+    "name_enus": "Thorium Bar",
+    "quality": 1,
+    "icon": "inv_ingot_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3226,
+      "itemSquishEraId": 0,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "15846": {
+    "name_enus": "Salt Shaker",
+    "quality": 1,
+    "icon": "inv_egg_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 85384,
+      "cooldown": 255600000,
+      "itemSquishEraId": 0,
+      "reqskill": 165,
+      "reqskillrank": 250,
+      "sellprice": 7500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "15407": {
+    "name_enus": "Cured Rugged Hide",
+    "quality": 1,
+    "icon": "inv_misc_pelt_bear_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 201397,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "15994": {
+    "name_enus": "Thorium Widget",
+    "quality": 1,
+    "icon": "inv_gizmo_04",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 8770,
+      "itemSquishEraId": 0,
+      "sellprice": 2500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7079": {
+    "name_enus": "Globe of Water",
+    "quality": 1,
+    "icon": "inv_misc_orb_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1310,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18631": {
+    "name_enus": "Truesilver Transformer",
+    "quality": 1,
+    "icon": "inv_staff_18",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 109988,
+      "itemSquishEraId": 0,
+      "sellprice": 3000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21277": {
+    "name_enus": "Tranquil Mechanical Yeti",
+    "quality": 1,
+    "icon": "ability_hunter_pet_gorilla",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 200000,
+      "itemSquishEraId": 0,
+      "sellprice": 1250
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18660": {
+    "name_enus": "World Enlarger",
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_08",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 22999,
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 250,
+      "reqspell": 20219,
+      "sellprice": 7500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7069": {
+    "name_enus": "Elemental Air",
+    "quality": 1,
+    "icon": "spell_nature_tranquility",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2048,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12361": {
+    "name_enus": "Blue Sapphire",
+    "quality": 2,
+    "icon": "inv_misc_gem_sapphire_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 130800,
+      "itemSquishEraId": 0,
+      "sellprice": 7000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7078": {
+    "name_enus": "Essence of Fire",
+    "quality": 2,
+    "icon": "spell_fire_volcano",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 29548,
+      "buyprice": 1600,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13467": {
+    "name_enus": "Icecap",
+    "quality": 1,
+    "icon": "inv_misc_herb_icecap",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5132,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18634": {
+    "name_enus": "Gyrofreeze Ice Reflector",
+    "quality": 3,
+    "icon": "inv_misc_enggizmos_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1270080,
+      "cooldown": 300000,
+      "frores": 15,
+      "itemSquishEraId": 0,
+      "reqlevel": 47,
+      "reqskill": 202,
+      "reqskillrank": 260,
+      "sellprice": 12500,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "15995": {
+    "name_enus": "Thorium Rifle",
+    "quality": 2,
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          13060,
+          "inv_weapon_rifle_04"
+        ]
+      },
+      "avgbuyout": 169999,
+      "displayid": 13060,
+      "dmgmax1": 131,
+      "dmgmin1": 70,
+      "dmgrange": 0.6,
+      "dmgtype1": 0,
+      "dps": 40.35,
+      "dura": 65,
+      "itemSquishEraId": 0,
+      "reqlevel": 47,
+      "rgdatkpwr": 17,
+      "rgddmgmax": 131,
+      "rgddmgmin": 70,
+      "rgddps": 40.35,
+      "rgdspeed": 2.5,
+      "sellprice": 19739,
+      "slotbak": 26,
+      "speed": 2.5
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "15993": {
+    "name_enus": "Thorium Grenade",
+    "quality": 1,
+    "icon": "inv_misc_bomb_08",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 18100,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 260,
+      "sellprice": 1500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8170": {
+    "name_enus": "Rugged Leather",
+    "quality": 1,
+    "icon": "inv_misc_leatherscrap_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1784,
+      "buyprice": 2000,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18645": {
+    "name_enus": "Gnomish Alarm-O-Bot",
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_13",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 397950,
+      "cooldown": 600000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 265,
+      "sellprice": 1500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "14227": {
+    "name_enus": "Ironweb Spider Silk",
+    "quality": 1,
+    "icon": "spell_nature_web",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 7547,
+      "itemSquishEraId": 0,
+      "sellprice": 2500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18587": {
+    "name_enus": "Goblin Jumper Cables XL",
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_11",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 390000,
+      "cooldown": 1800000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 265,
+      "sellprice": 2000,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12803": {
+    "name_enus": "Living Essence",
+    "quality": 2,
+    "icon": "spell_nature_abolishmagic",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 21700,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "15996": {
+    "name_enus": "Lifelike Mechanical Toad",
+    "quality": 1,
+    "icon": "inv_misc_monsterhead_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 90500,
+      "itemSquishEraId": 0,
+      "sellprice": 2500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12810": {
+    "name_enus": "Enchanted Leather",
+    "quality": 1,
+    "icon": "inv_misc_rune_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 39200,
+      "buyprice": 2000,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "15999": {
+    "name_enus": "Spellpower Goggles Xtreme Plus",
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          745507,
+          ""
+        ]
+      },
+      "armor": 57,
+      "avgbuyout": 49975,
+      "displayid": 745507,
+      "dura": 45,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 270,
+      "sellprice": 9002,
+      "slotbak": 1,
+      "splpwr": 27
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21714": {
+    "name_enus": "Large Blue Rocket Cluster",
+    "quality": 1,
+    "icon": "inv_misc_missilelargecluster_blue",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 14296,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21716": {
+    "name_enus": "Large Green Rocket Cluster",
+    "quality": 1,
+    "icon": "inv_misc_missilelargecluster_green",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21718": {
+    "name_enus": "Large Red Rocket Cluster",
+    "quality": 1,
+    "icon": "inv_misc_missilelargecluster_red",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 12069,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18594": {
+    "name_enus": "Powerful Seaforium Charge",
+    "quality": 1,
+    "icon": "spell_shadow_detectinvisibility",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 46800,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 275,
+      "sellprice": 3000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "16000": {
+    "name_enus": "Thorium Tube",
+    "quality": 1,
+    "icon": "inv_gizmo_pipe_04",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 17063,
+      "itemSquishEraId": 0,
+      "sellprice": 3750
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18637": {
+    "name_enus": "Major Recombobulator",
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_09",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 450000,
+      "cooldown": 300000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 275,
+      "sellprice": 600,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "11371": {
+    "name_enus": "Dark Iron Bar",
+    "quality": 1,
+    "icon": "inv_ingot_mithril",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 76500,
+      "itemSquishEraId": 0,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12799": {
+    "name_enus": "Large Opal",
+    "quality": 2,
+    "icon": "inv_misc_gem_opal_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 11895,
+      "itemSquishEraId": 0,
+      "sellprice": 7000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "16004": {
+    "name_enus": "Dark Iron Rifle",
+    "quality": 3,
+    "icon": "inv_weapon_rifle_08",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          26737,
+          ""
+        ]
+      },
+      "avgbuyout": 399900,
+      "displayid": 26737,
+      "dmgmax1": 167,
+      "dmgmin1": 89,
+      "dmgrange": 0.6,
+      "dmgtype1": 0,
+      "dps": 47.53,
+      "dura": 75,
+      "itemSquishEraId": 0,
+      "reqlevel": 50,
+      "rgddmgmax": 167,
+      "rgddmgmin": 89,
+      "rgddps": 47.53,
+      "rgdspeed": 2.7,
+      "sellprice": 29152,
+      "slotbak": 26,
+      "speed": 2.7
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "22728": {
+    "name_enus": "Steam Tonk Controller",
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_20",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 600000,
+      "itemSquishEraId": 0,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21570": {
+    "name_enus": "Cluster Launcher",
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5080,
+      "itemSquishEraId": 0
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "16023": {
+    "name_enus": "Masterwork Target Dummy",
+    "quality": 1,
+    "icon": "inv_crate_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 129999,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 275,
+      "sellprice": 10000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "15997": {
+    "name_enus": "Thorium Shells",
+    "quality": 2,
+    "icon": "inv_ammo_bullet_03",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          737992,
+          "inv_ammo_bullet_02"
+        ]
+      },
+      "avgbuyout": 73,
+      "buyprice": 4000,
+      "displayid": 737992,
+      "itemSquishEraId": 0,
+      "reqlevel": 52,
+      "sellprice": 10,
+      "slotbak": 24,
+      "speed": 3
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "16005": {
+    "name_enus": "Dark Iron Bomb",
+    "quality": 1,
+    "icon": "inv_misc_bomb_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 30000,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 285,
+      "sellprice": 1250
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12360": {
+    "name_enus": "Arcanite Bar",
+    "quality": 2,
+    "icon": "inv_misc_stonetablet_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 541000,
+      "itemSquishEraId": 0,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "16006": {
+    "name_enus": "Delicate Arcanite Converter",
+    "quality": 1,
+    "icon": "inv_gizmo_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 609990,
+      "itemSquishEraId": 0,
+      "sellprice": 10000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7080": {
+    "name_enus": "Essence of Water",
+    "quality": 2,
+    "icon": "spell_nature_acid_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 126224,
+      "buyprice": 1600,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12800": {
+    "name_enus": "Azerothian Diamond",
+    "quality": 2,
+    "icon": "inv_misc_gem_diamond_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 31899,
+      "itemSquishEraId": 0,
+      "sellprice": 10000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18638": {
+    "name_enus": "Hyper-Radiant Flame Reflector",
+    "quality": 3,
+    "icon": "inv_misc_enggizmos_04",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2389800,
+      "cooldown": 300000,
+      "firres": 18,
+      "itemSquishEraId": 0,
+      "reqlevel": 53,
+      "reqskill": 202,
+      "reqskillrank": 290,
+      "sellprice": 12500,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12364": {
+    "name_enus": "Huge Emerald",
+    "quality": 2,
+    "icon": "inv_misc_gem_emerald_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 32000,
+      "itemSquishEraId": 0,
+      "sellprice": 10000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "16008": {
+    "name_enus": "Master Engineer's Goggles",
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          745505,
+          ""
+        ]
+      },
+      "armor": 61,
+      "avgbuyout": 110000,
+      "displayid": 745505,
+      "dura": 45,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 280,
+      "sellprice": 11739,
+      "slotbak": 1,
+      "spi": 17,
+      "sta": 16
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "16009": {
+    "name_enus": "Voice Amplification Modulator",
+    "quality": 2,
+    "icon": "inv_jewelry_amulet_07",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 5930,
+      "slotbak": 2
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "17010": {
+    "name_enus": "Fiery Core",
+    "quality": 3,
+    "icon": "spell_fire_flamebolt",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 127096,
+      "buyprice": 8000,
+      "itemSquishEraId": 0,
+      "sellprice": 2000
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "17011": {
+    "name_enus": "Lava Core",
+    "quality": 3,
+    "icon": "spell_nature_earthquake",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 101039,
+      "buyprice": 8000,
+      "itemSquishEraId": 0,
+      "sellprice": 2000
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18282": {
+    "name_enus": "Core Marksman Rifle",
+    "quality": 4,
+    "icon": "inv_weapon_rifle_05",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          31210,
+          ""
+        ]
+      },
+      "avgbuyout": 6250000,
+      "displayid": 31210,
+      "dmgmax1": 200,
+      "dmgmin1": 107,
+      "dmgrange": 0.6,
+      "dmgtype1": 0,
+      "dps": 61.54,
+      "dura": 90,
+      "hitrtng": 10,
+      "itemSquishEraId": 0,
+      "reqlevel": 60,
+      "rgdatkpwr": 22,
+      "rgddmgmax": 200,
+      "rgddmgmin": 107,
+      "rgddps": 61.54,
+      "rgdspeed": 2.5,
+      "sellprice": 66347,
+      "slotbak": 26,
+      "speed": 2.5
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7082": {
+    "name_enus": "Essence of Air",
+    "quality": 2,
+    "icon": "spell_nature_earthbind",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 176732,
+      "buyprice": 1600,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7076": {
+    "name_enus": "Essence of Earth",
+    "quality": 2,
+    "icon": "spell_nature_strengthofearthtotem02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 39318,
+      "buyprice": 1600,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18168": {
+    "name_enus": "Force Reactive Disk",
+    "quality": 4,
+    "icon": "spell_arcane_portaldarnassus",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          20987,
+          "inv_shield_08"
+        ]
+      },
+      "armor": 2468,
+      "armorbonus": 80,
+      "avgbuyout": 5994985,
+      "displayid": 20987,
+      "dura": 120,
+      "itemSquishEraId": 0,
+      "reqlevel": 60,
+      "reqskill": 202,
+      "reqskillrank": 300,
+      "sellprice": 56416,
+      "sheathtype": 4,
+      "slotbak": 14,
+      "sta": 11
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12655": {
+    "name_enus": "Enchanted Thorium Bar",
+    "quality": 1,
+    "icon": "inv_ingot_eternium",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 28752,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "16022": {
+    "name_enus": "Arcanite Dragonling",
+    "quality": 3,
+    "icon": "inv_misc_head_dragon_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 23000103,
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqlevel": 50,
+      "reqskill": 202,
+      "reqskillrank": 300,
+      "sellprice": 40000,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18283": {
+    "name_enus": "Biznicks 247x128 Accurascope",
+    "quality": 3,
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3785252,
+      "itemSquishEraId": 0,
+      "mlehitpct": 3,
+      "reqlevel": 50,
+      "rgdhitpct": 3,
+      "sellprice": 25000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "19726": {
+    "name_enus": "Bloodvine",
+    "quality": 2,
+    "icon": "inv_misc_herb_09",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 207500,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "19774": {
+    "name_enus": "Souldarite",
+    "quality": 2,
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 14399,
+      "itemSquishEraId": 0,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12804": {
+    "name_enus": "Powerful Mojo",
+    "quality": 1,
+    "icon": "spell_nature_astralrecalgroup",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3486,
+      "itemSquishEraId": 0,
+      "sellprice": 2000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "19999": {
+    "name_enus": "Bloodvine Goggles",
+    "quality": 3,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          745507,
+          ""
+        ]
+      },
+      "armor": 75,
+      "avgbuyout": 550000,
+      "critstrkrtng": 14,
+      "displayid": 745507,
+      "dura": 50,
+      "hitrtng": 20,
+      "itemSquishEraId": 0,
+      "manargn": 9,
+      "reqlevel": 60,
+      "reqskill": 202,
+      "reqskillrank": 300,
+      "sellprice": 18639,
+      "slotbak": 1
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "19998": {
+    "name_enus": "Bloodvine Lens",
+    "quality": 3,
+    "icon": "inv_helmet_44",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          17725,
+          ""
+        ]
+      },
+      "armor": 147,
+      "avgbuyout": 690000,
+      "critstrkrtng": 28,
+      "displayid": 17725,
+      "dura": 60,
+      "itemSquishEraId": 0,
+      "reqlevel": 60,
+      "reqskill": 202,
+      "reqskillrank": 300,
+      "sellprice": 23211,
+      "slotbak": 1,
+      "sta": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "16007": {
+    "name_enus": "Flawless Arcanite Rifle",
+    "quality": 3,
+    "icon": "inv_weapon_rifle_03",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          24721,
+          ""
+        ]
+      },
+      "displayid": 24721,
+      "dmgmax1": 204,
+      "dmgmin1": 109,
+      "dmgrange": 0.6,
+      "dmgtype1": 0,
+      "dps": 52.29,
+      "dura": 75,
+      "itemSquishEraId": 0,
+      "reqlevel": 56,
+      "rgdatkpwr": 10,
+      "rgddmgmax": 204,
+      "rgddmgmin": 109,
+      "rgddps": 52.29,
+      "rgdspeed": 3,
+      "sellprice": 40625,
+      "slotbak": 26,
+      "speed": 3,
+      "sta": 9
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18639": {
+    "name_enus": "Ultra-Flash Shadow Reflector",
+    "quality": 3,
+    "icon": "inv_misc_enggizmos_16",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1660004,
+      "cooldown": 300000,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "reqskill": 202,
+      "reqskillrank": 300,
+      "sellprice": 12500,
+      "shares": 20,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "16040": {
+    "name_enus": "Arcane Bomb",
+    "quality": 1,
+    "icon": "spell_shadow_mindbomb",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 314083,
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 300,
+      "sellprice": 4000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18232": {
+    "name_enus": "Field Repair Bot 74A",
+    "quality": 1,
+    "icon": "inv_egg_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 321964,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 300,
+      "sellprice": 10000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "238780": {
+    "name_enus": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "251650": {
+    "name_enus": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "251651": {
+    "name_enus": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "251652": {
+    "name_enus": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279950": {
+    "name_enus": "Reagent Bot",
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_13",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 20
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2570": {
+    "name_enus": "Linen Cloak",
+    "quality": 1,
+    "icon": "inv_misc_cape_14",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          23095,
+          "inv_misc_cape_15"
+        ]
+      },
+      "armor": 6,
+      "avgbuyout": 1664,
+      "displayid": 23095,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 11,
+      "slotbak": 16
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249409": {
+    "name_enus": "Cerulean Dye",
+    "quality": 2,
+    "icon": "inv_inscription_inkcerulean01",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260784": {
+    "name_enus": "SAF-T Tabs",
+    "quality": 1,
+    "icon": "inv_misc_punchcards_white",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 4
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260792": {
+    "name_enus": "SAF-T Dynamite",
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 75
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8067": {
+    "name_enus": "Crafted Light Shot",
+    "quality": 1,
+    "icon": "inv_ammo_bullet_02",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          737992,
+          ""
+        ]
+      },
+      "displayid": 737992,
+      "itemSquishEraId": 0,
+      "reqlevel": 5,
+      "slotbak": 24,
+      "speed": 3
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260793": {
+    "name_enus": "SAF-T Copper Bomb",
+    "quality": 1,
+    "icon": "inv_misc_bomb_09",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 60
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "255007": {
+    "name_enus": "Golem Isospring",
+    "quality": 1,
+    "icon": "inv_10_engineering_manufacturedparts_spring_uprez",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 22
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "277132": {
+    "name_enus": "Harvester Override Signalcaster",
+    "quality": 2,
+    "icon": "inv_gizmo_goblingtonkcontroller",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 180000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 65,
+      "sellprice": 200,
+      "splhastepct": -30
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "285275": {
+    "name_enus": "Satchel of Copper Bombs",
+    "quality": 2,
+    "icon": "inv_misc_bag_05",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          750935,
+          "inv_misc_bomb_03"
+        ]
+      },
+      "displayid": 750935,
+      "dmgrange": 0.6,
+      "dura": 200,
+      "itemSquishEraId": 0,
+      "maxcount": 1,
+      "reqlevel": 13,
+      "reqskill": 2941,
+      "reqskillrank": 85,
+      "sellprice": 9,
+      "slotbak": 25,
+      "speed": 2,
+      "sta": 2
+    },
+    "attainable": 0,
+    "flags2": 8196,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249410": {
+    "name_enus": "Sulfuric Acid",
+    "quality": 2,
+    "icon": "trade_alchemy",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249391": {
+    "name_enus": "Pyrite",
+    "quality": 2,
+    "icon": "inv_ore_pyrite_nugget",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21560": {
+    "name_enus": "Small Purple Rocket",
+    "quality": 1,
+    "icon": "inv_misc_missilesmall_purple",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 2
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21561": {
+    "name_enus": "Small White Rocket",
+    "quality": 1,
+    "icon": "inv_misc_missilesmall_white",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 6
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21562": {
+    "name_enus": "Small Yellow Rocket",
+    "quality": 1,
+    "icon": "inv_misc_missilesmall_yellow",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4630,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 6
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249425": {
+    "name_enus": "Bauxite",
+    "quality": 2,
+    "icon": "inv_ore_manticytenugget",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2996": {
+    "name_enus": "Bolt of Linen Cloth",
+    "quality": 1,
+    "icon": "inv_fabric_linen_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 83,
+      "itemSquishEraId": 0,
+      "sellprice": 40
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249432": {
+    "name_enus": "Sandpaper",
+    "quality": 2,
+    "icon": "inv_inscription_papyrus",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260795": {
+    "name_enus": "EZ-Thro Copper Bomb XL",
+    "quality": 1,
+    "icon": "inv_misc_bomb_01",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 175
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "210147": {
+    "name_enus": "Shredder Autosalvage Unit",
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_12",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 6524,
+      "itemSquishEraId": 0,
+      "reqlevel": 1
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279949": {
+    "name_enus": "Repair Bot",
+    "quality": 1,
+    "icon": "inv_robotpet",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 140
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249430": {
+    "name_enus": "Magenta Dye",
+    "quality": 2,
+    "icon": "inv_inscription_inkpurple02",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260796": {
+    "name_enus": "No Slip SAF-T Padding",
+    "quality": 1,
+    "icon": "inv_misc_leatherscrap_11",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260797": {
+    "name_enus": "SAF-T Bronze Bomb",
+    "quality": 1,
+    "icon": "inv_misc_bomb_09",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "269902": {
+    "name_enus": "Hoof-Shaped Foot Pedal",
+    "quality": 1,
+    "icon": "inv_blacksmith_leystonehoofplates_orange",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 600000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260798": {
+    "name_enus": "SAF-T Jumbo Dynamite",
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 350
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "285276": {
+    "name_enus": "Satchel of Bronze Bombs",
+    "quality": 2,
+    "icon": "inv_misc_bag_09_black",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          750935,
+          "inv_misc_bomb_03"
+        ]
+      },
+      "displayid": 750935,
+      "dmgrange": 0.6,
+      "itemSquishEraId": 0,
+      "maxcount": 1,
+      "reqlevel": 28,
+      "reqskill": 2941,
+      "reqskillrank": 165,
+      "sellprice": 9,
+      "slotbak": 25,
+      "speed": 2,
+      "sta": 4
+    },
+    "attainable": 0,
+    "flags2": 8196,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260799": {
+    "name_enus": "SAF-T Bell",
+    "quality": 1,
+    "icon": "inv_misc_bell_01",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21591": {
+    "name_enus": "Large Purple Rocket",
+    "quality": 1,
+    "icon": "inv_misc_missilelarge_purple",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 12
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21593": {
+    "name_enus": "Large White Rocket",
+    "quality": 1,
+    "icon": "inv_misc_missilelarge_white",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 12
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21595": {
+    "name_enus": "Large Yellow Rocket",
+    "quality": 1,
+    "icon": "inv_misc_missilelarge_yellow",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 12
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "280308": {
+    "name_enus": "Clanking Cord",
+    "quality": 2,
+    "icon": "inv_belt_34",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          12086,
+          ""
+        ]
+      },
+      "armor": 120,
+      "displayid": 12086,
+      "itemSquishEraId": 0,
+      "reqlevel": 30,
+      "reqskill": 202,
+      "reqskillrank": 175,
+      "sellprice": 2153,
+      "slotbak": 6
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "280307": {
+    "name_enus": "Gizmo Girdle",
+    "quality": 2,
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          8137,
+          ""
+        ]
+      },
+      "armor": 57,
+      "displayid": 8137,
+      "itemSquishEraId": 0,
+      "reqlevel": 30,
+      "reqskill": 202,
+      "reqskillrank": 175,
+      "sellprice": 1802,
+      "slotbak": 6
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4305": {
+    "name_enus": "Bolt of Silk Cloth",
+    "quality": 1,
+    "icon": "inv_fabric_silk_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1083,
+      "itemSquishEraId": 0,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "280306": {
+    "name_enus": "Whimsical Waistwrap",
+    "quality": 2,
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          4634,
+          ""
+        ]
+      },
+      "armor": 26,
+      "displayid": 4634,
+      "itemSquishEraId": 0,
+      "reqlevel": 30,
+      "reqskill": 202,
+      "reqskillrank": 175,
+      "sellprice": 1425,
+      "slotbak": 6
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249428": {
+    "name_enus": "Pristine Hide",
+    "quality": 2,
+    "icon": "inv_leatherworking_90_leatherhide",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "269900": {
+    "name_enus": "Centaur Banner Deployment Device",
+    "quality": 2,
+    "icon": "achievement_bg_killflagcarriers_grabflag_capit",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 300000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "213381": {
+    "name_enus": "Pile of Tarnished Gears",
+    "quality": 2,
+    "icon": "inv_misc_gear_05",
+    "screenshot": {},
+    "jsonequip": {
+      "dmgrange": 1,
+      "itemSquishEraId": 0
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "213383": {
+    "name_enus": "Polished Truesilver Gears",
+    "quality": 3,
+    "icon": "inv_mace_107",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 27577,
+      "dmgrange": 1,
+      "itemSquishEraId": 0
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260800": {
+    "name_enus": "Shafety Sheep",
+    "quality": 1,
+    "icon": "ability_mage_improvedpolymorph",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260803": {
+    "name_enus": "EZ-Thro Grenade",
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 350
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "280311": {
+    "name_enus": "Bent Goggles",
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          745507,
+          ""
+        ]
+      },
+      "armor": 99,
+      "displayid": 745507,
+      "itemSquishEraId": 0,
+      "reqlevel": 40,
+      "reqskill": 202,
+      "reqskillrank": 200,
+      "sellprice": 6273,
+      "slotbak": 1
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "280313": {
+    "name_enus": "Dented Goggles",
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          745507,
+          ""
+        ]
+      },
+      "armor": 355,
+      "displayid": 745507,
+      "itemSquishEraId": 0,
+      "reqlevel": 40,
+      "reqskill": 202,
+      "reqskillrank": 200,
+      "sellprice": 8805,
+      "slotbak": 1
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "280310": {
+    "name_enus": "Floppy Goggles",
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          745508,
+          ""
+        ]
+      },
+      "armor": 48,
+      "displayid": 745508,
+      "itemSquishEraId": 0,
+      "reqlevel": 40,
+      "reqskill": 202,
+      "reqskillrank": 200,
+      "sellprice": 4987,
+      "slotbak": 1
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "280312": {
+    "name_enus": "Stuckbutton Goggles",
+    "quality": 2,
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          745509,
+          ""
+        ]
+      },
+      "armor": 202,
+      "displayid": 745509,
+      "itemSquishEraId": 0,
+      "reqlevel": 40,
+      "reqskill": 202,
+      "reqskillrank": 200,
+      "sellprice": 7568,
+      "slotbak": 1
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9262": {
+    "name_enus": "Black Vitriol",
+    "quality": 1,
+    "icon": "inv_misc_gem_sapphire_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2154,
+      "itemSquishEraId": 0,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "16583": {
+    "name_enus": "Demonic Figurine",
+    "quality": 1,
+    "icon": "inv_misc_orb_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 19576,
+      "buyprice": 10000,
+      "itemSquishEraId": 0,
+      "sellprice": 2500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "211427": {
+    "name_enus": "Soul Vessel",
+    "quality": 3,
+    "icon": "inv_jewelcrafting_nightseye_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 29600,
+      "itemSquishEraId": 0
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260802": {
+    "name_enus": "EZ-Thro Bronze Mortar",
+    "quality": 1,
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 600000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 2000,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260804": {
+    "name_enus": "SAF-T Casing",
+    "quality": 1,
+    "icon": "inv_gizmo_mithrilcasing_02",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260805": {
+    "name_enus": "SAF-T Bomb",
+    "quality": 1,
+    "icon": "inv_misc_bomb_01",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "215430": {
+    "name_enus": "Gnomeregan Fallout",
+    "quality": 1,
+    "icon": "inv_misc_powder_feliron",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5147,
+      "dmgrange": 1,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "213379": {
+    "name_enus": "Hyperconductive Arcano-Filament",
+    "quality": 3,
+    "icon": "inv_misc_thread_eternium",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 55042,
+      "dmgrange": 1,
+      "itemSquishEraId": 0,
+      "sellprice": 280
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "213369": {
+    "name_enus": "Faintly Glowing Leather",
+    "quality": 3,
+    "icon": "inv_misc_pelt_11",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 32078,
+      "dmgrange": 1,
+      "itemSquishEraId": 0,
+      "sellprice": 280
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "213376": {
+    "name_enus": "Low-Background Truesilver Plates",
+    "quality": 3,
+    "icon": "inv_gizmo_mithrilcasing_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 49968,
+      "dmgrange": 1,
+      "itemSquishEraId": 0
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21575": {
+    "name_enus": "Purple Rocket Cluster",
+    "quality": 1,
+    "icon": "inv_misc_missilesmallcluster_purple",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21577": {
+    "name_enus": "White Rocket Cluster",
+    "quality": 1,
+    "icon": "inv_misc_missilesmallcluster_white",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21578": {
+    "name_enus": "Yellow Rocket Cluster",
+    "quality": 1,
+    "icon": "inv_misc_missilesmallcluster_yellow",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "11175": {
+    "name_enus": "Greater Nether Essence",
+    "quality": 2,
+    "icon": "inv_enchant_essencenetherlarge",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 23362,
+      "cooldown": 500,
+      "itemSquishEraId": 0,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": -2147454972,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260807": {
+    "name_enus": "Compact Critter Carrier",
+    "quality": 1,
+    "icon": "inv_box_birdcage_01",
+    "screenshot": {},
+    "jsonequip": {
+      "classes": 4,
+      "cooldown": 1800000,
+      "itemSquishEraId": 0,
+      "reqlevel": 40,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "285277": {
+    "name_enus": "Satchel of Iron Bombs",
+    "quality": 2,
+    "icon": "inv_misc_bag_10_black",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          750935,
+          "inv_misc_bomb_03"
+        ]
+      },
+      "displayid": 750935,
+      "dmgrange": 0.6,
+      "itemSquishEraId": 0,
+      "maxcount": 1,
+      "reqlevel": 41,
+      "reqskill": 2941,
+      "reqskillrank": 230,
+      "sellprice": 9,
+      "slotbak": 25,
+      "speed": 2,
+      "sta": 6
+    },
+    "attainable": 0,
+    "flags2": 8196,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249431": {
+    "name_enus": "Viridian Dye",
+    "quality": 2,
+    "icon": "inv_inscription_inkgreen01",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 375
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260808": {
+    "name_enus": "EZ-Thro Tru-Trigger",
+    "quality": 1,
+    "icon": "inv_engineering_loosetrigger",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 1100
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260809": {
+    "name_enus": "Tru-Trigger Frag Bomb",
+    "quality": 1,
+    "icon": "inv_misc_bomb_02",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260806": {
+    "name_enus": "Emergency Field Cloak",
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_14",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 5000,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 1073152,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260811": {
+    "name_enus": "Gnomish Army Knife",
+    "quality": 1,
+    "icon": "inv_misc_enggizmos_swissarmy",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 45,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "221021": {
+    "name_enus": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "220688": {
+    "name_enus": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "220689": {
+    "name_enus": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "237023": {
+    "name_enus": "Pop-Up Shrub",
+    "quality": 1,
+    "icon": "inv_misc_plant_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 159281,
+      "itemSquishEraId": 0,
+      "reqlevel": 10
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "238737": {
+    "name_enus": "Tinkerbox",
+    "quality": 1,
+    "icon": "inv_gizmo_goblingtonkcontroller",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 13999,
+      "buyprice": 10000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 3000
+    },
+    "attainable": 0,
+    "flags2": -2147475456,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "238736": {
+    "name_enus": "Tinkerbox: Magnetic Displacement",
+    "quality": 2,
+    "icon": "inv_gizmo_hardenedadamantitetube",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 44350,
+      "itemSquishEraId": 0,
+      "reqlevel": 45
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "238735": {
+    "name_enus": "Tinkerbox: Nitro Boosts",
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 69998,
+      "itemSquishEraId": 0,
+      "reqlevel": 45
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "238734": {
+    "name_enus": "Tinkerbox: Teleport",
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_16",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 76581,
+      "itemSquishEraId": 0,
+      "reqlevel": 45
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260810": {
+    "name_enus": "SAF-T Disposable Parachute",
+    "quality": 1,
+    "icon": "inv_misc_cape_11",
+    "screenshot": {},
+    "jsonequip": {
+      "armor": 31,
+      "cooldown": 1800000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 4696,
+      "slotbak": 16
+    },
+    "attainable": 0,
+    "flags2": 1073152,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "16203": {
+    "name_enus": "Greater Eternal Essence",
+    "quality": 2,
+    "icon": "inv_enchant_essenceeternallarge",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 61477,
+      "cooldown": 500,
+      "itemSquishEraId": 0,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": -2147454972,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260812": {
+    "name_enus": "Loot-A-Rang",
+    "quality": 3,
+    "icon": "inv_eng_mechanicalboomerang",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 50,
+      "reqskill": 202,
+      "reqskillrank": 250,
+      "sellprice": 2000
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249726": {
+    "name_enus": "Azerothium Bar",
+    "quality": 2,
+    "icon": "inv_ingot_livingsteel",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260813": {
+    "name_enus": "SAF-T Tube",
+    "quality": 1,
+    "icon": "inv_gizmo_hardenedadamantitetube",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 1500
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21717": {
+    "name_enus": "Large Purple Rocket Cluster",
+    "quality": 1,
+    "icon": "inv_misc_missilelargecluster_purple",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21719": {
+    "name_enus": "Large White Rocket Cluster",
+    "quality": 1,
+    "icon": "inv_misc_missilelargecluster_white",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21720": {
+    "name_enus": "Large Yellow Rocket Cluster",
+    "quality": 1,
+    "icon": "inv_misc_missilelargecluster_yellow",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260814": {
+    "name_enus": "SAF-T Clever Dynamite",
+    "quality": 1,
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "284869": {
+    "name_enus": "Unsanctified Grenade",
+    "quality": 1,
+    "icon": "inv_misc_bomb_01",
+    "screenshot": {},
+    "jsonequip": {
+      "classes": 18,
+      "itemSquishEraId": 0,
+      "sellprice": 1500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249429": {
+    "name_enus": "Pristine Scale",
+    "quality": 2,
+    "icon": "inv_misc_monsterscales_09",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 375
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260815": {
+    "name_enus": "EZ-Thro Shell",
+    "quality": 1,
+    "icon": "inv_qiraj_carapaceoldgod",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 2000
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18984": {
+    "name_enus": "Dimensional Ripper - Everlook",
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 450000,
+      "cooldown": 14400000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 260,
+      "reqspell": 20222,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18986": {
+    "name_enus": "Ultrasafe Transporter: Gadgetzan",
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_12",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 519024,
+      "cooldown": 14400000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 260,
+      "reqspell": 20219,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260816": {
+    "name_enus": "EZ-Thro Thorium Grenade",
+    "quality": 1,
+    "icon": "inv_misc_bomb_08",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 1500
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "285278": {
+    "name_enus": "Satchel of Dark Iron Bombs",
+    "quality": 2,
+    "icon": "inv_misc_bag_07_black",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          750935,
+          "inv_misc_bomb_03"
+        ]
+      },
+      "displayid": 750935,
+      "dmgrange": 0.6,
+      "itemSquishEraId": 0,
+      "reqlevel": 52,
+      "reqskill": 2941,
+      "reqskillrank": 285,
+      "sellprice": 9,
+      "slotbak": 25,
+      "speed": 2,
+      "sta": 8
+    },
+    "attainable": 0,
+    "flags2": 8196,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "273129": {
+    "name_enus": "Essence of Anarchy",
+    "quality": 2,
+    "icon": "inv_misc_bomb_04",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 25000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279989": {
+    "name_enus": "Anarchist's Workbench",
+    "quality": 1,
+    "icon": "inv_10_specialization_professionbook_engineering_color1",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 300
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12811": {
+    "name_enus": "Righteous Orb",
+    "quality": 2,
+    "icon": "inv_misc_gem_pearl_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 379616,
+      "itemSquishEraId": 0,
+      "sellprice": 20000
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "251291": {
+    "name_enus": "Heavy Thorium Bar",
+    "quality": 2,
+    "icon": "item_elementiumbar",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 2500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "17056": {
+    "name_enus": "Light Feather",
+    "quality": 1,
+    "icon": "inv_feather_04",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 903,
+      "itemSquishEraId": 0,
+      "sellprice": 7
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "274387": {
+    "name_enus": "Swiftfeather Arrow",
+    "quality": 4,
+    "icon": "inv_ammo_arrow_06",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          737993,
+          "inv_ammo_arrow_02"
+        ]
+      },
+      "displayid": 737993,
+      "dmgrange": 1,
+      "itemSquishEraId": 0,
+      "reqlevel": 60,
+      "slotbak": 24,
+      "speed": 3
+    },
+    "attainable": 0,
+    "flags2": 4218884,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "274388": {
+    "name_enus": "Swiftstrike Shot",
+    "quality": 4,
+    "icon": "inv_ammo_bullet_06",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          737992,
+          "inv_ammo_bullet_02"
+        ]
+      },
+      "displayid": 737992,
+      "itemSquishEraId": 0,
+      "reqlevel": 60,
+      "slotbak": 24,
+      "speed": 3
+    },
+    "attainable": 0,
+    "flags2": 4218884,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "274030": {
+    "name_enus": "Malleable Essence of Nature",
+    "quality": 4,
+    "icon": "ability_druid_cyclone",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 1
+    },
+    "attainable": 0,
+    "flags2": -2147475456,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "251290": {
+    "name_enus": "Legionite Bar",
+    "quality": 2,
+    "icon": "inv_blacksmithing_70_demonsteelbar",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279273": {
+    "name_enus": "Hyper Deluxe Sniper Rifle Mk XVII",
+    "quality": 4,
+    "icon": "inv_weapon_rifle_05",
+    "screenshot": {},
+    "jsonequip": {
+      "appearances": {
+        "0": [
+          31210,
+          ""
+        ]
+      },
+      "displayid": 31210,
+      "dmgmax1": 200,
+      "dmgmin1": 107,
+      "dmgrange": 0.6,
+      "dmgtype1": 0,
+      "dps": 61.54,
+      "itemSquishEraId": 0,
+      "reqlevel": 60,
+      "rgdatkpwr": 21,
+      "rgddmgmax": 200,
+      "rgddmgmin": 107,
+      "rgddps": 61.54,
+      "rgdspeed": 2.5,
+      "sellprice": 66347,
+      "slotbak": 26,
+      "speed": 2.5,
+      "spi": 6,
+      "sta": 8
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279272": {
+    "name_enus": "SAF-T Ultra Precision Scope",
+    "quality": 3,
+    "icon": "inv_engineering_90_scope_blue",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 60,
+      "sellprice": 25000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "20725": {
+    "name_enus": "Nexus Crystal",
+    "quality": 4,
+    "icon": "inv_enchant_shardnexuslarge",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 94118,
+      "itemSquishEraId": 0,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": -2147454972,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "234005": {
+    "name_enus": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "234012": {
+    "name_enus": "Hive Thistle",
+    "quality": 1,
+    "icon": "inv_misc_spineleaf-_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 26181,
+      "itemSquishEraId": 0,
+      "sellprice": 15
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "234009": {
+    "name_enus": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "234011": {
+    "name_enus": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "234010": {
+    "name_enus": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "234007": {
+    "name_enus": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "22202": {
+    "name_enus": "Small Obsidian Shard",
+    "quality": 1,
+    "icon": "inv_misc_stonetablet_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 9000,
+      "itemSquishEraId": 0,
+      "sellprice": 2500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "234008": {
+    "name_enus": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "234003": {
+    "name_enus": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "16204": {
+    "name_enus": "Illusion Dust",
+    "quality": 1,
+    "icon": "inv_enchant_dustillusion",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1993,
+      "itemSquishEraId": 0,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": -2147454972,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "14344": {
+    "name_enus": "Large Brilliant Shard",
+    "quality": 3,
+    "icon": "inv_enchant_shardbrilliantlarge",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 36115,
+      "itemSquishEraId": 0,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": -2147454972,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260824": {
+    "name_enus": "Gnomish Poultryizer",
+    "quality": 3,
+    "icon": "inv_misc_enggizmos_06",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 300000,
+      "itemSquishEraId": 0,
+      "reqlevel": 60,
+      "sellprice": 5000,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260823": {
+    "name_enus": "Dimensional Transporter - Mt. Hyjal",
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_06",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 14400000,
+      "itemSquishEraId": 0,
+      "reqlevel": 60,
+      "reqskill": 202,
+      "reqskillrank": 300,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260821": {
+    "name_enus": "EZ and SAF Field Transporter: Mt. Hyjal",
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_10",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 14400000,
+      "itemSquishEraId": 0,
+      "reqlevel": 60,
+      "sellprice": 5000,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 1073152,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260819": {
+    "name_enus": "EZ-Thro Field Transporter: Gadgetzan",
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_02",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 14400000,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 5000,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 1073152,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "238788": {
+    "name_enus": "Schematic: Tinker: Magnetic Displacement",
+    "quality": 3,
+    "icon": "inv_scroll_06",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "reqskill": 202,
+      "reqskillrank": 280,
+      "sellprice": 1400
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260829": {
+    "name_enus": "EZ-Thro Magnetic Displacer",
+    "quality": 2,
+    "icon": "inv_misc_magnet",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 1250,
+      "slotbak": 6
+    },
+    "attainable": 0,
+    "flags2": 1073152,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "248822": {
+    "name_enus": "Death Lotus",
+    "quality": 2,
+    "icon": "inv_nulllotus_void",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 1500
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260826": {
+    "name_enus": "Gnomish Weather Machine NYI",
+    "quality": 2,
+    "icon": "inv_gizmo_07",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 60,
+      "reqskill": 202,
+      "reqskillrank": 300,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260820": {
+    "name_enus": "SAF-T Emergency Ripper: Everlook",
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_01",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 14400000,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 5000,
+      "slotbak": 12
+    },
+    "attainable": 0,
+    "flags2": 1073152,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "238787": {
+    "name_enus": "Schematic: Tinker: Nitro Boosts",
+    "quality": 3,
+    "icon": "inv_scroll_06",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "reqskill": 202,
+      "reqskillrank": 280,
+      "sellprice": 1400
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260828": {
+    "name_enus": "SAF-T Nitro Boosts",
+    "quality": 2,
+    "icon": "inv_gizmo_rocketbootextreme",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 1250,
+      "slotbak": 6
+    },
+    "attainable": 0,
+    "flags2": 1073152,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "238786": {
+    "name_enus": "Schematic: Tinker: Teleport",
+    "quality": 3,
+    "icon": "inv_scroll_06",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "reqskill": 202,
+      "reqskillrank": 280,
+      "sellprice": 1400
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260830": {
+    "name_enus": "SAF-T Teleport",
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_16",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 1250,
+      "slotbak": 6
+    },
+    "attainable": 0,
+    "flags2": 1073152,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "248820": {
+    "name_enus": "Torbernite",
+    "quality": 2,
+    "icon": "inv_jewelcrafting_gem_34",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 15000
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "248823": {
+    "name_enus": "Marefoil",
+    "quality": 1,
+    "icon": "item_herbc",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260827": {
+    "name_enus": "Stealthman 52",
+    "quality": 2,
+    "icon": "inv_misc_enggizmos_04",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 300000,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "reqskill": 202,
+      "reqskillrank": 250,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260825": {
+    "name_enus": "Ultralight Goblin Glider",
+    "quality": 2,
+    "icon": "inv_misc_clothscrap_01",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 180000,
+      "itemSquishEraId": 0,
+      "reqskill": 202,
+      "reqskillrank": 250
+    },
+    "attainable": 0,
+    "flags2": 8192,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249426": {
+    "name_enus": "Pitchblende",
+    "quality": 2,
+    "icon": "inv_ore_elethium_nugget",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 375
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260822": {
+    "name_enus": "Ultrasafe Rechargeable Battery",
+    "quality": 2,
+    "icon": "inv_gizmo_electrifiedether",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 60,
+      "sellprice": 2500
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260817": {
+    "name_enus": "EZ-Thro Dark Bomb",
+    "quality": 1,
+    "icon": "inv_misc_bomb_05",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 1250
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "260818": {
+    "name_enus": "EZ-Thro Mana Bomb",
+    "quality": 1,
+    "icon": "spell_shadow_mindbomb",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 4000
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12363": {
+    "name_enus": "Arcane Crystal",
+    "quality": 2,
+    "icon": "inv_misc_gem_topaz_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 472230,
+      "itemSquishEraId": 0,
+      "sellprice": 2000
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "20868": {
+    "name_enus": "Lambent Idol",
+    "quality": 3,
+    "icon": "inv_qirajidol_lambent",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 62999,
+      "classes": 21,
+      "itemSquishEraId": 0
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "20870": {
+    "name_enus": "Jasper Idol",
+    "quality": 3,
+    "icon": "inv_qirajidol_jasper",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 153039,
+      "classes": 1296,
+      "itemSquishEraId": 0
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "20881": {
+    "name_enus": "Idol of Strife",
+    "quality": 3,
+    "icon": "inv_qirajidol_strife",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 559999,
+      "classes": 1102,
+      "itemSquishEraId": 0
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  }
+}

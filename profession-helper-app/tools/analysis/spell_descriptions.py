@@ -8,39 +8,14 @@ Das ist Risiko 3 aus dem Plan und entscheidet ueber die Fragenklasse
 Befund: Die Beschreibung steckt in derselben Seite, die probe_all.py ohnehin holt -
 in einem zweiten Datenblock `WH.Gatherer.addData(6, <locale>, {...})` neben
 `var listviewspells`. Ein zusaetzlicher Request pro Zauber ist also nicht noetig.
+
+Gelesen wird hier aus <beruf>.de.spells.json, nicht aus dem HTML: Die Roh-Seiten sind
+gitignored, die JSON-Dateien nicht.
 """
 
-import json
 import re
-import sys
-from pathlib import Path
 
-from _probe_data import PROBE_DIR, load, load_html, recipes_only
-
-# tools/analysis/ -> tools/, damit der gepruefte Klammer-Scanner wiederverwendet
-# werden kann, statt ihn hier ein zweites Mal zu implementieren.
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-
-from probe_listing import extract_balanced  # noqa: E402
-
-# Datentyp im Gatherer-Block: 3 sind Items (Schluessel = item_id), 6 sind Zauber
-# (Schluessel = spell_id). Beide stehen in jeder Listing-Seite.
-GATHERER_SPELLS = 6
-
-
-def extract_gatherer(html: str, data_type: int) -> dict:
-    """
-    Schneidet `WH.Gatherer.addData(<data_type>, <locale>, {...})` aus der Seite.
-
-    Anders als `listviewspells` ist dieser Block gueltiges JSON - alle Schluessel
-    sind gequotet, `parse_loose` wird hier nicht gebraucht.
-    """
-    match = re.search(rf"WH\.Gatherer\.addData\({data_type},\s*\d+,\s*", html)
-    if match is None:
-        raise ValueError(f"Kein WH.Gatherer.addData({data_type}, ...) in der Seite")
-
-    open_brace = html.index("{", match.end() - 1)
-    return json.loads(extract_balanced(html, open_brace))
+from _probe_data import PROBE_DIR, load, load_mapping, recipes_only
 
 
 def description_of(record: dict) -> str:
@@ -60,7 +35,7 @@ def description_of(record: dict) -> str:
 def analyse(profession: str) -> tuple[int, int, int, int]:
     """Zaehlt fuer einen Beruf, wie weit die Beschreibung traegt."""
     entries = recipes_only(load(f"{profession}.de.json"))
-    spells = extract_gatherer(load_html(f"{profession}.de.html"), GATHERER_SPELLS)
+    spells = load_mapping(f"{profession}.de.spells.json")
 
     known = [e for e in entries if str(e["id"]) in spells]
     described = [e for e in known if description_of(spells[str(e["id"])])]
@@ -73,7 +48,7 @@ def analyse(profession: str) -> tuple[int, int, int, int]:
 def show_samples(profession: str, needle: str, limit: int = 6) -> None:
     """Zeigt Rezepte, deren Name den Suchbegriff enthaelt, mit ihrer Beschreibung."""
     entries = recipes_only(load(f"{profession}.de.json"))
-    spells = extract_gatherer(load_html(f"{profession}.de.html"), GATHERER_SPELLS)
+    spells = load_mapping(f"{profession}.de.spells.json")
 
     print(f"\n=== Stichprobe {profession}: Name enthaelt '{needle}' ===")
     hits = [e for e in entries if needle.lower() in e["name"].lower()]

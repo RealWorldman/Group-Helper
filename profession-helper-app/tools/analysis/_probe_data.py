@@ -12,30 +12,39 @@ from pathlib import Path
 PROBE_DIR = Path(__file__).resolve().parents[2] / "data" / "probe"
 
 
-def load(filename: str) -> list[dict]:
-    """Laedt eine Probe-Datei, z. B. 'tailoring.de.json'."""
+def _path(filename: str) -> Path:
+    """Prueft, dass die Datei da ist, und sagt sonst, wie man sie herholt."""
     path = PROBE_DIR / filename
     if not path.exists():
         raise SystemExit(
-            f"{path} fehlt.\n"
-            f"Erst holen mit: uv run python tools/probe_listing.py --out data/probe/{filename}"
+            f"{path} fehlt.\nErst holen mit: uv run python tools/probe_all.py"
         )
-    return json.loads(path.read_text(encoding="utf-8"))
+    return path
+
+
+def load(filename: str) -> list[dict]:
+    """Laedt eine Rezeptliste, z. B. 'tailoring.de.json' (aus `listviewspells`)."""
+    return json.loads(_path(filename).read_text(encoding="utf-8"))
+
+
+def load_mapping(filename: str) -> dict[str, dict]:
+    """
+    Laedt einen der Gatherer-Bloecke, z. B. 'enchanting.de.spells.json'.
+
+    Anders als load() ist das Ergebnis ein Dict - die Schluessel sind spell_id
+    bzw. item_id, und zwar als *String*, weil JSON keine Zahlen als Schluessel hat.
+    """
+    return json.loads(_path(filename).read_text(encoding="utf-8"))
 
 
 def load_html(filename: str) -> str:
     """
     Laedt eine gecachte Roh-Seite, z. B. 'enchanting.de.html'.
 
-    Die HTML-Dateien legt tools/probe_all.py ab; sie sind gitignored, auf einem
-    frischen Klon muessen sie also erst geholt werden.
+    Nur fuer Fragen an die Seite selbst. Die HTML-Dateien sind gitignored; wer mit
+    den Daten arbeitet, nimmt load() oder load_mapping().
     """
-    path = PROBE_DIR / filename
-    if not path.exists():
-        raise SystemExit(
-            f"{path} fehlt.\nErst holen mit: uv run python tools/probe_all.py"
-        )
-    return path.read_text(encoding="utf-8")
+    return _path(filename).read_text(encoding="utf-8")
 
 
 def recipes_only(entries: list[dict]) -> list[dict]:

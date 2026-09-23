@@ -1,0 +1,263 @@
+{
+  "2576": {
+    "name_enus": "Mining",
+    "icon": "trade_mining",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "A more advanced level of mining.  Gives a potential mining skill of 150."
+  },
+  "3304": {
+    "name_enus": "Smelt Tin",
+    "icon": "inv_ingot_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows the miner to smelt a chunk of tin ore into a tin bar.  Smelting tin requires a forge."
+  },
+  "2659": {
+    "name_enus": "Smelt Bronze",
+    "icon": "inv_ingot_bronze",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows the miner to smelt a tin bar and a copper bar together into two bronze bars.  Smelting bronze requires a forge."
+  },
+  "2658": {
+    "name_enus": "Smelt Silver",
+    "icon": "inv_ingot_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows the miner to smelt a chunk of silver ore into a silver bar.  Smelting silver requires a forge."
+  },
+  "3564": {
+    "name_enus": "Mining",
+    "icon": "trade_mining",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "A more advanced level of mining.  Gives a potential mining skill of 225."
+  },
+  "3307": {
+    "name_enus": "Smelt Iron",
+    "icon": "inv_ingot_iron",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows the miner to smelt a chunk of iron ore into an iron bar.  Smelting iron requires a forge."
+  },
+  "3308": {
+    "name_enus": "Smelt Gold",
+    "icon": "inv_ingot_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows the miner to smelt a chunk of gold ore into a gold bar.  Smelting gold requires a forge."
+  },
+  "3569": {
+    "name_enus": "Smelt Steel",
+    "icon": "inv_ingot_steel",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows the miner to smelt a chunk of iron ore and a lump of coal together into a steel bar.  Smelting steel requires a forge."
+  },
+  "10097": {
+    "name_enus": "Smelt Mithril",
+    "icon": "inv_ingot_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows the miner to smelt a chunk of mithril ore into a mithril bar.  Smelting mithril requires a forge."
+  },
+  "10248": {
+    "name_enus": "Mining",
+    "icon": "trade_mining",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "Raising mining to an art form.  Gives a potential mining skill of 300."
+  },
+  "16153": {
+    "name_enus": "Smelt Thorium",
+    "icon": "inv_ingot_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows the miner to smelt a chunk of thorium ore into a thorium bar.  Smelting thorium requires a forge."
+  },
+  "2580": {
+    "name_enus": "Find Minerals",
+    "icon": "spell_nature_earthquake",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Nearby mineral veins appear on the minimap.   Only one type of thing can be tracked at a time."
+  },
+  "2575": {
+    "name_enus": "Mining",
+    "icon": "trade_mining",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "How to pull ore and stone from mineral veins for use in Engineering and Blacksmithing.  Gives a potential mining skill of 75.  Requires a Mining Pick."
+  },
+  "1240951": {
+    "name_enus": "Mining",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "<a href=\"/beta/spell=2575/mining\" target=\"_blank\">How to pull ore and stone from mineral veins for use in Engineering and Blacksmithing.  Gives a potential mining skill of 75.  Requires a Mining Pick.</a>"
+  },
+  "1240986": {
+    "name_enus": "Mining",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "<a href=\"/beta/spell=10248/mining\" target=\"_blank\">Raising mining to an art form.  Gives a potential mining skill of 300.</a>"
+  },
+  "1240973": {
+    "name_enus": "Mining",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "<a href=\"/beta/spell=3564/mining\" target=\"_blank\">A more advanced level of mining.  Gives a potential mining skill of 225.</a>"
+  },
+  "1240962": {
+    "name_enus": "Mining",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "<a href=\"/beta/spell=2576/mining\" target=\"_blank\">A more advanced level of mining.  Gives a potential mining skill of 150.</a>"
+  },
+  "2656": {
+    "name_enus": "Smelting",
+    "icon": "spell_fire_flameblades",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows the miner to turn ore into metal bars.  This skill requires a forge."
+  },
+  "1235230": {
+    "name_enus": "Mining",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1230161": {
+    "name_enus": "Lodestone",
+    "icon": "inv_misc_rune_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 1",
+    "description_enus": "Craft a Lodestone."
+  },
+  "2657": {
+    "name_enus": "Smelt Copper",
+    "icon": "inv_ingot_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows the miner to smelt a chunk of copper ore into a copper bar.  Smelting copper requires a forge."
+  },
+  "1262975": {
+    "name_enus": "Rock Garden",
+    "icon": "inv_misc_powder_iron",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 2",
+    "description_enus": "Craft a Rock Garden."
+  },
+  "10098": {
+    "name_enus": "Smelt Truesilver",
+    "icon": "inv_ingot_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows the miner to smelt a chunk of truesilver ore into a truesilver bar.  Smelting truesilver requires a forge."
+  },
+  "14891": {
+    "name_enus": "Smelt Dark Iron",
+    "icon": "inv_ingot_mithril",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows the miner to smelt chunks of dark iron ore into a dark iron bar.  Smelting Dark Iron can only be done at the Black Forge in Blackrock Depths."
+  },
+  "1249637": {
+    "name_enus": "Smelt Azerothium",
+    "icon": "inv_ingot_livingsteel",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1263071": {
+    "name_enus": "Molten Foundry",
+    "icon": "inv_blacksmithingalloys_red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 3",
+    "description_enus": "Craft a Molten Foundry."
+  },
+  "1306126": {
+    "name_enus": "Smelt Heavy Thorium",
+    "icon": "item_elementiumbar",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows the miner to smelt a chunk of heavy thorium ore into a heavy thorium bar. Smelting heavy thorium requires a molten foundry."
+  },
+  "22967": {
+    "name_enus": "Smelt Elementium",
+    "icon": "inv_ingot_thorium",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213638": {
+    "name_enus": "Smelt Obsidian-Infused Thorium Bar",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  }
+}

@@ -1,0 +1,1820 @@
+{
+  "7183": {
+    "name_enus": "Elixir of Minor Defense",
+    "icon": "inv_potion_63",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2329": {
+    "name_enus": "Elixir of Minor Strength",
+    "icon": "inv_potion_56",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3170": {
+    "name_enus": "Minor Troll's Blood Elixir",
+    "icon": "inv_potion_78",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2331": {
+    "name_enus": "Minor Mana Potion",
+    "icon": "inv_potion_70",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2332": {
+    "name_enus": "Minor Rejuvenation Potion",
+    "icon": "inv_potion_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3101": {
+    "name_enus": "Alchemy",
+    "icon": "trade_alchemy",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "Allows an alchemist to brew standard potions up to a maximum potential skill of 150."
+  },
+  "4508": {
+    "name_enus": "Minor Discolored Healing Potion",
+    "icon": "inv_potion_35",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3230": {
+    "name_enus": "Elixir of Minor Agility",
+    "icon": "inv_potion_91",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2334": {
+    "name_enus": "Elixir of Minor Fortitude",
+    "icon": "inv_potion_42",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6617": {
+    "name_enus": "Rage Potion",
+    "icon": "inv_potion_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2335": {
+    "name_enus": "Swiftness Potion",
+    "icon": "inv_potion_95",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7836": {
+    "name_enus": "Blackmouth Oil",
+    "icon": "inv_drink_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7179": {
+    "name_enus": "Draught of Water Breathing",
+    "icon": "inv_potion_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8240": {
+    "name_enus": "Elixir of Giant Growth",
+    "icon": "inv_potion_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3171": {
+    "name_enus": "Elixir of Wisdom",
+    "icon": "inv_potion_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7255": {
+    "name_enus": "Holy Protection Potion",
+    "icon": "inv_potion_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7841": {
+    "name_enus": "Swim Speed Potion",
+    "icon": "inv_potion_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3172": {
+    "name_enus": "Minor Magic Resistance Potion",
+    "icon": "inv_potion_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3173": {
+    "name_enus": "Lesser Mana Potion",
+    "icon": "inv_potion_71",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3174": {
+    "name_enus": "Potion of Poison Cleansing",
+    "icon": "inv_potion_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3464": {
+    "name_enus": "Alchemy",
+    "icon": "trade_alchemy",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "Allows an alchemist to brew amazing potions up to a maximum potential skill of 225."
+  },
+  "3176": {
+    "name_enus": "Lesser Troll's Blood Elixir",
+    "icon": "inv_potion_79",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7837": {
+    "name_enus": "Fire Oil",
+    "icon": "inv_potion_38",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3177": {
+    "name_enus": "Elixir of Lesser Defense",
+    "icon": "inv_potion_64",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7256": {
+    "name_enus": "Shadow Protection Potion",
+    "icon": "inv_potion_44",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7845": {
+    "name_enus": "Elixir of Fire Power",
+    "icon": "inv_potion_55",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2333": {
+    "name_enus": "Elixir of Lesser Agility",
+    "icon": "inv_potion_92",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3188": {
+    "name_enus": "Elixir of Ogre Strength",
+    "icon": "inv_potion_57",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6624": {
+    "name_enus": "Free Action Potion",
+    "icon": "inv_potion_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3452": {
+    "name_enus": "Mana Potion",
+    "icon": "inv_potion_72",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3448": {
+    "name_enus": "Lesser Invisibility Potion",
+    "icon": "inv_potion_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3449": {
+    "name_enus": "Shadow Oil",
+    "icon": "inv_potion_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7257": {
+    "name_enus": "Fire Protection Potion",
+    "icon": "inv_potion_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3450": {
+    "name_enus": "Elixir of Lesser Fortitude",
+    "icon": "inv_potion_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6618": {
+    "name_enus": "Great Rage Potion",
+    "icon": "inv_potion_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3451": {
+    "name_enus": "Troll's Blood Elixir",
+    "icon": "inv_potion_80",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11449": {
+    "name_enus": "Elixir of Agility",
+    "icon": "inv_potion_93",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7258": {
+    "name_enus": "Frost Protection Potion",
+    "icon": "inv_potion_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "21923": {
+    "name_enus": "Elixir of Frost Power",
+    "icon": "inv_potion_76",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7259": {
+    "name_enus": "Nature Protection Potion",
+    "icon": "inv_potion_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3453": {
+    "name_enus": "Draught of Detect Lesser Invisibility",
+    "icon": "inv_potion_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11450": {
+    "name_enus": "Elixir of Defense",
+    "icon": "inv_potion_65",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11611": {
+    "name_enus": "Alchemy",
+    "icon": "trade_alchemy",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "Allows an alchemist to brew astounding potions up to a maximum potential skill of 300."
+  },
+  "12609": {
+    "name_enus": "Catseye Draught",
+    "icon": "inv_potion_36",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3454": {
+    "name_enus": "Frost Oil",
+    "icon": "inv_potion_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11448": {
+    "name_enus": "Greater Mana Potion",
+    "icon": "inv_potion_73",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11451": {
+    "name_enus": "Oil of Immolation",
+    "icon": "inv_potion_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11456": {
+    "name_enus": "Goblin Rocket Fuel",
+    "icon": "inv_cask_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11453": {
+    "name_enus": "Magic Resistance Potion",
+    "icon": "inv_potion_120",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11452": {
+    "name_enus": "Restorative Potion",
+    "icon": "inv_potion_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22808": {
+    "name_enus": "Draught of Greater Water Breathing",
+    "icon": "inv_potion_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "4942": {
+    "name_enus": "Lesser Stoneshield Potion",
+    "icon": "inv_potion_67",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11458": {
+    "name_enus": "Wildvine Potion",
+    "icon": "inv_potion_34",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11479": {
+    "name_enus": "Transmute: Iron to Gold",
+    "icon": "inv_ingot_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Transmute a bar of Iron into a bar of Gold.<br /><br />This lesser transmutation may only be performed once per hour."
+  },
+  "11480": {
+    "name_enus": "Transmute: Mithril to Truesilver",
+    "icon": "inv_ingot_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Transmute a bar of Mithril into a bar of Truesilver.<br /><br />This lesser transmutation may only be performed once per hour."
+  },
+  "11459": {
+    "name_enus": "Philosopher's Stone",
+    "icon": "inv_misc_orb_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11460": {
+    "name_enus": "Draught of Detect Undead",
+    "icon": "inv_potion_53",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "15833": {
+    "name_enus": "Dreamless Sleep Potion",
+    "icon": "inv_potion_83",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11461": {
+    "name_enus": "Arcane Elixir",
+    "icon": "inv_potion_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11465": {
+    "name_enus": "Elixir of Greater Intellect",
+    "icon": "inv_potion_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11464": {
+    "name_enus": "Invisibility Potion",
+    "icon": "inv_potion_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11468": {
+    "name_enus": "Draught of Dream Vision",
+    "icon": "inv_potion_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11467": {
+    "name_enus": "Elixir of Greater Agility",
+    "icon": "inv_potion_94",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11466": {
+    "name_enus": "Gift of Arthas",
+    "icon": "inv_potion_28",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11472": {
+    "name_enus": "Elixir of Greater Strength",
+    "icon": "inv_potion_59",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11473": {
+    "name_enus": "Ghost Dye",
+    "icon": "inv_poison_mindnumbing",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17551": {
+    "name_enus": "Stonescale Oil",
+    "icon": "inv_potion_68",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11478": {
+    "name_enus": "Draught of Detect Demon",
+    "icon": "inv_potion_53",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26277": {
+    "name_enus": "Elixir of Holy Power",
+    "icon": "inv_potion_62",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11476": {
+    "name_enus": "Elixir of Shadow Power",
+    "icon": "inv_potion_48",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "11477": {
+    "name_enus": "Potion of Demonslaying",
+    "icon": "inv_potion_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3175": {
+    "name_enus": "Limited Invulnerability Potion",
+    "icon": "inv_potion_62",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17552": {
+    "name_enus": "Mighty Rage Potion",
+    "icon": "inv_potion_41",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17553": {
+    "name_enus": "Superior Mana Potion",
+    "icon": "inv_potion_74",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17554": {
+    "name_enus": "Elixir of Greater Defense",
+    "icon": "inv_potion_66",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17555": {
+    "name_enus": "Elixir of the Sages",
+    "icon": "inv_potion_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17559": {
+    "name_enus": "Transmute: Air to Fire",
+    "icon": "spell_fire_volcano",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Transmutes Essence of Air into Essence of Fire."
+  },
+  "17187": {
+    "name_enus": "Transmute: Arcanite",
+    "icon": "inv_misc_stonetablet_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Transmutes a bar of Thorium and an Arcane Crystal into an Arcanite Bar."
+  },
+  "17566": {
+    "name_enus": "Transmute: Earth to Life",
+    "icon": "spell_nature_abolishmagic",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Transmutes Essence of Earth into Living Essence."
+  },
+  "17561": {
+    "name_enus": "Transmute: Earth to Water",
+    "icon": "spell_nature_acid_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Transmutes Essence of Earth into Essence Water."
+  },
+  "17560": {
+    "name_enus": "Transmute: Fire to Earth",
+    "icon": "spell_nature_strengthofearthtotem02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Transmutes Essence of Fire into Essence of Earth."
+  },
+  "17565": {
+    "name_enus": "Transmute: Life to Earth",
+    "icon": "spell_nature_strengthofearthtotem02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Transmutes Living Essence into Essence of Earth."
+  },
+  "17563": {
+    "name_enus": "Transmute: Undeath to Water",
+    "icon": "spell_nature_acid_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Purifies Essence of Undeath, transmuting it into Essence of Water."
+  },
+  "17562": {
+    "name_enus": "Transmute: Water to Air",
+    "icon": "spell_nature_earthbind",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Transmutes Essence of Water into Essence of Air."
+  },
+  "17564": {
+    "name_enus": "Transmute: Water to Undeath",
+    "icon": "spell_shadow_shadetruesight",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Taints Essence of Water, transmuting it into Essence of Undeath."
+  },
+  "17557": {
+    "name_enus": "Elixir of Brute Force",
+    "icon": "inv_potion_40",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24366": {
+    "name_enus": "Greater Dreamless Sleep Potion",
+    "icon": "inv_potion_83",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24365": {
+    "name_enus": "Mageblood Elixir",
+    "icon": "inv_potion_137",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17571": {
+    "name_enus": "Elixir of the Mongoose",
+    "icon": "inv_potion_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17570": {
+    "name_enus": "Greater Stoneshield Potion",
+    "icon": "inv_potion_69",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17573": {
+    "name_enus": "Greater Arcane Elixir",
+    "icon": "inv_potion_109",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24367": {
+    "name_enus": "Living Action Potion",
+    "icon": "inv_potion_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17572": {
+    "name_enus": "Purification Potion",
+    "icon": "inv_potion_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17577": {
+    "name_enus": "Greater Arcane Protection Potion",
+    "icon": "inv_potion_83",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17574": {
+    "name_enus": "Greater Fire Protection Potion",
+    "icon": "inv_potion_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17575": {
+    "name_enus": "Greater Frost Protection Potion",
+    "icon": "inv_potion_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17576": {
+    "name_enus": "Greater Nature Protection Potion",
+    "icon": "inv_potion_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17578": {
+    "name_enus": "Greater Shadow Protection Potion",
+    "icon": "inv_potion_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24368": {
+    "name_enus": "Major Troll's Blood Elixir",
+    "icon": "inv_potion_82",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17580": {
+    "name_enus": "Major Mana Potion",
+    "icon": "inv_potion_76",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "25146": {
+    "name_enus": "Transmute: Elemental Fire",
+    "icon": "spell_fire_fire",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Transmutes a Heart of Fire into 3 Elemental <!--singular:Fire:Fires-->Fires<!--singular-->."
+  },
+  "22732": {
+    "name_enus": "Major Rejuvenation Potion",
+    "icon": "inv_potion_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17632": {
+    "name_enus": "Alchemist's Stone",
+    "icon": "inv_misc_orb_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17638": {
+    "name_enus": "Flask of Chromatic Resistance",
+    "icon": "inv_potion_48",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17636": {
+    "name_enus": "Flask of Distilled Wisdom",
+    "icon": "inv_potion_97",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17634": {
+    "name_enus": "Flask of Petrification",
+    "icon": "inv_potion_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17637": {
+    "name_enus": "Flask of Supreme Power",
+    "icon": "inv_potion_41",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "17635": {
+    "name_enus": "Flask of the Titans",
+    "icon": "inv_potion_62",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2259": {
+    "name_enus": "Alchemy",
+    "icon": "trade_alchemy",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "Allows an alchemist to brew basic potions up to a maximum potential skill of 75.  Requires Herbs found with the Herbalism skill."
+  },
+  "1240943": {
+    "name_enus": "Alchemy",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "<a href=\"/beta/spell=2259/alchemy\" target=\"_blank\">Allows an alchemist to brew basic potions up to a maximum potential skill of 75.  Requires Herbs found with the Herbalism skill.</a>"
+  },
+  "1240977": {
+    "name_enus": "Alchemy",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "<a href=\"/beta/spell=11611/alchemy\" target=\"_blank\">Allows an alchemist to brew astounding potions up to a maximum potential skill of 300.</a>"
+  },
+  "1240965": {
+    "name_enus": "Alchemy",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "<a href=\"/beta/spell=3464/alchemy\" target=\"_blank\">Allows an alchemist to brew amazing potions up to a maximum potential skill of 225.</a>"
+  },
+  "1240954": {
+    "name_enus": "Alchemy",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "<a href=\"/beta/spell=3101/alchemy\" target=\"_blank\">Allows an alchemist to brew standard potions up to a maximum potential skill of 150.</a>"
+  },
+  "1245250": {
+    "name_enus": "Elixir of Minor Force",
+    "icon": "inv_potion_77",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1245246": {
+    "name_enus": "Minor Arcane Elixir",
+    "icon": "inv_potion_106",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250793": {
+    "name_enus": "Elixir of Minor Spirit",
+    "icon": "inv_potion_113",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1230564": {
+    "name_enus": "Mana Well",
+    "icon": "spell_arcane_manatap",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 1",
+    "description_enus": "Craft a Mana Well."
+  },
+  "1250788": {
+    "name_enus": "Minor Mageblood Elixir",
+    "icon": "trade_alchemy_dpotion_a12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251741": {
+    "name_enus": "Minor Mender's Potion",
+    "icon": "trade_alchemy_dpotion_d13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251729": {
+    "name_enus": "Minor Spellblasting Potion",
+    "icon": "trade_alchemy_dpotion_d14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251735": {
+    "name_enus": "Minor Frenzy Potion",
+    "icon": "trade_alchemy_dpotion_d12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250779": {
+    "name_enus": "Minor Cleric's Elixir",
+    "icon": "trade_alchemy_dpotion_a17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1249630": {
+    "name_enus": "Cerulean Dye",
+    "icon": "inv_inscription_inkcerulean01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1249633": {
+    "name_enus": "Sulfuric Acid",
+    "icon": "trade_alchemy",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250794": {
+    "name_enus": "Elixir of Lesser Spirit",
+    "icon": "inv_potion_114",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250789": {
+    "name_enus": "Lesser Mageblood Elixir",
+    "icon": "inv_potion_126",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251742": {
+    "name_enus": "Lesser Mender's Potion",
+    "icon": "inv_misc_potionsete",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1244645": {
+    "name_enus": "Lesser Discolored Healing Potion",
+    "icon": "inv_potion_36",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251730": {
+    "name_enus": "Lesser Spellblasting Potion",
+    "icon": "inv_misc_potionsetc",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "426607": {
+    "name_enus": "Elixir of Coalesced Regret",
+    "icon": "inv_potion_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251736": {
+    "name_enus": "Lesser Frenzy Potion",
+    "icon": "inv_misc_potionsetf",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250801": {
+    "name_enus": "Elixir of Lesser Intellect",
+    "icon": "inv_potion_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250780": {
+    "name_enus": "Lesser Cleric's Elixir",
+    "icon": "inv_potion_128",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2365": {
+    "name_enus": "Draught of Tongues",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250795": {
+    "name_enus": "Elixir of Spirit",
+    "icon": "inv_potion_115",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250791": {
+    "name_enus": "Lesser Arcane Elixir",
+    "icon": "inv_potion_107",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1249631": {
+    "name_enus": "Magenta Dye",
+    "icon": "inv_inscription_inkpurple02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251743": {
+    "name_enus": "Mender's Potion",
+    "icon": "inv_potiond_6",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1244646": {
+    "name_enus": "Discolored Healing Potion",
+    "icon": "inv_potion_37",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250802": {
+    "name_enus": "Elixir of Intellect",
+    "icon": "inv_potion_44",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1263005": {
+    "name_enus": "Fermenter",
+    "icon": "inv_alchemy_90_cauldron",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 2",
+    "description_enus": "Craft a Fermenter."
+  },
+  "1251731": {
+    "name_enus": "Spellblasting Potion",
+    "icon": "inv_potiond_2",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251737": {
+    "name_enus": "Frenzy Potion",
+    "icon": "inv_potiond_3",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250781": {
+    "name_enus": "Cleric's Elixir",
+    "icon": "inv_potion_139",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250783": {
+    "name_enus": "Elixir of Fortitude",
+    "icon": "inv_potion_44",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250798": {
+    "name_enus": "Elixir of Strength",
+    "icon": "inv_potion_58",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250796": {
+    "name_enus": "Elixir of Greater Spirit",
+    "icon": "inv_potion_116",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1244647": {
+    "name_enus": "Greater Discolored Healing Potion",
+    "icon": "inv_potion_38",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250790": {
+    "name_enus": "Greater Mageblood Elixir",
+    "icon": "inv_potion_168",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251750": {
+    "name_enus": "Disorienting Smog Potion",
+    "icon": "trade_alchemy_dpotion_c24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251744": {
+    "name_enus": "Greater Mender's Potion",
+    "icon": "inv_potionf_3",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251732": {
+    "name_enus": "Greater Spellblasting Potion",
+    "icon": "inv_potionf_4",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251738": {
+    "name_enus": "Greater Frenzy Potion",
+    "icon": "inv_potionf_1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250776": {
+    "name_enus": "Draught of Predatory Senses",
+    "icon": "trade_alchemy_dpotion_d12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250782": {
+    "name_enus": "Greater Cleric's Elixir",
+    "icon": "inv_potion_150",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435969": {
+    "name_enus": "Insulating Gniodine",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250784": {
+    "name_enus": "Elixir of Greater Fortitude",
+    "icon": "inv_potion_45",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250775": {
+    "name_enus": "Revealing Draught",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439960": {
+    "name_enus": "Lesser Arcane Elixir",
+    "icon": "inv_potion_108",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435971": {
+    "name_enus": "Mildly Irradiated Rejuvenation Potion",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1249632": {
+    "name_enus": "Viridian Dye",
+    "icon": "inv_inscription_inkgreen01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1244648": {
+    "name_enus": "Superior Discolored Healing Potion",
+    "icon": "inv_potion_39",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251745": {
+    "name_enus": "Superior Mender's Potion",
+    "icon": "inv_misc_potiona3",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251733": {
+    "name_enus": "Superior Spellblasting Potion",
+    "icon": "inv_misc_potiona2",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251739": {
+    "name_enus": "Superior Frenzy Potion",
+    "icon": "inv_misc_potiona6",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251751": {
+    "name_enus": "Dragonfire Potion",
+    "icon": "inv_potion_33",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "446226": {
+    "name_enus": "Flask of Everlasting Nightmares",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "448085": {
+    "name_enus": "Flask of Restless Dreams",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "446851": {
+    "name_enus": "Jar of Nightmarish Mojo",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250778": {
+    "name_enus": "Elixir of the Phalanx",
+    "icon": "trade_alchemy_dpotion_a25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1244421": {
+    "name_enus": "Distilled Firewater",
+    "icon": "inv_potion_92",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251749": {
+    "name_enus": "Caustic Smog Potion",
+    "icon": "trade_alchemy_dpotion_c26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1317279": {
+    "name_enus": "Transmute: Legionite",
+    "icon": "inv_blacksmithing_70_demonsteelbar",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Transmutes a bar of Heavy Thorium and a Fel Crystal into a Legionite Bar."
+  },
+  "1250777": {
+    "name_enus": "Elixir of Cunning",
+    "icon": "inv_potion_166",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250799": {
+    "name_enus": "Elixir of Ferocity",
+    "icon": "inv_potion_161",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250787": {
+    "name_enus": "Elixir of Sages",
+    "icon": "inv_potion_165",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250797": {
+    "name_enus": "Elixir of the Whale",
+    "icon": "inv_potion_163",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251748": {
+    "name_enus": "Potion of Venomous Blood",
+    "icon": "inv_potion_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250786": {
+    "name_enus": "Elixir of the Owl",
+    "icon": "inv_potion_164",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251747": {
+    "name_enus": "Major Mender's Potion",
+    "icon": "inv_potione_2",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251753": {
+    "name_enus": "Potion of Beast Culling",
+    "icon": "inv_alchemy_80_potion02yellow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251752": {
+    "name_enus": "Potion of Elemental Siphoning",
+    "icon": "inv_alchemy_80_potion02blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250792": {
+    "name_enus": "Elixir of Nature Power",
+    "icon": "inv_potion_97",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1250785": {
+    "name_enus": "Elixir of Wicked Regeneration",
+    "icon": "trade_alchemy_dpotion_a22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251734": {
+    "name_enus": "Major Spellblasting Potion",
+    "icon": "inv_potione_4",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1231583": {
+    "name_enus": "Major Discolored Healing Potion",
+    "icon": "inv_potion_40",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1251740": {
+    "name_enus": "Major Frenzy Potion",
+    "icon": "inv_potione_6",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1263078": {
+    "name_enus": "Alchemy Laboratory",
+    "icon": "10prof_portabletable_alchemy01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 3",
+    "description_enus": "Craft an Alchemy Laboratory."
+  },
+  "1250800": {
+    "name_enus": "Elixir of the Grizzly",
+    "icon": "inv_potion_160",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24266": {
+    "name_enus": "Gurubashi Mojo Madness",
+    "icon": "inv_poison_mindnumbing",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213571": {
+    "name_enus": "Elixir of Alacrity",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213559": {
+    "name_enus": "Elixir of the Honey Badger",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213565": {
+    "name_enus": "Elixir of the Ironside",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213563": {
+    "name_enus": "Elixir of the Mage-Lord",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213546": {
+    "name_enus": "Flask of Ancient Knowledge",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213552": {
+    "name_enus": "Flask of Madness",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213548": {
+    "name_enus": "Flask of the Old Gods",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213544": {
+    "name_enus": "Flask of Unyielding Sorrow",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1293559": {
+    "name_enus": "Flask of Natural Accuracy",
+    "icon": "inv_potionc_5",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1293560": {
+    "name_enus": "Flask of Natural Aggression",
+    "icon": "inv_potionc_1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1293561": {
+    "name_enus": "Flask of Natural Precision",
+    "icon": "inv_potionc_3",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1293562": {
+    "name_enus": "Flask of Natural Swiftness",
+    "icon": "inv_potionc_4",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  }
+}

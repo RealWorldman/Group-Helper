@@ -1,0 +1,2558 @@
+{
+  "3918": {
+    "name_dede": "Raues Sprengpulver",
+    "icon": "inv_misc_dust_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3919": {
+    "name_dede": "Raues Dynamit",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3922": {
+    "name_dede": "Eine Hand voll Kupferbolzen",
+    "icon": "inv_misc_gear_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3923": {
+    "name_dede": "Raue Kupferbombe",
+    "icon": "inv_misc_bomb_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "4037": {
+    "name_dede": "Ingenieurskunst",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "Ermöglicht einem Ingenieur, leistungsfähige Gerätschaften und Sprengstoffe mit einer maximalen potenziellen Fertigkeit von 150 herzustellen."
+  },
+  "7430": {
+    "name_dede": "Bogenlichtschraubenschlüssel",
+    "icon": "inv_misc_wrench_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3925": {
+    "name_dede": "Raues Schießeisen",
+    "icon": "inv_weapon_rifle_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3924": {
+    "name_dede": "Kupferrohr",
+    "icon": "inv_gizmo_pipe_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3977": {
+    "name_dede": "Kunstloses Zielfernrohr",
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3926": {
+    "name_dede": "Kupfermodulator",
+    "icon": "inv_gizmo_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3930": {
+    "name_dede": "Gefertigtes schweres Geschoss",
+    "icon": "inv_ammo_bullet_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3929": {
+    "name_dede": "Grobes Sprengpulver",
+    "icon": "inv_misc_dust_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3931": {
+    "name_dede": "Grobes Dynamit",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3928": {
+    "name_dede": "Mechanisches Eichhörnchen",
+    "icon": "inv_crate_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3932": {
+    "name_dede": "Zielattrappe",
+    "icon": "inv_crate_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3973": {
+    "name_dede": "Silberkontakt",
+    "icon": "inv_ingot_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8339": {
+    "name_dede": "EZ-Thro-Dynamit",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8334": {
+    "name_dede": "Übungsschloss",
+    "icon": "inv_box_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3934": {
+    "name_dede": "Fliegerbrille",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3933": {
+    "name_dede": "Kleine Zephyriumladung",
+    "icon": "inv_misc_urn_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine kleine Zephyriumladung, die ausreicht, um einige Türen aufzusprengen."
+  },
+  "3938": {
+    "name_dede": "Bronzeröhre",
+    "icon": "inv_gizmo_pipe_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3937": {
+    "name_dede": "Große Kupferbombe",
+    "icon": "inv_misc_bomb_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3936": {
+    "name_dede": "Tödliche Donnerbüchse",
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3978": {
+    "name_dede": "Standardzielfernrohr",
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ein verbessertes Zielfernrohr, das den von Eurem Bogen oder Eurer Schusswaffe zugefügten Schaden erhöht."
+  },
+  "3941": {
+    "name_dede": "Kleine Bronzebombe",
+    "icon": "inv_misc_bomb_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3939": {
+    "name_dede": "Liebevoll hergestelltes Schießeisen",
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3940": {
+    "name_dede": "Schattenschutzbrille",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "4038": {
+    "name_dede": "Ingenieurskunst",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "Ermöglicht einem Ingenieur, Bomben und Dinge, die ein Wunder des Erfindungsreichtums sind, mit einer maximalen potenziellen Fertigkeit von 225 herzustellen."
+  },
+  "3947": {
+    "name_dede": "Gefertigtes robustes Geschoss",
+    "icon": "inv_ammo_bullet_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3946": {
+    "name_dede": "Schweres Dynamit",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3945": {
+    "name_dede": "Schweres Sprengpulver",
+    "icon": "inv_misc_dust_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26416": {
+    "name_dede": "Kleine blaue Rakete",
+    "icon": "inv_misc_missilesmall_blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26417": {
+    "name_dede": "Kleine grüne Rakete",
+    "icon": "inv_misc_missilesmall_green",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26418": {
+    "name_dede": "Kleine rote Rakete",
+    "icon": "inv_misc_missilesmall_red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3944": {
+    "name_dede": "Flammendeflektor",
+    "icon": "inv_gizmo_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3942": {
+    "name_dede": "Surrendes bronzenes Dingsda",
+    "icon": "inv_gizmo_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9269": {
+    "name_dede": "Gnomen-Universalfernbedienung",
+    "icon": "inv_misc_pocketwatch_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3949": {
+    "name_dede": "Versilberte Schrotflinte",
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6458": {
+    "name_dede": "Verschnörkeltes Handfernrohr",
+    "icon": "inv_misc_spyglass_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3950": {
+    "name_dede": "Große Bronzebombe",
+    "icon": "inv_misc_bomb_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3952": {
+    "name_dede": "Schwacher Rekombobulator",
+    "icon": "inv_gizmo_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3953": {
+    "name_dede": "Bronzegerüst",
+    "icon": "inv_gizmo_bronzeframework_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3954": {
+    "name_dede": "Mondsichtgewehr",
+    "icon": "inv_weapon_rifle_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9271": {
+    "name_dede": "Aquadynamischer Fischanlocker",
+    "icon": "inv_misc_food_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23067": {
+    "name_dede": "Blaues Feuerwerk",
+    "icon": "spell_ice_magicdamage",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23068": {
+    "name_dede": "Grünes Feuerwerk",
+    "icon": "spell_nature_abolishmagic",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23066": {
+    "name_dede": "Rotes Feuerwerk",
+    "icon": "spell_fire_fireball02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12584": {
+    "name_dede": "Goldkraftkern",
+    "icon": "inv_battery_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3956": {
+    "name_dede": "Schutzbrille mit grünen Gläsern",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3955": {
+    "name_dede": "Explodierendes Schaf",
+    "icon": "spell_nature_polymorph",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3957": {
+    "name_dede": "Eisdeflektor",
+    "icon": "inv_gizmo_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3958": {
+    "name_dede": "Eisenstrebe",
+    "icon": "inv_spear_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3959": {
+    "name_dede": "Diskombobulatorstrahl",
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9273": {
+    "name_dede": "Goblin-Überbrückungskabel",
+    "icon": "inv_misc_enggizmos_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3960": {
+    "name_dede": "Tragbarer bronzener Mörser",
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3961": {
+    "name_dede": "Gyrochronatom",
+    "icon": "inv_misc_pocketwatch_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12586": {
+    "name_dede": "Robustes Dynamit",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12585": {
+    "name_dede": "Robustes Sprengpulver",
+    "icon": "inv_misc_powder_black",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26420": {
+    "name_dede": "Große blaue Rakete",
+    "icon": "inv_misc_missilelarge_blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26421": {
+    "name_dede": "Große grüne Rakete",
+    "icon": "inv_misc_missilelarge_green",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26422": {
+    "name_dede": "Große rote Rakete",
+    "icon": "inv_misc_missilelarge_red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3962": {
+    "name_dede": "Eisengranate",
+    "icon": "inv_misc_bomb_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12590": {
+    "name_dede": "Gyromatischer Mikroregler",
+    "icon": "inv_misc_screwdriver_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3963": {
+    "name_dede": "Kompaktes Ernteschnitterset",
+    "icon": "inv_helmet_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12587": {
+    "name_dede": "Hellaugenschutzbrille",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3979": {
+    "name_dede": "Genaues Zielfernrohr",
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8243": {
+    "name_dede": "Blitzstrahlbombe",
+    "icon": "inv_misc_ammo_bullet_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3965": {
+    "name_dede": "Hochentwickelte Zielattrappe",
+    "icon": "inv_crate_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3966": {
+    "name_dede": "Handwerkermonokel",
+    "icon": "inv_helmet_44",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3967": {
+    "name_dede": "Große Eisenbombe",
+    "icon": "inv_misc_bomb_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "21940": {
+    "name_dede": "Schneemeister 9000",
+    "icon": "spell_frost_windwalkon",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12589": {
+    "name_dede": "Mithrilrohr",
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3968": {
+    "name_dede": "Goblin-Landmine",
+    "icon": "inv_shield_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Eine Goblin-Landmine bauen."
+  },
+  "12656": {
+    "name_dede": "Ingenieurskunst",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "Ermöglicht einem Ingenieur, Bomben und Dinge, die wahrhaft erstaunlich sind, mit einer maximalen potenziellen Fertigkeit von 300 herzustellen."
+  },
+  "23069": {
+    "name_dede": "EZ-Thro-Dynamit II",
+    "icon": "inv_misc_bomb_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3972": {
+    "name_dede": "Große Zephyriumladung",
+    "icon": "inv_misc_urn_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12591": {
+    "name_dede": "Instabiler Auslöser",
+    "icon": "inv_battery_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "15255": {
+    "name_dede": "Mechanisches Reparierset",
+    "icon": "inv_gizmo_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3971": {
+    "name_dede": "Gnomisches Verbergungsgerät",
+    "icon": "inv_gizmo_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3969": {
+    "name_dede": "Mechanischer Drachling",
+    "icon": "inv_misc_head_dragon_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "13240": {
+    "name_dede": "Der Mörser: Wieder aufgeladen",
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Lädt einen leeren Goblin-Mörser wieder auf."
+  },
+  "12715": {
+    "name_dede": "Goblin-Raketentreibstoff-Rezept",
+    "icon": "inv_scroll_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "15633": {
+    "name_dede": "Lil' Smoky",
+    "icon": "inv_mechagon_spareparts",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12895": {
+    "name_dede": "Pläne: Veredelter Mithrilzylinder",
+    "icon": "inv_scroll_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "15628": {
+    "name_dede": "Winzige wandelnde Bombe",
+    "icon": "inv_misc_bomb_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12760": {
+    "name_dede": "Goblinsche Pioniersprengladung",
+    "icon": "spell_fire_selfdestruct",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12594": {
+    "name_dede": "Feuerschutzbrille",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12717": {
+    "name_dede": "Goblin-Bergbauhelm",
+    "icon": "inv_helmet_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12718": {
+    "name_dede": "Goblinscher Schutzhelm",
+    "icon": "inv_helmet_60",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12595": {
+    "name_dede": "Mithrildonnerbüchse",
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12899": {
+    "name_dede": "Gnomen-Schrumpfstrahl",
+    "icon": "inv_gizmo_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12596": {
+    "name_dede": "Stark einschlagende Mithrilpatronen",
+    "icon": "inv_ammo_bullet_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12897": {
+    "name_dede": "Gnomen-Schutzbrille",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12902": {
+    "name_dede": "Gnomen-Net-o-Matik-Projektor",
+    "icon": "inv_misc_net_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12597": {
+    "name_dede": "Tödliches Zielfernrohr",
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12599": {
+    "name_dede": "Mithrilgehäuse",
+    "icon": "inv_gizmo_mithrilcasing_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12603": {
+    "name_dede": "Mithrilschrapnellbombe",
+    "icon": "inv_misc_bomb_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12903": {
+    "name_dede": "Gnomen-Unglücksverhinderungsgürtel",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12607": {
+    "name_dede": "Katzenaugen-Ultraschutzbrille",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12614": {
+    "name_dede": "Schwerkalibriges Mithrilgewehr",
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26423": {
+    "name_dede": "Blaues Raketenbündel",
+    "icon": "inv_misc_missilesmallcluster_blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26424": {
+    "name_dede": "Grünes Raketenbündel",
+    "icon": "inv_misc_missilesmallcluster_green",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26425": {
+    "name_dede": "Rotes Raketenbündel",
+    "icon": "inv_misc_missilesmallcluster_red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12616": {
+    "name_dede": "Fallschirmumhang",
+    "icon": "inv_misc_cape_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12905": {
+    "name_dede": "Gnomen-Raketenstiefel",
+    "icon": "inv_boots_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8895": {
+    "name_dede": "Goblin-Raketenstiefel",
+    "icon": "inv_gizmo_rocketboot_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12615": {
+    "name_dede": "Zaubermachtschutzbrille Xtrem",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26442": {
+    "name_dede": "Zünder für Feuerwerk",
+    "icon": "inv_musket_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12755": {
+    "name_dede": "Goblin-Bombenspender",
+    "icon": "inv_gizmo_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12618": {
+    "name_dede": "Rosarote Schutzbrille",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12617": {
+    "name_dede": "Tiefentaucherhelm",
+    "icon": "inv_helmet_49",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12906": {
+    "name_dede": "Gnomen-Kampfhuhn",
+    "icon": "spell_magic_polymorphchicken",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12754": {
+    "name_dede": "Der Große",
+    "icon": "inv_misc_bomb_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12619": {
+    "name_dede": "Hochexplosive Bombe",
+    "icon": "inv_misc_bomb_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12907": {
+    "name_dede": "Gnomen-Gedankenkontrollkappe",
+    "icon": "inv_helmet_49",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12759": {
+    "name_dede": "Gnomentodesstrahl",
+    "icon": "inv_gizmo_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12908": {
+    "name_dede": "Goblinscher Drachenwerfer",
+    "icon": "spell_fire_flamebolt",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12620": {
+    "name_dede": "Heckenschützen-Zielfernrohr",
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12621": {
+    "name_dede": "Gyro-Mithrilgeschoss",
+    "icon": "inv_ammo_bullet_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12622": {
+    "name_dede": "Grüne Linse",
+    "icon": "inv_helmet_44",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12758": {
+    "name_dede": "Goblin-Raketenhelm",
+    "icon": "inv_helmet_49",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19788": {
+    "name_dede": "Dichtes Sprengpulver",
+    "icon": "inv_misc_ammo_gunpowder_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23070": {
+    "name_dede": "Dichtes Dynamit",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23507": {
+    "name_dede": "Schlangenexplosionsfeuerwerk",
+    "icon": "spell_holy_holybolt",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12624": {
+    "name_dede": "Mechanischer Mithrildrachling",
+    "icon": "inv_misc_head_dragon_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19567": {
+    "name_dede": "Salzstreuer",
+    "icon": "inv_egg_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26011": {
+    "name_dede": "Ruhiger mechanischer Yeti",
+    "icon": "ability_hunter_pet_gorilla",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23129": {
+    "name_dede": "Weltvergrößerer",
+    "icon": "inv_misc_enggizmos_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23071": {
+    "name_dede": "Echtsilber-Umwandler",
+    "icon": "inv_staff_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23077": {
+    "name_dede": "Gyrofrosteisreflektor",
+    "icon": "inv_misc_enggizmos_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19792": {
+    "name_dede": "Thoriumgewehr",
+    "icon": "inv_weapon_rifle_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19791": {
+    "name_dede": "Thoriumapparat",
+    "icon": "inv_gizmo_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19790": {
+    "name_dede": "Thoriumgranate",
+    "icon": "inv_misc_bomb_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23096": {
+    "name_dede": "Alarm-O-Bot",
+    "icon": "inv_misc_enggizmos_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23078": {
+    "name_dede": "Goblin-Überbrückungskabel XL",
+    "icon": "inv_misc_enggizmos_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19793": {
+    "name_dede": "Lebensechte mechanische Kröte",
+    "icon": "inv_misc_monsterhead_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19794": {
+    "name_dede": "Zaubermachtschutzbrille Xtrem Plus",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26426": {
+    "name_dede": "Großes blaues Raketenbündel",
+    "icon": "inv_misc_missilelargecluster_blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26427": {
+    "name_dede": "Großes grünes Raketenbündel",
+    "icon": "inv_misc_missilelargecluster_green",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26428": {
+    "name_dede": "Großes rotes Raketenbündel",
+    "icon": "inv_misc_missilelargecluster_red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23080": {
+    "name_dede": "Mächtige Zephyriumladung",
+    "icon": "spell_shadow_detectinvisibility",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23079": {
+    "name_dede": "Großer Rekombobulator",
+    "icon": "inv_misc_enggizmos_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19796": {
+    "name_dede": "Dunkeleisengewehr",
+    "icon": "inv_weapon_rifle_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28327": {
+    "name_dede": "Dampfpanzersteuerung",
+    "icon": "inv_misc_enggizmos_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19814": {
+    "name_dede": "Meisterliche Zielattrappe",
+    "icon": "inv_crate_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19795": {
+    "name_dede": "Thoriumröhre",
+    "icon": "inv_gizmo_pipe_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26443": {
+    "name_dede": "Zünder für Raketenbündel",
+    "icon": "inv_misc_enggizmos_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19800": {
+    "name_dede": "Thoriumpatronen",
+    "icon": "inv_ammo_bullet_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19799": {
+    "name_dede": "Dunkeleisenbombe",
+    "icon": "inv_misc_bomb_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19815": {
+    "name_dede": "Empfindlicher Arkanitwandler",
+    "icon": "inv_gizmo_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23081": {
+    "name_dede": "Hyperstrahlender Flammenreflektor",
+    "icon": "inv_misc_enggizmos_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19819": {
+    "name_dede": "Modularer Stimmenverstärker",
+    "icon": "inv_jewelry_amulet_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19825": {
+    "name_dede": "Schutzbrille des Meisteringenieurs",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22795": {
+    "name_dede": "Kernscharfschützengewehr",
+    "icon": "inv_weapon_rifle_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22797": {
+    "name_dede": "Machtreaktive Scheibe",
+    "icon": "spell_arcane_portaldarnassus",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19830": {
+    "name_dede": "Arkanitdrachling",
+    "icon": "inv_misc_head_dragon_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22793": {
+    "name_dede": "Biznicks 247x128 treffsicheres Zielfernrohr",
+    "icon": "inv_misc_spyglass_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24357": {
+    "name_dede": "Blutrebenlinse",
+    "icon": "inv_helmet_44",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24356": {
+    "name_dede": "Blutrebenschutzbrille",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19833": {
+    "name_dede": "Fehlerloses Arkanitgewehr",
+    "icon": "inv_weapon_rifle_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23082": {
+    "name_dede": "Ultrablendender Schattenreflektor",
+    "icon": "inv_misc_enggizmos_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19831": {
+    "name_dede": "Arkane Bombe",
+    "icon": "spell_shadow_mindbomb",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22704": {
+    "name_dede": "Feldreparaturbot-74A",
+    "icon": "inv_egg_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1253006": {
+    "name_dede": "G.R.R.-Nate",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1253005": {
+    "name_dede": "Gigantischer Betäubungspfeil",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20219": {
+    "name_dede": "Gnomen-Ingenieur",
+    "icon": "inv_gizmo_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht einem Ingenieur, phantastische gnomische Geräte zu konstruieren, die allerdings unzuverlässig sind."
+  },
+  "20222": {
+    "name_dede": "Goblin-Ingenieur",
+    "icon": "spell_fire_selfdestruct",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht einem Ingenieur, tödliche Goblin-Geräte zu konstruieren."
+  },
+  "1240969": {
+    "name_dede": "Ingenieurskunst",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "<a href=\"/beta/de/spell=4038/ingenieurskunst\" target=\"_blank\">Ermöglicht einem Ingenieur, Bomben und Dinge, die ein Wunder des Erfindungsreichtums sind, mit einer maximalen potenziellen Fertigkeit von 225 herzustellen.</a>"
+  },
+  "1240982": {
+    "name_dede": "Ingenieurskunst",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "<a href=\"/beta/de/spell=12656/ingenieurskunst\" target=\"_blank\">Ermöglicht einem Ingenieur, Bomben und Dinge, die wahrhaft erstaunlich sind, mit einer maximalen potenziellen Fertigkeit von 300 herzustellen.</a>"
+  },
+  "1240958": {
+    "name_dede": "Ingenieurskunst",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "<a href=\"/beta/de/spell=4037/ingenieurskunst\" target=\"_blank\">Ermöglicht einem Ingenieur, leistungsfähige Gerätschaften und Sprengstoffe mit einer maximalen potenziellen Fertigkeit von 150 herzustellen.</a>"
+  },
+  "4036": {
+    "name_dede": "Ingenieurskunst",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "Ermöglicht einem Ingenieur, einfache Gerätschaften mit einer maximalen potenziellen Fertigkeit von 75 herzustellen. Es werden Stein und Metall benötigt, die mit der Bergbaufertigkeit gefunden wurden."
+  },
+  "1240947": {
+    "name_dede": "Ingenieurskunst",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "<a href=\"/beta/de/spell=4036/ingenieurskunst\" target=\"_blank\">Ermöglicht einem Ingenieur, einfache Gerätschaften mit einer maximalen potenziellen Fertigkeit von 75 herzustellen. Es werden Stein und Metall benötigt, die mit der Bergbaufertigkeit gefunden wurden.</a>"
+  },
+  "1253004": {
+    "name_dede": "Schleimunterdrücker",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1235244": {
+    "name_dede": "Ingenieurskunst",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1230656": {
+    "name_dede": "Materialbot",
+    "icon": "inv_misc_enggizmos_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 1",
+    "description_dede": "Stellt einen Materialbot her."
+  },
+  "1266893": {
+    "name_dede": "SAF-T-Griffe",
+    "icon": "inv_misc_punchcards_white",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266905": {
+    "name_dede": "SAF-T-Dynamit",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3920": {
+    "name_dede": "Gefertigtes leichtes Geschoss",
+    "icon": "inv_ammo_bullet_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266906": {
+    "name_dede": "SAF-T-Kupferbombe",
+    "icon": "inv_misc_bomb_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1302161": {
+    "name_dede": "Überschreibender Singalwirker für Erntearbeiter",
+    "icon": "inv_gizmo_goblingtonkcontroller",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1317958": {
+    "name_dede": "Säckchen mit Kupferbomben",
+    "icon": "inv_misc_bag_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266907": {
+    "name_dede": "EZ-Thro-Wickel",
+    "icon": "inv_misc_giftwrap_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1293088": {
+    "name_dede": "9-60 Batteriepack",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1319156": {
+    "name_dede": "Kleine gelbe Rakete",
+    "icon": "inv_misc_missilesmall_yellow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1319154": {
+    "name_dede": "Kleine lila Rakete",
+    "icon": "inv_misc_missilesmall_purple",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1319155": {
+    "name_dede": "Kleine weiße Rakete",
+    "icon": "inv_misc_missilesmall_white",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1249634": {
+    "name_dede": "Sandpapier",
+    "icon": "inv_inscription_papyrus",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266908": {
+    "name_dede": "EZ-Thro-Kupferbombe XL",
+    "icon": "inv_misc_bomb_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "424641": {
+    "name_dede": "Automatische Bergungseinheit Schredder",
+    "icon": "inv_misc_enggizmos_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1263034": {
+    "name_dede": "Reparaturbot",
+    "icon": "inv_robotpet",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 2",
+    "description_dede": "Stellt einen Reparaturbot her."
+  },
+  "1266909": {
+    "name_dede": "Rutschfeste SAF-T-Polsterung",
+    "icon": "inv_misc_leatherscrap_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266910": {
+    "name_dede": "SAF-T-Bronzebombe",
+    "icon": "inv_misc_bomb_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1286796": {
+    "name_dede": "Hufförmiges Pedal",
+    "icon": "inv_blacksmith_leystonehoofplates_orange",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266911": {
+    "name_dede": "Riesiges SAF-T-Dynamit",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1317959": {
+    "name_dede": "Säckchen mit Bronzebomben",
+    "icon": "inv_misc_bag_09_black",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266912": {
+    "name_dede": "SAF-T-Glocke",
+    "icon": "inv_misc_bell_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1319159": {
+    "name_dede": "Große gelbe Rakete",
+    "icon": "inv_misc_missilelarge_yellow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1319157": {
+    "name_dede": "Große lila Rakete",
+    "icon": "inv_misc_missilelarge_purple",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1319158": {
+    "name_dede": "Große weiße Rakete",
+    "icon": "inv_misc_missilelarge_white",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1308179": {
+    "name_dede": "Gerätschaftengurt",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1308180": {
+    "name_dede": "Klapperkordel",
+    "icon": "inv_belt_34",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1308178": {
+    "name_dede": "Launisches Hüfttuch",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1308182": {
+    "name_dede": "Zackenriemen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266914": {
+    "name_dede": "Feuerfeste EZ-Thro-Lunte",
+    "icon": "inv_jewelcrafting_delicatecopperwire",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1286792": {
+    "name_dede": "Aufstellvorrichtung für Zentaurenbanner",
+    "icon": "achievement_bg_killflagcarriers_grabflag_capit",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435956": {
+    "name_dede": "Polierte Echtsilberzahnräder",
+    "icon": "inv_mace_107",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266913": {
+    "name_dede": "Sicherheitsschafe",
+    "icon": "ability_mage_improvedpolymorph",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266916": {
+    "name_dede": "EZ-Thro-Granate",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1308185": {
+    "name_dede": "Klemmknopfschutzbrille",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1308183": {
+    "name_dede": "Lockere Schutzbrille",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1308186": {
+    "name_dede": "Verbeulte Schutzbrille",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1308184": {
+    "name_dede": "Verbogene Schutzbrille",
+    "icon": "inv_helmet_47",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "431362": {
+    "name_dede": "Seelengefäß",
+    "icon": "inv_jewelcrafting_nightseye_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266915": {
+    "name_dede": "EZ-Thro-Bronzemörser",
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266917": {
+    "name_dede": "SAF-T-Hülle",
+    "icon": "inv_gizmo_mithrilcasing_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266918": {
+    "name_dede": "SAF-T-Bombe",
+    "icon": "inv_misc_bomb_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435966": {
+    "name_dede": "EZ-Thro-Strahlungsbombe",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435964": {
+    "name_dede": "Hoch wirksame Strahlungsbombe",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435960": {
+    "name_dede": "Hyperleitendes Goldnetz",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435958": {
+    "name_dede": "Wirbelnder Echtsilberzahnradschild",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12716": {
+    "name_dede": "Goblin-Mörser",
+    "icon": "inv_musket_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1319162": {
+    "name_dede": "Gelbes Raketenbündel",
+    "icon": "inv_misc_missilesmallcluster_yellow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1319160": {
+    "name_dede": "Lila Raketenbündel",
+    "icon": "inv_misc_missilesmallcluster_purple",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1319161": {
+    "name_dede": "Weißes Raketenbündel",
+    "icon": "inv_misc_missilesmallcluster_white",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266920": {
+    "name_dede": "Kompakter Kleintiertransportkorb",
+    "icon": "inv_box_birdcage_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1317960": {
+    "name_dede": "Säckchen mit Eisenbomben",
+    "icon": "inv_misc_bag_10_black",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266921": {
+    "name_dede": "EZ-Thro Tru-Trigger",
+    "icon": "inv_engineering_loosetrigger",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266922": {
+    "name_dede": "Tru-Trigger Frag Bomb",
+    "icon": "inv_misc_bomb_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266919": {
+    "name_dede": "Notfallfeldumhang",
+    "icon": "inv_misc_enggizmos_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266924": {
+    "name_dede": "Gnomisches Armeemesser",
+    "icon": "inv_misc_enggizmos_swissarmy",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446238": {
+    "name_dede": "Leerenaufgeladene Unterarmschienen des Beschützers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446236": {
+    "name_dede": "Leerenaufgeladene Unterarmschienen des Herbeirufers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446237": {
+    "name_dede": "Leerenaufgeladene Unterarmschienen des Rächers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1228088": {
+    "name_dede": "Aufstellbäumchen",
+    "icon": "inv_misc_plant_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1226206": {
+    "name_dede": "Tüftelkiste",
+    "icon": "inv_gizmo_goblingtonkcontroller",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1226209": {
+    "name_dede": "Tüftelkiste: Magnetversetzung",
+    "icon": "inv_gizmo_hardenedadamantitetube",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1226208": {
+    "name_dede": "Tüftelkiste: Nitrobooster",
+    "icon": "inv_misc_enggizmos_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1226207": {
+    "name_dede": "Tüftelkiste: Teleportation",
+    "icon": "inv_misc_enggizmos_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266923": {
+    "name_dede": "SAF-T-Einwegfallschirm",
+    "icon": "inv_misc_cape_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266925": {
+    "name_dede": "Plünderang",
+    "icon": "inv_eng_mechanicalboomerang",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266926": {
+    "name_dede": "SAF-T-Röhre",
+    "icon": "inv_gizmo_hardenedadamantitetube",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1221012": {
+    "name_dede": "Gruselige Zensorensensoren",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1319165": {
+    "name_dede": "Großes gelbes Raketenbündel",
+    "icon": "inv_misc_missilelargecluster_yellow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1319163": {
+    "name_dede": "Großes lila Raketenbündel",
+    "icon": "inv_misc_missilelargecluster_purple",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1319164": {
+    "name_dede": "Großes weißes Raketenbündel",
+    "icon": "inv_misc_missilelargecluster_white",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266927": {
+    "name_dede": "Schlaues SAF-T-Dynamit",
+    "icon": "inv_misc_bomb_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1226212": {
+    "name_dede": "Tüftelei: Magnetversetzung",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verbessert Euren Gürtel, damit er folgenden Effekt bietet:<br /><br /><a href=\"/beta/de/spell=1226001/tüftelei:-magnetversetzung\" target=\"_blank\"><a href=\"/beta/de/spell=1226007/tüftelei:-magnetversetzung\" target=\"_blank\">Unterbricht ein Magnetfeld zwischen Euch und Eurem gegnerischen Ziel in der Nähe und schleudert Euch beide fort.<br /><br />Kann nur Ziele bis zu 2 Stufen über Euch betreffen. Einige Ziele können nicht versetzt werden. Ziele können nur einmal alle 2 Min. von diesem Effekt betroffen werden.</a></a>"
+  },
+  "1226211": {
+    "name_dede": "Tüftelei: Nitrobooster",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verbessert Euren Gürtel, damit er folgenden Effekt bietet:<br /><br /><a href=\"/beta/de/spell=1225982/tüftelei:-nitrobooster\" target=\"_blank\"><a href=\"/beta/de/spell=1225987/tüftelei:-nitrobooster\" target=\"_blank\">Aktiviert eine Reihe von Strahlen, um Eure Bewegungsgeschwindigkeit für bis zu 8 Sek. um bis zu 160% zu erhöhen.</a></a>"
+  },
+  "1226210": {
+    "name_dede": "Tüftelei: Teleportation",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Verbessert Euren Gürtel, damit er folgenden Effekt bietet:<br /><br /><a href=\"/beta/de/spell=1225951/tüftelei:-teleportation\" target=\"_blank\"><a href=\"/beta/de/spell=1225960/tüftelei:-teleportation\" target=\"_blank\">Teleportiert Euch 20 Meter vorwärts.</a></a>"
+  },
+  "1317270": {
+    "name_dede": "Ungeweihte Granate",
+    "icon": "inv_misc_bomb_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266928": {
+    "name_dede": "EZ-Thro-Gehäuse",
+    "icon": "inv_qiraj_carapaceoldgod",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23486": {
+    "name_dede": "Dimensionszerfetzer-Everlook",
+    "icon": "inv_misc_enggizmos_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23489": {
+    "name_dede": "Extrem sicherer Transporter nach Gadgetzan",
+    "icon": "inv_misc_enggizmos_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266929": {
+    "name_dede": "EZ-Thro-Thoriumgranate",
+    "icon": "inv_misc_bomb_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1317961": {
+    "name_dede": "Säckchen mit Dunkeleisenbomben",
+    "icon": "inv_misc_bag_07_black",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1263083": {
+    "name_dede": "Werkbank des Anarchisten",
+    "icon": "inv_10_specialization_professionbook_engineering_color1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 3",
+    "description_dede": "Stellt eine Werkbank des Anarchisten her."
+  },
+  "1226213": {
+    "name_dede": "Halbwegs sicherer Transporter: Neu-Avalon",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1293849": {
+    "name_dede": "Flinkfederpfeil",
+    "icon": "inv_ammo_arrow_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1293850": {
+    "name_dede": "Flinkschlagschuss",
+    "icon": "inv_ammo_bullet_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306547": {
+    "name_dede": "Hyper-Scharfschützengewehr Mk XVII Deluxe",
+    "icon": "inv_weapon_rifle_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306546": {
+    "name_dede": "SAF-T-Ultrapräzisionsfernrohr",
+    "icon": "inv_engineering_90_scope_blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213573": {
+    "name_dede": "Arkane Megabombe",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213576": {
+    "name_dede": "Der Ausräucherer",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213586": {
+    "name_dede": "Generator für 6u73 5chw1n6un63n",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213588": {
+    "name_dede": "Gestimmte machtreaktive Scheibe",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213578": {
+    "name_dede": "Obsidianbombe",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213646": {
+    "name_dede": "Obsidiansprengpulver",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266937": {
+    "name_dede": "Gnomischer Geflügelisierer",
+    "icon": "inv_misc_enggizmos_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266936": {
+    "name_dede": "Dimensionstransporter: Hyjal",
+    "icon": "inv_misc_enggizmos_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266934": {
+    "name_dede": "EZ- und SAF-Feldtransporter: Hyjal",
+    "icon": "inv_misc_enggizmos_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266932": {
+    "name_dede": "EZ-Thro-Feldtransporter: Gadgetzan",
+    "icon": "inv_misc_enggizmos_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266939": {
+    "name_dede": "Gnomische Wettermaschine",
+    "icon": "inv_gizmo_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266942": {
+    "name_dede": "Magnetischer EZ-Thro-Versetzer",
+    "icon": "inv_misc_magnet",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266941": {
+    "name_dede": "SAF-T-Nitrobooster",
+    "icon": "inv_gizmo_rocketbootextreme",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266933": {
+    "name_dede": "SAF-T-Notzerfetzer: Everlook",
+    "icon": "inv_misc_enggizmos_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266943": {
+    "name_dede": "SAF-T-Teleporter",
+    "icon": "inv_misc_enggizmos_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266940": {
+    "name_dede": "Tarner 52",
+    "icon": "inv_misc_enggizmos_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266938": {
+    "name_dede": "Ultraleichter Goblingleiter",
+    "icon": "inv_misc_clothscrap_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266935": {
+    "name_dede": "Ultrasichere wiederaufladbare Batterie",
+    "icon": "inv_gizmo_electrifiedether",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266930": {
+    "name_dede": "EZ-Thro-Dunkelbombe",
+    "icon": "inv_misc_bomb_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1266931": {
+    "name_dede": "EZ-Thro-Manabombe",
+    "icon": "spell_shadow_mindbomb",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461710": {
+    "name_dede": "Feuerkern-Scharfschützengewehr",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1214145": {
+    "name_dede": "Obsidianschrotflinte",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1217207": {
+    "name_dede": "Obsidianzielfernrohr",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  }
+}

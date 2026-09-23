@@ -1,9 +1,18 @@
 """
 Holt die Listings aller Berufe in beiden Sprachen - ein Lauf statt zwoelf Aufrufen.
 
-Ergaenzt tools/probe_listing.py um genau drei Dinge: die Liste der Berufe, das
-Rate-Limit von 1 req/s und einen HTML-Cache. Laden und Parsen selbst kommt
-unveraendert von dort.
+Ergaenzt tools/probe_listing.py um die Liste der Berufe, das Rate-Limit von 1 req/s
+und einen HTML-Cache. Laden und Parsen selbst kommt unveraendert von dort.
+
+Pro Beruf und Sprache entstehen drei Dateien - eine je Datenblock der Seite:
+
+    tailoring.de.json          var listviewspells   (Rezepte)
+    tailoring.de.spells.json   addData(6, ...)      (Beschreibung, Icon, Rang)
+    tailoring.de.items.json    addData(3, ...)      (Name, Qualitaet, Icon je Item)
+
+Die Bloecke werden bewusst nicht ins Listing gemischt: So bleibt jede Datei eine
+originalgetreue Kopie genau eines Blocks, und die Gegenprobe "neu geholt ergibt
+byteweise dasselbe" bleibt moeglich.
 
 Der HTML-Cache entscheidet, ob ein Request noetig ist: Liegt data/probe/<slug>.html
 schon da, wird nichts geholt. Ein zweiter Lauf nach einem korrigierten Slug kostet
@@ -15,9 +24,18 @@ import json
 import sys
 import time
 from pathlib import Path
+from typing import Any
 
 import httpx
-from probe_listing import BASE_URL, extract_listview, fetch, parse_loose
+from probe_listing import (
+    BASE_URL,
+    GATHERER_ITEMS,
+    GATHERER_SPELLS,
+    extract_gatherer,
+    extract_listview,
+    fetch,
+    parse_loose,
+)
 
 # __file__ = tools/probe_all.py  ->  parents[1] = profession-helper-app/
 PROBE_DIR = Path(__file__).resolve().parents[1] / "data" / "probe"
@@ -41,11 +59,22 @@ LOCALES = ["", "de"]
 VAR_NAME = "listviewspells"
 RATE_LIMIT_SECONDS = 1.0
 
+# Die beiden Gatherer-Bloecke derselben Seite, je mit der Endung ihrer Datei.
+GATHERER_BLOCKS = (
+    (".spells.json", GATHERER_SPELLS),
+    (".items.json", GATHERER_ITEMS),
+)
+
 
 def probe_path(slug: str, locale: str, suffix: str) -> Path:
     """data/probe/tailoring.de.json bzw. tailoring.html - Locale nur, wenn gesetzt."""
     locale_part = f".{locale}" if locale else ""
     return PROBE_DIR / f"{slug}{locale_part}{suffix}"
+
+
+def write_json(path: Path, data: Any) -> None:
+    """Schreibt eingerueckt und mit echten Umlauten - die Dateien werden gelesen."""
+    path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
 def listing_url(slug: str, locale: str) -> str:
@@ -105,32 +134,48 @@ def main() -> int:
                 failures.append((slug, locale, "leeres Array"))
                 continue
 
-            json_file = probe_path(slug, locale, ".json")
-            json_file.write_text(
-                json.dumps(entries, indent=2, ensure_ascii=False), encoding="utf-8"
-            )
-            results.append((slug, locale, entries))
+            write_json(probe_path(slug, locale, ".json"), entries)
+
+            blocks = {}
+            for suffix, data_type in GATHERER_BLOCKS:
+                try:
+                    block = extract_gatherer(html, data_type)
+                except ValueError as exc:
+                    # Listing gerettet, Block fehlt: Das ist ein Teilausfall, kein
+                    # Grund, die schon geschriebene Rezeptliste zu verwerfen.
+                    print(f"        !! {suffix}: {exc}")
+                    failures.append((slug, locale, f"{suffix}: {exc}"))
+                    continue
+                write_json(probe_path(slug, locale, suffix), block)
+                blocks[suffix] = block
+
+            results.append((slug, locale, entries, blocks))
 
     report(results, failures)
     return 1 if failures else 0
 
 
 def report(
-    results: list[tuple[str, str, list[dict]]],
+    results: list[tuple[str, str, list[dict], dict[str, dict]]],
     failures: list[tuple[str, str, str]],
 ) -> None:
     """Ueberblick pro Beruf: reicht, um Slug und Datenqualitaet sofort zu beurteilen."""
-    print(f"\n{'beruf':<22} {'n':>5}  {'skill':<14} {'cat':<8} source-codes")
-    for slug, locale, entries in results:
+    header = f"{'beruf':<22} {'n':>5} {'zauber':>7} {'items':>6}  {'skill':<14} source-codes"
+    print(f"\n{header}")
+    for slug, locale, entries, blocks in results:
         label = f"{slug}{'.' + locale if locale else ''}"
         # Ein Rezept kann zu mehreren Berufen gehoeren (Schneiderei hat einen Eintrag
         # mit skill [165, 197]), deshalb flach einsammeln statt pro Eintrag zaehlen.
         skills = sorted({s for e in entries for s in e.get("skill", [])})
-        cats = sorted({e["cat"] for e in entries if "cat" in e})
         sources = sorted({s for e in entries for s in e.get("source", [])})
+        # '-' statt 0, damit ein fehlender Block nicht wie ein leerer aussieht.
+        counts = [
+            str(len(blocks[suffix])) if suffix in blocks else "-"
+            for suffix, _ in GATHERER_BLOCKS
+        ]
         print(
-            f"{label:<22} {len(entries):>5}  "
-            f"{str(skills):<14} {str(cats):<8} {sources}"
+            f"{label:<22} {len(entries):>5} {counts[0]:>7} {counts[1]:>6}  "
+            f"{str(skills):<14} {sources}"
         )
 
     if failures:

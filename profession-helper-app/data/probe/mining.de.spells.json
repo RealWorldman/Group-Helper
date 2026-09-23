@@ -1,0 +1,263 @@
+{
+  "2576": {
+    "name_dede": "Bergbau",
+    "icon": "trade_mining",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "Eine höher entwickelte Stufe des Bergbaus. Verleiht Eurer Bergbaufertigkeit ein Potenzial von 150."
+  },
+  "3304": {
+    "name_dede": "Zinn verhütten",
+    "icon": "inv_ingot_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht dem Minenarbeiter, einen Brocken Zinnerz zu einem Zinnbarren zu verhütten. Das Verhütten von Zinn erfordert eine Schmiede."
+  },
+  "2659": {
+    "name_dede": "Bronze verhütten",
+    "icon": "inv_ingot_bronze",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht dem Minenarbeiter, einen Zinnbarren und einen Kupferbarren zu zwei Bronzebarren zu verhütten. Das Verhütten von Bronze erfordert eine Schmiede."
+  },
+  "2658": {
+    "name_dede": "Silber verhütten",
+    "icon": "inv_ingot_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht dem Minenarbeiter, einen Brocken Silbererz zu einem Silberbarren zu verhütten. Das Verhütten von Silber erfordert eine Schmiede."
+  },
+  "3564": {
+    "name_dede": "Bergbau",
+    "icon": "trade_mining",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "Eine höher entwickelte Stufe des Bergbaus. Verleiht Eurer Bergbaufertigkeit ein Potenzial von 225."
+  },
+  "3307": {
+    "name_dede": "Eisen verhütten",
+    "icon": "inv_ingot_iron",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht dem Minenarbeiter, einen Brocken Eisenerz zu einem Eisenbarren zu verhütten. Das Verhütten von Eisen erfordert eine Schmiede."
+  },
+  "3308": {
+    "name_dede": "Gold verhütten",
+    "icon": "inv_ingot_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht dem Minenarbeiter, einen Brocken Golderz zu einem Goldbarren zu verhütten. Das Verhütten von Gold erfordert eine Schmiede."
+  },
+  "3569": {
+    "name_dede": "Stahl verhütten",
+    "icon": "inv_ingot_steel",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht dem Minenarbeiter, einen Brocken Eisenerz und ein Stück Kohle zu einem Stahlbarren zu verhütten. Das Verhütten von Stahl erfordert eine Schmiede."
+  },
+  "10097": {
+    "name_dede": "Mithril verhütten",
+    "icon": "inv_ingot_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht dem Minenarbeiter, einen Brocken Mithrilerz zu einem Mithrilbarren zu verhütten. Das Verhütten von Mithril erfordert eine Schmiede."
+  },
+  "10248": {
+    "name_dede": "Bergbau",
+    "icon": "trade_mining",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "Erhebt Bergbau zur Kunstform. Verleiht Eurer Bergbaufertigkeit ein Potenzial von 300."
+  },
+  "16153": {
+    "name_dede": "Thorium verhütten",
+    "icon": "inv_ingot_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht dem Minenarbeiter, einen Brocken Thoriumerz zu einem Thoriumbarren zu verhütten. Das Verhütten von Thorium erfordert eine Schmiede."
+  },
+  "1240973": {
+    "name_dede": "Bergbau",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "<a href=\"/beta/de/spell=3564/bergbau\" target=\"_blank\">Eine höher entwickelte Stufe des Bergbaus. Verleiht Eurer Bergbaufertigkeit ein Potenzial von 225.</a>"
+  },
+  "1240986": {
+    "name_dede": "Bergbau",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "<a href=\"/beta/de/spell=10248/bergbau\" target=\"_blank\">Erhebt Bergbau zur Kunstform. Verleiht Eurer Bergbaufertigkeit ein Potenzial von 300.</a>"
+  },
+  "1240962": {
+    "name_dede": "Bergbau",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "<a href=\"/beta/de/spell=2576/bergbau\" target=\"_blank\">Eine höher entwickelte Stufe des Bergbaus. Verleiht Eurer Bergbaufertigkeit ein Potenzial von 150.</a>"
+  },
+  "2575": {
+    "name_dede": "Bergbau",
+    "icon": "trade_mining",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "Wie man Erz und Stein aus Mineralvorkommen gewinnt, um sie für die Ingenieurskunst und die Schmiedekunst zu verwenden. Verleiht eine potenzielle Bergbaufertigkeit von 75. Benötigt eine Spitzhacke."
+  },
+  "1240951": {
+    "name_dede": "Bergbau",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "<a href=\"/beta/de/spell=2575/bergbau\" target=\"_blank\">Wie man Erz und Stein aus Mineralvorkommen gewinnt, um sie für die Ingenieurskunst und die Schmiedekunst zu verwenden. Verleiht eine potenzielle Bergbaufertigkeit von 75. Benötigt eine Spitzhacke.</a>"
+  },
+  "2580": {
+    "name_dede": "Mineraliensuche",
+    "icon": "spell_nature_earthquake",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "In der Nähe befindliche Mineralvorkommen werden auf der Minikarte angezeigt. Es kann immer nur jeweils ein Typ aufgespürt werden."
+  },
+  "2656": {
+    "name_dede": "Verhüttung",
+    "icon": "spell_fire_flameblades",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht dem Minenarbeiter, Erz in Metallbarren umzuwandeln. Es wird eine Schmiede für diese Fertigkeit benötigt."
+  },
+  "1235230": {
+    "name_dede": "Bergbau",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1230161": {
+    "name_dede": "Leitstein",
+    "icon": "inv_misc_rune_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 1",
+    "description_dede": "Stellt einen Leitstein her."
+  },
+  "2657": {
+    "name_dede": "Kupfer verhütten",
+    "icon": "inv_ingot_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht dem Minenarbeiter, einen Brocken Kupfererz zu einem Kupferbarren zu verhütten. Das Verhütten von Kupfer erfordert eine Schmiede."
+  },
+  "1262975": {
+    "name_dede": "Felsgarten",
+    "icon": "inv_misc_powder_iron",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 2",
+    "description_dede": "Stellt einen Felsgarten her."
+  },
+  "10098": {
+    "name_dede": "Echtsilber verhütten",
+    "icon": "inv_ingot_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht dem Minenarbeiter, einen Brocken Echtsilbererz zu einem Echtsilberbarren zu verhütten. Das Verhütten von Echtsilber erfordert eine Schmiede."
+  },
+  "14891": {
+    "name_dede": "Dunkeleisen verhütten",
+    "icon": "inv_ingot_mithril",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht dem Minenarbeiter, Brocken von Dunkeleisenerz zu einem Dunkeleisenbarren zu verhütten. Dunkeleisen kann nur in der schwarzen Schmiede in den Blackrocktiefen verhüttet werden."
+  },
+  "1249637": {
+    "name_dede": "Azerothium verhütten",
+    "icon": "inv_ingot_livingsteel",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1263071": {
+    "name_dede": "Geschmolzene Gießerei",
+    "icon": "inv_blacksmithingalloys_red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 3",
+    "description_dede": "Stellt eine geschmolzene Gießerei her."
+  },
+  "1306126": {
+    "name_dede": "Schweres Thorium verhütten",
+    "icon": "item_elementiumbar",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht dem Minenarbeiter, einen Brocken schweres Thoriumerz zu einem schweren Thoriumbarren zu verhütten. Das Verhütten von schwerem Thorium erfordert eine geschmolzene Gießerei."
+  },
+  "22967": {
+    "name_dede": "Elementium verhütten",
+    "icon": "inv_ingot_thorium",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213638": {
+    "name_dede": "Obsidianangereicherten Thoriumbarren verhütten",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  }
+}

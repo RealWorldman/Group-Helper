@@ -1,0 +1,5519 @@
+{
+  "2881": {
+    "name_dede": "Leichtes Leder",
+    "icon": "inv_misc_leatherscrap_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2152": {
+    "name_dede": "Leichtes Rüstungsset",
+    "icon": "inv_misc_armorkit_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7126": {
+    "name_dede": "Handgenähte Lederweste",
+    "icon": "inv_chest_wolf",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9059": {
+    "name_dede": "Handgenähte Armschienen",
+    "icon": "inv_bracer_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2149": {
+    "name_dede": "Handgenähte Lederstiefel",
+    "icon": "inv_boots_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9058": {
+    "name_dede": "Handgenähter Lederumhang",
+    "icon": "inv_helmet_48",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2153": {
+    "name_dede": "Handgenähte Lederhose",
+    "icon": "inv_pants_wolf",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3753": {
+    "name_dede": "Handgenähter Ledergürtel",
+    "icon": "inv_belt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9062": {
+    "name_dede": "Kleiner Ledermunitionsbeutel",
+    "icon": "inv_misc_ammo_bullet_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9060": {
+    "name_dede": "Leichter Lederköcher",
+    "icon": "inv_misc_quiver_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3816": {
+    "name_dede": "Geschmeidiger leichter Balg",
+    "icon": "inv_misc_pelt_wolf_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9064": {
+    "name_dede": "Unverwüstliche Lederhose",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2160": {
+    "name_dede": "Geprägte Lederweste",
+    "icon": "inv_chest_leather_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "5244": {
+    "name_dede": "Kodobalgtasche",
+    "icon": "inv_misc_bag_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3104": {
+    "name_dede": "Lederverarbeitung",
+    "icon": "inv_misc_armorkit_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "Ermöglicht einem Lederer, kunstvoll gearbeitete Lederrüstungen mit einer maximalen potenziellen Fertigkeit von 150 herzustellen."
+  },
+  "3756": {
+    "name_dede": "Geprägte Lederhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2161": {
+    "name_dede": "Geprägte Lederstiefel",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2162": {
+    "name_dede": "Geprägter Lederumhang",
+    "icon": "inv_helmet_48",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2163": {
+    "name_dede": "Weißes Lederwams",
+    "icon": "inv_chest_wolf",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9065": {
+    "name_dede": "Leichte Lederarmschienen",
+    "icon": "inv_bracer_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2164": {
+    "name_dede": "Feine Lederhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3759": {
+    "name_dede": "Geprägte Lederhose",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3763": {
+    "name_dede": "Feiner Ledergürtel",
+    "icon": "inv_belt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2159": {
+    "name_dede": "Feiner Lederumhang",
+    "icon": "inv_misc_cape_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3761": {
+    "name_dede": "Feine Ledertunika",
+    "icon": "inv_chest_leather_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8322": {
+    "name_dede": "Mondscheinweste",
+    "icon": "inv_chest_leather_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7953": {
+    "name_dede": "Deviatschuppenumhang",
+    "icon": "inv_misc_monsterscales_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2158": {
+    "name_dede": "Feine Lederstiefel",
+    "icon": "inv_boots_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6702": {
+    "name_dede": "Murlocschuppengürtel",
+    "icon": "inv_belt_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9068": {
+    "name_dede": "Leichte Lederhose",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6703": {
+    "name_dede": "Murlocschuppenbrustplatte",
+    "icon": "inv_chest_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20648": {
+    "name_dede": "Mittleres Leder",
+    "icon": "inv_misc_leatherscrap_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3817": {
+    "name_dede": "Geschmeidiger mittlerer Balg",
+    "icon": "inv_misc_pelt_bear_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2165": {
+    "name_dede": "Mittleres Rüstungsset",
+    "icon": "inv_misc_armorkit_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2167": {
+    "name_dede": "Dunkle Lederstiefel",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2169": {
+    "name_dede": "Dunkle Ledertunika",
+    "icon": "inv_chest_leather_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3762": {
+    "name_dede": "Lederweste des Hügelwächters",
+    "icon": "inv_chest_leather_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24940": {
+    "name_dede": "Schwarzwelpentunika",
+    "icon": "inv_chest_cloth_45",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9070": {
+    "name_dede": "Schwarzwelpenumhang",
+    "icon": "inv_misc_monsterscales_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7954": {
+    "name_dede": "Deviatschuppenhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7133": {
+    "name_dede": "Feine Lederhose",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2168": {
+    "name_dede": "Dunkler Lederumhang",
+    "icon": "inv_misc_cape_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7955": {
+    "name_dede": "Deviatschuppengürtel",
+    "icon": "inv_belt_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7135": {
+    "name_dede": "Dunkle Lederhose",
+    "icon": "inv_pants_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9074": {
+    "name_dede": "Behände Lederhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9072": {
+    "name_dede": "Rotwelpenhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2166": {
+    "name_dede": "Gekräftigte Lederrüstung",
+    "icon": "inv_chest_leather_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3767": {
+    "name_dede": "Gürtel des Hügelwächters",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3765": {
+    "name_dede": "Dunkle Lederhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3811": {
+    "name_dede": "Lederverarbeitung",
+    "icon": "inv_misc_armorkit_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "Ermöglicht einem Lederer, hochwertige Lederrüstungen mit einer maximalen potenziellen Fertigkeit von 225 herzustellen."
+  },
+  "3766": {
+    "name_dede": "Dunkler Ledergürtel",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9145": {
+    "name_dede": "Pfeilmacherhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3768": {
+    "name_dede": "Schultern des Hügelwächters",
+    "icon": "inv_shoulder_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3770": {
+    "name_dede": "Gekräftigte Lederhandschuhe",
+    "icon": "inv_gauntlets_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9147": {
+    "name_dede": "Irdene Lederschultern",
+    "icon": "inv_shoulder_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9146": {
+    "name_dede": "Kräuterkundigenhandschuhe",
+    "icon": "inv_gauntlets_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3769": {
+    "name_dede": "Dunkle Lederschultern",
+    "icon": "inv_shoulder_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9148": {
+    "name_dede": "Plündererhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3764": {
+    "name_dede": "Lederhandschuhe des Hügelwächters",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9149": {
+    "name_dede": "Schwere irdene Handschuhe",
+    "icon": "inv_gauntlets_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23190": {
+    "name_dede": "Schwerer Lederball",
+    "icon": "inv_misc_throwingball_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9193": {
+    "name_dede": "Schwerer Köcher",
+    "icon": "inv_misc_quiver_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9194": {
+    "name_dede": "Schwerer Ledermunitionsbeutel",
+    "icon": "inv_misc_bag_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3818": {
+    "name_dede": "Geschmeidiger schwerer Balg",
+    "icon": "inv_misc_pelt_wolf_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20649": {
+    "name_dede": "Schweres Leder",
+    "icon": "inv_misc_leatherscrap_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3760": {
+    "name_dede": "Umhang des Hügelwächters",
+    "icon": "inv_misc_cape_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3780": {
+    "name_dede": "Schweres Rüstungsset",
+    "icon": "inv_misc_armorkit_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3771": {
+    "name_dede": "Barbarische Handschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3772": {
+    "name_dede": "Grüne Lederrüstung",
+    "icon": "inv_chest_leather_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23399": {
+    "name_dede": "Barbarische Armschienen",
+    "icon": "inv_bracer_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3774": {
+    "name_dede": "Grüner Ledergürtel",
+    "icon": "inv_belt_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7147": {
+    "name_dede": "Wächterhose",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439114": {
+    "name_dede": "Wächterhose",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "4097": {
+    "name_dede": "Raptorbalggürtel",
+    "icon": "inv_belt_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "4096": {
+    "name_dede": "Raptorbalgharnisch",
+    "icon": "inv_chest_leather_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9195": {
+    "name_dede": "Schwärzliche Ledergamaschen",
+    "icon": "inv_pants_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7149": {
+    "name_dede": "Barbarische Gamaschen",
+    "icon": "inv_pants_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6704": {
+    "name_dede": "Dicke Murlocrüstung",
+    "icon": "inv_chest_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3775": {
+    "name_dede": "Wächtergürtel",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7151": {
+    "name_dede": "Barbarische Schultern",
+    "icon": "inv_shoulder_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9197": {
+    "name_dede": "Grünwelpenrüstung",
+    "icon": "inv_chest_chain_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9196": {
+    "name_dede": "Schwärzliche Lederrüstung",
+    "icon": "inv_chest_leather_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3773": {
+    "name_dede": "Wächterrüstung",
+    "icon": "inv_chest_leather_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9198": {
+    "name_dede": "Frostlederumhang",
+    "icon": "inv_misc_cape_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3776": {
+    "name_dede": "Grüne Lederarmschienen",
+    "icon": "inv_bracer_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3778": {
+    "name_dede": "Edelsteinbesetzter Ledergürtel",
+    "icon": "inv_belt_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9201": {
+    "name_dede": "Schwärzliche Armschienen",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7153": {
+    "name_dede": "Wächterumhang",
+    "icon": "inv_misc_cape_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6661": {
+    "name_dede": "Barbarischer Harnisch",
+    "icon": "inv_chest_leather_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9202": {
+    "name_dede": "Grünwelpenarmschienen",
+    "icon": "inv_bracer_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "21943": {
+    "name_dede": "Handschuhe des Altvaters",
+    "icon": "inv_gauntlets_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6705": {
+    "name_dede": "Murlocschuppenarmschienen",
+    "icon": "inv_bracer_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7156": {
+    "name_dede": "Wächterhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9206": {
+    "name_dede": "Schwärzlicher Gürtel",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3777": {
+    "name_dede": "Wächterlederarmschienen",
+    "icon": "inv_bracer_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10662": {
+    "name_dede": "Lederverarbeitung",
+    "icon": "inv_misc_armorkit_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "Ermöglicht einem Lederer, fachmännische Lederrüstungen mit einer maximalen potenziellen Fertigkeit von 300 herzustellen."
+  },
+  "20650": {
+    "name_dede": "Dickes Leder",
+    "icon": "inv_misc_leatherscrap_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10482": {
+    "name_dede": "Geschmeidiger dicker Balg",
+    "icon": "inv_misc_pelt_bear_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22711": {
+    "name_dede": "Schattenhauthandschuhe",
+    "icon": "inv_gauntlets_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3779": {
+    "name_dede": "Barbarischer Gürtel",
+    "icon": "inv_belt_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10490": {
+    "name_dede": "Bequemer Lederhut",
+    "icon": "inv_helmet_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9208": {
+    "name_dede": "Hurtige Stiefel",
+    "icon": "inv_boots_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "9207": {
+    "name_dede": "Schwärzliche Stiefel",
+    "icon": "inv_boots_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10487": {
+    "name_dede": "Dickes Rüstungsset",
+    "icon": "inv_misc_armorkit_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10509": {
+    "name_dede": "Schildkrötenschuppenhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10507": {
+    "name_dede": "Stirnband des Nachtschleichers",
+    "icon": "inv_belt_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10499": {
+    "name_dede": "Tunika des Nachtschleichers",
+    "icon": "inv_chest_leather_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10518": {
+    "name_dede": "Schildkrötenschuppenarmschienen",
+    "icon": "inv_bracer_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10511": {
+    "name_dede": "Schildkrötenschuppenbrustplatte",
+    "icon": "inv_chest_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10516": {
+    "name_dede": "Schultern des Nachtschleichers",
+    "icon": "inv_shoulder_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439116": {
+    "name_dede": "Schildkrötenschuppenbrustplatte",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10520": {
+    "name_dede": "Große Voodoorobe",
+    "icon": "inv_chest_cloth_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10533": {
+    "name_dede": "Feste Skorpidarmschienen",
+    "icon": "inv_bracer_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10525": {
+    "name_dede": "Feste Skorpidbrustplatte",
+    "icon": "inv_chest_leather_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10531": {
+    "name_dede": "Große Voodoomaske",
+    "icon": "inv_banner_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10529": {
+    "name_dede": "Wildlederschultern",
+    "icon": "inv_shoulder_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "14932": {
+    "name_dede": "Dicker Ledermunitionsbeutel",
+    "icon": "inv_misc_bag_09_black",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "14930": {
+    "name_dede": "Schnellziehköcher",
+    "icon": "inv_misc_quiver_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10619": {
+    "name_dede": "Drachenschuppenstulpen",
+    "icon": "inv_gauntlets_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10621": {
+    "name_dede": "Wolfskopfhelm",
+    "icon": "inv_helmet_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10542": {
+    "name_dede": "Feste Skorpidhandschuhe",
+    "icon": "inv_gauntlets_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10546": {
+    "name_dede": "Wildlederhelm",
+    "icon": "inv_helmet_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10544": {
+    "name_dede": "Wildlederweste",
+    "icon": "inv_chest_cloth_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10630": {
+    "name_dede": "Stulpen des Meeres",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10548": {
+    "name_dede": "Hose des Nachtschleichers",
+    "icon": "inv_pants_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10552": {
+    "name_dede": "Schildkrötenschuppenhelm",
+    "icon": "inv_helmet_40",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10554": {
+    "name_dede": "Feste Skorpidstiefel",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10556": {
+    "name_dede": "Schildkrötenschuppengamaschen",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10558": {
+    "name_dede": "Stiefel des Nachtschleichers",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10560": {
+    "name_dede": "Große Voodoohose",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10564": {
+    "name_dede": "Feste Skorpidschulterstücke",
+    "icon": "inv_shoulder_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10562": {
+    "name_dede": "Großer Voodooumhang",
+    "icon": "inv_misc_cape_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10568": {
+    "name_dede": "Feste Skorpidgamaschen",
+    "icon": "inv_pants_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10566": {
+    "name_dede": "Wildlederstiefel",
+    "icon": "inv_boots_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19047": {
+    "name_dede": "Geschmeidiger unverwüstlicher Balg",
+    "icon": "inv_misc_pelt_bear_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22331": {
+    "name_dede": "Unverwüstliches Leder",
+    "icon": "inv_misc_leatherscrap_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19058": {
+    "name_dede": "Unverwüstliches Rüstungsset",
+    "icon": "inv_misc_armorkit_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10647": {
+    "name_dede": "Gefiederte Brustplatte",
+    "icon": "inv_chest_leather_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10632": {
+    "name_dede": "Helm des Feuers",
+    "icon": "inv_helmet_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10570": {
+    "name_dede": "Fester Skorpidhelm",
+    "icon": "inv_helmet_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10572": {
+    "name_dede": "Wildledergamaschen",
+    "icon": "inv_pants_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10574": {
+    "name_dede": "Wildlederumhang",
+    "icon": "inv_misc_cape_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10650": {
+    "name_dede": "Drachenschuppenbrustplatte",
+    "icon": "inv_chest_chain_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19048": {
+    "name_dede": "Schwere Skorpidarmschienen",
+    "icon": "inv_bracer_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19050": {
+    "name_dede": "Grüne Drachenschuppenbrustplatte",
+    "icon": "inv_chest_chain_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19049": {
+    "name_dede": "Tückische Lederstulpen",
+    "icon": "inv_gauntlets_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19053": {
+    "name_dede": "Schimärenhandschuhe",
+    "icon": "inv_gauntlets_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19051": {
+    "name_dede": "Schwere Skorpidweste",
+    "icon": "inv_chest_chain_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19052": {
+    "name_dede": "Tückische Lederarmschienen",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16650": {
+    "name_dede": "Wilddornpanzerung",
+    "icon": "inv_chest_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19062": {
+    "name_dede": "Eisenfederschultern",
+    "icon": "inv_shoulder_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19060": {
+    "name_dede": "Grüne Drachenschuppengamaschen",
+    "icon": "inv_pants_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19061": {
+    "name_dede": "Lebendige Schultern",
+    "icon": "inv_shoulder_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19055": {
+    "name_dede": "Runenverzierte Lederstulpen",
+    "icon": "inv_gauntlets_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19059": {
+    "name_dede": "Vulkanische Gamaschen",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19068": {
+    "name_dede": "Kriegsbärenharnisch",
+    "icon": "inv_chest_leather_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19067": {
+    "name_dede": "Sturmschleierhose",
+    "icon": "inv_pants_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19066": {
+    "name_dede": "Frostsäblerstiefel",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19065": {
+    "name_dede": "Runenverzierte Lederarmschienen",
+    "icon": "inv_bracer_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19063": {
+    "name_dede": "Schimärenstiefel",
+    "icon": "inv_boots_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19064": {
+    "name_dede": "Schwere Skorpidstulpen",
+    "icon": "inv_gauntlets_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24655": {
+    "name_dede": "Grüne Drachenschuppenstulpen",
+    "icon": "inv_gauntlets_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19072": {
+    "name_dede": "Runenverzierter Ledergürtel",
+    "icon": "inv_belt_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19073": {
+    "name_dede": "Schimärengamaschen",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19070": {
+    "name_dede": "Schwerer Skorpidgürtel",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19071": {
+    "name_dede": "Tückisches Lederstirnband",
+    "icon": "inv_misc_bandage_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19077": {
+    "name_dede": "Blaue Drachenschuppenbrustplatte",
+    "icon": "inv_chest_chain_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19080": {
+    "name_dede": "Kriegsbärenwollwäsche",
+    "icon": "inv_pants_wolf",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19078": {
+    "name_dede": "Lebendige Gamaschen",
+    "icon": "inv_pants_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19079": {
+    "name_dede": "Sturmschleierrüstung",
+    "icon": "inv_chest_leather_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19074": {
+    "name_dede": "Frostsäblergamaschen",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19075": {
+    "name_dede": "Schwere Skorpidgamaschen",
+    "icon": "inv_pants_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19076": {
+    "name_dede": "Vulkanische Brustplatte",
+    "icon": "inv_chest_leather_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23628": {
+    "name_dede": "Schwerer Gürtel der Holzschlundfeste",
+    "icon": "inv_belt_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19086": {
+    "name_dede": "Eisenfederbrustplatte",
+    "icon": "inv_chest_leather_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23703": {
+    "name_dede": "Macht der Holzschlundfeste",
+    "icon": "inv_belt_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19085": {
+    "name_dede": "Schwarze Drachenschuppenbrustplatte",
+    "icon": "inv_chest_plate06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23705": {
+    "name_dede": "Stiefel der Dämmerung",
+    "icon": "inv_boots_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19084": {
+    "name_dede": "Teufelssaurierstulpen",
+    "icon": "inv_gauntlets_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19082": {
+    "name_dede": "Runenverziertes Lederstirnband",
+    "icon": "inv_misc_bandage_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19081": {
+    "name_dede": "Schimärenweste",
+    "icon": "inv_chest_leather_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19083": {
+    "name_dede": "Tückische Lederhose",
+    "icon": "inv_pants_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16661": {
+    "name_dede": "Sturmstulpen",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19089": {
+    "name_dede": "Blaue Drachenschuppenschultern",
+    "icon": "inv_shoulder_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19090": {
+    "name_dede": "Sturmschleierschultern",
+    "icon": "inv_shoulder_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19087": {
+    "name_dede": "Frostsäblerhandschuhe",
+    "icon": "inv_gauntlets_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19088": {
+    "name_dede": "Schwerer Skorpidhelm",
+    "icon": "inv_helmet_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20853": {
+    "name_dede": "Kernhundstiefel",
+    "icon": "inv_boots_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16728": {
+    "name_dede": "Helm des großen Häuptlings",
+    "icon": "inv_helmet_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "16746": {
+    "name_dede": "Unverwundbarer Panzer",
+    "icon": "inv_chest_chain_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19091": {
+    "name_dede": "Runenverzierte Lederhose",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19092": {
+    "name_dede": "Tückischer Ledergürtel",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23629": {
+    "name_dede": "Schwere Stiefel der Holzschlundfeste",
+    "icon": "inv_boots_chain_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19100": {
+    "name_dede": "Schwere Skorpidschultern",
+    "icon": "inv_shoulder_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19098": {
+    "name_dede": "Tückische Lederrüstung",
+    "icon": "inv_chest_plate06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19101": {
+    "name_dede": "Vulkanische Schultern",
+    "icon": "inv_shoulder_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24847": {
+    "name_dede": "Feuerspuckerstulpen",
+    "icon": "inv_gauntlets_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19102": {
+    "name_dede": "Runenverzierte Lederrüstung",
+    "icon": "inv_chest_leather_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19103": {
+    "name_dede": "Runenverzierte Lederschultern",
+    "icon": "inv_shoulder_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22923": {
+    "name_dede": "Armschienen der schnellen Flucht",
+    "icon": "inv_bracer_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24654": {
+    "name_dede": "Blaue Drachenschuppengamaschen",
+    "icon": "inv_pants_mail_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24846": {
+    "name_dede": "Feuerspuckerarmschienen",
+    "icon": "inv_bracer_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24848": {
+    "name_dede": "Feuerspuckerbrustplatte",
+    "icon": "inv_chest_leather_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22921": {
+    "name_dede": "Gurt der Einsicht",
+    "icon": "inv_belt_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19095": {
+    "name_dede": "Lebendige Brustplatte",
+    "icon": "inv_chest_plate07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22922": {
+    "name_dede": "Mungostiefel",
+    "icon": "inv_boots_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19054": {
+    "name_dede": "Rote Drachenschuppenbrustplatte",
+    "icon": "inv_chest_chain_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24849": {
+    "name_dede": "Sandpirscherarmschienen",
+    "icon": "inv_bracer_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24851": {
+    "name_dede": "Sandpirscherbrustplatte",
+    "icon": "inv_chest_plate07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24850": {
+    "name_dede": "Sandpirscherstulpen",
+    "icon": "inv_gauntlets_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19107": {
+    "name_dede": "Schwarze Drachenschuppengamaschen",
+    "icon": "inv_pants_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19094": {
+    "name_dede": "Schwarze Drachenschuppenschultern",
+    "icon": "inv_shoulder_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26279": {
+    "name_dede": "Sturmschleierhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19097": {
+    "name_dede": "Teufelssauriergamaschen",
+    "icon": "inv_pants_wolf",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19104": {
+    "name_dede": "Frostsäblertunika",
+    "icon": "inv_chest_chain_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23706": {
+    "name_dede": "Goldener Mantel der Dämmerung",
+    "icon": "inv_shoulder_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23704": {
+    "name_dede": "Kampfhandschuhe der Holzschlundfeste",
+    "icon": "inv_gauntlets_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22927": {
+    "name_dede": "Balg der Wildnis",
+    "icon": "inv_misc_cape_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23708": {
+    "name_dede": "Chromatische Stulpen",
+    "icon": "inv_gauntlets_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22926": {
+    "name_dede": "Chromatischer Umhang",
+    "icon": "inv_misc_cape_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28224": {
+    "name_dede": "Eisschuppenarmschienen",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28222": {
+    "name_dede": "Eisschuppenbrustplatte",
+    "icon": "inv_chest_plate09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28223": {
+    "name_dede": "Eisschuppenstulpen",
+    "icon": "inv_gauntlets_28",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23710": {
+    "name_dede": "Geschmolzener Gürtel",
+    "icon": "inv_belt_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23709": {
+    "name_dede": "Kernhundgürtel",
+    "icon": "inv_belt_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23707": {
+    "name_dede": "Lavagürtel",
+    "icon": "inv_belt_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28221": {
+    "name_dede": "Polararmschienen",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28220": {
+    "name_dede": "Polarhandschuhe",
+    "icon": "inv_gauntlets_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28219": {
+    "name_dede": "Polartunika",
+    "icon": "inv_chest_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20854": {
+    "name_dede": "Schmelzhelm",
+    "icon": "inv_helmet_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20855": {
+    "name_dede": "Schwarze Drachenschuppenstiefel",
+    "icon": "inv_boots_plate_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24703": {
+    "name_dede": "Traumschuppenbrustplatte",
+    "icon": "inv_chest_plate08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22928": {
+    "name_dede": "Veränderlicher Umhang",
+    "icon": "inv_misc_cape_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24124": {
+    "name_dede": "Bluttigerbrustplatte",
+    "icon": "inv_chest_leather_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24125": {
+    "name_dede": "Bluttigerschultern",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28474": {
+    "name_dede": "Dornenholzgürtel",
+    "icon": "inv_belt_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28472": {
+    "name_dede": "Dornenholzhelm",
+    "icon": "inv_helmet_58",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28473": {
+    "name_dede": "Dornenholzstiefel",
+    "icon": "inv_boots_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22727": {
+    "name_dede": "Kernrüstungsset",
+    "icon": "inv_misc_armorkit_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19093": {
+    "name_dede": "Onyxiaschuppenumhang",
+    "icon": "inv_misc_cape_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24123": {
+    "name_dede": "Urzeitliche Fledermaushautarmschienen",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24122": {
+    "name_dede": "Urzeitliche Fledermaushauthandschuhe",
+    "icon": "inv_gauntlets_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24121": {
+    "name_dede": "Urzeitliche Fledermaushautwams",
+    "icon": "inv_chest_leather_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252983": {
+    "name_dede": "Adaptive Armschienen des Wildtierschlächters",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252996": {
+    "name_dede": "Adaptive Handgelenkbindungen des Wildtierheilers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1253000": {
+    "name_dede": "Adaptive Kette des Dinoheilers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252995": {
+    "name_dede": "Adaptive Robe des Wildtierheilers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252998": {
+    "name_dede": "Adaptive Tunika des Dinoheilers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252982": {
+    "name_dede": "Adaptive Weste des Wildtierschlächters",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252985": {
+    "name_dede": "Adaptiver Brustschutz des Dinozerstörers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252997": {
+    "name_dede": "Adaptiver Gurt des Wildtierheilers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252987": {
+    "name_dede": "Adaptiver Gürtel des Dinozerstörers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252999": {
+    "name_dede": "Adaptiver Handschutz des Dinoheilers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252986": {
+    "name_dede": "Adaptiver Handschutz des Dinozerstörers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252984": {
+    "name_dede": "Adaptiver Wickel des Wildtierschlächters",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "10656": {
+    "name_dede": "Drachenlederverarbeitung",
+    "icon": "inv_misc_monsterscales_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht einem Lederer das Herstellen von speziellen Drachenschuppenrüstungen, die für den normalen Lederer nicht verfügbar sind. Drachenschuppenrüstungen sind schwere Rüstungen."
+  },
+  "10658": {
+    "name_dede": "Elementarlederverarbeitung",
+    "icon": "spell_fire_volcano",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht einem Lederer das Herstellen von speziellen Elementarrüstungen, die für den normalen Lederer nicht verfügbar sind."
+  },
+  "1240972": {
+    "name_dede": "Lederverarbeitung",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "<a href=\"/beta/de/spell=3811/lederverarbeitung\" target=\"_blank\">Ermöglicht einem Lederer, hochwertige Lederrüstungen mit einer maximalen potenziellen Fertigkeit von 225 herzustellen.</a>"
+  },
+  "1240985": {
+    "name_dede": "Lederverarbeitung",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "<a href=\"/beta/de/spell=10662/lederverarbeitung\" target=\"_blank\">Ermöglicht einem Lederer, fachmännische Lederrüstungen mit einer maximalen potenziellen Fertigkeit von 300 herzustellen.</a>"
+  },
+  "1240961": {
+    "name_dede": "Lederverarbeitung",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "<a href=\"/beta/de/spell=3104/lederverarbeitung\" target=\"_blank\">Ermöglicht einem Lederer, kunstvoll gearbeitete Lederrüstungen mit einer maximalen potenziellen Fertigkeit von 150 herzustellen.</a>"
+  },
+  "2108": {
+    "name_dede": "Lederverarbeitung",
+    "icon": "inv_misc_armorkit_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "Ermöglicht einem Lederer die Herstellung von Lederrüstung mit einer maximalen potenziellen Fertigkeit von 75. Erfordert Lederfetzen und Bälge, die mit der Kürschnereifertigkeit gesammelt werden können."
+  },
+  "1240950": {
+    "name_dede": "Lederverarbeitung",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "<a href=\"/beta/de/spell=2108/lederverarbeitung\" target=\"_blank\">Ermöglicht einem Lederer die Herstellung von Lederrüstung mit einer maximalen potenziellen Fertigkeit von 75. Erfordert Lederfetzen und Bälge, die mit der Kürschnereifertigkeit gesammelt werden können.</a>"
+  },
+  "10660": {
+    "name_dede": "Stammeslederverarbeitung",
+    "icon": "spell_nature_nullward",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht einem Lederer das Herstellen von speziellen Rüstungen, die für den normalen Lederer nicht verfügbar sind."
+  },
+  "1229432": {
+    "name_dede": "Lagerzelt",
+    "icon": "inv_misc_leatherscrap_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 1",
+    "description_dede": "Stellt ein Lagerzelt her."
+  },
+  "1255145": {
+    "name_dede": "Dunkle Lederstiefel",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255143": {
+    "name_dede": "Mondscheinstiefel",
+    "icon": "inv_boots_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255144": {
+    "name_dede": "Murlocschuppenschuhe",
+    "icon": "inv_boots_cloth_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255146": {
+    "name_dede": "Schwarzwelpenpantoffeln",
+    "icon": "inv_boots_leather_05red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1302604": {
+    "name_dede": "Leichte Lederreagenzientasche",
+    "icon": "inv_misc_bag_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301452": {
+    "name_dede": "Azurblaue böengewobene Armschienen",
+    "icon": "inv_bracer_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301458": {
+    "name_dede": "Azurblaue windgewickelte Armschützer",
+    "icon": "inv_bracer_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301454": {
+    "name_dede": "Azurblauer böengewobener Gürtel",
+    "icon": "inv_belt_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301460": {
+    "name_dede": "Azurblaues windgewickeltes Band",
+    "icon": "inv_belt_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301428": {
+    "name_dede": "Wolkenblaue böengewobene Armschienen",
+    "icon": "inv_bracer_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301434": {
+    "name_dede": "Wolkenblaue windgewickelte Armschützer",
+    "icon": "inv_bracer_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301430": {
+    "name_dede": "Wolkenblauer böengewobener Gürtel",
+    "icon": "inv_belt_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301436": {
+    "name_dede": "Wolkenblaues windgewickeltes Band",
+    "icon": "inv_belt_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301453": {
+    "name_dede": "Azurblaue böengewobene Handschuhe",
+    "icon": "inv_glove_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301456": {
+    "name_dede": "Azurblaue böengewobene Stiefel",
+    "icon": "inv_boot_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301459": {
+    "name_dede": "Azurblaue windgewickelte Fäustlinge",
+    "icon": "inv_glove_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301462": {
+    "name_dede": "Azurblaue windgewickelte Fußlappen",
+    "icon": "inv_boot_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301429": {
+    "name_dede": "Wolkenblaue böengewobene Handschuhe",
+    "icon": "inv_glove_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301432": {
+    "name_dede": "Wolkenblaue böengewobene Stiefel",
+    "icon": "inv_boot_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301435": {
+    "name_dede": "Wolkenblaue windgewickelte Fäustlinge",
+    "icon": "inv_glove_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301438": {
+    "name_dede": "Wolkenblaue windgewickelte Fußlappen",
+    "icon": "inv_boot_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301455": {
+    "name_dede": "Azurblaue böengewobene Beinkleider",
+    "icon": "inv_pant_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301461": {
+    "name_dede": "Azurblaue windgewickelte Hosen",
+    "icon": "inv_pant_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301451": {
+    "name_dede": "Azurblauer böengewobener Harnisch",
+    "icon": "inv_chest_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301457": {
+    "name_dede": "Azurblaues windgewickeltes Wams",
+    "icon": "inv_chest_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301431": {
+    "name_dede": "Wolkenblaue böengewobene Beinkleider",
+    "icon": "inv_pant_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301437": {
+    "name_dede": "Wolkenblaue windgewickelte Hosen",
+    "icon": "inv_pant_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301427": {
+    "name_dede": "Wolkenblauer böengewobener Harnisch",
+    "icon": "inv_chest_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301433": {
+    "name_dede": "Wolkenblaues windgewickeltes Wams",
+    "icon": "inv_chest_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255131": {
+    "name_dede": "Lederrüstung der Weisheit",
+    "icon": "inv_chest_fur",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255135": {
+    "name_dede": "Lederrüstung des Fallenstellers",
+    "icon": "inv_chest_leather_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255136": {
+    "name_dede": "Lederrüstung des Grubenkämpfers",
+    "icon": "inv_chest_leather_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255132": {
+    "name_dede": "Lederrüstung des Sturmreiters",
+    "icon": "inv_chest_leather_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255134": {
+    "name_dede": "Lederrüstung des Verteidigers",
+    "icon": "inv_chest_leather_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255133": {
+    "name_dede": "Totemikerlederrüstung",
+    "icon": "inv_chest_leather_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255137": {
+    "name_dede": "Ledergürtel der Weisheit",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255141": {
+    "name_dede": "Ledergürtel des Fallenstellers",
+    "icon": "inv_belt_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255142": {
+    "name_dede": "Ledergürtel des Grubenkämpfers",
+    "icon": "inv_belt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255138": {
+    "name_dede": "Ledergürtel des Sturmreiters",
+    "icon": "inv_belt_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255140": {
+    "name_dede": "Ledergürtel des Verteidigers",
+    "icon": "inv_belt_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255139": {
+    "name_dede": "Totemikerledergürtel",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255123": {
+    "name_dede": "Kraftvolles mittleres Rüstungsset",
+    "icon": "inv_misc_armorkit_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255124": {
+    "name_dede": "Mystisches mittleres Rüstungsset",
+    "icon": "inv_misc_armorkit_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255125": {
+    "name_dede": "Lederhandschuhe der Weisheit",
+    "icon": "inv_gauntlets_60",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255129": {
+    "name_dede": "Lederhandschuhe des Fallenstellers",
+    "icon": "inv_gauntlets_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255130": {
+    "name_dede": "Lederhandschuhe des Grubenkämpfers",
+    "icon": "inv_gauntlets_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255126": {
+    "name_dede": "Lederhandschuhe des Sturmreiters",
+    "icon": "inv_gauntlets_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255128": {
+    "name_dede": "Lederhandschuhe des Verteidigers",
+    "icon": "inv_gauntlets_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255127": {
+    "name_dede": "Totemikerlederhandschuhe",
+    "icon": "inv_gauntlets_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255110": {
+    "name_dede": "Lederhose der Weisheit",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255114": {
+    "name_dede": "Lederhose des Fallenstellers",
+    "icon": "inv_pants_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255115": {
+    "name_dede": "Lederhose des Grubenkämpfers",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255111": {
+    "name_dede": "Lederhose des Sturmreiters",
+    "icon": "inv_pants_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255113": {
+    "name_dede": "Lederhose des Verteidigers",
+    "icon": "inv_pants_leather_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255112": {
+    "name_dede": "Totemikerlederhose",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255116": {
+    "name_dede": "Lederstiefel der Weisheit",
+    "icon": "inv_boots_chain_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255120": {
+    "name_dede": "Lederstiefel des Fallenstellers",
+    "icon": "inv_boots_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255121": {
+    "name_dede": "Lederstiefel des Grubenkämpfers",
+    "icon": "inv_boots_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255117": {
+    "name_dede": "Lederstiefel des Sturmreiters",
+    "icon": "inv_boots_chain_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255119": {
+    "name_dede": "Lederstiefel des Verteidigers",
+    "icon": "inv_boots_cloth_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255118": {
+    "name_dede": "Totemikerlederstiefel",
+    "icon": "inv_boots_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255104": {
+    "name_dede": "Lederkapuze der Weisheit",
+    "icon": "inv_helmet_33",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255108": {
+    "name_dede": "Lederkapuze des Fallenstellers",
+    "icon": "inv_helmet_33",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255109": {
+    "name_dede": "Lederkapuze des Grubenkämpfers",
+    "icon": "inv_helmet_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255105": {
+    "name_dede": "Lederkapuze des Sturmreiters",
+    "icon": "inv_helmet_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255107": {
+    "name_dede": "Lederkapuze des Verteidigers",
+    "icon": "inv_helmet_48",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255106": {
+    "name_dede": "Totemikerlederkapuze",
+    "icon": "inv_helmet_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255088": {
+    "name_dede": "Lederhelm der Weisheit",
+    "icon": "inv_helmet_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255092": {
+    "name_dede": "Lederhelm des Fallenstellers",
+    "icon": "inv_helmet_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255093": {
+    "name_dede": "Lederhelm des Grubenkämpfers",
+    "icon": "inv_helmet_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255089": {
+    "name_dede": "Lederhelm des Sturmreiters",
+    "icon": "inv_helmet_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255091": {
+    "name_dede": "Lederhelm des Verteidigers",
+    "icon": "inv_helmet_33",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255090": {
+    "name_dede": "Totemikerlederhelm",
+    "icon": "inv_helmet_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255097": {
+    "name_dede": "Ledertunika der Weisheit",
+    "icon": "inv_chest_leather_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255101": {
+    "name_dede": "Ledertunika des Fallenstellers",
+    "icon": "inv_chest_leather_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255102": {
+    "name_dede": "Ledertunika des Grubenkämpfers",
+    "icon": "inv_chest_leather_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255098": {
+    "name_dede": "Ledertunika des Sturmreiters",
+    "icon": "inv_chest_leather_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255100": {
+    "name_dede": "Ledertunika des Verteidigers",
+    "icon": "inv_chest_leather_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255099": {
+    "name_dede": "Totemikerledertunika",
+    "icon": "inv_chest_leather_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255103": {
+    "name_dede": "Lederstiefel des Hügelwächters",
+    "icon": "inv_boots_cloth_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1263031": {
+    "name_dede": "Gerbrahmen",
+    "icon": "inv_10_skinning_leather_rarehide_color1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 2",
+    "description_dede": "Stellt einen Gerbrahmen her."
+  },
+  "1255086": {
+    "name_dede": "Lederbeinschützer des Fallenstellers",
+    "icon": "inv_pants_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255087": {
+    "name_dede": "Lederbeinschützer des Grubenkämpfers",
+    "icon": "inv_pants_leather_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255082": {
+    "name_dede": "Ledergamaschen der Weisheit",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255083": {
+    "name_dede": "Lederkilt des Sturmreiters",
+    "icon": "inv_kilt_cloth_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255085": {
+    "name_dede": "Lederkilt des Verteidigers",
+    "icon": "inv_kilt_cloth_04v4",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255084": {
+    "name_dede": "Totemikerledergamaschen",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255078": {
+    "name_dede": "Ledergürtel des Aufsehers",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255075": {
+    "name_dede": "Ledergürtel des Heilers",
+    "icon": "inv_belt_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255076": {
+    "name_dede": "Ledergürtel des Himmelsrufers",
+    "icon": "inv_belt_39a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255079": {
+    "name_dede": "Ledergürtel des Pirschers",
+    "icon": "inv_belt_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255077": {
+    "name_dede": "Ledergürtel des Scharmützlers",
+    "icon": "inv_belt_37a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255080": {
+    "name_dede": "Ledergürtel des Schleichers",
+    "icon": "inv_belt_37b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255081": {
+    "name_dede": "Ledergürtel des Streuners",
+    "icon": "inv_belt_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255095": {
+    "name_dede": "Kraftvolles schweres Rüstungsset",
+    "icon": "inv_misc_armorkit_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255096": {
+    "name_dede": "Mystisches schweres Rüstungsset",
+    "icon": "inv_misc_armorkit_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "429354": {
+    "name_dede": "Leerenberührte Lederhandschuhe",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "429869": {
+    "name_dede": "Leerenberührte Lederstulpen",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301536": {
+    "name_dede": "Azurblaue böengewobene Kapuze",
+    "icon": "inv_helm_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301537": {
+    "name_dede": "Azurblaue böengewobene Schiftung",
+    "icon": "inv_shoulder_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301538": {
+    "name_dede": "Azurblaue windgewickelte Bedeckung",
+    "icon": "inv_helm_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301539": {
+    "name_dede": "Azurblaues windgewickeltes Tuch",
+    "icon": "inv_shoulder_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301528": {
+    "name_dede": "Wolkenblaue böengewobene Kapuze",
+    "icon": "inv_helm_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301529": {
+    "name_dede": "Wolkenblaue böengewobene Schiftung",
+    "icon": "inv_shoulder_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301530": {
+    "name_dede": "Wolkenblaue windgewickelte Bedeckung",
+    "icon": "inv_helm_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301531": {
+    "name_dede": "Wolkenblaues windgewickeltes Tuch",
+    "icon": "inv_shoulder_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439112": {
+    "name_dede": "Wächtergürtel",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255068": {
+    "name_dede": "Lederhandschuhe des Aufsehers",
+    "icon": "inv_gauntlets_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255065": {
+    "name_dede": "Lederhandschuhe des Heilers",
+    "icon": "inv_gauntlets_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255066": {
+    "name_dede": "Lederhandschuhe des Himmelsrufers",
+    "icon": "inv_gauntlets_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255069": {
+    "name_dede": "Lederhandschuhe des Pirschers",
+    "icon": "inv_gauntlets_51",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255067": {
+    "name_dede": "Lederhandschuhe des Scharmützlers",
+    "icon": "inv_gauntlets_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255070": {
+    "name_dede": "Lederhandschuhe des Schleichers",
+    "icon": "inv_gauntlets_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255071": {
+    "name_dede": "Lederhandschuhe des Streuners",
+    "icon": "inv_gauntlets_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435819": {
+    "name_dede": "Schwach leuchtendes Leder",
+    "icon": "inv_misc_pelt_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255062": {
+    "name_dede": "Lederschuhe des Aufsehers",
+    "icon": "inv_boots_cloth_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255060": {
+    "name_dede": "Lederschuhe des Heilers",
+    "icon": "inv_boots_cloth_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255061": {
+    "name_dede": "Lederschuhe des Himmelsrufers",
+    "icon": "inv_boots_cloth_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255063": {
+    "name_dede": "Lederschuhe des Schleichers",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255064": {
+    "name_dede": "Lederschuhe des Streuners",
+    "icon": "inv_boots_cloth_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255008": {
+    "name_dede": "Panzerstiefel des Heilers",
+    "icon": "inv_boots_chain_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255010": {
+    "name_dede": "Panzerstiefel des Himmelsrufers",
+    "icon": "inv_boots_mail_15v2",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255011": {
+    "name_dede": "Panzerstiefel des Pirschers",
+    "icon": "inv_boots_mail_15v2",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255009": {
+    "name_dede": "Panzerstiefel des Scharmützlers",
+    "icon": "inv_boots_chain_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255073": {
+    "name_dede": "Kraftvolles dickes Rüstungsset",
+    "icon": "inv_misc_armorkit_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255074": {
+    "name_dede": "Mystisches dickes Rüstungsset",
+    "icon": "inv_misc_armorkit_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439110": {
+    "name_dede": "Wächterlederarmschienen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255000": {
+    "name_dede": "Panzerarmschienen des Heilers",
+    "icon": "inv_bracer_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255002": {
+    "name_dede": "Panzerarmschienen des Himmelsrufers",
+    "icon": "inv_bracer_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255003": {
+    "name_dede": "Panzerarmschienen des Pirschers",
+    "icon": "inv_bracer_31a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255001": {
+    "name_dede": "Panzerarmschienen des Scharmützlers",
+    "icon": "inv_bracer_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255004": {
+    "name_dede": "Panzerschulterschutz des Heilers",
+    "icon": "inv_shoulder_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255006": {
+    "name_dede": "Panzerschulterschutz des Himmelsrufers",
+    "icon": "inv_shoulder_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255007": {
+    "name_dede": "Panzerschulterschutz des Pirschers",
+    "icon": "inv_shoulder_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255005": {
+    "name_dede": "Panzerschulterschutz des Scharmützlers",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435951": {
+    "name_dede": "Gneuro-leitende Kapuze des Kanalisierers",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435904": {
+    "name_dede": "Leuchtende Gneuro-verkettete Gugel",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435949": {
+    "name_dede": "Leuchtende hyperleitende Schuppenkappe",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435953": {
+    "name_dede": "Strahlungsresistente Schuppenkapuze",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439118": {
+    "name_dede": "Schildkrötenschuppenhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255057": {
+    "name_dede": "Lederschulterstücke des Aufsehers",
+    "icon": "inv_shoulder_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255055": {
+    "name_dede": "Lederschulterstücke des Heilers",
+    "icon": "inv_shoulder_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255056": {
+    "name_dede": "Lederschulterstücke des Himmelsrufers",
+    "icon": "inv_shoulder_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255058": {
+    "name_dede": "Lederschulterstücke des Schleichers",
+    "icon": "inv_shoulders_mail_warfrontsforsaken_d_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255059": {
+    "name_dede": "Lederschulterstücke des Streuners",
+    "icon": "inv_shoulder_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254965": {
+    "name_dede": "Kraftvolles unverwüstliches Rüstungsset",
+    "icon": "inv_misc_armorkit_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254966": {
+    "name_dede": "Mystisches unverwüstliches Rüstungsset",
+    "icon": "inv_misc_armorkit_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439108": {
+    "name_dede": "Große Voodoorobe",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439105": {
+    "name_dede": "Große Voodoomaske",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255052": {
+    "name_dede": "Lederarmschienen des Aufsehers",
+    "icon": "inv_bracer_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255050": {
+    "name_dede": "Lederarmschienen des Heilers",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255051": {
+    "name_dede": "Lederarmschienen des Himmelsrufers",
+    "icon": "inv_bracer_22a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255053": {
+    "name_dede": "Lederarmschienen des Schleichers",
+    "icon": "inv_bracer_21c",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255054": {
+    "name_dede": "Lederarmschienen des Streuners",
+    "icon": "inv_bracer_21c",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446186": {
+    "name_dede": "Kakofonische Kettenschulterschützer",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446185": {
+    "name_dede": "Kreischende Schiftung",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446192": {
+    "name_dede": "Membran der dunklen Neurose",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446183": {
+    "name_dede": "Paranoiamantel",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "451706": {
+    "name_dede": "Schreiende Kettenschulterstücke",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446189": {
+    "name_dede": "Schulterpolster der Besessenheit",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446190": {
+    "name_dede": "Wehklagender Kettenmantel",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254998": {
+    "name_dede": "Geladener Skorpidgürtel",
+    "icon": "inv_belt_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254999": {
+    "name_dede": "Weiche Skorpidstiefel",
+    "icon": "inv_boots_chain_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255038": {
+    "name_dede": "Lederstulpen des Aufsehers",
+    "icon": "inv_gauntlets_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255036": {
+    "name_dede": "Lederstulpen des Heilers",
+    "icon": "inv_gauntlets_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255037": {
+    "name_dede": "Lederstulpen des Himmelsrufers",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255039": {
+    "name_dede": "Lederstulpen des Schleichers",
+    "icon": "inv_gauntlets_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255040": {
+    "name_dede": "Lederstulpen des Streuners",
+    "icon": "inv_gauntlets_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254986": {
+    "name_dede": "Panzerstulpen des Heilers",
+    "icon": "inv_gauntlets_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254988": {
+    "name_dede": "Panzerstulpen des Himmelsrufers",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254989": {
+    "name_dede": "Panzerstulpen des Pirschers",
+    "icon": "inv_gauntlets_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254987": {
+    "name_dede": "Panzerstulpen des Scharmützlers",
+    "icon": "inv_gauntlets_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255045": {
+    "name_dede": "Lederstiefel des Aufsehers",
+    "icon": "inv_boots_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255043": {
+    "name_dede": "Lederstiefel des Heilers",
+    "icon": "inv_boots_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255044": {
+    "name_dede": "Lederstiefel des Himmelsrufers",
+    "icon": "inv_boots_leather_cataclysm_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255046": {
+    "name_dede": "Lederstiefel des Schleichers",
+    "icon": "inv_boots_cloth_25purple",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255047": {
+    "name_dede": "Lederstiefel des Streuners",
+    "icon": "inv_boots_chain_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254994": {
+    "name_dede": "Panzersabatons des Heilers",
+    "icon": "inv_boots_chain_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254996": {
+    "name_dede": "Panzersabatons des Himmelsrufers",
+    "icon": "inv_boots_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254997": {
+    "name_dede": "Panzersabatons des Pirschers",
+    "icon": "inv_boots_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254995": {
+    "name_dede": "Panzersabatons des Scharmützlers",
+    "icon": "inv_boots_chain_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255048": {
+    "name_dede": "Blaue Wildlederschuhe",
+    "icon": "inv_boots_leather_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255049": {
+    "name_dede": "Kunstvoll gefertigter Ledergürtel",
+    "icon": "inv_belt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255041": {
+    "name_dede": "Blaue Wildlederhandschuhe",
+    "icon": "inv_gauntlets_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254992": {
+    "name_dede": "Geladener Skorpidhelm",
+    "icon": "inv_helmet_39",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255042": {
+    "name_dede": "Kunstvoll gefertigte Lederstiefel",
+    "icon": "inv_boots_chain_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254993": {
+    "name_dede": "Weiche Skorpidgamaschen",
+    "icon": "inv_pants_mail_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224618": {
+    "name_dede": "Armschienen des scharlachroten Spitzels",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224620": {
+    "name_dede": "Gürtel des scharlachroten Spitzels",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224626": {
+    "name_dede": "Handgelenksschützer des scharlachroten Jägers",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224628": {
+    "name_dede": "Schnalle des scharlachroten Jägers",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255033": {
+    "name_dede": "Ledertaillenschutz des Aufsehers",
+    "icon": "inv_belt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255031": {
+    "name_dede": "Ledertaillenschutz des Heilers",
+    "icon": "inv_belt_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255032": {
+    "name_dede": "Ledertaillenschutz des Himmelsrufers",
+    "icon": "inv_belt_43a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255034": {
+    "name_dede": "Ledertaillenschutz des Schleichers",
+    "icon": "inv_belt_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255035": {
+    "name_dede": "Ledertaillenschutz des Streuners",
+    "icon": "inv_belt_37b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254982": {
+    "name_dede": "Panzergürtel des Heilers",
+    "icon": "inv_belt_37c",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254984": {
+    "name_dede": "Panzergürtel des Himmelsrufers",
+    "icon": "inv_belt_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254985": {
+    "name_dede": "Panzergürtel des Pirschers",
+    "icon": "inv_belt_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254983": {
+    "name_dede": "Panzergürtel des Scharmützlers",
+    "icon": "inv_belt_39c",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254990": {
+    "name_dede": "Geladene Skorpidschulterstücke",
+    "icon": "inv_shoulder_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254991": {
+    "name_dede": "Weiche Skorpidarmschienen",
+    "icon": "inv_bracer_23a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224619": {
+    "name_dede": "Handschuhe des scharlachroten Spitzels",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224627": {
+    "name_dede": "Handschützer des scharlachroten Jägers",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224622": {
+    "name_dede": "Schuhe des scharlachroten Spitzels",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224630": {
+    "name_dede": "Stiefel des scharlachroten Jägers",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255029": {
+    "name_dede": "Blaue Wildlederhose",
+    "icon": "inv_pants_leather_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254980": {
+    "name_dede": "Geladene Skorpidarmschienen",
+    "icon": "inv_bracer_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254977": {
+    "name_dede": "Geladene Skorpidstulpen",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255030": {
+    "name_dede": "Kunstvoll gefertigte Lederrüstung",
+    "icon": "inv_chest_leather_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254979": {
+    "name_dede": "Schwere Skorpidstiefel",
+    "icon": "inv_boots_cloth_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254981": {
+    "name_dede": "Weiche Skorpidschulterstücke",
+    "icon": "inv_shoulder_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254978": {
+    "name_dede": "Weicher Skorpidgürtel",
+    "icon": "inv_belt_38b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1226689": {
+    "name_dede": "Scharlachroter Köcher",
+    "icon": "trade_leatherworking",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1226690": {
+    "name_dede": "Scharlachroter Munitionsbeutel",
+    "icon": "trade_leatherworking",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255026": {
+    "name_dede": "Blaue Wildlederschulterstücke",
+    "icon": "inv_shoulder_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254975": {
+    "name_dede": "Geladene Skorpidweste",
+    "icon": "inv_chest_chain_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255027": {
+    "name_dede": "Kunstvoll gefertigte Lederstulpen",
+    "icon": "inv_gauntlets_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255028": {
+    "name_dede": "Tückische Lederstiefel",
+    "icon": "inv_boots_chain_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254976": {
+    "name_dede": "Weicher Skorpidhelm",
+    "icon": "inv_helmet_34",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461720": {
+    "name_dede": "Lebende grüne Drachenschuppenbrustplatte",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224621": {
+    "name_dede": "Beinkleider des scharlachroten Spitzels",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224629": {
+    "name_dede": "Beinschützer des scharlachroten Jägers",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "44953": {
+    "name_dede": "Winterstiefel",
+    "icon": "inv_boots_christmas01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22815": {
+    "name_dede": "Ogeranzug der Gordok",
+    "icon": "inv_chest_chain_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461692": {
+    "name_dede": "Synthetischer Ogeranzug der Gordok",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255024": {
+    "name_dede": "Blaue Wildlederrüstung",
+    "icon": "inv_chest_leather_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255025": {
+    "name_dede": "Kunstvoll gefertigte Lederkrone",
+    "icon": "inv_helmet_33",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224615": {
+    "name_dede": "Bandana des scharlachroten Spitzels",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224623": {
+    "name_dede": "Kappe des scharlachroten Jägers",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224625": {
+    "name_dede": "Kette des scharlachroten Jägers",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224616": {
+    "name_dede": "Schulterschützer des scharlachroten Spitzels",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224624": {
+    "name_dede": "Schulterstücke des scharlachroten Jägers",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224617": {
+    "name_dede": "Weste des scharlachroten Spitzels",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297126": {
+    "name_dede": "Gallblasenklauen",
+    "icon": "inv_gauntlets_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297135": {
+    "name_dede": "Klammerer des Brutwächters",
+    "icon": "inv_gauntlets_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297129": {
+    "name_dede": "Klauen des Schwarmschlägers",
+    "icon": "inv_gauntlets_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297132": {
+    "name_dede": "Schuppendarmklammerer",
+    "icon": "inv_gauntlets_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255021": {
+    "name_dede": "Blauer Wildledergürtel",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254973": {
+    "name_dede": "Geladene Skorpidgamaschen",
+    "icon": "inv_pants_mail_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255022": {
+    "name_dede": "Kunstvoll gefertigte Lederarmschienen",
+    "icon": "inv_bracer_23b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255023": {
+    "name_dede": "Tückische Lederschulterstücke",
+    "icon": "inv_shoulder_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254974": {
+    "name_dede": "Weiche Skorpidweste",
+    "icon": "inv_chest_mail_17v1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461649": {
+    "name_dede": "Lebende grüne Drachenschuppengamaschen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461665": {
+    "name_dede": "Meisterhafte vulkanische Gamaschen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297127": {
+    "name_dede": "Gallblasengurt",
+    "icon": "inv_belt_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297128": {
+    "name_dede": "Gallblasenstiefel",
+    "icon": "inv_boots_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297130": {
+    "name_dede": "Gurt des Schwarmschlägers",
+    "icon": "inv_belt_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297136": {
+    "name_dede": "Gürtel des Brutwächters",
+    "icon": "inv_belt_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297133": {
+    "name_dede": "Schuppendarmgürtel",
+    "icon": "inv_belt_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297134": {
+    "name_dede": "Schuppendarmtreter",
+    "icon": "inv_boots_chain_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297131": {
+    "name_dede": "Stiefel des Schwarmschlägers",
+    "icon": "inv_boots_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297137": {
+    "name_dede": "Treter des Brutwächters",
+    "icon": "inv_boots_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255019": {
+    "name_dede": "Blaue Wildlederarmschienen",
+    "icon": "inv_bracer_22a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255020": {
+    "name_dede": "Kunstvoll gefertigte Lederschulterklappen",
+    "icon": "inv_shoulder_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1263079": {
+    "name_dede": "Nähmaschine",
+    "icon": "inv_tailoring_modifiedcraftingreagent_orange",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 3",
+    "description_dede": "Stellt eine Nähmaschine her."
+  },
+  "1255017": {
+    "name_dede": "Blauer Wildlederhut",
+    "icon": "inv_helm_armor_buckledhat_b_01_blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254971": {
+    "name_dede": "Geladene Skorpidstiefel",
+    "icon": "inv_boots_chain_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255018": {
+    "name_dede": "Kunstvoll gefertigte Lederhose",
+    "icon": "inv_pants_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254972": {
+    "name_dede": "Weiche Skorpidsabatons",
+    "icon": "inv_boots_chain_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461677": {
+    "name_dede": "Lebende grüne Drachenschuppenstulpen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461673": {
+    "name_dede": "Geschliffene blaue Drachenschuppenbrustplatte",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461661": {
+    "name_dede": "Meisterhafte vulkanische Brustplatte",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306529": {
+    "name_dede": "Ewigkeitsschulterstücke",
+    "icon": "inv_shoulder_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306530": {
+    "name_dede": "Gelassene Handgelenksschützer",
+    "icon": "inv_bracer_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306527": {
+    "name_dede": "Halsband des Gesetzlosen",
+    "icon": "inv_misc_bandana_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306528": {
+    "name_dede": "Holderwildhosen",
+    "icon": "inv_pants_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306526": {
+    "name_dede": "Holderwildkordel",
+    "icon": "inv_belt_leather_raiddruidhyjalc60_d_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306531": {
+    "name_dede": "Trauernde Handschützer",
+    "icon": "inv_gauntlets_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306532": {
+    "name_dede": "Wildlederrüstungsset",
+    "icon": "inv_10_inscription_runedwrithebark_color1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461655": {
+    "name_dede": "Gehärtete schwarze Drachenschuppenbrustplatte",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461722": {
+    "name_dede": "Teufelskernstulpen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461645": {
+    "name_dede": "Geschliffene blaue Drachenschuppenschultern",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1299914": {
+    "name_dede": "Geistrufergamaschen",
+    "icon": "inv_misc_desecrated_mailpants",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1299915": {
+    "name_dede": "Geistruferhandschutz",
+    "icon": "inv_misc_desecrated_mailglove",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1299916": {
+    "name_dede": "Geistruferschiftung",
+    "icon": "inv_misc_desecrated_mailshoulder",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1299917": {
+    "name_dede": "Geistrufertreter",
+    "icon": "inv_misc_desecrated_mailboots",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292920": {
+    "name_dede": "Beinkleider des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292929": {
+    "name_dede": "Beinschützer des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292937": {
+    "name_dede": "Beinschützer des Wildpirschers",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292926": {
+    "name_dede": "Fäustlinge des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292933": {
+    "name_dede": "Gamaschen des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292976": {
+    "name_dede": "Geistruferbeinschützer",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292970": {
+    "name_dede": "Geistruferhandschuhe",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292973": {
+    "name_dede": "Geistruferhose",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292969": {
+    "name_dede": "Geistruferkilt",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292971": {
+    "name_dede": "Geistrufermantelung",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292975": {
+    "name_dede": "Geistruferschulterklappen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292972": {
+    "name_dede": "Geistruferstiefel",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292974": {
+    "name_dede": "Geistruferstulpen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292966": {
+    "name_dede": "Grimmstichhandschuhe",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292965": {
+    "name_dede": "Grimmstichhose",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292967": {
+    "name_dede": "Grimmstichschiftung",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292968": {
+    "name_dede": "Grimmstichstiefel",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292921": {
+    "name_dede": "Handschutz des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292930": {
+    "name_dede": "Handschützer des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292925": {
+    "name_dede": "Kilt des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292927": {
+    "name_dede": "Mantelung des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292928": {
+    "name_dede": "Sandalen des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292940": {
+    "name_dede": "Schienbeinschützer des Wildpirschers",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292935": {
+    "name_dede": "Schiftung des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292939": {
+    "name_dede": "Schiftung des Wildpirschers",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292923": {
+    "name_dede": "Schulterpolster des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292931": {
+    "name_dede": "Schulterstücke des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292924": {
+    "name_dede": "Stampfer des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292932": {
+    "name_dede": "Stiefel des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292934": {
+    "name_dede": "Stulpen des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292938": {
+    "name_dede": "Stulpen des Wildpirschers",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292936": {
+    "name_dede": "Treter des Hainhüters",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254969": {
+    "name_dede": "Blauer Drachenschuppenhelm",
+    "icon": "inv_helmet_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255015": {
+    "name_dede": "Dämmerrüstung",
+    "icon": "inv_chest_leather_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255012": {
+    "name_dede": "Eisenfedergamaschen",
+    "icon": "inv_pants_leather_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255013": {
+    "name_dede": "Kriegsbärenhelm",
+    "icon": "inv_helmet_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255016": {
+    "name_dede": "Lebendige Krone",
+    "icon": "inv_helmet_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254967": {
+    "name_dede": "Makellose Skorpidgamaschen",
+    "icon": "inv_pants_mail_36",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254970": {
+    "name_dede": "Rote Drachenschuppengamaschen",
+    "icon": "inv_pants_mail_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1254968": {
+    "name_dede": "Schwarzer Drachenschuppenhelm",
+    "icon": "inv_helmet_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1255014": {
+    "name_dede": "Tunika der Holzschlundfeste",
+    "icon": "inv_chest_fur",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213734": {
+    "name_dede": "Dornenholzgürtel",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213738": {
+    "name_dede": "Dornenholzhelm",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213736": {
+    "name_dede": "Dornenholzstiefel",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223778": {
+    "name_dede": "Eisschuppenarmschienen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223774": {
+    "name_dede": "Eisschuppenbrustplatte",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223776": {
+    "name_dede": "Eisschuppenstulpen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213726": {
+    "name_dede": "Feuerspuckerarmschienen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213731": {
+    "name_dede": "Feuerspuckerbrustplatte",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213728": {
+    "name_dede": "Feuerspuckerstulpen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461657": {
+    "name_dede": "Gehärtete schwarze Drachenschuppengamaschen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461659": {
+    "name_dede": "Gehärtete schwarze Drachenschuppenschultern",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "462227": {
+    "name_dede": "Geschliffene blaue Drachenschuppengamaschen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213519": {
+    "name_dede": "Geschliffenes Chitinrüstungsset",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461653": {
+    "name_dede": "Glänzender chromatischer Umhang",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461754": {
+    "name_dede": "Gurt der arkanen Einsicht",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213513": {
+    "name_dede": "Leuchtendes Chitinrüstungsset",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461663": {
+    "name_dede": "Meisterhafte vulkanische Schultern",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461690": {
+    "name_dede": "Meisterlich gefertigter unbeständiger Umhang",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213521": {
+    "name_dede": "Messerdornengugel",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213525": {
+    "name_dede": "Messerdornenlederwams",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213523": {
+    "name_dede": "Messerdornenschulterpolster",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223784": {
+    "name_dede": "Polararmschienen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223782": {
+    "name_dede": "Polarhandschuhe",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223780": {
+    "name_dede": "Polartunika",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213717": {
+    "name_dede": "Sandpirscherarmschienen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213723": {
+    "name_dede": "Sandpirscherbrustplatte",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213720": {
+    "name_dede": "Sandpirscherstulpen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461724": {
+    "name_dede": "Teufelskerngamaschen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213751": {
+    "name_dede": "Traumschuppenbrustplatte",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1214303": {
+    "name_dede": "Traumschuppenkilt",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461706": {
+    "name_dede": "Unterarmschienen der schnellen Flucht",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  }
+}

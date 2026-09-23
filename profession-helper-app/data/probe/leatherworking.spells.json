@@ -1,0 +1,5519 @@
+{
+  "2881": {
+    "name_enus": "Light Leather",
+    "icon": "inv_misc_leatherscrap_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2152": {
+    "name_enus": "Light Armor Kit",
+    "icon": "inv_misc_armorkit_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7126": {
+    "name_enus": "Handstitched Leather Vest",
+    "icon": "inv_chest_wolf",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2149": {
+    "name_enus": "Handstitched Leather Boots",
+    "icon": "inv_boots_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9059": {
+    "name_enus": "Handstitched Leather Bracers",
+    "icon": "inv_bracer_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9058": {
+    "name_enus": "Handstitched Leather Cloak",
+    "icon": "inv_helmet_48",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2153": {
+    "name_enus": "Handstitched Leather Pants",
+    "icon": "inv_pants_wolf",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3753": {
+    "name_enus": "Handstitched Leather Belt",
+    "icon": "inv_belt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9060": {
+    "name_enus": "Light Leather Quiver",
+    "icon": "inv_misc_quiver_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9062": {
+    "name_enus": "Small Leather Ammo Pouch",
+    "icon": "inv_misc_ammo_bullet_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3816": {
+    "name_enus": "Cured Light Hide",
+    "icon": "inv_misc_pelt_wolf_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9064": {
+    "name_enus": "Rugged Leather Pants",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2160": {
+    "name_enus": "Embossed Leather Vest",
+    "icon": "inv_chest_leather_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "5244": {
+    "name_enus": "Kodo Hide Bag",
+    "icon": "inv_misc_bag_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3104": {
+    "name_enus": "Leatherworking",
+    "icon": "inv_misc_armorkit_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "Allows a leatherworker to make well crafted leather armors, up to a maximum potential skill of 150."
+  },
+  "3756": {
+    "name_enus": "Embossed Leather Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2161": {
+    "name_enus": "Embossed Leather Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2162": {
+    "name_enus": "Embossed Leather Cloak",
+    "icon": "inv_helmet_48",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2163": {
+    "name_enus": "White Leather Jerkin",
+    "icon": "inv_chest_wolf",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9065": {
+    "name_enus": "Light Leather Bracers",
+    "icon": "inv_bracer_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3759": {
+    "name_enus": "Embossed Leather Pants",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2164": {
+    "name_enus": "Fine Leather Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3763": {
+    "name_enus": "Fine Leather Belt",
+    "icon": "inv_belt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2159": {
+    "name_enus": "Fine Leather Cloak",
+    "icon": "inv_misc_cape_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3761": {
+    "name_enus": "Fine Leather Tunic",
+    "icon": "inv_chest_leather_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "8322": {
+    "name_enus": "Moonglow Vest",
+    "icon": "inv_chest_leather_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7953": {
+    "name_enus": "Deviate Scale Cloak",
+    "icon": "inv_misc_monsterscales_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2158": {
+    "name_enus": "Fine Leather Boots",
+    "icon": "inv_boots_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6702": {
+    "name_enus": "Murloc Scale Belt",
+    "icon": "inv_belt_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9068": {
+    "name_enus": "Light Leather Pants",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6703": {
+    "name_enus": "Murloc Scale Breastplate",
+    "icon": "inv_chest_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "20648": {
+    "name_enus": "Medium Leather",
+    "icon": "inv_misc_leatherscrap_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3817": {
+    "name_enus": "Cured Medium Hide",
+    "icon": "inv_misc_pelt_bear_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2165": {
+    "name_enus": "Medium Armor Kit",
+    "icon": "inv_misc_armorkit_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9070": {
+    "name_enus": "Black Whelp Cloak",
+    "icon": "inv_misc_monsterscales_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24940": {
+    "name_enus": "Black Whelp Tunic",
+    "icon": "inv_chest_cloth_45",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2167": {
+    "name_enus": "Dark Leather Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2169": {
+    "name_enus": "Dark Leather Tunic",
+    "icon": "inv_chest_leather_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3762": {
+    "name_enus": "Hillman's Leather Vest",
+    "icon": "inv_chest_leather_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7954": {
+    "name_enus": "Deviate Scale Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7133": {
+    "name_enus": "Fine Leather Pants",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2168": {
+    "name_enus": "Dark Leather Cloak",
+    "icon": "inv_misc_cape_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7955": {
+    "name_enus": "Deviate Scale Belt",
+    "icon": "inv_belt_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7135": {
+    "name_enus": "Dark Leather Pants",
+    "icon": "inv_pants_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9074": {
+    "name_enus": "Nimble Leather Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9072": {
+    "name_enus": "Red Whelp Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "2166": {
+    "name_enus": "Toughened Leather Armor",
+    "icon": "inv_chest_leather_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3767": {
+    "name_enus": "Hillman's Belt",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3765": {
+    "name_enus": "Dark Leather Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3811": {
+    "name_enus": "Leatherworking",
+    "icon": "inv_misc_armorkit_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "Allows a leatherworker to make high quality leather armors, up to a maximum potential skill of 225."
+  },
+  "3766": {
+    "name_enus": "Dark Leather Belt",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9145": {
+    "name_enus": "Fletcher's Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3768": {
+    "name_enus": "Hillman's Shoulders",
+    "icon": "inv_shoulder_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3770": {
+    "name_enus": "Toughened Leather Gloves",
+    "icon": "inv_gauntlets_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9147": {
+    "name_enus": "Earthen Leather Shoulders",
+    "icon": "inv_shoulder_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9146": {
+    "name_enus": "Herbalist's Gloves",
+    "icon": "inv_gauntlets_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3769": {
+    "name_enus": "Dark Leather Shoulders",
+    "icon": "inv_shoulder_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9148": {
+    "name_enus": "Pilferer's Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9149": {
+    "name_enus": "Heavy Earthen Gloves",
+    "icon": "inv_gauntlets_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3764": {
+    "name_enus": "Hillman's Leather Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23190": {
+    "name_enus": "Heavy Leather Ball",
+    "icon": "inv_misc_throwingball_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9194": {
+    "name_enus": "Heavy Leather Ammo Pouch",
+    "icon": "inv_misc_bag_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9193": {
+    "name_enus": "Heavy Quiver",
+    "icon": "inv_misc_quiver_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3818": {
+    "name_enus": "Cured Heavy Hide",
+    "icon": "inv_misc_pelt_wolf_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "20649": {
+    "name_enus": "Heavy Leather",
+    "icon": "inv_misc_leatherscrap_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3760": {
+    "name_enus": "Hillman's Cloak",
+    "icon": "inv_misc_cape_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3780": {
+    "name_enus": "Heavy Armor Kit",
+    "icon": "inv_misc_armorkit_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3771": {
+    "name_enus": "Barbaric Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3772": {
+    "name_enus": "Green Leather Armor",
+    "icon": "inv_chest_leather_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23399": {
+    "name_enus": "Barbaric Bracers",
+    "icon": "inv_bracer_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3774": {
+    "name_enus": "Green Leather Belt",
+    "icon": "inv_belt_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7147": {
+    "name_enus": "Guardian Pants",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439114": {
+    "name_enus": "Guardian Pants",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9195": {
+    "name_enus": "Dusky Leather Leggings",
+    "icon": "inv_pants_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "4097": {
+    "name_enus": "Raptor Hide Belt",
+    "icon": "inv_belt_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "4096": {
+    "name_enus": "Raptor Hide Harness",
+    "icon": "inv_chest_leather_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7149": {
+    "name_enus": "Barbaric Leggings",
+    "icon": "inv_pants_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3775": {
+    "name_enus": "Guardian Belt",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6704": {
+    "name_enus": "Thick Murloc Armor",
+    "icon": "inv_chest_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7151": {
+    "name_enus": "Barbaric Shoulders",
+    "icon": "inv_shoulder_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9196": {
+    "name_enus": "Dusky Leather Armor",
+    "icon": "inv_chest_leather_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9197": {
+    "name_enus": "Green Whelp Armor",
+    "icon": "inv_chest_chain_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3773": {
+    "name_enus": "Guardian Armor",
+    "icon": "inv_chest_leather_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9198": {
+    "name_enus": "Frost Leather Cloak",
+    "icon": "inv_misc_cape_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3776": {
+    "name_enus": "Green Leather Bracers",
+    "icon": "inv_bracer_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3778": {
+    "name_enus": "Gem-studded Leather Belt",
+    "icon": "inv_belt_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9201": {
+    "name_enus": "Dusky Bracers",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7153": {
+    "name_enus": "Guardian Cloak",
+    "icon": "inv_misc_cape_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6661": {
+    "name_enus": "Barbaric Harness",
+    "icon": "inv_chest_leather_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "21943": {
+    "name_enus": "Gloves of the Greatfather",
+    "icon": "inv_gauntlets_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9202": {
+    "name_enus": "Green Whelp Bracers",
+    "icon": "inv_bracer_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "7156": {
+    "name_enus": "Guardian Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "6705": {
+    "name_enus": "Murloc Scale Bracers",
+    "icon": "inv_bracer_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9206": {
+    "name_enus": "Dusky Belt",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3777": {
+    "name_enus": "Guardian Leather Bracers",
+    "icon": "inv_bracer_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10662": {
+    "name_enus": "Leatherworking",
+    "icon": "inv_misc_armorkit_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "Allows a leatherworker to make artisan quality leather armors, up to a maximum potential skill of 300."
+  },
+  "10482": {
+    "name_enus": "Cured Thick Hide",
+    "icon": "inv_misc_pelt_bear_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "20650": {
+    "name_enus": "Thick Leather",
+    "icon": "inv_misc_leatherscrap_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22711": {
+    "name_enus": "Shadowskin Gloves",
+    "icon": "inv_gauntlets_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "3779": {
+    "name_enus": "Barbaric Belt",
+    "icon": "inv_belt_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10490": {
+    "name_enus": "Comfortable Leather Hat",
+    "icon": "inv_helmet_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9207": {
+    "name_enus": "Dusky Boots",
+    "icon": "inv_boots_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "9208": {
+    "name_enus": "Swift Boots",
+    "icon": "inv_boots_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10487": {
+    "name_enus": "Thick Armor Kit",
+    "icon": "inv_misc_armorkit_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10507": {
+    "name_enus": "Nightscape Headband",
+    "icon": "inv_belt_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10499": {
+    "name_enus": "Nightscape Tunic",
+    "icon": "inv_chest_leather_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10509": {
+    "name_enus": "Turtle Scale Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10516": {
+    "name_enus": "Nightscape Shoulders",
+    "icon": "inv_shoulder_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10518": {
+    "name_enus": "Turtle Scale Bracers",
+    "icon": "inv_bracer_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10511": {
+    "name_enus": "Turtle Scale Breastplate",
+    "icon": "inv_chest_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439116": {
+    "name_enus": "Turtle Scale Breastplate",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10520": {
+    "name_enus": "Big Voodoo Robe",
+    "icon": "inv_chest_cloth_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10531": {
+    "name_enus": "Big Voodoo Mask",
+    "icon": "inv_banner_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10533": {
+    "name_enus": "Tough Scorpid Bracers",
+    "icon": "inv_bracer_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10525": {
+    "name_enus": "Tough Scorpid Breastplate",
+    "icon": "inv_chest_leather_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10529": {
+    "name_enus": "Wild Leather Shoulders",
+    "icon": "inv_shoulder_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "14930": {
+    "name_enus": "Quickdraw Quiver",
+    "icon": "inv_misc_quiver_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "14932": {
+    "name_enus": "Thick Leather Ammo Pouch",
+    "icon": "inv_misc_bag_09_black",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10619": {
+    "name_enus": "Dragonscale Gauntlets",
+    "icon": "inv_gauntlets_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10621": {
+    "name_enus": "Wolfshead Helm",
+    "icon": "inv_helmet_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10542": {
+    "name_enus": "Tough Scorpid Gloves",
+    "icon": "inv_gauntlets_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10546": {
+    "name_enus": "Wild Leather Helmet",
+    "icon": "inv_helmet_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10544": {
+    "name_enus": "Wild Leather Vest",
+    "icon": "inv_chest_cloth_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10630": {
+    "name_enus": "Gauntlets of the Sea",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10548": {
+    "name_enus": "Nightscape Pants",
+    "icon": "inv_pants_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10552": {
+    "name_enus": "Turtle Scale Helm",
+    "icon": "inv_helmet_40",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10558": {
+    "name_enus": "Nightscape Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10554": {
+    "name_enus": "Tough Scorpid Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10556": {
+    "name_enus": "Turtle Scale Leggings",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10560": {
+    "name_enus": "Big Voodoo Pants",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10562": {
+    "name_enus": "Big Voodoo Cloak",
+    "icon": "inv_misc_cape_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10564": {
+    "name_enus": "Tough Scorpid Shoulders",
+    "icon": "inv_shoulder_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10568": {
+    "name_enus": "Tough Scorpid Leggings",
+    "icon": "inv_pants_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10566": {
+    "name_enus": "Wild Leather Boots",
+    "icon": "inv_boots_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19047": {
+    "name_enus": "Cured Rugged Hide",
+    "icon": "inv_misc_pelt_bear_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19058": {
+    "name_enus": "Rugged Armor Kit",
+    "icon": "inv_misc_armorkit_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22331": {
+    "name_enus": "Rugged Leather",
+    "icon": "inv_misc_leatherscrap_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10647": {
+    "name_enus": "Feathered Breastplate",
+    "icon": "inv_chest_leather_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10632": {
+    "name_enus": "Helm of Fire",
+    "icon": "inv_helmet_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10570": {
+    "name_enus": "Tough Scorpid Helm",
+    "icon": "inv_helmet_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10574": {
+    "name_enus": "Wild Leather Cloak",
+    "icon": "inv_misc_cape_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10572": {
+    "name_enus": "Wild Leather Leggings",
+    "icon": "inv_pants_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10650": {
+    "name_enus": "Dragonscale Breastplate",
+    "icon": "inv_chest_chain_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19048": {
+    "name_enus": "Heavy Scorpid Bracers",
+    "icon": "inv_bracer_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19050": {
+    "name_enus": "Green Dragonscale Breastplate",
+    "icon": "inv_chest_chain_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19049": {
+    "name_enus": "Wicked Leather Gauntlets",
+    "icon": "inv_gauntlets_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19053": {
+    "name_enus": "Chimeric Gloves",
+    "icon": "inv_gauntlets_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19051": {
+    "name_enus": "Heavy Scorpid Vest",
+    "icon": "inv_chest_chain_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19052": {
+    "name_enus": "Wicked Leather Bracers",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "16650": {
+    "name_enus": "Wildthorn Mail",
+    "icon": "inv_chest_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19060": {
+    "name_enus": "Green Dragonscale Leggings",
+    "icon": "inv_pants_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19062": {
+    "name_enus": "Ironfeather Shoulders",
+    "icon": "inv_shoulder_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19061": {
+    "name_enus": "Living Shoulders",
+    "icon": "inv_shoulder_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19055": {
+    "name_enus": "Runic Leather Gauntlets",
+    "icon": "inv_gauntlets_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19059": {
+    "name_enus": "Volcanic Leggings",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19067": {
+    "name_enus": "Stormshroud Pants",
+    "icon": "inv_pants_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19068": {
+    "name_enus": "Warbear Harness",
+    "icon": "inv_chest_leather_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19063": {
+    "name_enus": "Chimeric Boots",
+    "icon": "inv_boots_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19066": {
+    "name_enus": "Frostsaber Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19064": {
+    "name_enus": "Heavy Scorpid Gauntlets",
+    "icon": "inv_gauntlets_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19065": {
+    "name_enus": "Runic Leather Bracers",
+    "icon": "inv_bracer_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24655": {
+    "name_enus": "Green Dragonscale Gauntlets",
+    "icon": "inv_gauntlets_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19073": {
+    "name_enus": "Chimeric Leggings",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19070": {
+    "name_enus": "Heavy Scorpid Belt",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19072": {
+    "name_enus": "Runic Leather Belt",
+    "icon": "inv_belt_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19071": {
+    "name_enus": "Wicked Leather Headband",
+    "icon": "inv_misc_bandage_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19077": {
+    "name_enus": "Blue Dragonscale Breastplate",
+    "icon": "inv_chest_chain_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19078": {
+    "name_enus": "Living Leggings",
+    "icon": "inv_pants_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19079": {
+    "name_enus": "Stormshroud Armor",
+    "icon": "inv_chest_leather_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19080": {
+    "name_enus": "Warbear Woolies",
+    "icon": "inv_pants_wolf",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19074": {
+    "name_enus": "Frostsaber Leggings",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19075": {
+    "name_enus": "Heavy Scorpid Leggings",
+    "icon": "inv_pants_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19076": {
+    "name_enus": "Volcanic Breastplate",
+    "icon": "inv_chest_leather_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23628": {
+    "name_enus": "Heavy Timbermaw Belt",
+    "icon": "inv_belt_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19085": {
+    "name_enus": "Black Dragonscale Breastplate",
+    "icon": "inv_chest_plate06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23705": {
+    "name_enus": "Dawn Treaders",
+    "icon": "inv_boots_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19084": {
+    "name_enus": "Devilsaur Gauntlets",
+    "icon": "inv_gauntlets_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19086": {
+    "name_enus": "Ironfeather Breastplate",
+    "icon": "inv_chest_leather_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23703": {
+    "name_enus": "Might of the Timbermaw",
+    "icon": "inv_belt_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19081": {
+    "name_enus": "Chimeric Vest",
+    "icon": "inv_chest_leather_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19082": {
+    "name_enus": "Runic Leather Headband",
+    "icon": "inv_misc_bandage_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19083": {
+    "name_enus": "Wicked Leather Pants",
+    "icon": "inv_pants_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "16661": {
+    "name_enus": "Storm Gauntlets",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19089": {
+    "name_enus": "Blue Dragonscale Shoulders",
+    "icon": "inv_shoulder_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19090": {
+    "name_enus": "Stormshroud Shoulders",
+    "icon": "inv_shoulder_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19087": {
+    "name_enus": "Frostsaber Gloves",
+    "icon": "inv_gauntlets_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19088": {
+    "name_enus": "Heavy Scorpid Helm",
+    "icon": "inv_helmet_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "20853": {
+    "name_enus": "Corehound Boots",
+    "icon": "inv_boots_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "16728": {
+    "name_enus": "Helm of the Great Chief",
+    "icon": "inv_helmet_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "16746": {
+    "name_enus": "Invulnerable Mail",
+    "icon": "inv_chest_chain_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19091": {
+    "name_enus": "Runic Leather Pants",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19092": {
+    "name_enus": "Wicked Leather Belt",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23629": {
+    "name_enus": "Heavy Timbermaw Boots",
+    "icon": "inv_boots_chain_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19100": {
+    "name_enus": "Heavy Scorpid Shoulders",
+    "icon": "inv_shoulder_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19101": {
+    "name_enus": "Volcanic Shoulders",
+    "icon": "inv_shoulder_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19098": {
+    "name_enus": "Wicked Leather Armor",
+    "icon": "inv_chest_plate06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24847": {
+    "name_enus": "Spitfire Gauntlets",
+    "icon": "inv_gauntlets_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19102": {
+    "name_enus": "Runic Leather Armor",
+    "icon": "inv_chest_leather_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19103": {
+    "name_enus": "Runic Leather Shoulders",
+    "icon": "inv_shoulder_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19107": {
+    "name_enus": "Black Dragonscale Leggings",
+    "icon": "inv_pants_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19094": {
+    "name_enus": "Black Dragonscale Shoulders",
+    "icon": "inv_shoulder_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24654": {
+    "name_enus": "Blue Dragonscale Leggings",
+    "icon": "inv_pants_mail_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19097": {
+    "name_enus": "Devilsaur Leggings",
+    "icon": "inv_pants_wolf",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22921": {
+    "name_enus": "Girdle of Insight",
+    "icon": "inv_belt_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19095": {
+    "name_enus": "Living Breastplate",
+    "icon": "inv_chest_plate07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22922": {
+    "name_enus": "Mongoose Boots",
+    "icon": "inv_boots_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19054": {
+    "name_enus": "Red Dragonscale Breastplate",
+    "icon": "inv_chest_chain_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24849": {
+    "name_enus": "Sandstalker Bracers",
+    "icon": "inv_bracer_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24851": {
+    "name_enus": "Sandstalker Breastplate",
+    "icon": "inv_chest_plate07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24850": {
+    "name_enus": "Sandstalker Gauntlets",
+    "icon": "inv_gauntlets_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24846": {
+    "name_enus": "Spitfire Bracers",
+    "icon": "inv_bracer_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24848": {
+    "name_enus": "Spitfire Breastplate",
+    "icon": "inv_chest_leather_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "26279": {
+    "name_enus": "Stormshroud Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22923": {
+    "name_enus": "Swift Flight Bracers",
+    "icon": "inv_bracer_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19104": {
+    "name_enus": "Frostsaber Tunic",
+    "icon": "inv_chest_chain_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23706": {
+    "name_enus": "Golden Mantle of the Dawn",
+    "icon": "inv_shoulder_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23704": {
+    "name_enus": "Timbermaw Brawlers",
+    "icon": "inv_gauntlets_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "20855": {
+    "name_enus": "Black Dragonscale Boots",
+    "icon": "inv_boots_plate_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22926": {
+    "name_enus": "Chromatic Cloak",
+    "icon": "inv_misc_cape_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23708": {
+    "name_enus": "Chromatic Gauntlets",
+    "icon": "inv_gauntlets_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23709": {
+    "name_enus": "Corehound Belt",
+    "icon": "inv_belt_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24703": {
+    "name_enus": "Dreamscale Breastplate",
+    "icon": "inv_chest_plate08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22927": {
+    "name_enus": "Hide of the Wild",
+    "icon": "inv_misc_cape_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28224": {
+    "name_enus": "Icy Scale Bracers",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28222": {
+    "name_enus": "Icy Scale Breastplate",
+    "icon": "inv_chest_plate09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28223": {
+    "name_enus": "Icy Scale Gauntlets",
+    "icon": "inv_gauntlets_28",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23707": {
+    "name_enus": "Lava Belt",
+    "icon": "inv_belt_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "23710": {
+    "name_enus": "Molten Belt",
+    "icon": "inv_belt_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "20854": {
+    "name_enus": "Molten Helm",
+    "icon": "inv_helmet_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28221": {
+    "name_enus": "Polar Bracers",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28220": {
+    "name_enus": "Polar Gloves",
+    "icon": "inv_gauntlets_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28219": {
+    "name_enus": "Polar Tunic",
+    "icon": "inv_chest_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22928": {
+    "name_enus": "Shifting Cloak",
+    "icon": "inv_misc_cape_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24124": {
+    "name_enus": "Blood Tiger Breastplate",
+    "icon": "inv_chest_leather_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24125": {
+    "name_enus": "Blood Tiger Shoulders",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28474": {
+    "name_enus": "Bramblewood Belt",
+    "icon": "inv_belt_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28473": {
+    "name_enus": "Bramblewood Boots",
+    "icon": "inv_boots_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "28472": {
+    "name_enus": "Bramblewood Helm",
+    "icon": "inv_helmet_58",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22727": {
+    "name_enus": "Core Armor Kit",
+    "icon": "inv_misc_armorkit_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "19093": {
+    "name_enus": "Onyxia Scale Cloak",
+    "icon": "inv_misc_cape_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24123": {
+    "name_enus": "Primal Batskin Bracers",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24122": {
+    "name_enus": "Primal Batskin Gloves",
+    "icon": "inv_gauntlets_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "24121": {
+    "name_enus": "Primal Batskin Jerkin",
+    "icon": "inv_chest_leather_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252983": {
+    "name_enus": "Beastculler's Adaptive Bracers",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252982": {
+    "name_enus": "Beastculler's Adaptive Vest",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252984": {
+    "name_enus": "Beastculler's Adaptive Wrap",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252997": {
+    "name_enus": "Beastmender's Adaptive Girdle",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252995": {
+    "name_enus": "Beastmender's Adaptive Robe",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252996": {
+    "name_enus": "Beastmender's Adaptive Wristlinks",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252987": {
+    "name_enus": "Dinodestroyer's Adaptive Belt",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252985": {
+    "name_enus": "Dinodestroyer's Adaptive Chestguard",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252986": {
+    "name_enus": "Dinodestroyer's Adaptive Wrists",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1253000": {
+    "name_enus": "Dinomender's Adaptive Chain",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252998": {
+    "name_enus": "Dinomender's Adaptive Tunic",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1252999": {
+    "name_enus": "Dinomender's Adaptive Wrists",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "10656": {
+    "name_enus": "Dragonscale Leatherworking",
+    "icon": "inv_misc_monsterscales_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows a leatherworker to make special dragonscale armors that are unavailable to a normal leatherworker.  Dragonscale armor is all mail armor."
+  },
+  "10658": {
+    "name_enus": "Elemental Leatherworking",
+    "icon": "spell_fire_volcano",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows a leatherworker to make special elemental armors that are unavailable to a normal leatherworker."
+  },
+  "2108": {
+    "name_enus": "Leatherworking",
+    "icon": "inv_misc_armorkit_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "Allows a leatherworker to make leather armor, up to a maximum potential skill of 75.  Requires leather scraps and hides gathered with the Skinning skill."
+  },
+  "1240950": {
+    "name_enus": "Leatherworking",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "<a href=\"/beta/spell=2108/leatherworking\" target=\"_blank\">Allows a leatherworker to make leather armor, up to a maximum potential skill of 75.  Requires leather scraps and hides gathered with the Skinning skill.</a>"
+  },
+  "1240985": {
+    "name_enus": "Leatherworking",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "<a href=\"/beta/spell=10662/leatherworking\" target=\"_blank\">Allows a leatherworker to make artisan quality leather armors, up to a maximum potential skill of 300.</a>"
+  },
+  "1240972": {
+    "name_enus": "Leatherworking",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "<a href=\"/beta/spell=3811/leatherworking\" target=\"_blank\">Allows a leatherworker to make high quality leather armors, up to a maximum potential skill of 225.</a>"
+  },
+  "1240961": {
+    "name_enus": "Leatherworking",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "<a href=\"/beta/spell=3104/leatherworking\" target=\"_blank\">Allows a leatherworker to make well crafted leather armors, up to a maximum potential skill of 150.</a>"
+  },
+  "10660": {
+    "name_enus": "Tribal Leatherworking",
+    "icon": "spell_nature_nullward",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows a leatherworker to make special tribal armors that are unavailable to a normal leatherworker."
+  },
+  "1229432": {
+    "name_enus": "Camp Tent",
+    "icon": "inv_misc_leatherscrap_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 1",
+    "description_enus": "Craft a Camp Tent."
+  },
+  "1255146": {
+    "name_enus": "Black Whelp Slippers",
+    "icon": "inv_boots_leather_05red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255145": {
+    "name_enus": "Dark Leather Boots",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255143": {
+    "name_enus": "Moonglow Boots",
+    "icon": "inv_boots_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255144": {
+    "name_enus": "Murloc Scale Shoes",
+    "icon": "inv_boots_cloth_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1302604": {
+    "name_enus": "Light Leather Reagent Bag",
+    "icon": "inv_misc_bag_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301454": {
+    "name_enus": "Azure Gustwoven Belt",
+    "icon": "inv_belt_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301452": {
+    "name_enus": "Azure Gustwoven Bracers",
+    "icon": "inv_bracer_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301458": {
+    "name_enus": "Azure Windraveled Armguards",
+    "icon": "inv_bracer_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301460": {
+    "name_enus": "Azure Windraveled Strap",
+    "icon": "inv_belt_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301430": {
+    "name_enus": "Cloudy Gustwoven Belt",
+    "icon": "inv_belt_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301428": {
+    "name_enus": "Cloudy Gustwoven Bracers",
+    "icon": "inv_bracer_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301434": {
+    "name_enus": "Cloudy Windraveled Armguards",
+    "icon": "inv_bracer_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301436": {
+    "name_enus": "Cloudy Windraveled Strap",
+    "icon": "inv_belt_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301456": {
+    "name_enus": "Azure Gustwoven Boots",
+    "icon": "inv_boot_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301453": {
+    "name_enus": "Azure Gustwoven Gloves",
+    "icon": "inv_glove_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301462": {
+    "name_enus": "Azure Windraveled Footwraps",
+    "icon": "inv_boot_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301459": {
+    "name_enus": "Azure Windraveled Mitts",
+    "icon": "inv_glove_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301432": {
+    "name_enus": "Cloudy Gustwoven Boots",
+    "icon": "inv_boot_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301429": {
+    "name_enus": "Cloudy Gustwoven Gloves",
+    "icon": "inv_glove_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301438": {
+    "name_enus": "Cloudy Windraveled Footwraps",
+    "icon": "inv_boot_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301435": {
+    "name_enus": "Cloudy Windraveled Mitts",
+    "icon": "inv_glove_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301451": {
+    "name_enus": "Azure Gustwoven Harness",
+    "icon": "inv_chest_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301455": {
+    "name_enus": "Azure Gustwoven Trousers",
+    "icon": "inv_pant_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301457": {
+    "name_enus": "Azure Windraveled Jerkin",
+    "icon": "inv_chest_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301461": {
+    "name_enus": "Azure Windraveled Pants",
+    "icon": "inv_pant_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301427": {
+    "name_enus": "Cloudy Gustwoven Harness",
+    "icon": "inv_chest_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301431": {
+    "name_enus": "Cloudy Gustwoven Trousers",
+    "icon": "inv_pant_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301433": {
+    "name_enus": "Cloudy Windraveled Jerkin",
+    "icon": "inv_chest_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301437": {
+    "name_enus": "Cloudy Windraveled Pants",
+    "icon": "inv_pant_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255136": {
+    "name_enus": "Brawler's Leather Armor",
+    "icon": "inv_chest_leather_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255134": {
+    "name_enus": "Defender's Leather Armor",
+    "icon": "inv_chest_leather_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255132": {
+    "name_enus": "Stormrider's Leather Armor",
+    "icon": "inv_chest_leather_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255133": {
+    "name_enus": "Totemic Leather Armor",
+    "icon": "inv_chest_leather_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255135": {
+    "name_enus": "Trapper's Leather Armor",
+    "icon": "inv_chest_leather_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255131": {
+    "name_enus": "Wisdom's Leather Armor",
+    "icon": "inv_chest_fur",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255142": {
+    "name_enus": "Brawler's Leather Belt",
+    "icon": "inv_belt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255140": {
+    "name_enus": "Defender's Leather Belt",
+    "icon": "inv_belt_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255138": {
+    "name_enus": "Stormrider's Leather Belt",
+    "icon": "inv_belt_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255139": {
+    "name_enus": "Totemic Leather Belt",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255141": {
+    "name_enus": "Trapper's Leather Belt",
+    "icon": "inv_belt_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255137": {
+    "name_enus": "Wisdom's Leather Belt",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255123": {
+    "name_enus": "Forceful Medium Armor Kit",
+    "icon": "inv_misc_armorkit_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255124": {
+    "name_enus": "Mystic Medium Armor Kit",
+    "icon": "inv_misc_armorkit_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255130": {
+    "name_enus": "Brawler's Leather Gloves",
+    "icon": "inv_gauntlets_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255128": {
+    "name_enus": "Defender's Leather Gloves",
+    "icon": "inv_gauntlets_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255126": {
+    "name_enus": "Stormrider's Leather Gloves",
+    "icon": "inv_gauntlets_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255127": {
+    "name_enus": "Totemic Leather Gloves",
+    "icon": "inv_gauntlets_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255129": {
+    "name_enus": "Trapper's Leather Gloves",
+    "icon": "inv_gauntlets_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255125": {
+    "name_enus": "Wisdom's Leather Gloves",
+    "icon": "inv_gauntlets_60",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255115": {
+    "name_enus": "Brawler's Leather Pants",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255113": {
+    "name_enus": "Defender's Leather Pants",
+    "icon": "inv_pants_leather_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255111": {
+    "name_enus": "Stormrider's Leather Pants",
+    "icon": "inv_pants_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255112": {
+    "name_enus": "Totemic Leather Pants",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255114": {
+    "name_enus": "Trapper's Leather Pants",
+    "icon": "inv_pants_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255110": {
+    "name_enus": "Wisdom's Leather Pants",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255121": {
+    "name_enus": "Brawler's Leather Boots",
+    "icon": "inv_boots_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255119": {
+    "name_enus": "Defender's Leather Boots",
+    "icon": "inv_boots_cloth_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255117": {
+    "name_enus": "Stormrider's Leather Boots",
+    "icon": "inv_boots_chain_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255118": {
+    "name_enus": "Totemic Leather Boots",
+    "icon": "inv_boots_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255120": {
+    "name_enus": "Trapper's Leather Boots",
+    "icon": "inv_boots_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255116": {
+    "name_enus": "Wisdom's Leather Boots",
+    "icon": "inv_boots_chain_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255109": {
+    "name_enus": "Brawler's Leather Hood",
+    "icon": "inv_helmet_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255107": {
+    "name_enus": "Defender's Leather Hood",
+    "icon": "inv_helmet_48",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255105": {
+    "name_enus": "Stormrider's Leather Hood",
+    "icon": "inv_helmet_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255106": {
+    "name_enus": "Totemic Leather Hood",
+    "icon": "inv_helmet_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255108": {
+    "name_enus": "Trapper's Leather Hood",
+    "icon": "inv_helmet_33",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255104": {
+    "name_enus": "Wisdom's Leather Hood",
+    "icon": "inv_helmet_33",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255093": {
+    "name_enus": "Brawler's Leather Helm",
+    "icon": "inv_helmet_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255091": {
+    "name_enus": "Defender's Leather Helm",
+    "icon": "inv_helmet_33",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255089": {
+    "name_enus": "Stormrider's Leather Helm",
+    "icon": "inv_helmet_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255090": {
+    "name_enus": "Totemic Leather Helm",
+    "icon": "inv_helmet_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255092": {
+    "name_enus": "Trapper's Leather Helm",
+    "icon": "inv_helmet_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255088": {
+    "name_enus": "Wisdom's Leather Helm",
+    "icon": "inv_helmet_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255102": {
+    "name_enus": "Brawler's Leather Tunic",
+    "icon": "inv_chest_leather_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255100": {
+    "name_enus": "Defender's Leather Tunic",
+    "icon": "inv_chest_leather_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255098": {
+    "name_enus": "Stormrider's Leather Tunic",
+    "icon": "inv_chest_leather_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255099": {
+    "name_enus": "Totemic Leather Tunic",
+    "icon": "inv_chest_leather_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255101": {
+    "name_enus": "Trapper's Leather Tunic",
+    "icon": "inv_chest_leather_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255097": {
+    "name_enus": "Wisdom's Leather Tunic",
+    "icon": "inv_chest_leather_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255103": {
+    "name_enus": "Hillman's Leather Boots",
+    "icon": "inv_boots_cloth_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1263031": {
+    "name_enus": "Tanning Rack",
+    "icon": "inv_10_skinning_leather_rarehide_color1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 2",
+    "description_enus": "Craft a Tanning Rack."
+  },
+  "1255087": {
+    "name_enus": "Brawler's Leather Legguards",
+    "icon": "inv_pants_leather_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255085": {
+    "name_enus": "Defender's Leather Kilt",
+    "icon": "inv_kilt_cloth_04v4",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255083": {
+    "name_enus": "Stormrider's Leather Kilt",
+    "icon": "inv_kilt_cloth_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255084": {
+    "name_enus": "Totemic Leather Leggings",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255086": {
+    "name_enus": "Trapper's Leather Legguards",
+    "icon": "inv_pants_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255082": {
+    "name_enus": "Wisdom's Leather Leggings",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255075": {
+    "name_enus": "Mender's Leather Belt",
+    "icon": "inv_belt_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255081": {
+    "name_enus": "Prowler's Leather Belt",
+    "icon": "inv_belt_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255077": {
+    "name_enus": "Skirmisher's Leather Belt",
+    "icon": "inv_belt_37a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255080": {
+    "name_enus": "Skulker's Leather Belt",
+    "icon": "inv_belt_37b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255076": {
+    "name_enus": "Skycaller's Leather Belt",
+    "icon": "inv_belt_39a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255079": {
+    "name_enus": "Stalker's Leather Belt",
+    "icon": "inv_belt_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255078": {
+    "name_enus": "Warden's Leather Belt",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255095": {
+    "name_enus": "Forceful Heavy Armor Kit",
+    "icon": "inv_misc_armorkit_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255096": {
+    "name_enus": "Mystic Heavy Armor Kit",
+    "icon": "inv_misc_armorkit_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "429869": {
+    "name_enus": "Void-Touched Leather Gauntlets",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "429354": {
+    "name_enus": "Void-Touched Leather Gloves",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301536": {
+    "name_enus": "Azure Gustwoven Hood",
+    "icon": "inv_helm_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301537": {
+    "name_enus": "Azure Gustwoven Spaulders",
+    "icon": "inv_shoulder_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301538": {
+    "name_enus": "Azure Windraveled Cover",
+    "icon": "inv_helm_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301539": {
+    "name_enus": "Azure Windraveled Drapes",
+    "icon": "inv_shoulder_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301528": {
+    "name_enus": "Cloudy Gustwoven Hood",
+    "icon": "inv_helm_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301529": {
+    "name_enus": "Cloudy Gustwoven Spaulders",
+    "icon": "inv_shoulder_leather_skybornec60_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301530": {
+    "name_enus": "Cloudy Windraveled Cover",
+    "icon": "inv_helm_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1301531": {
+    "name_enus": "Cloudy Windraveled Drapes",
+    "icon": "inv_shoulder_leather_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439112": {
+    "name_enus": "Guardian Belt",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255065": {
+    "name_enus": "Mender's Leather Gloves",
+    "icon": "inv_gauntlets_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255071": {
+    "name_enus": "Prowler's Leather Gloves",
+    "icon": "inv_gauntlets_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255067": {
+    "name_enus": "Skirmisher's Leather Gloves",
+    "icon": "inv_gauntlets_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255070": {
+    "name_enus": "Skulker's Leather Gloves",
+    "icon": "inv_gauntlets_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255066": {
+    "name_enus": "Skycaller's Leather Gloves",
+    "icon": "inv_gauntlets_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255069": {
+    "name_enus": "Stalker's Leather Gloves",
+    "icon": "inv_gauntlets_51",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255068": {
+    "name_enus": "Warden's Leather Gloves",
+    "icon": "inv_gauntlets_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435819": {
+    "name_enus": "Faintly Glowing Leather",
+    "icon": "inv_misc_pelt_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255060": {
+    "name_enus": "Mender's Leather Shoes",
+    "icon": "inv_boots_cloth_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255008": {
+    "name_enus": "Mender's Mail Boots",
+    "icon": "inv_boots_chain_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255064": {
+    "name_enus": "Prowler's Leather Shoes",
+    "icon": "inv_boots_cloth_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255009": {
+    "name_enus": "Skirmisher's Mail Boots",
+    "icon": "inv_boots_chain_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255063": {
+    "name_enus": "Skulker's Leather Shoes",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255061": {
+    "name_enus": "Skycaller's Leather Shoes",
+    "icon": "inv_boots_cloth_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255010": {
+    "name_enus": "Skycaller's Mail Boots",
+    "icon": "inv_boots_mail_15v2",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255011": {
+    "name_enus": "Stalker's Mail Boots",
+    "icon": "inv_boots_mail_15v2",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255062": {
+    "name_enus": "Warden's Leather Shoes",
+    "icon": "inv_boots_cloth_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255073": {
+    "name_enus": "Forceful Thick Armor Kit",
+    "icon": "inv_misc_armorkit_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255074": {
+    "name_enus": "Mystic Thick Armor Kit",
+    "icon": "inv_misc_armorkit_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439110": {
+    "name_enus": "Guardian Leather Bracers",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255000": {
+    "name_enus": "Mender's Mail Bracers",
+    "icon": "inv_bracer_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255004": {
+    "name_enus": "Mender's Mail Shoulder",
+    "icon": "inv_shoulder_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255001": {
+    "name_enus": "Skirmisher's Mail Bracers",
+    "icon": "inv_bracer_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255005": {
+    "name_enus": "Skirmisher's Mail Shoulder",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255002": {
+    "name_enus": "Skycaller's Mail Bracers",
+    "icon": "inv_bracer_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255006": {
+    "name_enus": "Skycaller's Mail Shoulder",
+    "icon": "inv_shoulder_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255003": {
+    "name_enus": "Stalker's Mail Bracers",
+    "icon": "inv_bracer_31a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255007": {
+    "name_enus": "Stalker's Mail Shoulder",
+    "icon": "inv_shoulder_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435904": {
+    "name_enus": "Glowing Gneuro-Linked Cowl",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435949": {
+    "name_enus": "Glowing Hyperconductive Scale Coif",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435951": {
+    "name_enus": "Gneuro-Conductive Channeler's Hood",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "435953": {
+    "name_enus": "Rad-Resistant Scale Hood",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439118": {
+    "name_enus": "Turtle Scale Gloves",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255055": {
+    "name_enus": "Mender's Leather Shoulder",
+    "icon": "inv_shoulder_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255059": {
+    "name_enus": "Prowler's Leather Shoulder",
+    "icon": "inv_shoulder_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255058": {
+    "name_enus": "Skulker's Leather Shoulder",
+    "icon": "inv_shoulders_mail_warfrontsforsaken_d_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255056": {
+    "name_enus": "Skycaller's Leather Shoulder",
+    "icon": "inv_shoulder_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255057": {
+    "name_enus": "Warden's Leather Shoulder",
+    "icon": "inv_shoulder_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254965": {
+    "name_enus": "Forceful Rugged Armor Kit",
+    "icon": "inv_misc_armorkit_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254966": {
+    "name_enus": "Mystic Rugged Armor Kit",
+    "icon": "inv_misc_armorkit_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439108": {
+    "name_enus": "Big Voodoo Robe",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "439105": {
+    "name_enus": "Big Voodoo Mask",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255050": {
+    "name_enus": "Mender's Leather Bracers",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255054": {
+    "name_enus": "Prowler's Leather Bracers",
+    "icon": "inv_bracer_21c",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255053": {
+    "name_enus": "Skulker's Leather Bracers",
+    "icon": "inv_bracer_21c",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255051": {
+    "name_enus": "Skycaller's Leather Bracers",
+    "icon": "inv_bracer_22a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255052": {
+    "name_enus": "Warden's Leather Bracers",
+    "icon": "inv_bracer_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "446186": {
+    "name_enus": "Cacophonous Chain Shoulderguards",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "446192": {
+    "name_enus": "Membrane of Dark Neurosis",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "446183": {
+    "name_enus": "Paranoia Mantle",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "451706": {
+    "name_enus": "Screaming Chain Pauldrons",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "446189": {
+    "name_enus": "Shoulderpads of Obsession",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "446185": {
+    "name_enus": "Shrieking Spaulders",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "446190": {
+    "name_enus": "Wailing Chain Mantle",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254998": {
+    "name_enus": "Charged Scorpid Belt",
+    "icon": "inv_belt_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254999": {
+    "name_enus": "Supple Scorpid Boots",
+    "icon": "inv_boots_chain_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255036": {
+    "name_enus": "Mender's Leather Gauntlets",
+    "icon": "inv_gauntlets_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254986": {
+    "name_enus": "Mender's Mail Gauntlets",
+    "icon": "inv_gauntlets_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255040": {
+    "name_enus": "Prowler's Leather Gauntlets",
+    "icon": "inv_gauntlets_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254987": {
+    "name_enus": "Skirmisher's Mail Gauntlets",
+    "icon": "inv_gauntlets_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255039": {
+    "name_enus": "Skulker's Leather Gauntlets",
+    "icon": "inv_gauntlets_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255037": {
+    "name_enus": "Skycaller's Leather Gauntlets",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254988": {
+    "name_enus": "Skycaller's Mail Gauntlets",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254989": {
+    "name_enus": "Stalker's Mail Gauntlets",
+    "icon": "inv_gauntlets_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255038": {
+    "name_enus": "Warden's Leather Gauntlets",
+    "icon": "inv_gauntlets_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255043": {
+    "name_enus": "Mender's Leather Boots",
+    "icon": "inv_boots_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254994": {
+    "name_enus": "Mender's Mail Sabatons",
+    "icon": "inv_boots_chain_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255047": {
+    "name_enus": "Prowler's Leather Boots",
+    "icon": "inv_boots_chain_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254995": {
+    "name_enus": "Skirmisher's Mail Sabatons",
+    "icon": "inv_boots_chain_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255046": {
+    "name_enus": "Skulker's Leather Boots",
+    "icon": "inv_boots_cloth_25purple",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255044": {
+    "name_enus": "Skycaller's Leather Boots",
+    "icon": "inv_boots_leather_cataclysm_b_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254996": {
+    "name_enus": "Skycaller's Mail Sabatons",
+    "icon": "inv_boots_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254997": {
+    "name_enus": "Stalker's Mail Sabatons",
+    "icon": "inv_boots_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255045": {
+    "name_enus": "Warden's Leather Boots",
+    "icon": "inv_boots_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255048": {
+    "name_enus": "Blue Suede Shoes",
+    "icon": "inv_boots_leather_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255049": {
+    "name_enus": "Tooled Leather Belt",
+    "icon": "inv_belt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255041": {
+    "name_enus": "Blue Suede Gloves",
+    "icon": "inv_gauntlets_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254992": {
+    "name_enus": "Charged Scorpid Helm",
+    "icon": "inv_helmet_39",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254993": {
+    "name_enus": "Supple Scorpid Leggings",
+    "icon": "inv_pants_mail_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255042": {
+    "name_enus": "Tooled Leather Boots",
+    "icon": "inv_boots_chain_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224628": {
+    "name_enus": "Scarlet Huntsman's Clasp",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224626": {
+    "name_enus": "Scarlet Huntsman's Wristguards",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224620": {
+    "name_enus": "Scarlet Infiltrator's Belt",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224618": {
+    "name_enus": "Scarlet Infiltrator's Bracers",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255031": {
+    "name_enus": "Mender's Leather Waistguard",
+    "icon": "inv_belt_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254982": {
+    "name_enus": "Mender's Mail Belt",
+    "icon": "inv_belt_37c",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255035": {
+    "name_enus": "Prowler's Leather Waistguard",
+    "icon": "inv_belt_37b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254983": {
+    "name_enus": "Skirmisher's Mail Belt",
+    "icon": "inv_belt_39c",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255034": {
+    "name_enus": "Skulker's Leather Waistguard",
+    "icon": "inv_belt_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255032": {
+    "name_enus": "Skycaller's Leather Waistguard",
+    "icon": "inv_belt_43a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254984": {
+    "name_enus": "Skycaller's Mail Belt",
+    "icon": "inv_belt_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254985": {
+    "name_enus": "Stalker's Mail Belt",
+    "icon": "inv_belt_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255033": {
+    "name_enus": "Warden's Leather Waistguard",
+    "icon": "inv_belt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254990": {
+    "name_enus": "Charged Scorpid Shoulder",
+    "icon": "inv_shoulder_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254991": {
+    "name_enus": "Supple Scorpid Bracers",
+    "icon": "inv_bracer_23a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224630": {
+    "name_enus": "Scarlet Huntsman's Boots",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224627": {
+    "name_enus": "Scarlet Huntsman's Handguards",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224619": {
+    "name_enus": "Scarlet Infiltrator's Gloves",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224622": {
+    "name_enus": "Scarlet Infiltrator's Shoes",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255029": {
+    "name_enus": "Blue Suede Pants",
+    "icon": "inv_pants_leather_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254980": {
+    "name_enus": "Charged Scorpid Bracers",
+    "icon": "inv_bracer_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254977": {
+    "name_enus": "Charged Scorpid Gauntlets",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254979": {
+    "name_enus": "Heavy Scorpid Boots",
+    "icon": "inv_boots_cloth_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254978": {
+    "name_enus": "Supple Scorpid Belt",
+    "icon": "inv_belt_38b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254981": {
+    "name_enus": "Supple Scorpid Shoulder",
+    "icon": "inv_shoulder_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255030": {
+    "name_enus": "Tooled Leather Armor",
+    "icon": "inv_chest_leather_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1226690": {
+    "name_enus": "Scarlet Ammo Pouch",
+    "icon": "trade_leatherworking",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1226689": {
+    "name_enus": "Scarlet Quiver",
+    "icon": "trade_leatherworking",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255026": {
+    "name_enus": "Blue Suede Shoulder",
+    "icon": "inv_shoulder_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254975": {
+    "name_enus": "Charged Scorpid Vest",
+    "icon": "inv_chest_chain_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254976": {
+    "name_enus": "Supple Scorpid Helm",
+    "icon": "inv_helmet_34",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255027": {
+    "name_enus": "Tooled Leather Gauntlets",
+    "icon": "inv_gauntlets_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255028": {
+    "name_enus": "Wicked Leather Boots",
+    "icon": "inv_boots_chain_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461720": {
+    "name_enus": "Living Green Dragonscale Breastplate",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224629": {
+    "name_enus": "Scarlet Huntsman's Legguards",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224621": {
+    "name_enus": "Scarlet Infiltrator's Trousers",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "44953": {
+    "name_enus": "Winter Boots",
+    "icon": "inv_boots_christmas01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "22815": {
+    "name_enus": "Gordok Ogre Suit",
+    "icon": "inv_chest_chain_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461692": {
+    "name_enus": "Synthetic Gordok Ogre Suit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255024": {
+    "name_enus": "Blue Suede Armor",
+    "icon": "inv_chest_leather_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255025": {
+    "name_enus": "Tooled Leather Crown",
+    "icon": "inv_helmet_33",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224625": {
+    "name_enus": "Scarlet Huntsman's Chain",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224623": {
+    "name_enus": "Scarlet Huntsman's Coif",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224624": {
+    "name_enus": "Scarlet Huntsman's Pauldrons",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224615": {
+    "name_enus": "Scarlet Infiltrator's Bandana",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224616": {
+    "name_enus": "Scarlet Infiltrator's Shoulderpads",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1224617": {
+    "name_enus": "Scarlet Infiltrator's Vest",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297126": {
+    "name_enus": "Bileblister Claws",
+    "icon": "inv_gauntlets_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297135": {
+    "name_enus": "Broodwatcher's Clenchers",
+    "icon": "inv_gauntlets_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297129": {
+    "name_enus": "Hivethrasher's Claws",
+    "icon": "inv_gauntlets_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297132": {
+    "name_enus": "Scalegut Clenchers",
+    "icon": "inv_gauntlets_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255021": {
+    "name_enus": "Blue Suede Belt",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254973": {
+    "name_enus": "Charged Scorpid Leggings",
+    "icon": "inv_pants_mail_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254974": {
+    "name_enus": "Supple Scorpid Vest",
+    "icon": "inv_chest_mail_17v1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255022": {
+    "name_enus": "Tooled Leather Bracers",
+    "icon": "inv_bracer_23b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255023": {
+    "name_enus": "Wicked Leather Shoulder",
+    "icon": "inv_shoulder_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461649": {
+    "name_enus": "Living Green Dragonscale Leggings",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461665": {
+    "name_enus": "Masterwork Volcanic Leggings",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297128": {
+    "name_enus": "Bileblister Boots",
+    "icon": "inv_boots_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297127": {
+    "name_enus": "Bileblister Girdle",
+    "icon": "inv_belt_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297136": {
+    "name_enus": "Broodwatcher's Belt",
+    "icon": "inv_belt_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297137": {
+    "name_enus": "Broodwatcher's Treaders",
+    "icon": "inv_boots_chain_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297131": {
+    "name_enus": "Hivethrasher's Boots",
+    "icon": "inv_boots_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297130": {
+    "name_enus": "Hivethrasher's Girdle",
+    "icon": "inv_belt_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297133": {
+    "name_enus": "Scalegut Belt",
+    "icon": "inv_belt_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1297134": {
+    "name_enus": "Scalegut Treaders",
+    "icon": "inv_boots_chain_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255019": {
+    "name_enus": "Blue Suede Bracers",
+    "icon": "inv_bracer_22a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255020": {
+    "name_enus": "Tooled Leather Epaulets",
+    "icon": "inv_shoulder_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1263079": {
+    "name_enus": "Sewing Machine",
+    "icon": "inv_tailoring_modifiedcraftingreagent_orange",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 3",
+    "description_enus": "Craft a Sewing Machine."
+  },
+  "1255017": {
+    "name_enus": "Blue Suede Hat",
+    "icon": "inv_helm_armor_buckledhat_b_01_blue",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254971": {
+    "name_enus": "Charged Scorpid Boots",
+    "icon": "inv_boots_chain_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254972": {
+    "name_enus": "Supple Scorpid Sabatons",
+    "icon": "inv_boots_chain_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255018": {
+    "name_enus": "Tooled Leather Pants",
+    "icon": "inv_pants_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461677": {
+    "name_enus": "Living Green Dragonscale Gauntlets",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461673": {
+    "name_enus": "Honed Blue Dragonscale Breastplate",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461661": {
+    "name_enus": "Masterwork Volcanic Breastplate",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306528": {
+    "name_enus": "Elderwild Pants",
+    "icon": "inv_pants_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306526": {
+    "name_enus": "Elderwild Waistcord",
+    "icon": "inv_belt_leather_raiddruidhyjalc60_d_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306529": {
+    "name_enus": "Eternity Pauldrons",
+    "icon": "inv_shoulder_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306531": {
+    "name_enus": "Mourning Handguards",
+    "icon": "inv_gauntlets_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306527": {
+    "name_enus": "Outlaw's Collar",
+    "icon": "inv_misc_bandana_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306530": {
+    "name_enus": "Tranquil Wristguards",
+    "icon": "inv_bracer_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1306532": {
+    "name_enus": "Wild Leather Armor Kit",
+    "icon": "inv_10_inscription_runedwrithebark_color1",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461722": {
+    "name_enus": "Devilcore Gauntlets",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461655": {
+    "name_enus": "Hardened Black Dragonscale Breastplate",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461645": {
+    "name_enus": "Honed Blue Dragonscale Shoulders",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1299915": {
+    "name_enus": "Spiritcaller Grips",
+    "icon": "inv_misc_desecrated_mailglove",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1299914": {
+    "name_enus": "Spiritcaller Leggings",
+    "icon": "inv_misc_desecrated_mailpants",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1299916": {
+    "name_enus": "Spiritcaller Spaulders",
+    "icon": "inv_misc_desecrated_mailshoulder",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1299917": {
+    "name_enus": "Spiritcaller Treads",
+    "icon": "inv_misc_desecrated_mailboots",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292968": {
+    "name_enus": "Grimstitch Boots",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292966": {
+    "name_enus": "Grimstitch Gloves",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292965": {
+    "name_enus": "Grimstitch Pants",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292967": {
+    "name_enus": "Grimstitch Spaulders",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292932": {
+    "name_enus": "Grovekeeper Boots",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292934": {
+    "name_enus": "Grovekeeper Gauntlets",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292921": {
+    "name_enus": "Grovekeeper Grips",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292930": {
+    "name_enus": "Grovekeeper Handguards",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292925": {
+    "name_enus": "Grovekeeper Kilt",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292933": {
+    "name_enus": "Grovekeeper Leggings",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292929": {
+    "name_enus": "Grovekeeper Legguards",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292927": {
+    "name_enus": "Grovekeeper Mantle",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292926": {
+    "name_enus": "Grovekeeper Mitts",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292931": {
+    "name_enus": "Grovekeeper Pauldrons",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292928": {
+    "name_enus": "Grovekeeper Sandals",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292923": {
+    "name_enus": "Grovekeeper Shoulderpads",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292935": {
+    "name_enus": "Grovekeeper Spaulders",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292924": {
+    "name_enus": "Grovekeeper Stompers",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292936": {
+    "name_enus": "Grovekeeper Treads",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292920": {
+    "name_enus": "Grovekeeper Trousers",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292972": {
+    "name_enus": "Spiritcaller Boots",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292975": {
+    "name_enus": "Spiritcaller Epaulets",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292974": {
+    "name_enus": "Spiritcaller Gauntlets",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292970": {
+    "name_enus": "Spiritcaller Gloves",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292976": {
+    "name_enus": "Spiritcaller Greaves",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292969": {
+    "name_enus": "Spiritcaller Kilt",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292971": {
+    "name_enus": "Spiritcaller Mantle",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292973": {
+    "name_enus": "Spiritcaller Pants",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292938": {
+    "name_enus": "Wildstalker's Gauntlets",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292940": {
+    "name_enus": "Wildstalker's Greaves",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292937": {
+    "name_enus": "Wildstalker's Legguards",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1292939": {
+    "name_enus": "Wildstalker's Spaulders",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254968": {
+    "name_enus": "Black Dragonscale Helm",
+    "icon": "inv_helmet_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254969": {
+    "name_enus": "Blue Dragonscale Helm",
+    "icon": "inv_helmet_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255015": {
+    "name_enus": "Dawn Armor",
+    "icon": "inv_chest_leather_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255012": {
+    "name_enus": "Ironfeather Leggings",
+    "icon": "inv_pants_leather_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255016": {
+    "name_enus": "Living Crown",
+    "icon": "inv_helmet_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254967": {
+    "name_enus": "Pristine Scorpid Leggings",
+    "icon": "inv_pants_mail_36",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1254970": {
+    "name_enus": "Red Dragonscale Leggings",
+    "icon": "inv_pants_mail_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255014": {
+    "name_enus": "Timbermaw Tunic",
+    "icon": "inv_chest_fur",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1255013": {
+    "name_enus": "Warbear Helm",
+    "icon": "inv_helmet_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213734": {
+    "name_enus": "Bramblewood Belt",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213736": {
+    "name_enus": "Bramblewood Boots",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213738": {
+    "name_enus": "Bramblewood Helm",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461653": {
+    "name_enus": "Brilliant Chromatic Cloak",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461724": {
+    "name_enus": "Devilcore Leggings",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213751": {
+    "name_enus": "Dreamscale Breastplate",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1214303": {
+    "name_enus": "Dreamscale Kilt",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461754": {
+    "name_enus": "Girdle of Arcane Insight",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213513": {
+    "name_enus": "Glowing Chitin Armor Kit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461657": {
+    "name_enus": "Hardened Black Dragonscale Leggings",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461659": {
+    "name_enus": "Hardened Black Dragonscale Shoulders",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "462227": {
+    "name_enus": "Honed Blue Dragonscale Leggings",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1223778": {
+    "name_enus": "Icy Scale Bracers",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1223774": {
+    "name_enus": "Icy Scale Breastplate",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1223776": {
+    "name_enus": "Icy Scale Gauntlets",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461690": {
+    "name_enus": "Mastercrafted Shifting Cloak",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461663": {
+    "name_enus": "Masterwork Volcanic Shoulders",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1223784": {
+    "name_enus": "Polar Bracers",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1223782": {
+    "name_enus": "Polar Gloves",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1223780": {
+    "name_enus": "Polar Tunic",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213521": {
+    "name_enus": "Razorbramble Cowl",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213525": {
+    "name_enus": "Razorbramble Leathers",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213523": {
+    "name_enus": "Razorbramble Shoulderpads",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213717": {
+    "name_enus": "Sandstalker Bracers",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213723": {
+    "name_enus": "Sandstalker Breastplate",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213720": {
+    "name_enus": "Sandstalker Gauntlets",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213519": {
+    "name_enus": "Sharpened Chitin Armor Kit",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213726": {
+    "name_enus": "Spitfire Bracers",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213731": {
+    "name_enus": "Spitfire Breastplate",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1213728": {
+    "name_enus": "Spitfire Gauntlets",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "461706": {
+    "name_enus": "Swift Flight Vambraces",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  }
+}

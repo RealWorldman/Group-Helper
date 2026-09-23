@@ -1,0 +1,4491 @@
+{
+  "2449": {
+    "name_dede": "Erdwurzel",
+    "quality": 1,
+    "icon": "inv_misc_herb_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 94,
+      "buyprice": 80,
+      "itemSquishEraId": 0,
+      "sellprice": 20
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "765": {
+    "name_dede": "Silberblatt",
+    "quality": 1,
+    "icon": "inv_misc_herb_10",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 28,
+      "buyprice": 40,
+      "itemSquishEraId": 0,
+      "sellprice": 10
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3371": {
+    "name_dede": "Leere Phiole",
+    "quality": 1,
+    "icon": "inv_potion_84",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 115,
+      "buyprice": 20,
+      "itemSquishEraId": 0,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2454": {
+    "name_dede": "Elixier der schwachen Stärke",
+    "quality": 1,
+    "icon": "inv_potion_56",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 219,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 20,
+      "str": 4
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2447": {
+    "name_dede": "Friedensblume",
+    "quality": 1,
+    "icon": "inv_misc_flower_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 44,
+      "buyprice": 40,
+      "itemSquishEraId": 0,
+      "sellprice": 10
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "5997": {
+    "name_dede": "Elixier der schwachen Verteidigung",
+    "quality": 1,
+    "icon": "inv_potion_63",
+    "screenshot": {},
+    "jsonequip": {
+      "armor": 50,
+      "avgbuyout": 106,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 5
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3382": {
+    "name_dede": "Schwaches Trollblutelixier",
+    "quality": 1,
+    "icon": "inv_potion_78",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 333,
+      "cooldown": 3000,
+      "healthrgn": 2,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 10
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "785": {
+    "name_dede": "Maguskönigskraut",
+    "quality": 1,
+    "icon": "inv_jewelry_talisman_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 34,
+      "buyprice": 80,
+      "itemSquishEraId": 0,
+      "sellprice": 20
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2455": {
+    "name_dede": "Schwacher Manatrank",
+    "quality": 1,
+    "icon": "inv_potion_70",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 28,
+      "buyprice": 40,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 5,
+      "sellprice": 10
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2456": {
+    "name_dede": "Schwacher Verjüngungstrank",
+    "quality": 1,
+    "icon": "inv_potion_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 591,
+      "cooldown": 120000,
+      "health": 120,
+      "itemSquishEraId": 0,
+      "reqlevel": 5,
+      "sellprice": 15
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "730": {
+    "name_dede": "Murlocauge",
+    "quality": 1,
+    "icon": "inv_misc_eye_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 16,
+      "itemSquishEraId": 0,
+      "sellprice": 16
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4596": {
+    "name_dede": "Schwacher verfärbter Heiltrank",
+    "quality": 1,
+    "icon": "inv_potion_35",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 180,
+      "cooldown": 120000,
+      "health": 160,
+      "itemSquishEraId": 0,
+      "reqlevel": 5,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2452": {
+    "name_dede": "Flitzdistel",
+    "quality": 1,
+    "icon": "inv_misc_herb_04",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4613,
+      "itemSquishEraId": 0,
+      "sellprice": 15
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2457": {
+    "name_dede": "Elixier der schwachen Beweglichkeit",
+    "quality": 1,
+    "icon": "inv_potion_91",
+    "screenshot": {},
+    "jsonequip": {
+      "agi": 4,
+      "avgbuyout": 2187,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 2,
+      "sellprice": 15
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2458": {
+    "name_dede": "Elixier der schwachen Seelenstärke",
+    "quality": 1,
+    "icon": "inv_potion_42",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 435,
+      "cooldown": 3000,
+      "health": 27,
+      "itemSquishEraId": 0,
+      "reqlevel": 2,
+      "sellprice": 15
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2450": {
+    "name_dede": "Wilddornrose",
+    "quality": 1,
+    "icon": "inv_misc_root_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 366,
+      "itemSquishEraId": 0,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2459": {
+    "name_dede": "Hurtigkeitstrank",
+    "quality": 1,
+    "icon": "inv_potion_95",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4800,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 5,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "5635": {
+    "name_dede": "Scharfe Klaue",
+    "quality": 1,
+    "icon": "inv_misc_monsterclaw_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 142,
+      "itemSquishEraId": 0,
+      "sellprice": 45
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "5631": {
+    "name_dede": "Wuttrank",
+    "quality": 1,
+    "icon": "inv_potion_24",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1150,
+      "classes": 1025,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 4,
+      "sellprice": 30
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6358": {
+    "name_dede": "Öliges Schwarzmaul",
+    "quality": 1,
+    "icon": "inv_misc_monsterhead_04",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1470,
+      "itemSquishEraId": 0,
+      "sellprice": 4
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6370": {
+    "name_dede": "Schwarzmaulöl",
+    "quality": 1,
+    "icon": "inv_drink_12",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3788,
+      "itemSquishEraId": 0,
+      "sellprice": 10
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3383": {
+    "name_dede": "Elixier der Weisheit",
+    "quality": 1,
+    "icon": "inv_potion_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 360,
+      "cooldown": 3000,
+      "int": 6,
+      "itemSquishEraId": 0,
+      "reqlevel": 10,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6522": {
+    "name_dede": "Deviatfisch",
+    "quality": 1,
+    "icon": "inv_misc_monsterhead_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1837,
+      "cooldown": 10000,
+      "itemSquishEraId": 0,
+      "sellprice": 4
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6662": {
+    "name_dede": "Elixier des Riesenwuchses",
+    "quality": 1,
+    "icon": "inv_potion_10",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5004,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 8,
+      "sellprice": 95,
+      "str": 8
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3820": {
+    "name_dede": "Würgetang",
+    "quality": 1,
+    "icon": "inv_misc_herb_11",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1424,
+      "itemSquishEraId": 0,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "5996": {
+    "name_dede": "Trunk der Wasseratmung",
+    "quality": 1,
+    "icon": "inv_potion_17",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2300,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 8,
+      "sellprice": 95
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "2453": {
+    "name_dede": "Beulengras",
+    "quality": 1,
+    "icon": "inv_misc_herb_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 299,
+      "buyprice": 100,
+      "itemSquishEraId": 0,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6051": {
+    "name_dede": "Heiligschutztrank",
+    "quality": 1,
+    "icon": "inv_potion_09",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 6500,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 10,
+      "sellprice": 62
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6372": {
+    "name_dede": "Schwimmtempotrank",
+    "quality": 1,
+    "icon": "inv_potion_13",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4769,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 10,
+      "sellprice": 35
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3355": {
+    "name_dede": "Wildstahlblume",
+    "quality": 1,
+    "icon": "inv_misc_flower_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3888,
+      "buyprice": 200,
+      "itemSquishEraId": 0,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3384": {
+    "name_dede": "Schwacher Magiewiderstandstrank",
+    "quality": 1,
+    "icon": "inv_potion_08",
+    "screenshot": {},
+    "jsonequip": {
+      "arcres": 25,
+      "avgbuyout": 2558,
+      "cooldown": 120000,
+      "firres": 25,
+      "frores": 25,
+      "holres": 25,
+      "itemSquishEraId": 0,
+      "natres": 25,
+      "reqlevel": 12,
+      "sellprice": 20,
+      "shares": 25
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3385": {
+    "name_dede": "Geringer Manatrank",
+    "quality": 1,
+    "icon": "inv_potion_71",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 405,
+      "buyprice": 120,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 14,
+      "sellprice": 30
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "1288": {
+    "name_dede": "Großer Giftbeutel",
+    "quality": 1,
+    "icon": "inv_misc_organ_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 13790,
+      "itemSquishEraId": 0,
+      "sellprice": 185
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3372": {
+    "name_dede": "Verbleite Phiole",
+    "quality": 1,
+    "icon": "inv_potion_85",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 251,
+      "buyprice": 200,
+      "itemSquishEraId": 0,
+      "sellprice": 10
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3386": {
+    "name_dede": "Trank der Giftreinigung",
+    "quality": 1,
+    "icon": "inv_potion_12",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 41710,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 14,
+      "sellprice": 35
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3388": {
+    "name_dede": "Geringes Trollblutelixier",
+    "quality": 1,
+    "icon": "inv_potion_79",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1476,
+      "cooldown": 3000,
+      "healthrgn": 6,
+      "itemSquishEraId": 0,
+      "reqlevel": 15,
+      "sellprice": 40
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6359": {
+    "name_dede": "Feuerflossenschnapper",
+    "quality": 1,
+    "icon": "inv_misc_monsterhead_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 817,
+      "itemSquishEraId": 0,
+      "sellprice": 5
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6371": {
+    "name_dede": "Feueröl",
+    "quality": 1,
+    "icon": "inv_potion_38",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2623,
+      "itemSquishEraId": 0,
+      "sellprice": 12
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3389": {
+    "name_dede": "Elixier der geringen Verteidigung",
+    "quality": 1,
+    "icon": "inv_potion_64",
+    "screenshot": {},
+    "jsonequip": {
+      "armor": 150,
+      "avgbuyout": 3110,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 16,
+      "sellprice": 40
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3369": {
+    "name_dede": "Grabmoos",
+    "quality": 1,
+    "icon": "inv_misc_dust_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 6217,
+      "itemSquishEraId": 0,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3356": {
+    "name_dede": "Königsblut",
+    "quality": 1,
+    "icon": "inv_misc_herb_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 497,
+      "buyprice": 120,
+      "itemSquishEraId": 0,
+      "sellprice": 30
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6048": {
+    "name_dede": "Schattenschutztrank",
+    "quality": 1,
+    "icon": "inv_potion_44",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 7269,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 17,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6373": {
+    "name_dede": "Elixier der Feuermacht",
+    "quality": 1,
+    "icon": "inv_potion_55",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5400,
+      "cooldown": 3000,
+      "firsplpwr": 10,
+      "itemSquishEraId": 0,
+      "reqlevel": 18,
+      "sellprice": 35
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3390": {
+    "name_dede": "Elixier der geringen Beweglichkeit",
+    "quality": 1,
+    "icon": "inv_potion_92",
+    "screenshot": {},
+    "jsonequip": {
+      "agi": 8,
+      "avgbuyout": 4199,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 18,
+      "sellprice": 35
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3391": {
+    "name_dede": "Elixier der Ogerstärke",
+    "quality": 1,
+    "icon": "inv_potion_57",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1773,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 20,
+      "sellprice": 20,
+      "str": 8
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "5634": {
+    "name_dede": "Trank der freien Aktion",
+    "quality": 1,
+    "icon": "inv_potion_04",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 10750,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 20,
+      "sellprice": 75
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3827": {
+    "name_dede": "Manatrank",
+    "quality": 1,
+    "icon": "inv_potion_72",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 871,
+      "buyprice": 480,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 22,
+      "sellprice": 120
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3818": {
+    "name_dede": "Blassblatt",
+    "quality": 1,
+    "icon": "inv_misc_herb_12",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4554,
+      "itemSquishEraId": 0,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3823": {
+    "name_dede": "Geringer Unsichtbarkeitstrank",
+    "quality": 1,
+    "icon": "inv_potion_18",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 8695,
+      "cooldown": 600000,
+      "itemSquishEraId": 0,
+      "reqlevel": 23,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3824": {
+    "name_dede": "Schattenöl",
+    "quality": 1,
+    "icon": "inv_potion_23",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 38889,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "reqlevel": 24,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4402": {
+    "name_dede": "Kleiner Flammenbeutel",
+    "quality": 1,
+    "icon": "inv_misc_organ_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 10344,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6049": {
+    "name_dede": "Feuerschutztrank",
+    "quality": 1,
+    "icon": "inv_potion_16",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 15465,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 23,
+      "sellprice": 170
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3821": {
+    "name_dede": "Golddorn",
+    "quality": 1,
+    "icon": "inv_misc_herb_15",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2466,
+      "itemSquishEraId": 0,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3825": {
+    "name_dede": "Elixier der geringen Seelenstärke",
+    "quality": 1,
+    "icon": "inv_potion_43",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 10815,
+      "cooldown": 3000,
+      "health": 120,
+      "itemSquishEraId": 0,
+      "reqlevel": 25,
+      "sellprice": 110
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "5637": {
+    "name_dede": "Großer Fangzahn",
+    "quality": 1,
+    "icon": "inv_misc_bone_08",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 993,
+      "itemSquishEraId": 0,
+      "sellprice": 75
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "5633": {
+    "name_dede": "Großer Wuttrank",
+    "quality": 1,
+    "icon": "inv_potion_21",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3085,
+      "classes": 1025,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 25,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3357": {
+    "name_dede": "Lebenswurz",
+    "quality": 1,
+    "icon": "inv_misc_root_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 587,
+      "buyprice": 300,
+      "itemSquishEraId": 0,
+      "sellprice": 75
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3826": {
+    "name_dede": "Trollblutelixier",
+    "quality": 1,
+    "icon": "inv_potion_80",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2615,
+      "cooldown": 3000,
+      "healthrgn": 12,
+      "itemSquishEraId": 0,
+      "reqlevel": 26,
+      "sellprice": 105
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8949": {
+    "name_dede": "Elixier der Beweglichkeit",
+    "quality": 1,
+    "icon": "inv_potion_93",
+    "screenshot": {},
+    "jsonequip": {
+      "agi": 15,
+      "avgbuyout": 4716,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 27,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3819": {
+    "name_dede": "Winterbiss",
+    "quality": 1,
+    "icon": "inv_misc_flower_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 8893,
+      "itemSquishEraId": 0,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6050": {
+    "name_dede": "Frostschutztrank",
+    "quality": 1,
+    "icon": "inv_potion_13",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 8939,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 28,
+      "sellprice": 300
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3358": {
+    "name_dede": "Khadgars Schnurrbart",
+    "quality": 1,
+    "icon": "inv_misc_herb_08",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 832,
+      "buyprice": 700,
+      "itemSquishEraId": 0,
+      "sellprice": 175
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "17708": {
+    "name_dede": "Elixier der Frostmacht",
+    "quality": 1,
+    "icon": "inv_potion_76",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 35498,
+      "cooldown": 3000,
+      "frosplpwr": 15,
+      "itemSquishEraId": 0,
+      "reqlevel": 28,
+      "sellprice": 35
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6052": {
+    "name_dede": "Naturschutztrank",
+    "quality": 1,
+    "icon": "inv_potion_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4511,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 28,
+      "sellprice": 300
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8951": {
+    "name_dede": "Elixier der Verteidigung",
+    "quality": 1,
+    "icon": "inv_potion_65",
+    "screenshot": {},
+    "jsonequip": {
+      "armor": 250,
+      "avgbuyout": 6034,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 29,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3828": {
+    "name_dede": "Trunk der Entdeckung geringer Unsichtbarkeit",
+    "quality": 1,
+    "icon": "inv_potion_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3803,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 29,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3829": {
+    "name_dede": "Frostöl",
+    "quality": 1,
+    "icon": "inv_potion_20",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 25575,
+      "cooldown": 1000,
+      "itemSquishEraId": 0,
+      "reqlevel": 30,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10592": {
+    "name_dede": "Katzenaugentrunk",
+    "quality": 1,
+    "icon": "inv_potion_36",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4018,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 30,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6149": {
+    "name_dede": "Großer Manatrank",
+    "quality": 1,
+    "icon": "inv_potion_73",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2347,
+      "buyprice": 480,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 31,
+      "sellprice": 120
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4625": {
+    "name_dede": "Feuerblüte",
+    "quality": 1,
+    "icon": "inv_misc_herb_19",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4418,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8925": {
+    "name_dede": "Kristallphiole",
+    "quality": 1,
+    "icon": "inv_potion_86",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1918,
+      "buyprice": 2500,
+      "itemSquishEraId": 0,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8956": {
+    "name_dede": "Öl des Feuerbrandes",
+    "quality": 1,
+    "icon": "inv_potion_11",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 9192,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 31,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9260": {
+    "name_dede": "Flüchtiger Rum",
+    "quality": 1,
+    "icon": "inv_drink_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4851,
+      "buyprice": 1600,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9061": {
+    "name_dede": "Goblin-Raketentreibstoff",
+    "quality": 1,
+    "icon": "inv_cask_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 21400,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8831": {
+    "name_dede": "Lila Lotus",
+    "quality": 1,
+    "icon": "inv_misc_herb_17",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1169,
+      "classes": 1535,
+      "itemSquishEraId": 0,
+      "sellprice": 300
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9036": {
+    "name_dede": "Magiewiderstandstrank",
+    "quality": 1,
+    "icon": "inv_potion_120",
+    "screenshot": {},
+    "jsonequip": {
+      "arcres": 50,
+      "avgbuyout": 4535,
+      "cooldown": 120000,
+      "firres": 50,
+      "frores": 50,
+      "holres": 50,
+      "itemSquishEraId": 0,
+      "natres": 50,
+      "reqlevel": 32,
+      "sellprice": 20,
+      "shares": 50
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7067": {
+    "name_dede": "Elementarerde",
+    "quality": 1,
+    "icon": "inv_ore_iron_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 20687,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9030": {
+    "name_dede": "Regenerationstrank",
+    "quality": 1,
+    "icon": "inv_potion_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 25200,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 32,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3858": {
+    "name_dede": "Mithrilerz",
+    "quality": 1,
+    "icon": "inv_ore_mithril_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1469,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4623": {
+    "name_dede": "Geringer Steinschildtrank",
+    "quality": 1,
+    "icon": "inv_potion_67",
+    "screenshot": {},
+    "jsonequip": {
+      "armor": 1000,
+      "avgbuyout": 4100,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 33,
+      "sellprice": 375
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7972": {
+    "name_dede": "Sekret des Untodes",
+    "quality": 1,
+    "icon": "inv_misc_slime_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 563,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18294": {
+    "name_dede": "Trunk der verbesserten Wasseratmung",
+    "quality": 1,
+    "icon": "inv_potion_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3465,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 35,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8153": {
+    "name_dede": "Wildranke",
+    "quality": 1,
+    "icon": "inv_misc_herb_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5598,
+      "itemSquishEraId": 0,
+      "sellprice": 5
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9144": {
+    "name_dede": "Wildrankentrank",
+    "quality": 1,
+    "icon": "inv_potion_34",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2998,
+      "cooldown": 120000,
+      "health": 750,
+      "itemSquishEraId": 0,
+      "reqlevel": 35,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3575": {
+    "name_dede": "Eisenbarren",
+    "quality": 1,
+    "icon": "inv_ingot_iron",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1360,
+      "itemSquishEraId": 0,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3577": {
+    "name_dede": "Goldbarren",
+    "quality": 2,
+    "icon": "inv_ingot_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1637,
+      "itemSquishEraId": 0,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3860": {
+    "name_dede": "Mithrilbarren",
+    "quality": 1,
+    "icon": "inv_ingot_06",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2168,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "6037": {
+    "name_dede": "Echtsilberbarren",
+    "quality": 2,
+    "icon": "inv_ingot_08",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3164,
+      "itemSquishEraId": 0,
+      "sellprice": 1250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9262": {
+    "name_dede": "Schwarzes Vitriol",
+    "quality": 1,
+    "icon": "inv_misc_gem_sapphire_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2154,
+      "itemSquishEraId": 0,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9149": {
+    "name_dede": "Stein der Weisen",
+    "quality": 1,
+    "icon": "inv_misc_orb_01",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12190": {
+    "name_dede": "Trank des traumlosen Schlafs",
+    "quality": 1,
+    "icon": "inv_potion_83",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1514,
+      "cooldown": 120000,
+      "healthrgn": 300,
+      "itemSquishEraId": 0,
+      "manargn": 300,
+      "reqlevel": 35,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8836": {
+    "name_dede": "Arthas' Tränen",
+    "quality": 1,
+    "icon": "inv_misc_herb_13",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 760,
+      "itemSquishEraId": 0,
+      "sellprice": 95
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9154": {
+    "name_dede": "Trunk der Untotenentdeckung",
+    "quality": 1,
+    "icon": "inv_potion_53",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 338,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 36,
+      "sellprice": 300
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8839": {
+    "name_dede": "Blindkraut",
+    "quality": 1,
+    "icon": "inv_misc_herb_14",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5418,
+      "itemSquishEraId": 0,
+      "sellprice": 375
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9155": {
+    "name_dede": "Arkanes Elixier",
+    "quality": 1,
+    "icon": "inv_potion_30",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 9495,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 37,
+      "sellprice": 400,
+      "spldmg": 20
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9179": {
+    "name_dede": "Elixier der großen Intelligenz",
+    "quality": 1,
+    "icon": "inv_potion_10",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5021,
+      "cooldown": 3000,
+      "int": 25,
+      "itemSquishEraId": 0,
+      "reqlevel": 37,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8845": {
+    "name_dede": "Geisterpilz",
+    "quality": 1,
+    "icon": "inv_mushroom_08",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 12240,
+      "buyprice": 1500,
+      "itemSquishEraId": 0,
+      "sellprice": 375
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8838": {
+    "name_dede": "Sonnengras",
+    "quality": 1,
+    "icon": "inv_misc_herb_18",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2527,
+      "itemSquishEraId": 0,
+      "sellprice": 60
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9172": {
+    "name_dede": "Unsichtbarkeitstrank",
+    "quality": 1,
+    "icon": "inv_potion_25",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 20939,
+      "cooldown": 600000,
+      "itemSquishEraId": 0,
+      "reqlevel": 37,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9088": {
+    "name_dede": "Arthas' Gabe",
+    "quality": 1,
+    "icon": "inv_potion_28",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 13731,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 38,
+      "sellprice": 250,
+      "shares": 10
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9187": {
+    "name_dede": "Elixier der großen Beweglichkeit",
+    "quality": 1,
+    "icon": "inv_potion_94",
+    "screenshot": {},
+    "jsonequip": {
+      "agi": 25,
+      "avgbuyout": 7619,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 38,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9197": {
+    "name_dede": "Trunk der Traumvision",
+    "quality": 1,
+    "icon": "inv_potion_14",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3113,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 38,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8846": {
+    "name_dede": "Gromsblut",
+    "quality": 1,
+    "icon": "inv_misc_herb_16",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 6491,
+      "buyprice": 1000,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9206": {
+    "name_dede": "Elixier der großen Stärke",
+    "quality": 1,
+    "icon": "inv_potion_59",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 13338,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 48,
+      "sellprice": 700,
+      "str": 25
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4342": {
+    "name_dede": "Lila Farbstoff",
+    "quality": 1,
+    "icon": "inv_potion_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 6913,
+      "buyprice": 2500,
+      "itemSquishEraId": 0,
+      "sellprice": 625
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9210": {
+    "name_dede": "Geisterfarbstoff",
+    "quality": 1,
+    "icon": "inv_poison_mindnumbing",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 28899,
+      "itemSquishEraId": 0,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13422": {
+    "name_dede": "Steinschuppenaal",
+    "quality": 1,
+    "icon": "inv_misc_fish_11",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 4896,
+      "itemSquishEraId": 0,
+      "sellprice": 10
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13423": {
+    "name_dede": "Steinschuppenöl",
+    "quality": 1,
+    "icon": "inv_potion_68",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 9200,
+      "itemSquishEraId": 0,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "21546": {
+    "name_dede": "Elixier der heiligen Kraft",
+    "quality": 1,
+    "icon": "inv_potion_62",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 42859,
+      "cooldown": 3000,
+      "holsplpwr": 40,
+      "itemSquishEraId": 0,
+      "reqlevel": 40,
+      "sellprice": 35
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9264": {
+    "name_dede": "Elixier der Schattenmacht",
+    "quality": 1,
+    "icon": "inv_potion_48",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 40788,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 40,
+      "sellprice": 35,
+      "shasplpwr": 40
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9224": {
+    "name_dede": "Trank des Dämonentötens",
+    "quality": 1,
+    "icon": "inv_potion_27",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 20998,
+      "itemSquishEraId": 0,
+      "reqlevel": 40,
+      "sellprice": 700
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "9233": {
+    "name_dede": "Trunk der Dämonenentdeckung",
+    "quality": 1,
+    "icon": "inv_potion_53",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1700,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 40,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "3387": {
+    "name_dede": "Begrenzter Unverwundbarkeitstrank",
+    "quality": 1,
+    "icon": "inv_potion_62",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 32906,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 45,
+      "sellprice": 30
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13442": {
+    "name_dede": "Mächtiger Wuttrank",
+    "quality": 1,
+    "icon": "inv_potion_41",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 23037,
+      "classes": 1025,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 46,
+      "sellprice": 500,
+      "str": 60
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13443": {
+    "name_dede": "Überragender Manatrank",
+    "quality": 1,
+    "icon": "inv_potion_74",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 12644,
+      "buyprice": 1600,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 41,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13445": {
+    "name_dede": "Elixier der großen Verteidigung",
+    "quality": 1,
+    "icon": "inv_potion_66",
+    "screenshot": {},
+    "jsonequip": {
+      "armor": 450,
+      "avgbuyout": 19690,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 43,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13463": {
+    "name_dede": "Traumblatt",
+    "quality": 1,
+    "icon": "inv_misc_herb_dreamfoil",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 9495,
+      "buyprice": 400,
+      "itemSquishEraId": 0,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13466": {
+    "name_dede": "Pestblüte",
+    "quality": 1,
+    "icon": "inv_misc_herb_plaguebloom",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 13800,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13447": {
+    "name_dede": "Elixier der Weisen",
+    "quality": 1,
+    "icon": "inv_potion_29",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 19598,
+      "cooldown": 3000,
+      "int": 18,
+      "itemSquishEraId": 0,
+      "reqlevel": 38,
+      "sellprice": 1250,
+      "spi": 18
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12359": {
+    "name_dede": "Thoriumbarren",
+    "quality": 1,
+    "icon": "inv_ingot_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3226,
+      "itemSquishEraId": 0,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12363": {
+    "name_dede": "Arkankristall",
+    "quality": 2,
+    "icon": "inv_misc_gem_topaz_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 472230,
+      "itemSquishEraId": 0,
+      "sellprice": 2000
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12360": {
+    "name_dede": "Arkanitbarren",
+    "quality": 2,
+    "icon": "inv_misc_stonetablet_05",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 541000,
+      "itemSquishEraId": 0,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7076": {
+    "name_dede": "Essenz der Erde",
+    "quality": 2,
+    "icon": "spell_nature_strengthofearthtotem02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 39318,
+      "buyprice": 1600,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12803": {
+    "name_dede": "Essenz des Lebens",
+    "quality": 2,
+    "icon": "spell_nature_abolishmagic",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 21700,
+      "itemSquishEraId": 0,
+      "sellprice": 500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7080": {
+    "name_dede": "Essenz des Wassers",
+    "quality": 2,
+    "icon": "spell_nature_acid_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 126224,
+      "buyprice": 1600,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7078": {
+    "name_dede": "Essenz des Feuers",
+    "quality": 2,
+    "icon": "spell_fire_volcano",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 29548,
+      "buyprice": 1600,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7082": {
+    "name_dede": "Essenz der Luft",
+    "quality": 2,
+    "icon": "spell_nature_earthbind",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 176732,
+      "buyprice": 1600,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12808": {
+    "name_dede": "Essenz des Untodes",
+    "quality": 2,
+    "icon": "spell_shadow_shadetruesight",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 13600,
+      "itemSquishEraId": 0,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13453": {
+    "name_dede": "Elixier der rohen Gewalt",
+    "quality": 1,
+    "icon": "inv_potion_40",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 36800,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 45,
+      "sellprice": 1250,
+      "sta": 18,
+      "str": 18
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13464": {
+    "name_dede": "Goldener Sansam",
+    "quality": 1,
+    "icon": "inv_misc_herb_sansamroot",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 484,
+      "buyprice": 400,
+      "itemSquishEraId": 0,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "20002": {
+    "name_dede": "Großer Trank des traumlosen Schlafs",
+    "quality": 1,
+    "icon": "inv_potion_83",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 21899,
+      "cooldown": 120000,
+      "healthrgn": 525,
+      "itemSquishEraId": 0,
+      "manargn": 525,
+      "reqlevel": 55,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "20007": {
+    "name_dede": "Magierblutelixier",
+    "quality": 1,
+    "icon": "inv_potion_137",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 68920,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "manargn": 12,
+      "reqlevel": 40,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13465": {
+    "name_dede": "Bergsilberweisling",
+    "quality": 1,
+    "icon": "inv_misc_herb_mountainsilversage",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 9929,
+      "itemSquishEraId": 0,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13452": {
+    "name_dede": "Elixier des Mungos",
+    "quality": 1,
+    "icon": "inv_potion_32",
+    "screenshot": {},
+    "jsonequip": {
+      "agi": 25,
+      "avgbuyout": 49861,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 46,
+      "sellprice": 1250
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10620": {
+    "name_dede": "Thoriumerz",
+    "quality": 1,
+    "icon": "inv_ore_thorium_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2076,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13455": {
+    "name_dede": "Großer Steinschildtrank",
+    "quality": 1,
+    "icon": "inv_potion_69",
+    "screenshot": {},
+    "jsonequip": {
+      "armor": 2000,
+      "avgbuyout": 30800,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 46,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13454": {
+    "name_dede": "Großes Arkanelixier",
+    "quality": 1,
+    "icon": "inv_potion_109",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 46276,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 47,
+      "sellprice": 750,
+      "spldmg": 35
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13467": {
+    "name_dede": "Eiskappe",
+    "quality": 1,
+    "icon": "inv_misc_herb_icecap",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5132,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13462": {
+    "name_dede": "Läuterungstrank",
+    "quality": 1,
+    "icon": "inv_potion_31",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 12580,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 47,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "10286": {
+    "name_dede": "Herz der Wildnis",
+    "quality": 1,
+    "icon": "inv_misc_herb_08",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 800,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "20008": {
+    "name_dede": "Trank der lebhaften Aktion",
+    "quality": 1,
+    "icon": "inv_potion_07",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 69483,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 47,
+      "sellprice": 600
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "20004": {
+    "name_dede": "Erhebliches Trollblutelixier",
+    "quality": 1,
+    "icon": "inv_potion_82",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 40740,
+      "cooldown": 3000,
+      "healthrgn": 20,
+      "itemSquishEraId": 0,
+      "reqlevel": 53,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "11176": {
+    "name_dede": "Traumstaub",
+    "quality": 1,
+    "icon": "inv_enchant_dustdream",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 2902,
+      "itemSquishEraId": 0,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": -2147454972,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13461": {
+    "name_dede": "Großer Arkanschutztrank",
+    "quality": 1,
+    "icon": "inv_potion_83",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 18350,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 48,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7068": {
+    "name_dede": "Elementarfeuer",
+    "quality": 1,
+    "icon": "spell_fire_fire",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 24850,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13457": {
+    "name_dede": "Großer Feuerschutztrank",
+    "quality": 1,
+    "icon": "inv_potion_24",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 46030,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 48,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7070": {
+    "name_dede": "Elementarwasser",
+    "quality": 1,
+    "icon": "inv_potion_03",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 8333,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13456": {
+    "name_dede": "Großer Frostschutztrank",
+    "quality": 1,
+    "icon": "inv_potion_20",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 48256,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 48,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13458": {
+    "name_dede": "Großer Naturschutztrank",
+    "quality": 1,
+    "icon": "inv_potion_22",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 50400,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 48,
+      "sellprice": 750
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13459": {
+    "name_dede": "Großer Schattenschutztrank",
+    "quality": 1,
+    "icon": "inv_potion_23",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 82987,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 48,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13444": {
+    "name_dede": "Erheblicher Manatrank",
+    "quality": 1,
+    "icon": "inv_potion_76",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 31678,
+      "buyprice": 6000,
+      "cooldown": 120000,
+      "itemSquishEraId": 0,
+      "reqlevel": 49,
+      "sellprice": 1500
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "7077": {
+    "name_dede": "Herz des Feuers",
+    "quality": 1,
+    "icon": "spell_fire_lavaspawn",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3033,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18256": {
+    "name_dede": "Magieerfüllte Phiole",
+    "quality": 1,
+    "icon": "inv_potion_87",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 27599,
+      "buyprice": 30000,
+      "itemSquishEraId": 0,
+      "sellprice": 1500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "18253": {
+    "name_dede": "Erheblicher Verjüngungstrank",
+    "quality": 1,
+    "icon": "inv_potion_47",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 52998,
+      "cooldown": 120000,
+      "health": 1600,
+      "itemSquishEraId": 0,
+      "reqlevel": 50,
+      "sellprice": 15
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13468": {
+    "name_dede": "Schwarzer Lotus",
+    "quality": 2,
+    "icon": "inv_misc_herb_blacklotus",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 538989,
+      "itemSquishEraId": 0,
+      "sellprice": 1000
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13503": {
+    "name_dede": "Alchimistenstein",
+    "quality": 2,
+    "icon": "inv_misc_orb_02",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 45,
+      "reqskill": 171,
+      "reqskillrank": 275,
+      "sellprice": 25000,
+      "slotbak": 12,
+      "spi": 4
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13510": {
+    "name_dede": "Fläschchen der Titanen",
+    "quality": 1,
+    "icon": "inv_potion_62",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1147500,
+      "cooldown": 3000,
+      "health": 1200,
+      "itemSquishEraId": 0,
+      "reqlevel": 50,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13506": {
+    "name_dede": "Fläschchen der Versteinerung",
+    "quality": 1,
+    "icon": "inv_potion_26",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 649500,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 50,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13513": {
+    "name_dede": "Fläschchen mit chromatischem Widerstand",
+    "quality": 1,
+    "icon": "inv_potion_48",
+    "screenshot": {},
+    "jsonequip": {
+      "arcres": 25,
+      "avgbuyout": 319995,
+      "cooldown": 3000,
+      "firres": 25,
+      "frores": 25,
+      "holres": 25,
+      "itemSquishEraId": 0,
+      "natres": 25,
+      "reqlevel": 50,
+      "sellprice": 5000,
+      "shares": 25
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13511": {
+    "name_dede": "Fläschchen mit destillierter Weisheit",
+    "quality": 1,
+    "icon": "inv_potion_97",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1079998,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 50,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13512": {
+    "name_dede": "Fläschchen mit oberster Macht",
+    "quality": 1,
+    "icon": "inv_potion_41",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 849000,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 50,
+      "sellprice": 5000,
+      "spldmg": 150
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "247755": {
+    "name_dede": "Elixier der schwachen Gewalt",
+    "quality": 1,
+    "icon": "inv_potion_77",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "dmg": 1,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "247754": {
+    "name_dede": "Schwaches Arkanelixier",
+    "quality": 1,
+    "icon": "inv_potion_106",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 1,
+      "sellprice": 25,
+      "spldmg": 5
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250344": {
+    "name_dede": "Elixier der schwachen Willenskraft",
+    "quality": 1,
+    "icon": "inv_potion_113",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 5,
+      "sellprice": 25,
+      "spi": 3
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279956": {
+    "name_dede": "Manabrunnen",
+    "quality": 1,
+    "icon": "spell_arcane_manatap",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 171,
+      "reqskillrank": 20
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250339": {
+    "name_dede": "Schwaches Magierblutelixier",
+    "quality": 1,
+    "icon": "trade_alchemy_dpotion_a12",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "manargn": 3,
+      "reqlevel": 5,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250944": {
+    "name_dede": "Schwacher Trank des Heilers",
+    "quality": 1,
+    "icon": "trade_alchemy_dpotion_d13",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 5,
+      "sellprice": 1,
+      "splheal": 8
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250932": {
+    "name_dede": "Schwacher Trank des Zauberschlags",
+    "quality": 1,
+    "icon": "trade_alchemy_dpotion_d14",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 5,
+      "sellprice": 1,
+      "spldmg": 6
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250938": {
+    "name_dede": "Schwacher Trank der Raserei",
+    "quality": 1,
+    "icon": "trade_alchemy_dpotion_d12",
+    "screenshot": {},
+    "jsonequip": {
+      "dmg": 6,
+      "itemSquishEraId": 0,
+      "reqlevel": 5,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250330": {
+    "name_dede": "Schwaches Klerikerelixier",
+    "quality": 1,
+    "icon": "trade_alchemy_dpotion_a17",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 5,
+      "sellprice": 25,
+      "splheal": 10
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249399": {
+    "name_dede": "Gekräuselte Flechte",
+    "quality": 2,
+    "icon": "inv_misc_food_109_honeylichen",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 30
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249409": {
+    "name_dede": "Himmelblauer Farbstoff",
+    "quality": 2,
+    "icon": "inv_inscription_inkcerulean01",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249391": {
+    "name_dede": "Pyrit",
+    "quality": 2,
+    "icon": "inv_ore_pyrite_nugget",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249410": {
+    "name_dede": "Schwefelsäure",
+    "quality": 2,
+    "icon": "trade_alchemy",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250345": {
+    "name_dede": "Elixier der geringen Willenskraft",
+    "quality": 1,
+    "icon": "inv_potion_114",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 25,
+      "sellprice": 50,
+      "spi": 6
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250340": {
+    "name_dede": "Geringes Magierblutelixier",
+    "quality": 1,
+    "icon": "inv_potion_126",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "manargn": 6,
+      "reqlevel": 25,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250945": {
+    "name_dede": "Geringer Trank des Heilers",
+    "quality": 1,
+    "icon": "inv_misc_potionsete",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 15,
+      "sellprice": 1,
+      "splheal": 14
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "247239": {
+    "name_dede": "Geringer verfärbter Heiltrank",
+    "quality": 1,
+    "icon": "inv_potion_36",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 120000,
+      "health": 320,
+      "itemSquishEraId": 0,
+      "reqlevel": 3,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250933": {
+    "name_dede": "Geringer Trank des Zauberschlags",
+    "quality": 1,
+    "icon": "inv_misc_potionsetc",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 15,
+      "sellprice": 25,
+      "spldmg": 9
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "11083": {
+    "name_dede": "Seelenstaub",
+    "quality": 1,
+    "icon": "inv_enchant_dustsoul",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 668,
+      "itemSquishEraId": 0,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": -2147454972,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "210708": {
+    "name_dede": "Elixier der verschmolzenen Reue",
+    "quality": 1,
+    "icon": "inv_potion_19",
+    "screenshot": {},
+    "jsonequip": {
+      "agi": 1,
+      "avgbuyout": 38897,
+      "cooldown": 3000,
+      "dmgrange": 1,
+      "int": 1,
+      "itemSquishEraId": 0,
+      "reqlevel": 20,
+      "sellprice": 40,
+      "spi": 1,
+      "sta": 1,
+      "str": 1
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250939": {
+    "name_dede": "Geringer Trank der Raserei",
+    "quality": 1,
+    "icon": "inv_misc_potionsetf",
+    "screenshot": {},
+    "jsonequip": {
+      "dmg": 9,
+      "itemSquishEraId": 0,
+      "reqlevel": 15,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250353": {
+    "name_dede": "Elixier der geringen Intelligenz",
+    "quality": 1,
+    "icon": "inv_potion_43",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "int": 6,
+      "itemSquishEraId": 0,
+      "reqlevel": 25,
+      "sellprice": 50
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250331": {
+    "name_dede": "Geringes Klerikerelixier",
+    "quality": 1,
+    "icon": "inv_potion_128",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 25,
+      "sellprice": 50,
+      "splheal": 20
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250346": {
+    "name_dede": "Elixier der Willenskraft",
+    "quality": 1,
+    "icon": "inv_potion_115",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 45,
+      "sellprice": 75,
+      "spi": 10
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250342": {
+    "name_dede": "Geringes Arkanelixier",
+    "quality": 1,
+    "icon": "inv_potion_107",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 25,
+      "sellprice": 50,
+      "spldmg": 15
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249424": {
+    "name_dede": "Rosenkappe",
+    "quality": 2,
+    "icon": "inv_misc_herb_talandrasrose",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 95
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249430": {
+    "name_dede": "Magentafarbener Farbstoff",
+    "quality": 2,
+    "icon": "inv_inscription_inkpurple02",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250946": {
+    "name_dede": "Trank des Heilers",
+    "quality": 1,
+    "icon": "inv_potiond_6",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 25,
+      "sellprice": 1,
+      "splheal": 28
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "247240": {
+    "name_dede": "Verfärbter Heiltrank",
+    "quality": 1,
+    "icon": "inv_potion_37",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 120000,
+      "health": 640,
+      "itemSquishEraId": 0,
+      "reqlevel": 12,
+      "sellprice": 75
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250354": {
+    "name_dede": "Elixier der Intelligenz",
+    "quality": 1,
+    "icon": "inv_potion_44",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "int": 10,
+      "itemSquishEraId": 0,
+      "reqlevel": 45,
+      "sellprice": 75
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279970": {
+    "name_dede": "Gärbehälter",
+    "quality": 1,
+    "icon": "inv_alchemy_90_cauldron",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 171,
+      "reqskillrank": 140
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250934": {
+    "name_dede": "Trank des Zauberschlags",
+    "quality": 1,
+    "icon": "inv_potiond_2",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 25,
+      "sellprice": 25,
+      "spldmg": 14
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250940": {
+    "name_dede": "Trank der Raserei",
+    "quality": 1,
+    "icon": "inv_potiond_3",
+    "screenshot": {},
+    "jsonequip": {
+      "dmg": 14,
+      "itemSquishEraId": 0,
+      "reqlevel": 25,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250332": {
+    "name_dede": "Klerikerelixier",
+    "quality": 1,
+    "icon": "inv_potion_139",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 45,
+      "sellprice": 75,
+      "splheal": 30
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250334": {
+    "name_dede": "Elixier der Seelenstärke",
+    "quality": 1,
+    "icon": "inv_potion_44",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "health": 200,
+      "itemSquishEraId": 0,
+      "reqlevel": 45,
+      "sellprice": 75
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250349": {
+    "name_dede": "Elixier der Stärke",
+    "quality": 1,
+    "icon": "inv_potion_58",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 45,
+      "sellprice": 75,
+      "str": 10
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250347": {
+    "name_dede": "Elixier der großen Willenskraft",
+    "quality": 1,
+    "icon": "inv_potion_116",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 100,
+      "spi": 18
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "247241": {
+    "name_dede": "Großer verfärbter Heiltrank",
+    "quality": 1,
+    "icon": "inv_potion_38",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 120000,
+      "health": 1040,
+      "itemSquishEraId": 0,
+      "reqlevel": 21,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250341": {
+    "name_dede": "Großes Magierblutelixier",
+    "quality": 1,
+    "icon": "inv_potion_168",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "manargn": 20,
+      "reqlevel": 55,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250947": {
+    "name_dede": "Großer Trank des Heilers",
+    "quality": 1,
+    "icon": "inv_potionf_3",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 35,
+      "sellprice": 1,
+      "splheal": 38
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250952": {
+    "name_dede": "Trank des desorientierenden Dunstes",
+    "quality": 1,
+    "icon": "trade_alchemy_dpotion_c24",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 45,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250935": {
+    "name_dede": "Großer Trank des Zauberschlags",
+    "quality": 1,
+    "icon": "inv_potionf_4",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 35,
+      "sellprice": 1,
+      "spldmg": 20
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250941": {
+    "name_dede": "Großer Trank der Raserei",
+    "quality": 1,
+    "icon": "inv_potionf_1",
+    "screenshot": {},
+    "jsonequip": {
+      "dmg": 20,
+      "itemSquishEraId": 0,
+      "reqlevel": 35,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250333": {
+    "name_dede": "Großes Klerikerelixier",
+    "quality": 1,
+    "icon": "inv_potion_150",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 100,
+      "splheal": 40
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250327": {
+    "name_dede": "Trunk der Raubtierinstinkte",
+    "quality": 1,
+    "icon": "trade_alchemy_dpotion_d12",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 45,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "213371": {
+    "name_dede": "Kiste mit besudelter Gniodin-Lösung",
+    "quality": 2,
+    "icon": "inv_box_04",
+    "screenshot": {},
+    "jsonequip": {
+      "dmgrange": 1,
+      "itemSquishEraId": 0
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250335": {
+    "name_dede": "Elixier der großen Seelenstärke",
+    "quality": 1,
+    "icon": "inv_potion_45",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "health": 400,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 100
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "217398": {
+    "name_dede": "Geringes Arkanelixier",
+    "quality": 1,
+    "icon": "inv_potion_108",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 7499,
+      "cooldown": 3000,
+      "dmgrange": 1,
+      "itemSquishEraId": 0,
+      "reqlevel": 28,
+      "sellprice": 400,
+      "spldmg": 14
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "215430": {
+    "name_dede": "Ablagerung von Gnomeregan",
+    "quality": 1,
+    "icon": "inv_misc_powder_feliron",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 5147,
+      "dmgrange": 1,
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249274": {
+    "name_dede": "Würgerebe",
+    "quality": 2,
+    "icon": "inv_herbalism_70_nightmaredreamleaf",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "249431": {
+    "name_dede": "Viridiangrüner Farbstoff",
+    "quality": 2,
+    "icon": "inv_inscription_inkgreen01",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 375
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "247242": {
+    "name_dede": "Überragender verfärbter Heiltrank",
+    "quality": 1,
+    "icon": "inv_potion_39",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 120000,
+      "health": 1600,
+      "itemSquishEraId": 0,
+      "reqlevel": 35,
+      "sellprice": 250
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250948": {
+    "name_dede": "Überragender Trank des Heilers",
+    "quality": 1,
+    "icon": "inv_misc_potiona3",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 45,
+      "sellprice": 1,
+      "splheal": 50
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250936": {
+    "name_dede": "Überragender Trank des Zauberschlags",
+    "quality": 1,
+    "icon": "inv_misc_potiona2",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 45,
+      "sellprice": 1,
+      "spldmg": 28
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250942": {
+    "name_dede": "Überragender Trank der Raserei",
+    "quality": 1,
+    "icon": "inv_misc_potiona6",
+    "screenshot": {},
+    "jsonequip": {
+      "dmg": 28,
+      "itemSquishEraId": 0,
+      "reqlevel": 45,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250953": {
+    "name_dede": "Drachenfeuertrank",
+    "quality": 1,
+    "icon": "inv_potion_33",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 35,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "221021": {
+    "name_dede": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "220688": {
+    "name_dede": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "221312": {
+    "name_dede": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250329": {
+    "name_dede": "Elixier der Phalanx",
+    "quality": 1,
+    "icon": "trade_alchemy_dpotion_a25",
+    "screenshot": {},
+    "jsonequip": {
+      "armor": 500,
+      "cooldown": 3000,
+      "health": 400,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "246948": {
+    "name_dede": "Destilliertes Feuerwasser",
+    "quality": 1,
+    "icon": "inv_potion_92",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 60000,
+      "itemSquishEraId": 0,
+      "mleatkpwr": 35,
+      "reqlevel": 45,
+      "sellprice": 200
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250951": {
+    "name_dede": "Trank des ätzenden Dunstes",
+    "quality": 1,
+    "icon": "trade_alchemy_dpotion_c26",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 45,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "251291": {
+    "name_dede": "Schwerer Thoriumbarren",
+    "quality": 2,
+    "icon": "item_elementiumbar",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 2500
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "248819": {
+    "name_dede": "Teufelskristall",
+    "quality": 2,
+    "icon": "inv_misc_uncutgemnormal1",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 3000
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "251290": {
+    "name_dede": "Legionitbarren",
+    "quality": 2,
+    "icon": "inv_blacksmithing_70_demonsteelbar",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 5000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250328": {
+    "name_dede": "Elixier der Gerissenheit",
+    "quality": 1,
+    "icon": "inv_potion_166",
+    "screenshot": {},
+    "jsonequip": {
+      "agi": 25,
+      "cooldown": 3000,
+      "int": 25,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250338": {
+    "name_dede": "Elixier der Weisen",
+    "quality": 1,
+    "icon": "inv_potion_165",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 125,
+      "spi": 25
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250350": {
+    "name_dede": "Elixier der Wildheit",
+    "quality": 1,
+    "icon": "inv_potion_161",
+    "screenshot": {},
+    "jsonequip": {
+      "agi": 18,
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 125,
+      "str": 18
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250348": {
+    "name_dede": "Elixier des Wals",
+    "quality": 1,
+    "icon": "inv_potion_163",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 125,
+      "spi": 25
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250950": {
+    "name_dede": "Trank des giftigen Blutes",
+    "quality": 1,
+    "icon": "inv_potion_19",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 30,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250337": {
+    "name_dede": "Elixier der Eule",
+    "quality": 1,
+    "icon": "inv_potion_164",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "int": 25,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250949": {
+    "name_dede": "Erheblicher Trank des Heilers",
+    "quality": 1,
+    "icon": "inv_potione_2",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 1,
+      "splheal": 75
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250954": {
+    "name_dede": "Trank des Elementarentzugs",
+    "quality": 1,
+    "icon": "inv_alchemy_80_potion02blue",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 40,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250955": {
+    "name_dede": "Trank des Wildtierschlachtens",
+    "quality": 1,
+    "icon": "inv_alchemy_80_potion02yellow",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 40,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250336": {
+    "name_dede": "Elixier der bösartigen Regeneration",
+    "quality": 1,
+    "icon": "trade_alchemy_dpotion_a22",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "healthrgn": 9,
+      "itemSquishEraId": 0,
+      "manargn": 10,
+      "reqlevel": 55,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250343": {
+    "name_dede": "Elixier der Naturmacht",
+    "quality": 1,
+    "icon": "inv_potion_97",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "natsplpwr": 40,
+      "reqlevel": 55,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250937": {
+    "name_dede": "Erheblicher Trank des Zauberschlags",
+    "quality": 1,
+    "icon": "inv_potione_4",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 1,
+      "spldmg": 40
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "241650": {
+    "name_dede": "Erheblicher verfärbter Heiltrank",
+    "quality": 1,
+    "icon": "inv_potion_40",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 13985,
+      "cooldown": 120000,
+      "health": 2800,
+      "itemSquishEraId": 0,
+      "reqlevel": 60,
+      "sellprice": 25
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250943": {
+    "name_dede": "Erheblicher Trank der Raserei",
+    "quality": 1,
+    "icon": "inv_potione_6",
+    "screenshot": {},
+    "jsonequip": {
+      "dmg": 40,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "273125": {
+    "name_dede": "Lichs Zeigefinger",
+    "quality": 2,
+    "icon": "inv_misc_bone_10",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 25000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279990": {
+    "name_dede": "Alchimielaboratorium",
+    "quality": 1,
+    "icon": "10prof_portabletable_alchemy01",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 171,
+      "reqskillrank": 300
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "250351": {
+    "name_dede": "Elixier des Grizzlybären",
+    "quality": 1,
+    "icon": "inv_potion_160",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 125,
+      "str": 25
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12938": {
+    "name_dede": "Blut von Helden",
+    "quality": 1,
+    "icon": "inv_potion_33",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "19943": {
+    "name_dede": "Gewaltig viel Mojo",
+    "quality": 1,
+    "icon": "spell_nature_strength",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3085,
+      "itemSquishEraId": 0,
+      "sellprice": 2000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "12804": {
+    "name_dede": "Mächtiges Mojo",
+    "quality": 1,
+    "icon": "spell_nature_astralrecalgroup",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 3486,
+      "itemSquishEraId": 0,
+      "sellprice": 2000
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "19931": {
+    "name_dede": "Mojowahnsinn der Gurubashi",
+    "quality": 3,
+    "icon": "inv_poison_mindnumbing",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 374962,
+      "itemSquishEraId": 0
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "234012": {
+    "name_dede": "Schwarmdistel",
+    "quality": 1,
+    "icon": "inv_misc_spineleaf-_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 26181,
+      "itemSquishEraId": 0,
+      "sellprice": 15
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "234011": {
+    "name_dede": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "16203": {
+    "name_dede": "Große ewige Essenz",
+    "quality": 2,
+    "icon": "inv_enchant_essenceeternallarge",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 61477,
+      "cooldown": 500,
+      "itemSquishEraId": 0,
+      "sellprice": 1
+    },
+    "attainable": 0,
+    "flags2": -2147454972,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "234006": {
+    "name_dede": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "234010": {
+    "name_dede": "",
+    "quality": -1,
+    "icon": "",
+    "screenshot": {},
+    "jsonequip": {},
+    "attainable": 0,
+    "flags2": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "248822": {
+    "name_dede": "Todeslotus",
+    "quality": 2,
+    "icon": "inv_nulllotus_void",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 1500
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "248821": {
+    "name_dede": "Dämonensalbei",
+    "quality": 1,
+    "icon": "inv_misc_herb_heartblossom",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 225
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "274274": {
+    "name_dede": "Fläschchen der natürlichen Aggression",
+    "quality": 2,
+    "icon": "inv_potionc_1",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 5000,
+      "sta": 60
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "274273": {
+    "name_dede": "Fläschchen der natürlichen Genauigkeit",
+    "quality": 2,
+    "icon": "inv_potionc_5",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 5000,
+      "sta": 60
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "248823": {
+    "name_dede": "Mahrblatt",
+    "quality": 1,
+    "icon": "item_herbc",
+    "screenshot": {},
+    "jsonequip": {
+      "itemSquishEraId": 0,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "274275": {
+    "name_dede": "Fläschchen der natürlichen Präzision",
+    "quality": 2,
+    "icon": "inv_potionc_3",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 5000,
+      "sta": 60
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "274276": {
+    "name_dede": "Fläschchen der natürlichen Schnelligkeit",
+    "quality": 2,
+    "icon": "inv_potionc_4",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3000,
+      "itemSquishEraId": 0,
+      "reqlevel": 55,
+      "sellprice": 5000,
+      "sta": 60
+    },
+    "attainable": 0,
+    "flags2": 24576,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  }
+}

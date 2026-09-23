@@ -1,0 +1,4295 @@
+{
+  "2963": {
+    "name_dede": "Leinenstoffballen",
+    "icon": "inv_fabric_linen_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3915": {
+    "name_dede": "Braunes Leinenhemd",
+    "icon": "inv_shirt_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2387": {
+    "name_dede": "Leinenumhang",
+    "icon": "inv_misc_cape_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2393": {
+    "name_dede": "Weißes Leinenhemd",
+    "icon": "inv_shirt_white_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12044": {
+    "name_dede": "Einfache Leinenhose",
+    "icon": "inv_pants_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2385": {
+    "name_dede": "Braune Leinenweste",
+    "icon": "inv_shirt_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8776": {
+    "name_dede": "Leinengürtel",
+    "icon": "inv_belt_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12045": {
+    "name_dede": "Einfache Leinenstiefel",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3914": {
+    "name_dede": "Braune Leinenhose",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7623": {
+    "name_dede": "Braune Leinenrobe",
+    "icon": "inv_chest_cloth_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7624": {
+    "name_dede": "Weiße Leinenrobe",
+    "icon": "inv_chest_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3840": {
+    "name_dede": "Schwere Leinenhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2389": {
+    "name_dede": "Rote Leinenrobe",
+    "icon": "inv_chest_cloth_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2394": {
+    "name_dede": "Blaues Leinenhemd",
+    "icon": "inv_shirt_blue_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8465": {
+    "name_dede": "Einfaches Kleid",
+    "icon": "inv_shirt_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2392": {
+    "name_dede": "Rotes Leinenhemd",
+    "icon": "inv_shirt_red_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3755": {
+    "name_dede": "Leinentasche",
+    "icon": "inv_misc_bag_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3909": {
+    "name_dede": "Schneiderei",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "Ermöglicht einem Schneider, modische Stoffhemden und -rüstungen mit einer maximalen potenziellen Fertigkeit von 150 anzufertigen."
+  },
+  "7630": {
+    "name_dede": "Blaue Leinenweste",
+    "icon": "inv_chest_cloth_37",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7629": {
+    "name_dede": "Rote Leinenweste",
+    "icon": "inv_chest_cloth_40",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3841": {
+    "name_dede": "Grüne Leinenarmschienen",
+    "icon": "inv_bracer_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2397": {
+    "name_dede": "Verstärktes Leinencape",
+    "icon": "inv_misc_cape_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2386": {
+    "name_dede": "Leinenstiefel",
+    "icon": "inv_boots_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2395": {
+    "name_dede": "Barbarische Leinenweste",
+    "icon": "inv_chest_fur",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2396": {
+    "name_dede": "Grünes Leinenhemd",
+    "icon": "inv_shirt_green_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7633": {
+    "name_dede": "Blaue Leinenrobe",
+    "icon": "inv_chest_cloth_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3842": {
+    "name_dede": "Handgenähte Leinenkniehosen",
+    "icon": "inv_pants_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6686": {
+    "name_dede": "Rote Leinentasche",
+    "icon": "inv_misc_bag_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2964": {
+    "name_dede": "Wollstoffballen",
+    "icon": "inv_fabric_wool_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12046": {
+    "name_dede": "Einfacher Kilt",
+    "icon": "inv_pants_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2402": {
+    "name_dede": "Wollcape",
+    "icon": "inv_misc_cape_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3757": {
+    "name_dede": "Wolltasche",
+    "icon": "inv_misc_bag_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3845": {
+    "name_dede": "Leinenschuhe mit weichen Sohlen",
+    "icon": "inv_boots_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2399": {
+    "name_dede": "Grüne Wollweste",
+    "icon": "inv_chest_cloth_39",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3843": {
+    "name_dede": "Schwere Wollhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6521": {
+    "name_dede": "Perlenschnallenumhang",
+    "icon": "inv_misc_cape_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3847": {
+    "name_dede": "Rote Wollstiefel",
+    "icon": "inv_boots_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2401": {
+    "name_dede": "Wollstiefel",
+    "icon": "inv_boots_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3758": {
+    "name_dede": "Grüne Wolltasche",
+    "icon": "inv_misc_bag_10_green",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2406": {
+    "name_dede": "Graues Wollhemd",
+    "icon": "inv_shirt_grey_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7639": {
+    "name_dede": "Blauer Overall",
+    "icon": "inv_shirt_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3844": {
+    "name_dede": "Schwerer Wollumhang",
+    "icon": "inv_misc_cape_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "2403": {
+    "name_dede": "Graue Wollrobe",
+    "icon": "inv_chest_cloth_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3848": {
+    "name_dede": "Doppeltgenähte Wollschultern",
+    "icon": "inv_shoulder_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3850": {
+    "name_dede": "Schwere Wollhose",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8467": {
+    "name_dede": "Weißes Wollkleid",
+    "icon": "inv_shirt_12",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3866": {
+    "name_dede": "Modisches rotes Hemd",
+    "icon": "inv_shirt_red_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7643": {
+    "name_dede": "Große Adeptenrobe",
+    "icon": "inv_chest_cloth_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6688": {
+    "name_dede": "Rote Wolltasche",
+    "icon": "inv_misc_bag_10_red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12047": {
+    "name_dede": "Bunter Kilt",
+    "icon": "inv_pants_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3849": {
+    "name_dede": "Verstärkte Wollschultern",
+    "icon": "inv_shoulder_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7892": {
+    "name_dede": "Modisches blaues Hemd",
+    "icon": "inv_shirt_blue_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "7893": {
+    "name_dede": "Modisches grünes Hemd",
+    "icon": "inv_shirt_green_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3910": {
+    "name_dede": "Schneiderei",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "Ermöglicht einem Schneider, Hemden und Rüstungen, die der letzte Schrei sind, mit einer maximalen potenziellen Fertigkeit von 225 anzufertigen."
+  },
+  "3839": {
+    "name_dede": "Seidenstoffballen",
+    "icon": "inv_fabric_silk_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3855": {
+    "name_dede": "Spinnenseidenstiefel",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3868": {
+    "name_dede": "Phönixhandschuhe",
+    "icon": "inv_gauntlets_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3851": {
+    "name_dede": "Phönixhose",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3852": {
+    "name_dede": "Handschuhe der Meditation",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3869": {
+    "name_dede": "Hellgelbes Hemd",
+    "icon": "inv_shirt_yellow_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6690": {
+    "name_dede": "Geringe Hexerrobe",
+    "icon": "inv_chest_cloth_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3856": {
+    "name_dede": "Spinnenseidenslipper",
+    "icon": "inv_boots_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8758": {
+    "name_dede": "Azurblaue Seidenhose",
+    "icon": "inv_pants_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8760": {
+    "name_dede": "Azurblaue Seidenkapuze",
+    "icon": "inv_helmet_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3854": {
+    "name_dede": "Azurblaue Seidenhandschuhe",
+    "icon": "inv_gauntlets_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8780": {
+    "name_dede": "Hände der Dunkelheit",
+    "icon": "inv_gauntlets_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3859": {
+    "name_dede": "Azurblaue Seidenweste",
+    "icon": "inv_chest_cloth_37",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8782": {
+    "name_dede": "Handschuhe des wahren Glaubens",
+    "icon": "inv_gauntlets_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6692": {
+    "name_dede": "Roben von Arcana",
+    "icon": "inv_chest_cloth_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3813": {
+    "name_dede": "Kleines Seidenpack",
+    "icon": "inv_misc_bag_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3870": {
+    "name_dede": "Dunkles Seidenhemd",
+    "icon": "inv_shirt_black_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8762": {
+    "name_dede": "Seidenes Stirnband",
+    "icon": "inv_misc_bandana_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8483": {
+    "name_dede": "Weißes Schwadroneurshemd",
+    "icon": "inv_shirt_white_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8784": {
+    "name_dede": "Grüne Seidenrüstung",
+    "icon": "inv_chest_cloth_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3857": {
+    "name_dede": "Verzaubererkutte",
+    "icon": "inv_helmet_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3871": {
+    "name_dede": "Formelles weißes Hemd",
+    "icon": "inv_shirt_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8764": {
+    "name_dede": "Irdene Weste",
+    "icon": "inv_shirt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3858": {
+    "name_dede": "Schattenkapuze",
+    "icon": "inv_helmet_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439100": {
+    "name_dede": "Irdene Weste",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3865": {
+    "name_dede": "Magiestoffballen",
+    "icon": "inv_fabric_mageweave_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8489": {
+    "name_dede": "Rotes Schwadroneurshemd",
+    "icon": "inv_shirt_red_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8766": {
+    "name_dede": "Azurblauer Seidengürtel",
+    "icon": "inv_belt_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8786": {
+    "name_dede": "Azurblauer Seidenumhang",
+    "icon": "inv_chest_cloth_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8772": {
+    "name_dede": "Purpurroter Seidengürtel",
+    "icon": "inv_belt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3860": {
+    "name_dede": "Stiefel des Verzauberers",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6693": {
+    "name_dede": "Grünes Seidenpack",
+    "icon": "inv_misc_bag_07_green",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439098": {
+    "name_dede": "Purpurroter Seidengürtel",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8774": {
+    "name_dede": "Grüne Seidenschultern",
+    "icon": "inv_shoulder_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8789": {
+    "name_dede": "Purpurroter Seidenumhang",
+    "icon": "inv_chest_cloth_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3863": {
+    "name_dede": "Spinnengürtel",
+    "icon": "inv_belt_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3872": {
+    "name_dede": "Dunkellilanes Seidenhemd",
+    "icon": "inv_shirt_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8791": {
+    "name_dede": "Purpurrote Seidenweste",
+    "icon": "inv_shirt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3861": {
+    "name_dede": "Langer Seidenumhang",
+    "icon": "inv_misc_cape_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "6695": {
+    "name_dede": "Schwarzes Seidenpack",
+    "icon": "inv_misc_bag_07_black",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439094": {
+    "name_dede": "Langer Seidenumhang",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "21945": {
+    "name_dede": "Grünes Festtagsshemd",
+    "icon": "inv_shirt_green_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8770": {
+    "name_dede": "Robe der Macht",
+    "icon": "inv_chest_cloth_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8795": {
+    "name_dede": "Azurblaue Schultern",
+    "icon": "inv_shoulder_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8793": {
+    "name_dede": "Purpurrote Seidenschultern",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8799": {
+    "name_dede": "Purpurrote Seidenpantalons",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8797": {
+    "name_dede": "Irdener Seidengürtel",
+    "icon": "inv_belt_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12180": {
+    "name_dede": "Schneiderei",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "Ermöglicht einem Schneider, Hemden und Rüstungen, die der letzte Schrei sind, mit einer maximalen potenziellen Fertigkeit von 300 anzufertigen."
+  },
+  "3873": {
+    "name_dede": "Schwarzes Schwadroneurshemd",
+    "icon": "inv_shirt_black_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3862": {
+    "name_dede": "Eisiger Umhang",
+    "icon": "inv_misc_cape_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "3864": {
+    "name_dede": "Sternengürtel",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8802": {
+    "name_dede": "Purpurrote Seidenrobe",
+    "icon": "inv_chest_cloth_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12049": {
+    "name_dede": "Schwarze Magiestoffgamaschen",
+    "icon": "inv_pants_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12048": {
+    "name_dede": "Schwarze Magiestoffweste",
+    "icon": "inv_chest_leather_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439088": {
+    "name_dede": "Schwarze Magiestoffgamaschen",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439086": {
+    "name_dede": "Schwarze Magiestoffweste",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "8804": {
+    "name_dede": "Purpurrote Seidenhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12052": {
+    "name_dede": "Schattenzwirnhose",
+    "icon": "inv_pants_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12050": {
+    "name_dede": "Schwarze Magiestoffrobe",
+    "icon": "inv_chest_cloth_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12059": {
+    "name_dede": "Weiße Banditenmaske",
+    "icon": "inv_helmet_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12061": {
+    "name_dede": "Oranges Magiestoffhemd",
+    "icon": "inv_shirt_orange_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12060": {
+    "name_dede": "Rote Magiestoffhose",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12056": {
+    "name_dede": "Rote Magiestoffweste",
+    "icon": "inv_shirt_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12055": {
+    "name_dede": "Schattenzwirnrobe",
+    "icon": "inv_chest_cloth_38",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12053": {
+    "name_dede": "Schwarze Magiestoffhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12064": {
+    "name_dede": "Oranges Kampfhemd",
+    "icon": "inv_shirt_orange_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12067": {
+    "name_dede": "Traumzwirnhandschuhe",
+    "icon": "inv_gauntlets_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12070": {
+    "name_dede": "Traumzwirnweste",
+    "icon": "inv_chest_cloth_42",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12069": {
+    "name_dede": "Aschenstoffrobe",
+    "icon": "inv_chest_cloth_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12066": {
+    "name_dede": "Rote Magiestoffhandschuhe",
+    "icon": "inv_gauntlets_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12071": {
+    "name_dede": "Schattenzwirnhandschuhe",
+    "icon": "inv_gauntlets_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "27658": {
+    "name_dede": "Verzauberter Magiestoffbeutel",
+    "icon": "inv_misc_bag_enchantedmageweave",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12065": {
+    "name_dede": "Magiestofftasche",
+    "icon": "inv_misc_bag_10_black",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12075": {
+    "name_dede": "Lavendelfarbenes Magiestoffhemd",
+    "icon": "inv_shirt_purple_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12074": {
+    "name_dede": "Schwarze Magiestoffschultern",
+    "icon": "inv_shoulder_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12073": {
+    "name_dede": "Schwarze Magiestoffstiefel",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12072": {
+    "name_dede": "Schwarzes Magiestoffstirnband",
+    "icon": "inv_misc_bandana_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12077": {
+    "name_dede": "Einfaches schwarzes Kleid",
+    "icon": "inv_chest_cloth_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12080": {
+    "name_dede": "Rosa Magiestoffhemd",
+    "icon": "inv_shirt_red_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12078": {
+    "name_dede": "Rote Magiestoffschultern",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12076": {
+    "name_dede": "Schattenzwirnschultern",
+    "icon": "inv_shoulder_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12079": {
+    "name_dede": "Rote Magiestofftasche",
+    "icon": "inv_misc_bag_10_red",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12081": {
+    "name_dede": "Admiralshut",
+    "icon": "inv_helmet_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12085": {
+    "name_dede": "Smokinghemd",
+    "icon": "inv_shirt_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12084": {
+    "name_dede": "Rotes Magiestoffstirnband",
+    "icon": "inv_misc_bandana_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12082": {
+    "name_dede": "Schattenzwirnstiefel",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12086": {
+    "name_dede": "Schattenzwirnmaske",
+    "icon": "inv_helmet_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12089": {
+    "name_dede": "Smokinghose",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12088": {
+    "name_dede": "Aschenstoffstiefel",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26407": {
+    "name_dede": "Festtagsanzug",
+    "icon": "inv_chest_cloth_55",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26403": {
+    "name_dede": "Festtagskleid",
+    "icon": "inv_chest_cloth_56",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18401": {
+    "name_dede": "Runenstoffballen",
+    "icon": "inv_fabric_purplefire_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12093": {
+    "name_dede": "Smokingjacke",
+    "icon": "inv_shirt_black_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12091": {
+    "name_dede": "Weißes Hochzeitskleid",
+    "icon": "inv_chest_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "12092": {
+    "name_dede": "Traumzwirnreif",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18560": {
+    "name_dede": "Mondstoff",
+    "icon": "inv_fabric_moonrag_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Die Läuterung und Verwandlung von besudeltem Teufelsstoff in Mondstoff kann nur an einem Mondbrunnen durchgeführt werden. Zudem werden es die Wasser nur alle 4 Tage gestatten, auf diese Weise benutzt zu werden."
+  },
+  "18402": {
+    "name_dede": "Runenstoffgürtel",
+    "icon": "inv_belt_15",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18404": {
+    "name_dede": "Winterzwirnrobe",
+    "icon": "inv_chest_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18403": {
+    "name_dede": "Winterzwirntunika",
+    "icon": "inv_chest_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18408": {
+    "name_dede": "Aschenstoffweste",
+    "icon": "inv_chest_cloth_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18406": {
+    "name_dede": "Runenstoffrobe",
+    "icon": "inv_chest_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18407": {
+    "name_dede": "Runenstofftunika",
+    "icon": "inv_chest_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26085": {
+    "name_dede": "Seelenbeutel",
+    "icon": "inv_misc_bag_soulbag",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18405": {
+    "name_dede": "Runenstofftasche",
+    "icon": "inv_misc_bag_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18411": {
+    "name_dede": "Winterzwirnhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18410": {
+    "name_dede": "Geisterzwirngürtel",
+    "icon": "inv_belt_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18409": {
+    "name_dede": "Runenstoffumhang",
+    "icon": "inv_misc_cape_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18412": {
+    "name_dede": "Aschenstoffhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18413": {
+    "name_dede": "Geisterzwirnhandschuhe",
+    "icon": "inv_gauntlets_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18415": {
+    "name_dede": "Hellstoffhandschuhe",
+    "icon": "inv_gauntlets_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18414": {
+    "name_dede": "Hellstoffrobe",
+    "icon": "inv_chest_cloth_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18422": {
+    "name_dede": "Umhang des Feuers",
+    "icon": "inv_misc_cape_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18416": {
+    "name_dede": "Geisterzwirnweste",
+    "icon": "inv_shirt_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18418": {
+    "name_dede": "Aschenstoffumhang",
+    "icon": "inv_misc_cape_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "27724": {
+    "name_dede": "Cenarische Kräutertasche",
+    "icon": "inv_misc_bag_cenarionherbbag",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18420": {
+    "name_dede": "Hellstoffumhang",
+    "icon": "inv_misc_cape_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18421": {
+    "name_dede": "Hexerzwirngamaschen",
+    "icon": "inv_pants_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18417": {
+    "name_dede": "Runenstoffhandschuhe",
+    "icon": "inv_gauntlets_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18419": {
+    "name_dede": "Teufelsstoffhose",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "27659": {
+    "name_dede": "Verzauberte Runenstofftasche",
+    "icon": "inv_misc_bag_enchantedrunecloth",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18434": {
+    "name_dede": "Aschenstoffhose",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18423": {
+    "name_dede": "Runenstoffstiefel",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18424": {
+    "name_dede": "Winterzwirnhose",
+    "icon": "inv_pants_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26086": {
+    "name_dede": "Teufelsstofftasche",
+    "icon": "inv_misc_bag_felclothbag",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18438": {
+    "name_dede": "Runenstoffhose",
+    "icon": "inv_pants_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18437": {
+    "name_dede": "Teufelsstoffstiefel",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18436": {
+    "name_dede": "Robe der Winternacht",
+    "icon": "inv_chest_cloth_49",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18441": {
+    "name_dede": "Geisterzwirnhose",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18439": {
+    "name_dede": "Hellstoffhose",
+    "icon": "inv_pants_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18442": {
+    "name_dede": "Teufelsstoffkapuze",
+    "icon": "inv_helmet_34",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23664": {
+    "name_dede": "Argentumstiefel",
+    "icon": "inv_boots_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18440": {
+    "name_dede": "Mondstoffgamaschen",
+    "icon": "inv_pants_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23662": {
+    "name_dede": "Weisheit der Holzschlundfeste",
+    "icon": "inv_belt_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "19435": {
+    "name_dede": "Mondstoffstiefel",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18444": {
+    "name_dede": "Runenstoffstirnband",
+    "icon": "inv_misc_bandana_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "27725": {
+    "name_dede": "Cenarischer Ranzen",
+    "icon": "inv_misc_bag_satchelofcenarius",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "27660": {
+    "name_dede": "Große Verzauberertasche",
+    "icon": "inv_misc_bag_bigbagofenchantments",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18446": {
+    "name_dede": "Hexerzwirnrobe",
+    "icon": "inv_chest_cloth_46",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18445": {
+    "name_dede": "Mondstofftasche",
+    "icon": "inv_misc_bag_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18450": {
+    "name_dede": "Hexerzwirnturban",
+    "icon": "inv_helmet_63",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18449": {
+    "name_dede": "Runenstoffschultern",
+    "icon": "inv_shoulder_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18451": {
+    "name_dede": "Teufelsstoffrobe",
+    "icon": "inv_chest_cloth_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18453": {
+    "name_dede": "Teufelsstoffschultern",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18447": {
+    "name_dede": "Mondstoffweste",
+    "icon": "inv_chest_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22902": {
+    "name_dede": "Mondstoffrobe",
+    "icon": "inv_chest_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18448": {
+    "name_dede": "Mondstoffschultern",
+    "icon": "inv_shoulder_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22868": {
+    "name_dede": "Infernohandschuhe",
+    "icon": "inv_gauntlets_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22869": {
+    "name_dede": "Mondstoffhandschuhe",
+    "icon": "inv_gauntlets_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18452": {
+    "name_dede": "Mondstoffreif",
+    "icon": "inv_misc_bandana_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22870": {
+    "name_dede": "Schutzumhang der Verteidigung",
+    "icon": "inv_misc_cape_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22867": {
+    "name_dede": "Teufelsstoffhandschuhe",
+    "icon": "inv_gauntlets_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24901": {
+    "name_dede": "Runenverzierte stygische Gamaschen",
+    "icon": "inv_pants_cloth_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24903": {
+    "name_dede": "Runenverzierte stygische Stiefel",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24902": {
+    "name_dede": "Runenverzierter stygischer Gürtel",
+    "icon": "inv_belt_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23663": {
+    "name_dede": "Mantel der Holzschlundfeste",
+    "icon": "inv_shoulder_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23665": {
+    "name_dede": "Argentumschultern",
+    "icon": "inv_shoulder_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22866": {
+    "name_dede": "Gürtel des Erzmagiers",
+    "icon": "inv_belt_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18454": {
+    "name_dede": "Handschuhe der Zauberbeherrschung",
+    "icon": "inv_gauntlets_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18458": {
+    "name_dede": "Robe der Leere",
+    "icon": "inv_chest_cloth_51",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18457": {
+    "name_dede": "Robe des Erzmagiers",
+    "icon": "inv_chest_cloth_38",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18456": {
+    "name_dede": "Trachten des wahren Glaubens",
+    "icon": "inv_chest_cloth_31",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23667": {
+    "name_dede": "Flimmerkerngamaschen",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20849": {
+    "name_dede": "Flimmerkernhandschuhe",
+    "icon": "inv_gauntlets_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "20848": {
+    "name_dede": "Flimmerkernmantel",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "23666": {
+    "name_dede": "Flimmerkernrobe",
+    "icon": "inv_chest_cloth_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28205": {
+    "name_dede": "Gletscherhandschuhe",
+    "icon": "inv_gauntlets_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28209": {
+    "name_dede": "Gletscherhandschutz",
+    "icon": "inv_bracer_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28208": {
+    "name_dede": "Gletscherumhang",
+    "icon": "inv_misc_cape_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28207": {
+    "name_dede": "Gletscherweste",
+    "icon": "inv_chest_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "26087": {
+    "name_dede": "Kernteufelsstofftasche",
+    "icon": "inv_misc_bag_corefelclothbag",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24092": {
+    "name_dede": "Blutrebengamaschen",
+    "icon": "inv_pants_cloth_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24093": {
+    "name_dede": "Blutrebenstiefel",
+    "icon": "inv_boots_cloth_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "24091": {
+    "name_dede": "Blutrebenweste",
+    "icon": "inv_chest_cloth_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "18455": {
+    "name_dede": "Bodenlose Tasche",
+    "icon": "inv_misc_bag_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28210": {
+    "name_dede": "Gaeas Umarmung",
+    "icon": "inv_misc_cape_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28481": {
+    "name_dede": "Sylvankrone",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28482": {
+    "name_dede": "Sylvanschultern",
+    "icon": "inv_shoulder_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "28480": {
+    "name_dede": "Sylvanweste",
+    "icon": "inv_chest_plate07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22759": {
+    "name_dede": "Flimmerkernwickeltücher",
+    "icon": "inv_bracer_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252992": {
+    "name_dede": "Adaptive Armschienen des Schleimhüters",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252981": {
+    "name_dede": "Adaptive Kordel des Schleimschlächters",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252980": {
+    "name_dede": "Adaptive Manschetten des Schleimschlächters",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252979": {
+    "name_dede": "Adaptive Robe des Schleimschlächters",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252991": {
+    "name_dede": "Adaptive Tunika des Schleimhüters",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1252993": {
+    "name_dede": "Adaptiver Gürtel des Schleimhüters",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1240976": {
+    "name_dede": "Schneiderei",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "<a href=\"/beta/de/spell=3910/schneiderei\" target=\"_blank\">Ermöglicht einem Schneider, Hemden und Rüstungen, die der letzte Schrei sind, mit einer maximalen potenziellen Fertigkeit von 225 anzufertigen.</a>"
+  },
+  "1240988": {
+    "name_dede": "Schneiderei",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "<a href=\"/beta/de/spell=12180/schneiderei\" target=\"_blank\">Ermöglicht einem Schneider, Hemden und Rüstungen, die der letzte Schrei sind, mit einer maximalen potenziellen Fertigkeit von 300 anzufertigen.</a>"
+  },
+  "1240964": {
+    "name_dede": "Schneiderei",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "<a href=\"/beta/de/spell=3909/schneiderei\" target=\"_blank\">Ermöglicht einem Schneider, modische Stoffhemden und -rüstungen mit einer maximalen potenziellen Fertigkeit von 150 anzufertigen.</a>"
+  },
+  "3908": {
+    "name_dede": "Schneiderei",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "Ermöglicht einem Schneider, einfache Stoffrüstungen mit einer maximalen potenziellen Fertigkeit von 75 anzufertigen. Benötigt Stoff, der bei Humanoiden gefunden wird."
+  },
+  "1240953": {
+    "name_dede": "Schneiderei",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "<a href=\"/beta/de/spell=3908/schneiderei\" target=\"_blank\">Ermöglicht einem Schneider, einfache Stoffrüstungen mit einer maximalen potenziellen Fertigkeit von 75 anzufertigen. Benötigt Stoff, der bei Humanoiden gefunden wird.</a>"
+  },
+  "1229504": {
+    "name_dede": "Fraktionsbanner",
+    "icon": "inv_banner_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 1",
+    "description_dede": "Stellt ein Fraktionsbanner her."
+  },
+  "1263425": {
+    "name_dede": "Fraktionsbanner",
+    "icon": "inv_banner_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 1",
+    "description_dede": "Stellt ein Fraktionsbanner her."
+  },
+  "1257013": {
+    "name_dede": "Leinenreagenzientasche",
+    "icon": "inv_misc_bag_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257369": {
+    "name_dede": "Schärpe des inbrünstigen Novizen",
+    "icon": "inv_belt_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257368": {
+    "name_dede": "Schärpe des Novizenarkanisten",
+    "icon": "inv_belt_43a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301466": {
+    "name_dede": "Azurblaue sturmgenähte Kordel",
+    "icon": "inv_belt_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301464": {
+    "name_dede": "Azurblaue sturmgenähte Manschetten",
+    "icon": "inv_bracer_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301442": {
+    "name_dede": "Wolkenblaue sturmgenähte Kordel",
+    "icon": "inv_belt_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301440": {
+    "name_dede": "Wolkenblaue sturmgenähte Manschetten",
+    "icon": "inv_bracer_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301465": {
+    "name_dede": "Azurblaue sturmgenähte Handwickel",
+    "icon": "inv_glove_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301469": {
+    "name_dede": "Azurblaue sturmgenähte Schuhe",
+    "icon": "inv_boot_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301441": {
+    "name_dede": "Wolkenblaue sturmgenähte Handwickel",
+    "icon": "inv_glove_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301444": {
+    "name_dede": "Wolkenblaue sturmgenähte Schuhe",
+    "icon": "inv_boot_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301468": {
+    "name_dede": "Azurblaue sturmgenähte Gamaschen",
+    "icon": "inv_pant_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301463": {
+    "name_dede": "Azurblaue sturmgenähte Weste",
+    "icon": "inv_chest-_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301443": {
+    "name_dede": "Wolkenblaue sturmgenähte Gamaschen",
+    "icon": "inv_pant_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301439": {
+    "name_dede": "Wolkenblaue sturmgenähte Weste",
+    "icon": "inv_chest-_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257017": {
+    "name_dede": "Wollreagenzientasche",
+    "icon": "inv_misc_bag_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257378": {
+    "name_dede": "Filigrane Flammenrobe",
+    "icon": "inv_chest_cloth_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257381": {
+    "name_dede": "Filigrane glänzende Robe",
+    "icon": "inv_chest_cloth_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257376": {
+    "name_dede": "Filigrane makellose Robe",
+    "icon": "inv_chest_cloth_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257380": {
+    "name_dede": "Filigrane Perlenrobe",
+    "icon": "inv_chest_cloth_51",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257379": {
+    "name_dede": "Filigrane Schattenrobe",
+    "icon": "inv_chest_cloth_48",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257377": {
+    "name_dede": "Filigrane Seidenrobe",
+    "icon": "inv_chest_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257372": {
+    "name_dede": "Flammenstiefel",
+    "icon": "inv_boots_cloth_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257375": {
+    "name_dede": "Glänzende Stiefel",
+    "icon": "inv_boots_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257370": {
+    "name_dede": "Makellose Stiefel",
+    "icon": "inv_boots_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257374": {
+    "name_dede": "Perlenstiefel",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257373": {
+    "name_dede": "Schattenstiefel",
+    "icon": "inv_boots_cloth_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257371": {
+    "name_dede": "Seidenstiefel",
+    "icon": "inv_boots_cloth_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257384": {
+    "name_dede": "Flammenhandschuhe",
+    "icon": "inv_gauntlets_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257387": {
+    "name_dede": "Glänzende Handschuhe",
+    "icon": "inv_gauntlets_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257382": {
+    "name_dede": "Makellose Handschuhe",
+    "icon": "inv_gauntlets_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257386": {
+    "name_dede": "Perlenhandschuhe",
+    "icon": "inv_gauntlets_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257385": {
+    "name_dede": "Schattenhandschuhe",
+    "icon": "inv_gauntlets_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257383": {
+    "name_dede": "Seidenhandschuhe",
+    "icon": "inv_gauntlets_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257396": {
+    "name_dede": "Filigrane Flammengamaschen",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257399": {
+    "name_dede": "Filigrane glänzende Gamaschen",
+    "icon": "inv_pants_cloth_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257394": {
+    "name_dede": "Filigrane makellose Gamaschen",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257398": {
+    "name_dede": "Filigrane Perlengamaschen",
+    "icon": "inv_pants_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257397": {
+    "name_dede": "Filigrane Schattengamaschen",
+    "icon": "inv_pants_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257395": {
+    "name_dede": "Filigrane Seidengamaschen",
+    "icon": "inv_pants_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257390": {
+    "name_dede": "Flammenschärpe",
+    "icon": "inv_belt_43c",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257393": {
+    "name_dede": "Glänzende Schärpe",
+    "icon": "inv_belt_43b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257388": {
+    "name_dede": "Makellose Schärpe",
+    "icon": "inv_belt_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257392": {
+    "name_dede": "Perlenschärpe",
+    "icon": "inv_belt_43a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257391": {
+    "name_dede": "Schattenschärpe",
+    "icon": "inv_belt_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257389": {
+    "name_dede": "Seidenschärpe",
+    "icon": "inv_belt_43a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "428424": {
+    "name_dede": "Phönixbindungen",
+    "icon": "inv_bracer_25a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257402": {
+    "name_dede": "Flammenreif",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257405": {
+    "name_dede": "Glänzender Reif",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257400": {
+    "name_dede": "Makelloser Reif",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257404": {
+    "name_dede": "Perlenreif",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257403": {
+    "name_dede": "Schattenreif",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257401": {
+    "name_dede": "Seidenreif",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257415": {
+    "name_dede": "Filigraner Flammenreif",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257418": {
+    "name_dede": "Filigraner glänzender Reif",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257413": {
+    "name_dede": "Filigraner makelloser Reif",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257417": {
+    "name_dede": "Filigraner Perlenreif",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257416": {
+    "name_dede": "Filigraner Schattenreif",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257414": {
+    "name_dede": "Filigraner Seidenreif",
+    "icon": "inv_crown_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257408": {
+    "name_dede": "Flammenrobe",
+    "icon": "inv_chest_cloth_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257411": {
+    "name_dede": "Glänzende Robe",
+    "icon": "inv_chest_cloth_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257406": {
+    "name_dede": "Makellose Robe",
+    "icon": "inv_chest_cloth_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257410": {
+    "name_dede": "Perlenrobe",
+    "icon": "inv_chest_cloth_51",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257409": {
+    "name_dede": "Schattenrobe",
+    "icon": "inv_chest_cloth_48",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257407": {
+    "name_dede": "Seidenrobe",
+    "icon": "inv_chest_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257412": {
+    "name_dede": "Seidenreagenzientasche",
+    "icon": "inv_misc_bag_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1263032": {
+    "name_dede": "Spinnrad",
+    "icon": "10prof_table_tailoring01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 2",
+    "description_dede": "Stellt ein Spinnrad her."
+  },
+  "1257428": {
+    "name_dede": "Feurige Pantoffeln",
+    "icon": "inv_boots_cloth_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257430": {
+    "name_dede": "Goldene Pantoffeln",
+    "icon": "inv_boots_cloth_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257427": {
+    "name_dede": "Schäumende Pantoffeln",
+    "icon": "inv_boots_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257429": {
+    "name_dede": "Schwarze Pantoffeln",
+    "icon": "inv_boots_cloth_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257431": {
+    "name_dede": "Strahlende Pantoffeln",
+    "icon": "inv_boots_cloth_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257426": {
+    "name_dede": "Vergoldete Pantoffeln",
+    "icon": "inv_boots_cloth_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257421": {
+    "name_dede": "Flammengamaschen",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257424": {
+    "name_dede": "Glänzende Gamaschen",
+    "icon": "inv_pants_cloth_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257419": {
+    "name_dede": "Makellose Gamaschen",
+    "icon": "inv_pants_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257423": {
+    "name_dede": "Perlengamaschen",
+    "icon": "inv_pants_10",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257422": {
+    "name_dede": "Schattengamaschen",
+    "icon": "inv_pants_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257420": {
+    "name_dede": "Seidengamaschen",
+    "icon": "inv_pants_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "429351": {
+    "name_dede": "Extraplanare Spinnenseidenstiefel",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257425": {
+    "name_dede": "Gamaschen der Irdenen",
+    "icon": "inv_pants_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257432": {
+    "name_dede": "Irdene Seidenpantoffeln",
+    "icon": "inv_boots_cloth_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257433": {
+    "name_dede": "Irdene Seidenkapuze",
+    "icon": "inv_helmet_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435841": {
+    "name_dede": "Kordel des Herbeirufers",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435848": {
+    "name_dede": "Mantel des Herbeirufers",
+    "icon": "inv_shoulder_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257434": {
+    "name_dede": "Irdene Seidenhandschuhe",
+    "icon": "inv_gauntlets_24",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301540": {
+    "name_dede": "Azurblaue sturmgenähte Gugel",
+    "icon": "inv_helm_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301541": {
+    "name_dede": "Azurblaue sturmgenähte Schulterklappen",
+    "icon": "inv_shoulder_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301532": {
+    "name_dede": "Wolkenblaue sturmgenähte Gugel",
+    "icon": "inv_helm_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1301533": {
+    "name_dede": "Wolkenblaue sturmgenähte Schulterklappen",
+    "icon": "inv_shoulder_cloth_skybornec60_b_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257438": {
+    "name_dede": "Feurige Handwickel",
+    "icon": "inv_gauntlets_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257440": {
+    "name_dede": "Goldene Handwickel",
+    "icon": "inv_gauntlets_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257437": {
+    "name_dede": "Schäumende Handwickel",
+    "icon": "inv_gauntlets_30",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257439": {
+    "name_dede": "Schwarze Handwickel",
+    "icon": "inv_gauntlets_27",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257441": {
+    "name_dede": "Strahlende Handwickel",
+    "icon": "inv_gauntlets_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257436": {
+    "name_dede": "Vergoldete Handwickel",
+    "icon": "inv_gauntlets_29",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257435": {
+    "name_dede": "Irdene Seidenmanschetten",
+    "icon": "inv_bracer_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257442": {
+    "name_dede": "Irdene Seidenschulterstücke",
+    "icon": "inv_shoulder_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439102": {
+    "name_dede": "Verzauberergugel",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257446": {
+    "name_dede": "Feurige Kordel",
+    "icon": "inv_belt_39c",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257448": {
+    "name_dede": "Goldene Kordel",
+    "icon": "inv_belt_34",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257445": {
+    "name_dede": "Schäumende Kordel",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257447": {
+    "name_dede": "Schwarze Kordel",
+    "icon": "inv_belt_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257449": {
+    "name_dede": "Strahlende Kordel",
+    "icon": "inv_belt_37b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257444": {
+    "name_dede": "Vergoldete Kordel",
+    "icon": "inv_belt_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439097": {
+    "name_dede": "Stiefel des Verzauberers",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435827": {
+    "name_dede": "Hyperleitender Arkanfaden",
+    "icon": "inv_misc_thread_eternium",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257443": {
+    "name_dede": "Magiestoffreagenzientasche",
+    "icon": "inv_misc_bag_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257452": {
+    "name_dede": "Netherflammenschulterstücke",
+    "icon": "inv_shoulder_23",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257450": {
+    "name_dede": "Nethergeldschulterstücke",
+    "icon": "inv_shoulder_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257454": {
+    "name_dede": "Netherglanzschulterstücke",
+    "icon": "inv_shoulder_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257455": {
+    "name_dede": "Netherlichtschulterstücke",
+    "icon": "inv_shoulder_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257453": {
+    "name_dede": "Netherperlenschulterstücke",
+    "icon": "inv_shoulder_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257451": {
+    "name_dede": "Netherschaumschulterstücke",
+    "icon": "inv_shoulder_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439093": {
+    "name_dede": "Purpurrote Seidenschultern",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439091": {
+    "name_dede": "Irdener Seidengürtel",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257458": {
+    "name_dede": "Netherflammenmanschetten",
+    "icon": "inv_bracer_23a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257456": {
+    "name_dede": "Nethergeldmanschetten",
+    "icon": "inv_bracer_23b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257460": {
+    "name_dede": "Netherglanzmanschetten",
+    "icon": "inv_bracer_21b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257461": {
+    "name_dede": "Netherlichtmanschetten",
+    "icon": "inv_bracer_20b",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257459": {
+    "name_dede": "Netherperlenmanschetten",
+    "icon": "inv_bracer_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257457": {
+    "name_dede": "Netherschaummanschetten",
+    "icon": "inv_bracer_22a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "439085": {
+    "name_dede": "Purpurrote Seidenrobe",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "435610": {
+    "name_dede": "Gneuro-verkettetes Arkanfaden-Monokel",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257468": {
+    "name_dede": "Feuriger Hüftgürtel",
+    "icon": "inv_belt_37a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257470": {
+    "name_dede": "Goldener Hüftgürtel",
+    "icon": "inv_belt_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257467": {
+    "name_dede": "Schäumender Hüftgürtel",
+    "icon": "inv_belt_39a",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257469": {
+    "name_dede": "Schwarzer Hüftgürtel",
+    "icon": "inv_belt_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257471": {
+    "name_dede": "Strahlender Hüftgürtel",
+    "icon": "inv_belt_43",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257466": {
+    "name_dede": "Vergoldeter Hüftgürtel",
+    "icon": "inv_belt_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257462": {
+    "name_dede": "Geisterzwirnkordel",
+    "icon": "inv_belt_16",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257463": {
+    "name_dede": "Irdene Stoffhandschuhe",
+    "icon": "inv_gauntlets_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257464": {
+    "name_dede": "Irdene Stoffkordel",
+    "icon": "inv_belt_39c",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257465": {
+    "name_dede": "Runenstoffreagenzientasche",
+    "icon": "inv_misc_bag_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257475": {
+    "name_dede": "Feurige Handschuhe",
+    "icon": "inv_gauntlets_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257477": {
+    "name_dede": "Goldene Handschuhe",
+    "icon": "inv_gauntlets_21",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257474": {
+    "name_dede": "Schäumende Handschuhe",
+    "icon": "inv_gauntlets_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257476": {
+    "name_dede": "Schwarze Handschuhe",
+    "icon": "inv_gauntlets_32",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257478": {
+    "name_dede": "Strahlende Handschuhe",
+    "icon": "inv_gauntlets_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257473": {
+    "name_dede": "Vergoldete Handschuhe",
+    "icon": "inv_gauntlets_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257472": {
+    "name_dede": "Irdene Stoffstiefel",
+    "icon": "inv_boots_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "44950": {
+    "name_dede": "Grüne Winterkleidung",
+    "icon": "inv_chest_christmas01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "44958": {
+    "name_dede": "Rote Winterkleidung",
+    "icon": "inv_chest_christmas02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446194": {
+    "name_dede": "Mantel des Wahnsinns",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446195": {
+    "name_dede": "Schulterpolster der Verwirrten",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "446193": {
+    "name_dede": "Schulterstücke des zerrütteten Geists",
+    "icon": "spell_shadow_sealofkings",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257481": {
+    "name_dede": "Feurige Sandalen",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257483": {
+    "name_dede": "Goldene Sandalen",
+    "icon": "inv_boots_cloth_11",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257480": {
+    "name_dede": "Schäumende Sandalen",
+    "icon": "inv_boots_07",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257482": {
+    "name_dede": "Schwarze Sandalen",
+    "icon": "inv_boots_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257484": {
+    "name_dede": "Strahlende Sandalen",
+    "icon": "inv_boots_cloth_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257479": {
+    "name_dede": "Vergoldete Sandalen",
+    "icon": "inv_boots_cloth_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257485": {
+    "name_dede": "Irdener Stoffmantel",
+    "icon": "inv_shoulder_05",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1227723": {
+    "name_dede": "Kreuzzüglerknappsack",
+    "icon": "inv_misc_bag_22",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257488": {
+    "name_dede": "Irdene Stoffgamaschen",
+    "icon": "inv_pants_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224610": {
+    "name_dede": "Manschetten des scharlachroten Auguren",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224612": {
+    "name_dede": "Riemen des scharlachroten Auguren",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257489": {
+    "name_dede": "Geisterzwirnmantel",
+    "icon": "inv_shoulder_09",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257490": {
+    "name_dede": "Geisterzwirnstiefel",
+    "icon": "inv_boots_cloth_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257486": {
+    "name_dede": "Irdene Stoffweste",
+    "icon": "inv_chest_cloth_20",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257487": {
+    "name_dede": "Runenstoffmanschetten",
+    "icon": "inv_bracer_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257491": {
+    "name_dede": "Irdene Stoffmanschetten",
+    "icon": "inv_bracer_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257492": {
+    "name_dede": "Mondstoffreagenzientasche",
+    "icon": "inv_misc_bag_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224611": {
+    "name_dede": "Fäustlinge des scharlachroten Auguren",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224614": {
+    "name_dede": "Sohlen des scharlachroten Auguren",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257493": {
+    "name_dede": "Geisterzwirnkapuze",
+    "icon": "inv_helmet_26",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257494": {
+    "name_dede": "Irdene Stoffkrone",
+    "icon": "inv_crown_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224613": {
+    "name_dede": "Gamaschen des scharlachroten Auguren",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "22813": {
+    "name_dede": "Ogeranzug der Gordok",
+    "icon": "inv_chest_chain_14",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461692": {
+    "name_dede": "Synthetischer Ogeranzug der Gordok",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224609": {
+    "name_dede": "Gewänder des scharlachroten Auguren",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224607": {
+    "name_dede": "Kapuze des scharlachroten Auguren",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1224608": {
+    "name_dede": "Mantel des scharlachroten Auguren",
+    "icon": "trade_tailoring",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297120": {
+    "name_dede": "Handschuhe des Giftspeiers",
+    "icon": "inv_gauntlets_18",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297123": {
+    "name_dede": "Handschuhe des Schwarmpflegers",
+    "icon": "inv_gauntlets_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297122": {
+    "name_dede": "Fußpolster des Giftspeiers",
+    "icon": "inv_boots_cloth_04",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297125": {
+    "name_dede": "Fußpolster des Schwarmpflegers",
+    "icon": "inv_boots_cloth_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297121": {
+    "name_dede": "Kordel des Giftspeiers",
+    "icon": "inv_belt_25",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1297124": {
+    "name_dede": "Kordel des Schwarmpflegers",
+    "icon": "inv_belt_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1263080": {
+    "name_dede": "Webstuhl",
+    "icon": "inv_tailoring_80_tidespraylinen",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 4",
+    "description_dede": "Stellt einen Webstuhl her."
+  },
+  "1227724": {
+    "name_dede": "Blutrote Morgengespinsttasche",
+    "icon": "inv_misc_bag_26_spellfire",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461752": {
+    "name_dede": "Gleißende Mondstoffgamaschen",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306541": {
+    "name_dede": "Manaerfüllte Kordel",
+    "icon": "inv_belt_06",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306542": {
+    "name_dede": "Reifverkrustete Stiefel",
+    "icon": "inv_boots_cloth_19",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306540": {
+    "name_dede": "Roben der schwelenden Verwüstung",
+    "icon": "inv_chest_cloth_17",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306545": {
+    "name_dede": "Teufelsblutseelenbeutel",
+    "icon": "inv_misc_bag_corefelclothbag",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306543": {
+    "name_dede": "Teufelscape",
+    "icon": "inv_misc_cape_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1306544": {
+    "name_dede": "Umhang von Erde und Himmel",
+    "icon": "inv_misc_cape_13",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1214173": {
+    "name_dede": "Qirajiseidenballen",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461727": {
+    "name_dede": "Lederverstärkte Runenstofftasche",
+    "icon": "inv_misc_bag_26_spellfire",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1257495": {
+    "name_dede": "Bodenlose Reagenzientasche",
+    "icon": "inv_misc_bag_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "462282": {
+    "name_dede": "Bestickter Gürtel des Erzmagiers",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "463972": {
+    "name_dede": "Bodenlose Tasche",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223772": {
+    "name_dede": "Frostige Handgelenke",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223770": {
+    "name_dede": "Frostige Handschuhe",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223768": {
+    "name_dede": "Frostige Weste",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461708": {
+    "name_dede": "Gleißende Mondstoffrobe",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461747": {
+    "name_dede": "Gleißende Mondstoffweste",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "461750": {
+    "name_dede": "Gleißender Mondstoffreif",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223764": {
+    "name_dede": "Gletscherhandschuhe",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223766": {
+    "name_dede": "Gletscherhandschutz",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223762": {
+    "name_dede": "Gletscherumhang",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1223760": {
+    "name_dede": "Gletscherweste",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213742": {
+    "name_dede": "Sylvankrone",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213740": {
+    "name_dede": "Sylvanschultern",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213744": {
+    "name_dede": "Sylvanweste",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213527": {
+    "name_dede": "Vampirgugel",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213532": {
+    "name_dede": "Vampirrobe",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213530": {
+    "name_dede": "Vampirschal",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292977": {
+    "name_dede": "Dämonenherzgamaschen",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292978": {
+    "name_dede": "Dämonenherzhandschuhe",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292979": {
+    "name_dede": "Dämonenherzschiftung",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292980": {
+    "name_dede": "Dämonenherzstiefel",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292961": {
+    "name_dede": "Gamaschen der Überzeugung",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292958": {
+    "name_dede": "Handschuhe der Überzeugung",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292962": {
+    "name_dede": "Handschützer der Überzeugung",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292957": {
+    "name_dede": "Hose der Überzeugung",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292942": {
+    "name_dede": "Manaflammenhandschuhe",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292941": {
+    "name_dede": "Manaflammenhose",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292943": {
+    "name_dede": "Manaflammenmantelung",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292944": {
+    "name_dede": "Manaflammenstiefel",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292959": {
+    "name_dede": "Mantelung der Überzeugung",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292963": {
+    "name_dede": "Schulterstücke des Glaubens",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292964": {
+    "name_dede": "Stiefel der Überzeugung",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1292960": {
+    "name_dede": "Treter der Überzeugung",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213536": {
+    "name_dede": "Qirajiseidencape",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213534": {
+    "name_dede": "Qirajiseidenschal",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213540": {
+    "name_dede": "Qirajiseidentuch",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1213538": {
+    "name_dede": "Qirajiseidenumhang",
+    "icon": "temp",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1214306": {
+    "name_dede": "Traumschuppenarmschienen",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1214307": {
+    "name_dede": "Traumschuppenfäustlinge",
+    "icon": "ability_ensnare",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  }
+}

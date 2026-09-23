@@ -13,8 +13,16 @@ dokumentiert diese Strukturen nirgends. Jede Aussage trägt deshalb einen Status
 **Datenstand:** 23.09.2026, Beta-Phase. Alle sieben Berufe geladen (Abschnitt 1a); die
 `source`-Codes (Abschnitt 3) sind für alle ausgewertet. Die übrige Tiefenanalyse
 (Abschnitte 2, 4, 5) stützt sich bisher nur auf Schneiderei (`skill=197`, 477 Einträge).
-**Rohdaten:** `data/probe/<slug>.json` (EN) und `data/probe/<slug>.de.json` (DE),
-Roh-HTML daneben als `<slug>[.de].html` (gitignored).
+**Rohdaten:** drei Dateien je Beruf und Sprache, eine pro Datenblock der Seite (Abschnitt 6):
+
+```
+data/probe/tailoring.de.json          var listviewspells   -> Rezepte
+data/probe/tailoring.de.spells.json   addData(6, ...)      -> Beschreibung, Icon, Rang
+data/probe/tailoring.de.items.json    addData(3, ...)      -> Name, Qualitaet, Icon je Item
+```
+
+Ohne `.de` dieselben Dateien auf Englisch. Das Roh-HTML liegt als `<slug>[.de].html`
+daneben, ist aber **gitignored** — Auswertungen lesen die JSON-Dateien, nicht die Seiten.
 
 ---
 
@@ -334,6 +342,12 @@ WH.Gatherer.addData(6, 16, {"7421": {...}, ...})   // Zauber, Schlüssel = spell
 Anders als `listviewspells` ist dieser Block **gültiges JSON** — alle Schlüssel sind
 gequotet, `parse_loose()` wird nicht gebraucht. Geschnitten wird er mit demselben
 Klammer-Scanner (`probe_listing.extract_balanced`).
+
+`probe_all.py` legt beide Blöcke roh als eigene Dateien ab (`<slug>[.de].spells.json`,
+`<slug>[.de].items.json`) statt sie ins Listing zu mischen. So bleibt jede Datei die
+originalgetreue Kopie genau eines Blocks, und die Gegenprobe „neu geholt ergibt byteweise
+dasselbe" funktioniert weiter. `jsonequip` (Preise, Waffentempo) wird bewusst mitgenommen —
+ungenutzt, aber vorhanden, falls später jemand danach fragt.
 
 | Typ | Schlüssel | Felder |
 |---:|---|---|
