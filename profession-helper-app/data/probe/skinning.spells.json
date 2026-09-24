@@ -1,0 +1,110 @@
+{
+  "8617": {
+    "name_enus": "Skinning",
+    "icon": "inv_misc_pelt_wolf_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "Advanced skills in skinning the leather from beasts for use in Leatherworking.  Gives a potential skinning skill of 150. Requires a Skinning Knife."
+  },
+  "8618": {
+    "name_enus": "Skinning",
+    "icon": "inv_misc_pelt_wolf_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "Expert skill in skinning the hides from beasts for use in Leatherworking.  Gives a potential skinning skill of 225.  Requires a Skinning Knife."
+  },
+  "10768": {
+    "name_enus": "Skinning",
+    "icon": "inv_misc_pelt_wolf_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "Artisan skill in skinning the hides from beasts for use in Leatherworking.  Gives a potential skinning skill of 300.  Requires a Skinning Knife."
+  },
+  "8613": {
+    "name_enus": "Skinning",
+    "icon": "inv_misc_pelt_wolf_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "The basics of how to skin animals for their pelts and furs for use in Leatherworking.  Gives a potential skinning skill of 75.  Requires a Skinning Knife."
+  },
+  "1240952": {
+    "name_enus": "Skinning",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "<a href=\"/beta/spell=8613/skinning\" target=\"_blank\">The basics of how to skin animals for their pelts and furs for use in Leatherworking.  Gives a potential skinning skill of 75.  Requires a Skinning Knife.</a>"
+  },
+  "1240987": {
+    "name_enus": "Skinning",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "<a href=\"/beta/spell=10768/skinning\" target=\"_blank\">Artisan skill in skinning the hides from beasts for use in Leatherworking.  Gives a potential skinning skill of 300.  Requires a Skinning Knife.</a>"
+  },
+  "1240974": {
+    "name_enus": "Skinning",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "<a href=\"/beta/spell=8618/skinning\" target=\"_blank\">Expert skill in skinning the hides from beasts for use in Leatherworking.  Gives a potential skinning skill of 225.  Requires a Skinning Knife.</a>"
+  },
+  "1240963": {
+    "name_enus": "Skinning",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "<a href=\"/beta/spell=8617/skinning\" target=\"_blank\">Advanced skills in skinning the leather from beasts for use in Leatherworking.  Gives a potential skinning skill of 150. Requires a Skinning Knife.</a>"
+  },
+  "1278068": {
+    "name_enus": "Tanning",
+    "icon": "10prof_table_leatherworking01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows the skinner to add features to a wilderness camp."
+  },
+  "1229517": {
+    "name_enus": "Camp Chair",
+    "icon": "inv_crate_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 1",
+    "description_enus": "Craft a Camp Chair."
+  },
+  "1262985": {
+    "name_enus": "Field Guide",
+    "icon": "inv_misc_book_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 2",
+    "description_enus": "Craft a Field Guide."
+  },
+  "1262982": {
+    "name_enus": "Trapper's Workbench",
+    "icon": "inv_misc_kobysstools_knifetrap_color3",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 3",
+    "description_enus": "Craft a Trapper's Workbench."
+  }
+}

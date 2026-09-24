@@ -1,0 +1,128 @@
+{
+  "2368": {
+    "name_enus": "Herbalism",
+    "icon": "spell_nature_naturetouchgrow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "How to find and gather more difficult to harvest herbs.   Gives a potential herbalism skill of 150."
+  },
+  "3570": {
+    "name_enus": "Herbalism",
+    "icon": "spell_nature_naturetouchgrow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "How to find and gather more difficult to harvest herbs.   Gives a potential herbalism skill of 225."
+  },
+  "11993": {
+    "name_enus": "Herbalism",
+    "icon": "spell_nature_naturetouchgrow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "How to find and gather more difficult to harvest herbs.   Gives a potential herbalism skill of 300."
+  },
+  "2383": {
+    "name_enus": "Find Herbs",
+    "icon": "inv_misc_flower_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Nearby herb bushes appear on the minimap.   Only one type of thing can be tracked at a time."
+  },
+  "1278062": {
+    "name_enus": "Gardening",
+    "icon": "inv_misc_shovel_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": "Allows the herbalist to add features to a wilderness camp."
+  },
+  "1240949": {
+    "name_enus": "Herbalism",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "<a href=\"/beta/spell=2366/herbalism\" target=\"_blank\">The basics of how to gather herbs from bushes and other plants for use in Alchemy.  Gives a potential herbalism skill of 75.</a>"
+  },
+  "2366": {
+    "name_enus": "Herbalism",
+    "icon": "spell_nature_naturetouchgrow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Apprentice",
+    "description_enus": "The basics of how to gather herbs from bushes and other plants for use in Alchemy.  Gives a potential herbalism skill of 75."
+  },
+  "1240984": {
+    "name_enus": "Herbalism",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Artisan",
+    "description_enus": "<a href=\"/beta/spell=11993/herbalism\" target=\"_blank\">How to find and gather more difficult to harvest herbs.   Gives a potential herbalism skill of 300.</a>"
+  },
+  "1240971": {
+    "name_enus": "Herbalism",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Expert",
+    "description_enus": "<a href=\"/beta/spell=3570/herbalism\" target=\"_blank\">How to find and gather more difficult to harvest herbs.   Gives a potential herbalism skill of 225.</a>"
+  },
+  "1240960": {
+    "name_enus": "Herbalism",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Journeyman",
+    "description_enus": "<a href=\"/beta/spell=2368/herbalism\" target=\"_blank\">How to find and gather more difficult to harvest herbs.   Gives a potential herbalism skill of 150.</a>"
+  },
+  "1235236": {
+    "name_enus": "Herb Gathering",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "",
+    "description_enus": ""
+  },
+  "1229705": {
+    "name_enus": "Incense Candle",
+    "icon": "inv_misc_candle_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 1",
+    "description_enus": "Craft an Incense Candle."
+  },
+  "1262980": {
+    "name_enus": "Greenhouse",
+    "icon": "inv_misc_herb_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 2",
+    "description_enus": "Craft a Greenhouse."
+  },
+  "1263070": {
+    "name_enus": "Seed Hybridizer",
+    "icon": "inv_farm_herbseed",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_enus": "Tier 3",
+    "description_enus": "Craft a Seed Hybridizer."
+  }
+}

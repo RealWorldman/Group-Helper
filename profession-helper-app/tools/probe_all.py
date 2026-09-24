@@ -40,16 +40,21 @@ from probe_listing import (
 # __file__ = tools/probe_all.py  ->  parents[1] = profession-helper-app/
 PROBE_DIR = Path(__file__).resolve().parents[1] / "data" / "probe"
 
-# Die sieben Berufe im Scope (PLAN.md). 'tailoring' ist als Slug belegt, 'enchanting'
-# hat auf Deutsch funktioniert - die uebrigen fuenf sind geraten und genau das, was
-# dieser Lauf klaeren soll.
+# Die Berufe im Scope (PLAN.md). Alle Slugs am 21./24.09.2026 geprueft.
+#
+# Kraeuterkunde und Kuerschnerei sind Sammelberufe und stellen im Classic-WoW nichts
+# her - bei Forever schon: Jeder von beiden hat vier baubare Gebaeude (Gewaechshaus,
+# Saatenkreuzer, Leitfaden, Werkbank des Fallenstellers). Gefunden ueber die Kategorie
+# "Books", siehe tools/analysis/books_category.py.
 PROFESSIONS = [
     "alchemy",
     "blacksmithing",
     "enchanting",
     "engineering",
+    "herbalism",
     "leatherworking",
     "mining",
+    "skinning",
     "tailoring",
 ]
 

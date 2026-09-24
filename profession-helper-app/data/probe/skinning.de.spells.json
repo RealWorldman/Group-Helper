@@ -1,0 +1,110 @@
+{
+  "8617": {
+    "name_dede": "Kürschnerei",
+    "icon": "inv_misc_pelt_wolf_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "Erweiterte Fertigkeiten der Kürschnerei, wie man das Leder von Wildtieren für die Lederverarbeitung bearbeitet. Verleiht eine potenzielle Kürschnereifertigkeit von 150. Es wird ein Kürschnermesser benötigt."
+  },
+  "8618": {
+    "name_dede": "Kürschnerei",
+    "icon": "inv_misc_pelt_wolf_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "Experten-Fertigkeiten der Kürschnerei, wie man Bälge von Wildtieren für die Lederverarbeitung verarbeitet. Verleiht eine potenzielle Kürschnereifertigkeit von 225. Es wird ein Kürschnermesser benötigt."
+  },
+  "10768": {
+    "name_dede": "Kürschnerei",
+    "icon": "inv_misc_pelt_wolf_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "Fachmannfertigkeit der Kürschnerei, wie man Bälge von Wildtieren für die Lederverarbeitung verarbeitet. Verleiht eine potenzielle Kürschnereifertigkeit von 300. Es wird ein Kürschnermesser benötigt."
+  },
+  "1240974": {
+    "name_dede": "Kürschnerei",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "<a href=\"/beta/de/spell=8618/kürschnerei\" target=\"_blank\">Experten-Fertigkeiten der Kürschnerei, wie man Bälge von Wildtieren für die Lederverarbeitung verarbeitet. Verleiht eine potenzielle Kürschnereifertigkeit von 225. Es wird ein Kürschnermesser benötigt.</a>"
+  },
+  "1240987": {
+    "name_dede": "Kürschnerei",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "<a href=\"/beta/de/spell=10768/kürschnerei\" target=\"_blank\">Fachmannfertigkeit der Kürschnerei, wie man Bälge von Wildtieren für die Lederverarbeitung verarbeitet. Verleiht eine potenzielle Kürschnereifertigkeit von 300. Es wird ein Kürschnermesser benötigt.</a>"
+  },
+  "1240963": {
+    "name_dede": "Kürschnerei",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "<a href=\"/beta/de/spell=8617/kürschnerei\" target=\"_blank\">Erweiterte Fertigkeiten der Kürschnerei, wie man das Leder von Wildtieren für die Lederverarbeitung bearbeitet. Verleiht eine potenzielle Kürschnereifertigkeit von 150. Es wird ein Kürschnermesser benötigt.</a>"
+  },
+  "8613": {
+    "name_dede": "Kürschnerei",
+    "icon": "inv_misc_pelt_wolf_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "Grundlagen, wie man Tiere häutet und ihre Pelze und Felle für die Lederverarbeitung bearbeitet. Verleiht eine potenzielle Kürschnereifertigkeit von 75. Es wird ein Kürschnermesser benötigt."
+  },
+  "1240952": {
+    "name_dede": "Kürschnerei",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "<a href=\"/beta/de/spell=8613/kürschnerei\" target=\"_blank\">Grundlagen, wie man Tiere häutet und ihre Pelze und Felle für die Lederverarbeitung bearbeitet. Verleiht eine potenzielle Kürschnereifertigkeit von 75. Es wird ein Kürschnermesser benötigt.</a>"
+  },
+  "1278068": {
+    "name_dede": "Sonnen",
+    "icon": "10prof_table_leatherworking01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht es dem Kürschner, einem Wildnislager Funktionen hinzuzufügen."
+  },
+  "1229517": {
+    "name_dede": "Lagerstuhl",
+    "icon": "inv_crate_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 1",
+    "description_dede": "Stellt einen Lagerstuhl her."
+  },
+  "1262985": {
+    "name_dede": "Leitfaden",
+    "icon": "inv_misc_book_03",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 2",
+    "description_dede": "Stellt einen Leitfaden her."
+  },
+  "1262982": {
+    "name_dede": "Werkbank des Fallenstellers",
+    "icon": "inv_misc_kobysstools_knifetrap_color3",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 3",
+    "description_dede": "Stellt eine Werkbank des Fallenstellers her."
+  }
+}

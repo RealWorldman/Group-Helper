@@ -1,0 +1,128 @@
+{
+  "2368": {
+    "name_dede": "Kräuterkunde",
+    "icon": "spell_nature_naturetouchgrow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "Wie man schwer auffindbare Kräuter findet und sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 150."
+  },
+  "3570": {
+    "name_dede": "Kräuterkunde",
+    "icon": "spell_nature_naturetouchgrow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "Wie man schwer auffindbare Kräuter findet und sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 225."
+  },
+  "11993": {
+    "name_dede": "Kräuterkunde",
+    "icon": "spell_nature_naturetouchgrow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "Wie man schwer auffindbare Kräuter findet und sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 300."
+  },
+  "1278062": {
+    "name_dede": "Gärtnern",
+    "icon": "inv_misc_shovel_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "Ermöglicht es dem Kräuterkundigen, einem Wildnislager Funktionen hinzuzufügen."
+  },
+  "1240971": {
+    "name_dede": "Kräuterkunde",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Experte",
+    "description_dede": "<a href=\"/beta/de/spell=3570/kräuterkunde\" target=\"_blank\">Wie man schwer auffindbare Kräuter findet und sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 225.</a>"
+  },
+  "1240984": {
+    "name_dede": "Kräuterkunde",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Fachmann",
+    "description_dede": "<a href=\"/forever/de/spell=11993/kräuterkunde\" target=\"_blank\">Wie man schwer auffindbare Kräuter findet und sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 300.</a>"
+  },
+  "1240960": {
+    "name_dede": "Kräuterkunde",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Geselle",
+    "description_dede": "<a href=\"/forever/de/spell=2368/kräuterkunde\" target=\"_blank\">Wie man schwer auffindbare Kräuter findet und sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 150.</a>"
+  },
+  "1240949": {
+    "name_dede": "Kräuterkunde",
+    "icon": "inv_misc_gem_01",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "<a href=\"/forever/de/spell=2366/kräuterkunde\" target=\"_blank\">Grundlagen, wie man für alchimistische Zwecke Kräuter von Büschen und anderen Pflanzen sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 75.</a>"
+  },
+  "2366": {
+    "name_dede": "Kräuterkunde",
+    "icon": "spell_nature_naturetouchgrow",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Lehrling",
+    "description_dede": "Grundlagen, wie man für alchimistische Zwecke Kräuter von Büschen und anderen Pflanzen sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 75."
+  },
+  "2383": {
+    "name_dede": "Kräutersuche",
+    "icon": "inv_misc_flower_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": "In der Nähe befindliche Kräuterbüsche werden auf der Minikarte angezeigt. Es kann immer nur jeweils ein Typ aufgespürt werden."
+  },
+  "1235236": {
+    "name_dede": "Kräutersammeln",
+    "icon": "trade_engineering",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "",
+    "description_dede": ""
+  },
+  "1229705": {
+    "name_dede": "Räucherkerze",
+    "icon": "inv_misc_candle_02",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 1",
+    "description_dede": "Stellt eine Räucherkerze her."
+  },
+  "1262980": {
+    "name_dede": "Gewächshaus",
+    "icon": "inv_misc_herb_08",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 2",
+    "description_dede": "Stellt ein Gewächshaus her."
+  },
+  "1263070": {
+    "name_dede": "Saatenkreuzer",
+    "icon": "inv_farm_herbseed",
+    "screenshot": {},
+    "displayName": "",
+    "skillcategory": 11,
+    "rank_dede": "Stufe 3",
+    "description_dede": "Stellt einen Saatenkreuzer her."
+  }
+}

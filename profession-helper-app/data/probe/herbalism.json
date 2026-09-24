@@ -1,0 +1,478 @@
+[
+  {
+    "cat": 11,
+    "displayName": "Herbalism",
+    "id": 2366,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Herbalism",
+    "nskillup": 1,
+    "rank": "Apprentice",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 10,
+    "envChange": {
+      "status": "updated",
+      "labels": [
+        "renamed"
+      ],
+      "lines": [
+        "Renamed from Herb Gathering"
+      ],
+      "before": {
+        "name": "Herb Gathering",
+        "rank": "Apprentice",
+        "cost": "",
+        "range": "5 yd range",
+        "cast": "5 sec cast",
+        "cooldown": "",
+        "text": "The basics of how to gather herbs from bushes and other plants for use in Alchemy. Gives a potential herbalism skill of 75."
+      },
+      "after": {
+        "name": "Herbalism",
+        "rank": "Apprentice",
+        "cost": "",
+        "range": "5 yd range",
+        "cast": "5 sec cast",
+        "cooldown": "",
+        "text": "The basics of how to gather herbs from bushes and other plants for use in Alchemy. Gives a potential herbalism skill of 75.",
+        "notShown": []
+      }
+    },
+    "quality": -1,
+    "popularity": 69
+  },
+  {
+    "cat": 11,
+    "displayName": "Herbalism",
+    "id": 2368,
+    "learnedat": 50,
+    "level": 0,
+    "name": "Herbalism",
+    "nskillup": 1,
+    "rank": "Journeyman",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 500,
+    "envChange": {
+      "status": "updated",
+      "labels": [
+        "renamed"
+      ],
+      "lines": [
+        "Renamed from Herb Gathering"
+      ],
+      "before": {
+        "name": "Herb Gathering",
+        "rank": "Journeyman",
+        "cost": "",
+        "range": "5 yd range",
+        "cast": "5 sec cast",
+        "cooldown": "",
+        "text": "How to find and gather more difficult to harvest herbs. Gives a potential herbalism skill of 150."
+      },
+      "after": {
+        "name": "Herbalism",
+        "rank": "Journeyman",
+        "cost": "",
+        "range": "5 yd range",
+        "cast": "5 sec cast",
+        "cooldown": "",
+        "text": "How to find and gather more difficult to harvest herbs. Gives a potential herbalism skill of 150.",
+        "notShown": []
+      }
+    },
+    "quality": -1,
+    "popularity": 28
+  },
+  {
+    "cat": 11,
+    "displayName": "Find Herbs",
+    "id": 2383,
+    "learnedat": 9999,
+    "level": 1,
+    "name": "Find Herbs",
+    "nskillup": 1,
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "unchanged",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 237
+  },
+  {
+    "cat": 11,
+    "displayName": "Herbalism",
+    "id": 3570,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Herbalism",
+    "nskillup": 1,
+    "rank": "Expert",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5000,
+    "envChange": {
+      "status": "updated",
+      "labels": [
+        "renamed"
+      ],
+      "lines": [
+        "Renamed from Herb Gathering"
+      ],
+      "before": {
+        "name": "Herb Gathering",
+        "rank": "Expert",
+        "cost": "",
+        "range": "5 yd range",
+        "cast": "5 sec cast",
+        "cooldown": "",
+        "text": "How to find and gather more difficult to harvest herbs. Gives a potential herbalism skill of 225."
+      },
+      "after": {
+        "name": "Herbalism",
+        "rank": "Expert",
+        "cost": "",
+        "range": "5 yd range",
+        "cast": "5 sec cast",
+        "cooldown": "",
+        "text": "How to find and gather more difficult to harvest herbs. Gives a potential herbalism skill of 225.",
+        "notShown": []
+      }
+    },
+    "quality": -1,
+    "popularity": 35
+  },
+  {
+    "cat": 11,
+    "displayName": "Herbalism",
+    "id": 11993,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Herbalism",
+    "nskillup": 1,
+    "rank": "Artisan",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 50000,
+    "envChange": {
+      "status": "updated",
+      "labels": [
+        "renamed"
+      ],
+      "lines": [
+        "Renamed from Herb Gathering"
+      ],
+      "before": {
+        "name": "Herb Gathering",
+        "rank": "Artisan",
+        "cost": "",
+        "range": "5 yd range",
+        "cast": "5 sec cast",
+        "cooldown": "",
+        "text": "How to find and gather more difficult to harvest herbs. Gives a potential herbalism skill of 300."
+      },
+      "after": {
+        "name": "Herbalism",
+        "rank": "Artisan",
+        "cost": "",
+        "range": "5 yd range",
+        "cast": "5 sec cast",
+        "cooldown": "",
+        "text": "How to find and gather more difficult to harvest herbs. Gives a potential herbalism skill of 300.",
+        "notShown": []
+      }
+    },
+    "quality": -1,
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      20,
+      22,
+      25
+    ],
+    "creates": [
+      279962,
+      1,
+      1
+    ],
+    "displayName": "Incense Candle",
+    "id": 1229705,
+    "learnedat": 20,
+    "level": 0,
+    "name": "Incense Candle",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Tier 1",
+    "reagents": [
+      [
+        2447,
+        1
+      ],
+      [
+        765,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "popularity": 236
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "displayName": "Herb Gathering",
+    "id": 1235236,
+    "learnedat": 1,
+    "level": 0,
+    "name": "Herb Gathering",
+    "nskillup": 1,
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "displayName": "Herbalism",
+    "id": 1240949,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Herbalism",
+    "nskillup": 1,
+    "rank": "Apprentice",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 6
+  },
+  {
+    "cat": 11,
+    "displayName": "Herbalism",
+    "id": 1240960,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Herbalism",
+    "nskillup": 1,
+    "rank": "Journeyman",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 16
+  },
+  {
+    "cat": 11,
+    "displayName": "Herbalism",
+    "id": 1240971,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Herbalism",
+    "nskillup": 1,
+    "rank": "Expert",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 3
+  },
+  {
+    "cat": 11,
+    "displayName": "Herbalism",
+    "id": 1240984,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Herbalism",
+    "nskillup": 1,
+    "rank": "Artisan",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 14
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      142,
+      145
+    ],
+    "creates": [
+      279964,
+      1,
+      1
+    ],
+    "displayName": "Greenhouse",
+    "id": 1262980,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Greenhouse",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Tier 2",
+    "reagents": [
+      [
+        4470,
+        2
+      ],
+      [
+        8836,
+        1
+      ],
+      [
+        8831,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "popularity": 372
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      300,
+      300,
+      300
+    ],
+    "creates": [
+      279947,
+      1,
+      1
+    ],
+    "displayName": "Seed Hybridizer",
+    "id": 1263070,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Seed Hybridizer",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Tier 3",
+    "reagents": [
+      [
+        13465,
+        4
+      ],
+      [
+        8925,
+        1
+      ],
+      [
+        14047,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "popularity": 121
+  },
+  {
+    "cat": 11,
+    "displayName": "Gardening",
+    "id": 1278062,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Gardening",
+    "nskillup": 1,
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 91
+  }
+]

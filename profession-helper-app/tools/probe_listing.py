@@ -139,14 +139,31 @@ def main() -> int:
     parser.add_argument("--locale", default="", help="Sprach-Segment der URL, z. B. de (leer = en)")
     parser.add_argument("--var", default="listviewspells", help="Name der JS-Variablen")
     parser.add_argument("--out", type=Path, help="Roh-Eintraege zusaetzlich als JSON ablegen")
+    parser.add_argument(
+        "--url",
+        help="Beliebige Listing-Seite statt der Berufsseite, z. B. eine Kategorie unter /items/",
+    )
+    parser.add_argument("--html-out", type=Path, help="Roh-Seite ablegen (spart spaetere Requests)")
     args = parser.parse_args()
 
-    # Ohne Sprach-Segment liefert Wowhead Englisch: /forever/spells/... statt /forever/de/spells/...
-    locale_segment = f"/{args.locale}" if args.locale else ""
-    url = f"{BASE_URL}{locale_segment}/spells/professions/{args.profession}"
+    if args.url:
+        # --profession und --locale sind dann ohne Wirkung: Die URL steht schon fest.
+        url = args.url
+    else:
+        # Ohne Sprach-Segment liefert Wowhead Englisch:
+        # /forever/spells/... statt /forever/de/spells/...
+        locale_segment = f"/{args.locale}" if args.locale else ""
+        url = f"{BASE_URL}{locale_segment}/spells/professions/{args.profession}"
     print(f"GET {url}")
     html = fetch(url)
     print(f"  {len(html)} Zeichen empfangen")
+
+    # Die Seite aufheben, solange sie da ist: Eine Nachfrage an dieselbe Seite soll
+    # keinen zweiten Request kosten.
+    if args.html_out:
+        args.html_out.parent.mkdir(parents=True, exist_ok=True)
+        args.html_out.write_text(html, encoding="utf-8")
+        print(f"  Seite gesichert: {args.html_out}")
 
     entries = parse_loose(extract_listview(html, args.var))
     print(f"  {len(entries)} Eintraege geparst")

@@ -1,0 +1,340 @@
+[
+  {
+    "cat": 11,
+    "displayName": "Kürschnerei",
+    "id": 8613,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Kürschnerei",
+    "nskillup": 1,
+    "rank": "Lehrling",
+    "schools": 1,
+    "skill": [
+      393
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 10,
+    "envChange": {
+      "status": "unchanged",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 69
+  },
+  {
+    "cat": 11,
+    "displayName": "Kürschnerei",
+    "id": 8617,
+    "learnedat": 50,
+    "level": 0,
+    "name": "Kürschnerei",
+    "nskillup": 1,
+    "rank": "Geselle",
+    "schools": 1,
+    "skill": [
+      393
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 500,
+    "envChange": {
+      "status": "unchanged",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 50
+  },
+  {
+    "cat": 11,
+    "displayName": "Kürschnerei",
+    "id": 8618,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Kürschnerei",
+    "nskillup": 1,
+    "rank": "Experte",
+    "schools": 1,
+    "skill": [
+      393
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5000,
+    "envChange": {
+      "status": "unchanged",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 69
+  },
+  {
+    "cat": 11,
+    "displayName": "Kürschnerei",
+    "id": 10768,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Kürschnerei",
+    "nskillup": 1,
+    "rank": "Fachmann",
+    "schools": 1,
+    "skill": [
+      393
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 50000,
+    "envChange": {
+      "status": "unchanged",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 54
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      20,
+      22,
+      25
+    ],
+    "creates": [
+      279979,
+      1,
+      1
+    ],
+    "displayName": "Lagerstuhl",
+    "id": 1229517,
+    "learnedat": 20,
+    "level": 0,
+    "name": "Lagerstuhl",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Stufe 1",
+    "reagents": [
+      [
+        2318,
+        3
+      ],
+      [
+        4470,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      393
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "popularity": 179
+  },
+  {
+    "cat": 11,
+    "displayName": "Kürschnerei",
+    "id": 1240952,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Kürschnerei",
+    "nskillup": 1,
+    "rank": "Lehrling",
+    "schools": 1,
+    "skill": [
+      393
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 16
+  },
+  {
+    "cat": 11,
+    "displayName": "Kürschnerei",
+    "id": 1240963,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Kürschnerei",
+    "nskillup": 1,
+    "rank": "Geselle",
+    "schools": 1,
+    "skill": [
+      393
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 17
+  },
+  {
+    "cat": 11,
+    "displayName": "Kürschnerei",
+    "id": 1240974,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Kürschnerei",
+    "nskillup": 1,
+    "rank": "Experte",
+    "schools": 1,
+    "skill": [
+      393
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 13
+  },
+  {
+    "cat": 11,
+    "displayName": "Kürschnerei",
+    "id": 1240987,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Kürschnerei",
+    "nskillup": 1,
+    "rank": "Fachmann",
+    "schools": 1,
+    "skill": [
+      393
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 57
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      300,
+      300,
+      300
+    ],
+    "creates": [
+      279938,
+      1,
+      1
+    ],
+    "displayName": "Werkbank des Fallenstellers",
+    "id": 1262982,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Werkbank des Fallenstellers",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Stufe 3",
+    "reagents": [
+      [
+        4470,
+        2
+      ],
+      [
+        4234,
+        4
+      ],
+      [
+        3575,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      393
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "popularity": 72
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      142,
+      145
+    ],
+    "creates": [
+      279969,
+      1,
+      1
+    ],
+    "displayName": "Leitfaden",
+    "id": 1262985,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Leitfaden",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Stufe 2",
+    "reagents": [
+      [
+        2319,
+        3
+      ],
+      [
+        5784,
+        2
+      ],
+      [
+        2321,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      393
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "popularity": 91
+  },
+  {
+    "cat": 11,
+    "displayName": "Sonnen",
+    "id": 1278068,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Sonnen",
+    "nskillup": 1,
+    "schools": 1,
+    "skill": [
+      393
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 49
+  }
+]

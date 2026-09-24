@@ -1,0 +1,483 @@
+[
+  {
+    "cat": 11,
+    "displayName": "Kräuterkunde",
+    "id": 2366,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Kräuterkunde",
+    "nskillup": 1,
+    "rank": "Lehrling",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 10,
+    "envChange": {
+      "status": "updated",
+      "labels": [
+        "renamed"
+      ],
+      "lines": [
+        "[Renamed from Kräutersammeln]"
+      ],
+      "before": {
+        "name": "Kräutersammeln",
+        "rank": "Lehrling",
+        "cost": "",
+        "range": "5 Meter Reichweite",
+        "cast": "Wirken in 5 sek.",
+        "cooldown": "",
+        "text": "Grundlagen, wie man für alchimistische Zwecke Kräuter von Büschen und anderen Pflanzen sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 75."
+      },
+      "after": {
+        "name": "Kräuterkunde",
+        "rank": "Lehrling",
+        "cost": "",
+        "range": "5 Meter Reichweite",
+        "cast": "Wirken in 5 sek.",
+        "cooldown": "",
+        "text": "Grundlagen, wie man für alchimistische Zwecke Kräuter von Büschen und anderen Pflanzen sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 75.",
+        "notShown": []
+      }
+    },
+    "quality": -1,
+    "popularity": 69
+  },
+  {
+    "cat": 11,
+    "displayName": "Kräuterkunde",
+    "id": 2368,
+    "learnedat": 50,
+    "level": 0,
+    "name": "Kräuterkunde",
+    "nskillup": 1,
+    "rank": "Geselle",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 500,
+    "envChange": {
+      "status": "updated",
+      "labels": [
+        "renamed"
+      ],
+      "lines": [
+        "[Renamed from Kräutersammeln]"
+      ],
+      "before": {
+        "name": "Kräutersammeln",
+        "rank": "Geselle",
+        "cost": "",
+        "range": "5 Meter Reichweite",
+        "cast": "Wirken in 5 sek.",
+        "cooldown": "",
+        "text": "Wie man schwer auffindbare Kräuter findet und sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 150."
+      },
+      "after": {
+        "name": "Kräuterkunde",
+        "rank": "Geselle",
+        "cost": "",
+        "range": "5 Meter Reichweite",
+        "cast": "Wirken in 5 sek.",
+        "cooldown": "",
+        "text": "Wie man schwer auffindbare Kräuter findet und sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 150.",
+        "notShown": []
+      }
+    },
+    "quality": -1,
+    "popularity": 28
+  },
+  {
+    "cat": 11,
+    "displayName": "Kräutersuche",
+    "id": 2383,
+    "learnedat": 9999,
+    "level": 1,
+    "name": "Kräutersuche",
+    "nskillup": 1,
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "unchanged",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 237
+  },
+  {
+    "cat": 11,
+    "displayName": "Kräuterkunde",
+    "id": 3570,
+    "learnedat": 125,
+    "level": 0,
+    "name": "Kräuterkunde",
+    "nskillup": 1,
+    "rank": "Experte",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 5000,
+    "envChange": {
+      "status": "updated",
+      "labels": [
+        "renamed"
+      ],
+      "lines": [
+        "[Renamed from Kräutersammeln]"
+      ],
+      "before": {
+        "name": "Kräutersammeln",
+        "rank": "Experte",
+        "cost": "",
+        "range": "5 Meter Reichweite",
+        "cast": "Wirken in 5 sek.",
+        "cooldown": "",
+        "text": "Wie man schwer auffindbare Kräuter findet und sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 225."
+      },
+      "after": {
+        "name": "Kräuterkunde",
+        "rank": "Experte",
+        "cost": "",
+        "range": "5 Meter Reichweite",
+        "cast": "Wirken in 5 sek.",
+        "cooldown": "",
+        "text": "Wie man schwer auffindbare Kräuter findet und sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 225.",
+        "notShown": []
+      }
+    },
+    "quality": -1,
+    "popularity": 35
+  },
+  {
+    "cat": 11,
+    "displayName": "Kräuterkunde",
+    "id": 11993,
+    "learnedat": 200,
+    "level": 0,
+    "name": "Kräuterkunde",
+    "nskillup": 1,
+    "rank": "Fachmann",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "source": [
+      6
+    ],
+    "trainingcost": 50000,
+    "envChange": {
+      "status": "updated",
+      "labels": [
+        "renamed"
+      ],
+      "lines": [
+        "[Renamed from Kräutersammeln]"
+      ],
+      "before": {
+        "name": "Kräutersammeln",
+        "rank": "Fachmann",
+        "cost": "",
+        "range": "5 Meter Reichweite",
+        "cast": "Wirken in 5 sek.",
+        "cooldown": "",
+        "text": "Wie man schwer auffindbare Kräuter findet und sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 300."
+      },
+      "after": {
+        "name": "Kräuterkunde",
+        "rank": "Fachmann",
+        "cost": "",
+        "range": "5 Meter Reichweite",
+        "cast": "Wirken in 5 sek.",
+        "cooldown": "",
+        "text": "Wie man schwer auffindbare Kräuter findet und sammelt. Verleiht eine potenzielle Kräuterkundefertigkeit von 300.",
+        "notShown": []
+      }
+    },
+    "quality": -1,
+    "popularity": 42
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      20,
+      22,
+      25
+    ],
+    "creates": [
+      279962,
+      1,
+      1
+    ],
+    "displayName": "Räucherkerze",
+    "id": 1229705,
+    "learnedat": 20,
+    "level": 0,
+    "name": "Räucherkerze",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Stufe 1",
+    "reagents": [
+      [
+        2447,
+        1
+      ],
+      [
+        765,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "source": [
+      4,
+      6
+    ],
+    "trainingcost": 100,
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "popularity": 236
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "displayName": "Kräutersammeln",
+    "id": 1235236,
+    "learnedat": 1,
+    "level": 0,
+    "name": "Kräutersammeln",
+    "nskillup": 1,
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 19
+  },
+  {
+    "cat": 11,
+    "displayName": "Kräuterkunde",
+    "id": 1240949,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Kräuterkunde",
+    "nskillup": 1,
+    "rank": "Lehrling",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 6
+  },
+  {
+    "cat": 11,
+    "displayName": "Kräuterkunde",
+    "id": 1240960,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Kräuterkunde",
+    "nskillup": 1,
+    "rank": "Geselle",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 16
+  },
+  {
+    "cat": 11,
+    "displayName": "Kräuterkunde",
+    "id": 1240971,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Kräuterkunde",
+    "nskillup": 1,
+    "rank": "Experte",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 3
+  },
+  {
+    "cat": 11,
+    "displayName": "Kräuterkunde",
+    "id": 1240984,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Kräuterkunde",
+    "nskillup": 1,
+    "rank": "Fachmann",
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 14
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      140,
+      142,
+      145
+    ],
+    "creates": [
+      279964,
+      1,
+      1
+    ],
+    "displayName": "Gewächshaus",
+    "id": 1262980,
+    "learnedat": 140,
+    "level": 0,
+    "name": "Gewächshaus",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Stufe 2",
+    "reagents": [
+      [
+        4470,
+        2
+      ],
+      [
+        8836,
+        1
+      ],
+      [
+        8831,
+        1
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "popularity": 372
+  },
+  {
+    "cat": 11,
+    "colors": [
+      0,
+      300,
+      300,
+      300
+    ],
+    "creates": [
+      279947,
+      1,
+      1
+    ],
+    "displayName": "Saatenkreuzer",
+    "id": 1263070,
+    "learnedat": 300,
+    "level": 0,
+    "name": "Saatenkreuzer",
+    "nskillup": 1,
+    "quality": 1,
+    "rank": "Stufe 3",
+    "reagents": [
+      [
+        13465,
+        4
+      ],
+      [
+        8925,
+        1
+      ],
+      [
+        14047,
+        2
+      ]
+    ],
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "popularity": 121
+  },
+  {
+    "cat": 11,
+    "displayName": "Gärtnern",
+    "id": 1278062,
+    "learnedat": 9999,
+    "level": 0,
+    "name": "Gärtnern",
+    "nskillup": 1,
+    "schools": 1,
+    "skill": [
+      182
+    ],
+    "envChange": {
+      "status": "new",
+      "labels": [],
+      "lines": []
+    },
+    "quality": -1,
+    "popularity": 91
+  }
+]

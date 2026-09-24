@@ -7,7 +7,11 @@ tools/catalog_sources.md Abschnitt 3. Taucht ein Code auf, der hier nicht steht,
 das Skript ihn als UNBEKANNT - er darf nicht stillschweigend als "kein Lehrer-Rezept"
 durchrutschen.
 
-Deutsch reicht: Die Codes sind sprachunabhaengig, nur die Beispielnamen waeren anders.
+Gelesen wird die deutsche Fassung. Das ist fast, aber nicht ganz gleichwertig: Von 2416
+Eintraegen weicht genau einer ab - "Raeucherkerze" (1229705) hat auf Deutsch
+source [4, 6] und auf Englisch gar kein source-Feld. Wowheads Crowdsourcing wird pro
+Sprache gepflegt. Fuer diese Auswertung ist das zu vernachlaessigen, fuer den Import
+nicht: Er soll die Codes beider Sprachen vereinigen, statt eine Sprache zu waehlen.
 """
 
 from collections import Counter, defaultdict

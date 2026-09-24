@@ -1,0 +1,197 @@
+{
+  "2447": {
+    "name_dede": "Friedensblume",
+    "quality": 1,
+    "icon": "inv_misc_flower_02",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 44,
+      "buyprice": 40,
+      "itemSquishEraId": 0,
+      "sellprice": 10
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "flags5": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "765": {
+    "name_dede": "Silberblatt",
+    "quality": 1,
+    "icon": "inv_misc_herb_10",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 28,
+      "buyprice": 40,
+      "itemSquishEraId": 0,
+      "sellprice": 10
+    },
+    "attainable": 0,
+    "flags2": -2147459072,
+    "flags5": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279962": {
+    "name_dede": "Räucherkerze",
+    "quality": 1,
+    "icon": "inv_misc_candle_02",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 182,
+      "reqskillrank": 20
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "flags5": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "4470": {
+    "name_dede": "Einfaches Holz",
+    "quality": 1,
+    "icon": "inv_tradeskillitem_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 573,
+      "buyprice": 38,
+      "itemSquishEraId": 0,
+      "sellprice": 9
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "flags5": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8836": {
+    "name_dede": "Arthas' Tränen",
+    "quality": 1,
+    "icon": "inv_misc_herb_13",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 760,
+      "itemSquishEraId": 0,
+      "sellprice": 95
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "flags5": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8831": {
+    "name_dede": "Lila Lotus",
+    "quality": 1,
+    "icon": "inv_misc_herb_17",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1169,
+      "classes": 1535,
+      "itemSquishEraId": 0,
+      "sellprice": 300
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "flags5": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279964": {
+    "name_dede": "Gewächshaus",
+    "quality": 1,
+    "icon": "inv_misc_herb_08",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 182,
+      "reqskillrank": 140
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "flags5": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "13465": {
+    "name_dede": "Bergsilberweisling",
+    "quality": 1,
+    "icon": "inv_misc_herb_mountainsilversage",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 9929,
+      "itemSquishEraId": 0,
+      "sellprice": 150
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "flags5": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "8925": {
+    "name_dede": "Kristallphiole",
+    "quality": 1,
+    "icon": "inv_potion_86",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1918,
+      "buyprice": 2500,
+      "itemSquishEraId": 0,
+      "sellprice": 125
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "flags5": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "14047": {
+    "name_dede": "Runenstoff",
+    "quality": 1,
+    "icon": "inv_fabric_purplefire_01",
+    "screenshot": {},
+    "jsonequip": {
+      "avgbuyout": 1147,
+      "itemSquishEraId": 0,
+      "sellprice": 400
+    },
+    "attainable": 0,
+    "flags2": -2147459068,
+    "flags5": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  },
+  "279947": {
+    "name_dede": "Saatenkreuzer",
+    "quality": 1,
+    "icon": "inv_farm_herbseed",
+    "screenshot": {},
+    "jsonequip": {
+      "cooldown": 3600000,
+      "itemSquishEraId": 0,
+      "reqskill": 182,
+      "reqskillrank": 300
+    },
+    "attainable": 0,
+    "flags2": 24580,
+    "flags5": 0,
+    "displayName": "",
+    "qualityTier": 0,
+    "qualityTierTexture": ""
+  }
+}
