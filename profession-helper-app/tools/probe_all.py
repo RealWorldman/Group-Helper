@@ -78,11 +78,20 @@ def write_json(path: Path, data: Any) -> None:
 
 
 def listing_url(slug: str, locale: str) -> str:
+    """Baut die Listing-URL fuer einen Beruf - leeres locale ergibt Englisch."""
     locale_segment = f"/{locale}" if locale else ""
     return f"{BASE_URL}{locale_segment}/spells/professions/{slug}"
 
 
 def main() -> int:
+    """
+    Holt/liest jede Beruf-Sprache-Kombination, schreibt die drei JSON-Bloecke und
+    druckt am Ende einen Report.
+
+    Ein einzelner Fehlschlag (Request, Parsing, fehlender Gatherer-Block) bricht den
+    Lauf nicht ab - er landet in `failures` und wird am Schluss aufgelistet. Exit-Code
+    ist 1, sobald mindestens ein Fehlschlag vorliegt, sonst 0.
+    """
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--refetch",
@@ -170,8 +179,7 @@ def report(
         sources = sorted({s for e in entries for s in e.get("source", [])})
         # '-' statt 0, damit ein fehlender Block nicht wie ein leerer aussieht.
         counts = [
-            str(len(blocks[suffix])) if suffix in blocks else "-"
-            for suffix, _ in GATHERER_BLOCKS
+            str(len(blocks[suffix])) if suffix in blocks else "-" for suffix, _ in GATHERER_BLOCKS
         ]
         print(
             f"{label:<22} {len(entries):>5} {counts[0]:>7} {counts[1]:>6}  "
