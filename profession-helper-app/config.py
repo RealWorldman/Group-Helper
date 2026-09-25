@@ -53,6 +53,22 @@ ALIASES_FILE = CATALOG_DIR / "aliases.de.yaml"
 OVERRIDES_FILE = CATALOG_DIR / "overrides.yaml"
 
 
+# --- Datenbank --------------------------------------------------------------
+
+# PostgreSQL 17 auf dem Pi, Datenbank `group-helper`. Abweichung vom Plan, der
+# SQLite vorsah - die Folgen stehen in tools/catalog_sources.md nicht, sondern im
+# Plan unter "Datenmodell".
+#
+# Kein Standardwert: Ohne gesetzte Variable soll der Bot mit einer klaren Meldung
+# stehenbleiben, statt sich still gegen eine falsche Datenbank zu verbinden.
+DATABASE_URL = os.getenv("PROFESSION_DATABASE_URL")
+
+# Der Bindestrich im Datenbanknamen ist kein Tippfehler; er muss in SQL gequotet
+# werden. SQLAlchemy erledigt das in der URL selbst, aber Skripte, die psql
+# aufrufen, muessen daran denken.
+DATABASE_NAME = "group-helper"
+
+
 # --- Discord ----------------------------------------------------------------
 
 # Im DEBUG-Modus wird der Command-Tree nur in diese eine Gilde synchronisiert.

@@ -5,6 +5,10 @@ description = "Discord-Bot fuer Gilden-Berufe und Rezepte (WoW: Forever)"
 requires-python = ">=3.13"
 dependencies = [
     "httpx>=0.28",
+    "sqlalchemy>=2.0.36",
+    # psycopg 3 mit vorkompilierten Wheels - auf dem Pi (arm64) gibt es die,
+    # und ohne sie muesste dort ein C-Compiler stehen.
+    "psycopg[binary]>=3.2",
 ]
 
 [dependency-groups]
