@@ -9,5 +9,12 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "pytest>=8.0",
     "ruff>=0.9",
 ]
+
+[tool.pytest.ini_options]
+# Ohne das findet pytest die Projektmodule nicht: Die Tests importieren
+# `utils.textnorm`, und die Projektwurzel liegt nicht automatisch im sys.path.
+pythonpath = ["."]
+testpaths = ["tests"]
