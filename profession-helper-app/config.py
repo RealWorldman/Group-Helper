@@ -79,10 +79,11 @@ DEBUG_GUILD_ID = _env_int("DEBUG_GUILD_ID")
 # Rolle, die fremde Charaktere bearbeiten und /admin benutzen darf.
 ADMIN_ROLE_NAME = os.getenv("PROFESSION_ADMIN_ROLE", "Gildenleitung")
 
-# Gemeinsame Datei mit dem Nachbarbot; der Variablenname ist deshalb derselbe.
-# Anders als dort ist der Standardwert absolut: `secrets.json` relativ zum
-# Arbeitsverzeichnis findet unter systemd nichts.
-SECRETS_FILE = _env_path("SECRETS_PATH", BASE_DIR / "secrets.json")
+# Zugangsdaten liegen in einer eigenen Datenbank mit eigener Rolle, nicht in
+# `group-helper`: Der MCP-Server hat dort unbeschraenkten Zugriff, und jede
+# Agent-Sitzung koennte sonst alle Tokens lesen. Angelegt mit
+# deploy/secrets_db.sql.
+SECRETS_DATABASE_URL = os.getenv("SECRETS_DATABASE_URL")
 
 # Der Eintrag unter "DISCORD" in dieser Datei. Eigene Application, eigener Token -
 # der Berufe-Bot braucht andere Rechte als der Raid-Bot.

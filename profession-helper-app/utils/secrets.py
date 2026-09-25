@@ -1,127 +1,127 @@
 """
-Zugriff auf die gemeinsame secrets.json.
+Zugangsdaten aus der Secrets-Datenbank.
 
-Die Datei gehoert beiden Bots und sieht so aus:
+Angelegt wird sie mit deploy/secrets_db.sql. Bewusst eine **eigene Datenbank mit
+eigener Rolle**, nicht eine Tabelle in `group-helper`: Der MCP-Server laeuft dort
+mit unbeschraenktem Zugriff, und jede Agent-Sitzung koennte sonst saemtliche
+Tokens im Klartext lesen.
 
-    {
-      "DISCORD":     [{"AppName": "...", "DiscordToken": "..."}, ...],
-      "RAID-HELPER": [{"ServerID": "...", "ApiKey": "..."}, ...]
-    }
+Ein Eintrag ist ueber drei Angaben eindeutig:
 
-Im Original (group-helper-app/utils/secrets.py) steht dieselbe Suche dreimal:
-Datei laden, Liste unter einem Abschnitt durchgehen, ein Feld vergleichen, ein
-anderes zurueckgeben. Hier steht sie einmal in `get_secret()`, und die
-benannten Funktionen sind duenne Huellen darum.
+    service   'discord', 'raid-helper'
+    scope     App-Name oder Server-ID; '*' wenn das Geheimnis nicht pro Server anfaellt
+    key_name  'token', 'api_key'
 
-Zwei weitere Unterschiede zum Original:
+Die fruehere JSON-Datei wird nicht mehr gelesen. Ein zweites Backend haette zwei
+Wahrheiten bedeutet - und die Frage "warum nimmt er den alten Token?" ist genau
+die Art Fehler, die man stundenlang sucht. Wer die alten Werte uebernehmen will,
+traegt sie einmal mit INSERT ein; die Zuordnung steht in deploy/secrets_db.sql.
 
-* **Die Datei wird einmal gelesen und gemerkt.** Das Original liest sie bei
-  jedem Zugriff neu und schreibt dabei jedes Mal eine INFO-Zeile ins Log.
-* **`require_secret()` wirft**, statt None zurueckzugeben. Ein fehlender
-  Bot-Token soll den Start mit einer klaren Meldung abbrechen, nicht als
-  `None` bis in den Discord-Client durchgereicht werden.
+**Werte werden nie geloggt.** Die Logs bleiben 30 Tage liegen.
 """
 
-import json
 import logging
-from pathlib import Path
-from typing import Any
+
+from sqlalchemy import Engine, create_engine, text
 
 import config
 
 log = logging.getLogger(__name__)
 
-# Pfad -> Inhalt. Die Datei aendert sich im Betrieb nicht.
-_cache: dict[Path, dict[str, Any]] = {}
+# Der Eintrag wird beim Start gelesen und gilt bis zum Neustart. Ein gewechselter
+# Schluessel erreicht den Bot also erst nach einem Neustart - das ist gewollt:
+# Ein Bot, der mitten im Betrieb den Token wechselt, ist schwerer zu verstehen
+# als einer, den man neu startet.
+_cache: dict[tuple[str, str, str], str] = {}
+_engine: Engine | None = None
 
-
-def load_secrets(pfad: Path | None = None) -> dict[str, Any]:
+ABFRAGE = text(
     """
-    Laedt die Secrets-Datei, beim zweiten Aufruf aus dem Zwischenspeicher.
-
-    Wirft nicht: Eine fehlende oder kaputte Datei wird geloggt und als leeres
-    Dict behandelt. Was daraus folgt, entscheidet der Aufrufer - fuer den
-    Bot-Token ist das `require_secret()`, fuer Optionales `get_secret()`.
+    SELECT value
+      FROM credentials
+     WHERE service = :service
+       AND scope = :scope
+       AND key_name = :key_name
+       AND is_active
     """
-    pfad = pfad or config.SECRETS_FILE
-    if pfad in _cache:
-        return _cache[pfad]
-
-    if not pfad.exists():
-        log.error("Secrets-Datei nicht gefunden: %s", pfad)
-        return {}
-
-    try:
-        inhalt = json.loads(pfad.read_text(encoding="utf-8"))
-    except json.JSONDecodeError as fehler:
-        # Bewusst nur JSONDecodeError statt eines pauschalen `except Exception`:
-        # Ein Rechtefehler oder ein kaputter Datentraeger soll durchschlagen und
-        # nicht als "keine Secrets" erscheinen.
-        log.error("Secrets-Datei ist kein gueltiges JSON (%s): %s", pfad, fehler)
-        return {}
-
-    _cache[pfad] = inhalt
-    log.info("Secrets geladen aus %s", pfad)
-    return inhalt
+)
 
 
-def get_secret(
-    section: str,
-    match_field: str,
-    match_value: str,
-    value_field: str,
-    pfad: Path | None = None,
-) -> str | None:
+def get_engine() -> Engine:
     """
-    Sucht in `section` den Eintrag, dessen `match_field` zu `match_value` passt,
-    und gibt dessen `value_field` zurueck.
+    Verbindung zur Secrets-Datenbank, beim ersten Aufruf aufgebaut.
 
-    Der Vergleich laeuft ueber `str()`: In der Datei stehen Discord-IDs mal als
-    Zahl, mal als Zeichenkette, und `123 != "123"` waere ein Fehlschlag, den
-    niemand im JSON sieht.
-
-    **Der Wert wird nie geloggt** - nur, ob und wo gesucht wurde.
+    Getrennt von services/database.py, weil es eine andere Datenbank mit einer
+    anderen Rolle ist. Ein gemeinsamer Pool waere genau die Vermischung, die die
+    Trennung verhindern soll.
     """
-    eintraege = load_secrets(pfad).get(section, [])
-    for eintrag in eintraege:
-        if str(eintrag.get(match_field)) == str(match_value):
-            wert = eintrag.get(value_field)
-            if wert:
-                log.info("%s gefunden: %s=%s", value_field, match_field, match_value)
-                return wert
-            log.warning(
-                "Eintrag %s=%s gefunden, aber ohne '%s'", match_field, match_value, value_field
+    global _engine
+    if _engine is None:
+        if not config.SECRETS_DATABASE_URL:
+            raise RuntimeError(
+                "SECRETS_DATABASE_URL ist nicht gesetzt.\n"
+                "Erwartet wird z. B. "
+                "postgresql+psycopg://bot_secrets_reader@host:5432/secrets\n"
+                "Die Datenbank wird mit deploy/secrets_db.sql angelegt."
             )
-            return None
+        # Kleiner Pool: Gelesen wird beim Start, danach kaum noch.
+        _engine = create_engine(config.SECRETS_DATABASE_URL, pool_size=1, pool_pre_ping=True)
+    return _engine
 
-    log.warning("Kein Eintrag in '%s' mit %s=%s", section, match_field, match_value)
-    return None
+
+def get_secret(service: str, key_name: str, scope: str | int = "*") -> str | None:
+    """
+    Holt ein Geheimnis, oder None wenn es keines gibt.
+
+    `scope` wird zu `str` gemacht: Discord-Server-IDs sind Zahlen, in der Tabelle
+    steht Text, und `123 != '123'` waere ein Fehlschlag, den man der Datenbank
+    nicht ansieht.
+    """
+    schluessel = (service, str(scope), key_name)
+    if schluessel in _cache:
+        return _cache[schluessel]
+
+    with get_engine().connect() as verbindung:
+        zeile = verbindung.execute(
+            ABFRAGE, {"service": service, "scope": str(scope), "key_name": key_name}
+        ).first()
+
+    if zeile is None:
+        log.warning("Kein aktiver Eintrag: service=%s scope=%s key=%s", *schluessel)
+        return None
+
+    # Nur die Koordinaten des Fundes, nie der Wert.
+    log.info("Geheimnis gefunden: service=%s scope=%s key=%s", *schluessel)
+    _cache[schluessel] = zeile[0]
+    return zeile[0]
 
 
-def require_secret(
-    section: str,
-    match_field: str,
-    match_value: str,
-    value_field: str,
-    pfad: Path | None = None,
-) -> str:
+def require_secret(service: str, key_name: str, scope: str | int = "*") -> str:
     """Wie `get_secret()`, bricht aber mit einer verwertbaren Meldung ab."""
-    wert = get_secret(section, match_field, match_value, value_field, pfad)
+    wert = get_secret(service, key_name, scope)
     if wert is None:
         raise RuntimeError(
-            f"'{value_field}' fehlt: kein Eintrag in '{section}' mit "
-            f"{match_field}={match_value} in {pfad or config.SECRETS_FILE}"
+            f"Kein aktiver Eintrag in der Secrets-Datenbank fuer "
+            f"service='{service}', scope='{scope}', key_name='{key_name}'.\n"
+            f"Anlegen mit: INSERT INTO credentials (service, scope, key_name, value) "
+            f"VALUES ('{service}', '{scope}', '{key_name}', '...');"
         )
     return wert
 
 
-def get_discord_token(app_name: str | None = None, pfad: Path | None = None) -> str:
+def get_discord_token(app_name: str | None = None) -> str:
     """Der Bot-Token dieser Anwendung. Fehlt er, startet der Bot nicht."""
-    return require_secret(
-        "DISCORD", "AppName", app_name or config.DISCORD_APP_NAME, "DiscordToken", pfad
-    )
+    return require_secret("discord", "token", app_name or config.DISCORD_APP_NAME)
 
 
 def clear_cache() -> None:
-    """Verwirft den Zwischenspeicher. Fuer Tests."""
+    """Verwirft den Zwischenspeicher. Fuer Tests und fuer einen Schluesselwechsel."""
     _cache.clear()
+
+
+def reset_engine() -> None:
+    """Verwirft die Verbindung. Fuer Tests."""
+    global _engine
+    if _engine is not None:
+        _engine.dispose()
+    _engine = None
