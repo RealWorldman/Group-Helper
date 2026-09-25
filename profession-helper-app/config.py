@@ -79,6 +79,17 @@ DEBUG_GUILD_ID = _env_int("DEBUG_GUILD_ID")
 # Rolle, die fremde Charaktere bearbeiten und /admin benutzen darf.
 ADMIN_ROLE_NAME = os.getenv("PROFESSION_ADMIN_ROLE", "Gildenleitung")
 
+# Gemeinsame Datei mit dem Nachbarbot; der Variablenname ist deshalb derselbe.
+# Anders als dort ist der Standardwert absolut: `secrets.json` relativ zum
+# Arbeitsverzeichnis findet unter systemd nichts.
+SECRETS_FILE = _env_path("SECRETS_PATH", BASE_DIR / "secrets.json")
+
+# Der Eintrag unter "DISCORD" in dieser Datei. Eigene Application, eigener Token -
+# der Berufe-Bot braucht andere Rechte als der Raid-Bot.
+DISCORD_APP_NAME = os.getenv(
+    "PROFESSION_DISCORD_APP", "discord-profession-helper-app-token"
+)
+
 
 # --- Scraper ----------------------------------------------------------------
 
